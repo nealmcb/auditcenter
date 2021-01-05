@@ -1,0 +1,29 @@
+contest_name,audit_reason,random_audit_status,winners_allowed,ballot_card_count,contest_ballot_card_count,winners,min_margin,risk_limit,audited_sample_count,two_vote_over_count,one_vote_over_count,one_vote_under_count,two_vote_under_count,disagreement_count,other_count,gamma,overstatements,optimistic_samples_to_audit,estimated_samples_to_audit
+Boulder County Commissioner - District 1 - DEM,opportunistic_benefits,in_progress,1,118976,101389,"""Claire Levy""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Commissioner - District 1 - REP,opportunistic_benefits,in_progress,1,118976,17197,"""Cinda Kochen""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Commissioner - District 2 - DEM,county_wide_contest,risk_limit_achieved,1,118976,101389,"""Marta Loachamin""",3760,0.04000000,429,1,0,0,0,0,0,1.03905000,0,428,428
+Boulder County Commissioner - District 2 - REP,opportunistic_benefits,in_progress,1,118976,17197,"""James T Crowder""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+District Attorney - 20th Judicial District - DEM,opportunistic_benefits,in_progress,1,118976,101389,"""Michael Dougherty""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regent of the University of Colorado - Congressional District 2 - DEM,opportunistic_benefits,in_progress,1,118976,77930,"""Callie Rennison""",14010,0.04000000,0,0,0,0,0,0,0,1.03905000,0,57,57
+Regent of the University of Colorado - Congressional District 2 - REP,opportunistic_benefits,in_progress,1,118976,9511,"""Dick R. Murphy""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 117th United States Congress-District 2 - DEM,opportunistic_benefits,in_progress,1,118976,77930,"""Joe Neguse""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 117th United States Congress-District 2 - REP,opportunistic_benefits,in_progress,1,118976,9511,"""Charlie Winn""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 117th United States Congress-District 4 - DEM,opportunistic_benefits,in_progress,1,118976,23459,"""Ike McCorkle""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 117th United States Congress-District 4 - REP,opportunistic_benefits,in_progress,1,118976,7686,"""Ken Buck""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 10 - DEM,opportunistic_benefits,in_progress,1,118976,26251,"""Edie Hooton""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 10 - REP,opportunistic_benefits,in_progress,1,118976,2055,"""Kenneth J. Stickney""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 11 - DEM,opportunistic_benefits,in_progress,1,118976,22097,"""Karen McCormick""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 11 - REP,opportunistic_benefits,in_progress,1,118976,6612,"""Mark Milliman""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 12 - DEM,opportunistic_benefits,in_progress,1,118976,27649,"""Tracey Bernett""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 12 - REP,opportunistic_benefits,in_progress,1,118976,5587,"""Eric J. Davila""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 13 - DEM,opportunistic_benefits,in_progress,1,118976,17984,"""Judy Amabile""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 13 - REP,opportunistic_benefits,in_progress,1,118976,1305,"""Kevin Sipple""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 33 - DEM,opportunistic_benefits,in_progress,1,118976,7408,"""Matt Gray""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 33 - REP,opportunistic_benefits,in_progress,1,118976,1638,"""Mindy Quiachon""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 17 - DEM,opportunistic_benefits,in_progress,1,118976,45251,"""Sonya Jaquez Lewis""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 17 - REP,opportunistic_benefits,in_progress,1,118976,11109,"""Matthew D. Menza""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 18 - DEM,opportunistic_benefits,in_progress,1,118976,51784,"""Steve Fenberg""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 18 - REP,opportunistic_benefits,in_progress,1,118976,5356,"""Peg Cage""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+United States Senator - DEM,opportunistic_benefits,in_progress,1,118976,101389,"""John W. Hickenlooper""",3537,0.04000000,0,0,0,0,0,0,0,1.03905000,0,226,226
+United States Senator - LBR,opportunistic_benefits,in_progress,1,118976,390,"""Raymon Anthony Doane""",123,0.04000000,0,0,0,0,0,0,0,1.03905000,0,6471,6471
+United States Senator - REP,opportunistic_benefits,in_progress,1,118976,17197,"""Cory Gardner""",0,0.04000000,0,0,0,0,0,0,0,1.03905000,0,0,0
