@@ -1,0 +1,75 @@
+county_name,member,sign_in_time,sign_out_time
+Adams,"[{""first_name"":""Neal"",""last_name"":""Mancuso"",""political_party"":""Republican Party""},{""first_name"":""Gene"",""last_name"":""Putman"",""political_party"":""Democratic Party""}]",2017-11-17 13:24:54.392,
+Alamosa,"[{""first_name"":""Michelle"",""last_name"":""Garcia"",""political_party"":""Republican Party""},{""first_name"":""Bonnie"",""last_name"":""Ortega"",""political_party"":""Democratic Party""}]",2017-11-17 13:05:26.299,2017-11-17 13:38:13.116
+Arapahoe,"[{""first_name"":""Mary Ellen"",""last_name"":""Wolf"",""political_party"":""Democratic Party""},{""first_name"":""Myron"",""last_name"":""Spanier"",""political_party"":""Republican Party""}]",2017-11-18 08:55:23.111,2017-11-18 11:55:50.611
+Arapahoe,"[{""first_name"":""Mary Ellen"",""last_name"":""Wolf"",""political_party"":""Democratic Party""},{""first_name"":""Myron"",""last_name"":""Spanier"",""political_party"":""Republican Party""}]",2017-11-17 16:20:48.643,2017-11-17 17:26:28.087
+Arapahoe,"[{""first_name"":""Test"",""last_name"":""Test"",""political_party"":""Democratic Party""},{""first_name"":""Test"",""last_name"":""Test"",""political_party"":""Republican Party""}]",2017-11-17 11:51:10.935,2017-11-17 11:52:14.911
+Arapahoe,"[{""first_name"":""Test"",""last_name"":""One"",""political_party"":""Unaffiliated""},{""first_name"":""Test"",""last_name"":""Two"",""political_party"":""Unaffiliated""}]",2017-11-17 11:48:00.23,2017-11-17 11:48:38.572
+Archuleta,"[{""first_name"":""Kristy"",""last_name"":""Arzu"",""political_party"":""Republican Party""},{""first_name"":""June"",""last_name"":""Madrid"",""political_party"":""Republican Party""}]",2017-11-20 13:14:46.859,2017-11-20 15:31:39.701
+Baca,"[{""first_name"":""LeEtta"",""last_name"":""Wilson"",""political_party"":""Republican Party""},{""first_name"":""Cynthia"",""last_name"":""Orebaugh"",""political_party"":""Democratic Party""}]",2017-11-17 14:17:08.801,2017-11-17 14:35:38.574
+Bent,"[{""first_name"":""Shirley"",""last_name"":""Quarles"",""political_party"":""Democratic Party""},{""first_name"":""Donna"",""last_name"":""Siefkas"",""political_party"":""Republican Party""}]",2017-11-17 12:17:40.407,2017-11-20 10:19:17.291
+Boulder,"[{""first_name"":""Angelique"",""last_name"":""Layton"",""political_party"":""Democratic Party""},{""first_name"":""Marshall"",""last_name"":""Dawson"",""political_party"":""Republican Party""}]",2017-11-17 14:29:00.872,2017-11-18 10:54:03.83
+Broomfield,"[{""first_name"":""Janet"",""last_name"":""Bilsborrow"",""political_party"":""Republican Party""},{""first_name"":""Neil"",""last_name"":""Allaire"",""political_party"":""Democratic Party""}]",2017-11-17 12:10:41.003,2017-11-17 13:26:08.426
+Chaffee,"[{""first_name"":""Paul"",""last_name"":""Copper"",""political_party"":""Republican Party""},{""first_name"":""Judi"",""last_name"":""Laub"",""political_party"":""Democratic Party""}]",2017-11-17 12:26:11.301,2017-11-17 13:56:40.258
+Cheyenne,,,
+Clear Creek,"[{""first_name"":""Robert"",""last_name"":""Smith"",""political_party"":""Republican Party""},{""first_name"":""George"",""last_name"":""Schnittgrund"",""political_party"":""Democratic Party""}]",2017-11-17 12:49:59.174,2017-11-17 13:09:21.549
+Clear Creek,"[{""first_name"":""George"",""last_name"":""Schnittgrund"",""political_party"":""Democratic Party""},{""first_name"":""Karen"",""last_name"":""Hager"",""political_party"":""Republican Party""}]",2017-11-17 12:08:34.093,2017-11-17 12:49:06.745
+Conejos,"[{""first_name"":""ZACHARY"",""last_name"":""DEHERRERA"",""political_party"":""Republican Party""},{""first_name"":""VERONICA"",""last_name"":""KNECHT"",""political_party"":""Democratic Party""}]",2017-11-17 16:26:14.621,2017-11-17 16:37:58.653
+Costilla,"[{""first_name"":""Tiffany"",""last_name"":""Gallegos"",""political_party"":""Democratic Party""},{""first_name"":""Carlos"",""last_name"":""Placek"",""political_party"":""Republican Party""}]",2017-11-17 23:16:20.689,2017-11-17 23:39:26.311
+Crowley,"[{""first_name"":""Juanita"",""last_name"":""Donelson"",""political_party"":""Democratic Party""},{""first_name"":""Jeanne"",""last_name"":""Torgler"",""political_party"":""Republican Party""}]",2017-11-20 09:19:28.564,
+Custer,,,
+Delta,"[{""first_name"":""Virginia"",""last_name"":""Ware"",""political_party"":""Republican Party""},{""first_name"":""Anne"",""last_name"":""Every"",""political_party"":""Democratic Party""}]",2017-11-17 12:25:32.926,2017-11-17 14:29:34.072
+Denver,"[{""first_name"":""Amy"",""last_name"":""Naes"",""political_party"":""Republican Party""},{""first_name"":""Barry"",""last_name"":""Sarver"",""political_party"":""Democratic Party""}]",2017-11-18 13:07:20.366,2017-11-20 09:15:45.121
+Dolores,,,
+Douglas,,,
+Eagle,"[{""first_name"":""Barb"",""last_name"":""Smith"",""political_party"":""Unaffiliated""},{""first_name"":""Jay"",""last_name"":""Brunvand"",""political_party"":""Republican Party""}]",2017-11-17 12:38:16.824,2017-11-17 15:25:48.494
+Elbert,"[{""first_name"":""Milton"",""last_name"":""Johnson"",""political_party"":""Republican Party""},{""first_name"":""Robert"",""last_name"":""Thomasson"",""political_party"":""Democratic Party""}]",2017-11-17 13:10:07.873,2017-11-17 14:47:14.949
+El Paso,"[{""first_name"":""Bernie"",""last_name"":""Herpin"",""political_party"":""Republican Party""},{""first_name"":""Matthew"",""last_name"":""Schneider"",""political_party"":""Democratic Party""}]",2017-11-17 13:10:25.1,2017-11-17 13:41:26.202
+Fremont,"[{""first_name"":""Cathy"",""last_name"":""Gonzales"",""political_party"":""Democratic Party""},{""first_name"":""Branda"",""last_name"":""VanEgmond"",""political_party"":""Republican Party""}]",2017-11-17 12:44:50.125,2017-11-17 15:34:35.818
+Garfield,,,
+Gilpin,"[{""first_name"":""Gail"",""last_name"":""Maxwell"",""political_party"":""Republican Party""},{""first_name"":""Colleen"",""last_name"":""Stewart"",""political_party"":""Democratic Party""}]",2017-11-17 12:53:12.034,2017-11-17 13:11:26.012
+Grand,,,
+Gunnison,"[{""first_name"":""Marcia"",""last_name"":""Landwehr"",""political_party"":""Democratic Party""},{""first_name"":""Joyce"",""last_name"":""Gray"",""political_party"":""Republican Party""}]",2017-11-17 13:28:07.193,2017-11-17 15:03:39.414
+Hinsdale,,,
+Huerfano,"[{""first_name"":""Cindy"",""last_name"":""Jameson"",""political_party"":""Republican Party""},{""first_name"":""Angela"",""last_name"":""Geiser"",""political_party"":""Democratic Party""}]",2017-11-17 13:17:51.484,2017-11-17 14:30:04.534
+Huerfano,"[{""first_name"":""Cindy"",""last_name"":""Jameson"",""political_party"":""Republican Party""},{""first_name"":""Angela"",""last_name"":""Geiser"",""political_party"":""Democratic Party""}]",2017-11-17 12:47:43.912,2017-11-17 13:01:09.109
+Jackson,,,
+Jefferson,"[{""first_name"":""Cheryl"",""last_name"":""Cheney"",""political_party"":""Democratic Party""},{""first_name"":""Diane"",""last_name"":""Isler"",""political_party"":""Republican Party""}]",2017-11-18 09:17:28.706,2017-11-18 09:58:10.379
+Kiowa,"[{""first_name"":""Sabrina Dawn"",""last_name"":""James"",""political_party"":""Republican Party""},{""first_name"":""Ramonda"",""last_name"":""Adamson"",""political_party"":""Democratic Party""}]",2017-11-17 12:55:14.286,2017-11-17 15:20:38.785
+Kit Carson,"[{""first_name"":""Cristy"",""last_name"":""Hartman"",""political_party"":""Republican Party""},{""first_name"":""Mary Lyn"",""last_name"":""Crites"",""political_party"":""Democratic Party""}]",2017-11-17 13:40:38.19,2017-11-17 14:20:27.503
+Lake,"[{""first_name"":""Carol"",""last_name"":""Elder"",""political_party"":""Democratic Party""},{""first_name"":""Dick"",""last_name"":""Dougherty"",""political_party"":""Republican Party""}]",2017-11-18 10:12:57.227,
+La Plata,"[{""first_name"":""Jean"",""last_name"":""Walter"",""political_party"":""Democratic Party""},{""first_name"":""Michael"",""last_name"":""Bell"",""political_party"":""Republican Party""}]",2017-11-17 14:27:24.263,2017-11-17 14:46:01.499
+La Plata,"[{""first_name"":""Jean"",""last_name"":""Walter"",""political_party"":""Democratic Party""},{""first_name"":""Michael"",""last_name"":""Bell"",""political_party"":""Republican Party""}]",2017-11-17 12:34:20.138,2017-11-17 12:36:40.084
+Larimer,"[{""first_name"":""Robert"",""last_name"":""Morain"",""political_party"":""Republican Party""},{""first_name"":""James"",""last_name"":""Thompson"",""political_party"":""Democratic Party""}]",2017-11-18 11:05:13.121,2017-11-18 12:05:40.106
+Larimer,"[{""first_name"":""Yolanda"",""last_name"":""Medina"",""political_party"":""Democratic Party""},{""first_name"":""Pat"",""last_name"":""Magdziuk"",""political_party"":""Unaffiliated""}]",2017-11-17 12:19:40.283,2017-11-18 11:03:38.739
+Las Animas,,,
+Lincoln,"[{""first_name"":""Patricia"",""last_name"":""Bandy"",""political_party"":""Republican Party""},{""first_name"":""Vicki"",""last_name"":""Ware"",""political_party"":""Democratic Party""}]",2017-11-20 09:15:47.825,2017-11-20 10:05:30.568
+Logan,"[{""first_name"":""Hazel"",""last_name"":""Brompton"",""political_party"":""Republican Party""},{""first_name"":""Peter"",""last_name"":""Youngers"",""political_party"":""Democratic Party""}]",2017-11-17 12:53:45.005,2017-11-17 14:45:36.827
+Logan,"[{""first_name"":""Hazel"",""last_name"":""Brompton"",""political_party"":""Republican Party""},{""first_name"":""Peter"",""last_name"":""Youngers"",""political_party"":""Democratic Party""}]",2017-11-17 12:35:30.494,2017-11-17 12:36:55.358
+Mesa,"[{""first_name"":""Deborah"",""last_name"":""Gaul"",""political_party"":""Republican Party""},{""first_name"":""Jeriel"",""last_name"":""Brammeier"",""political_party"":""Democratic Party""}]",2017-11-18 09:11:55.751,2017-11-18 09:32:09.256
+Mineral,,,
+Moffat,"[{""first_name"":""Jo Ann"",""last_name"":""Baxter"",""political_party"":""Democratic Party""},{""first_name"":""Pamela"",""last_name"":""Pleasant Foster"",""political_party"":""Republican Party""}]",2017-11-17 12:37:06.17,2017-11-17 14:00:51.928
+Montezuma,"[{""first_name"":""Martina"",""last_name"":""Valdez"",""political_party"":""Republican Party""},{""first_name"":""Carene"",""last_name"":""Brown"",""political_party"":""Democratic Party""}]",2017-11-17 13:16:41.353,2017-11-17 14:55:10.143
+Montrose,,,
+Morgan,"[{""first_name"":""Melanie"",""last_name"":""Fergus"",""political_party"":""Republican Party""},{""first_name"":""Anita"",""last_name"":""Ertle"",""political_party"":""Democratic Party""}]",2017-11-17 13:41:51.913,2017-11-17 14:47:03.903
+Otero,"[{""first_name"":""Daniel"",""last_name"":""Davis"",""political_party"":""Republican Party""},{""first_name"":""Nancy"",""last_name"":""Rizzuto"",""political_party"":""Democratic Party""}]",2017-11-18 08:16:44.295,2017-11-18 11:08:44.332
+Ouray,"[{""first_name"":""Susan"",""last_name"":""Husch"",""political_party"":""Democratic Party""},{""first_name"":""Greg"",""last_name"":""Nelson"",""political_party"":""Republican Party""}]",2017-11-20 10:14:34.27,2017-11-20 10:42:36.461
+Park,"[{""first_name"":""Joan"",""last_name"":""Sharp"",""political_party"":""Republican Party""},{""first_name"":""Leslie"",""last_name"":""Sherwood"",""political_party"":""Unaffiliated""}]",2017-11-17 13:24:46.808,2017-11-17 14:07:52.233
+Phillips,"[{""first_name"":""sharon"",""last_name"":""mcdaniel"",""political_party"":""Republican Party""},{""first_name"":""Leo"",""last_name"":""Mailander"",""political_party"":""Democratic Party""}]",2017-11-18 10:46:38.443,2017-11-18 11:21:50.454
+Pitkin,"[{""first_name"":""Mike"",""last_name"":""Simmons"",""political_party"":""Democratic Party""},{""first_name"":""Roger"",""last_name"":""Nicholson"",""political_party"":""Republican Party""}]",2017-11-18 10:38:29.874,2017-11-18 11:19:59.971
+Pitkin,"[{""first_name"":""Roger"",""last_name"":""Nicholson"",""political_party"":""Republican Party""},{""first_name"":""L. M."",""last_name"":""Simmons"",""political_party"":""Democratic Party""}]",2017-11-17 16:10:46.286,2017-11-18 09:28:53.927
+Pitkin,"[{""first_name"":""Roger"",""last_name"":""Nicholson"",""political_party"":""Republican Party""},{""first_name"":""L.M."",""last_name"":""Simmons"",""political_party"":""Democratic Party""}]",2017-11-17 12:38:56.856,2017-11-17 15:57:00.47
+Prowers,"[{""first_name"":""Jean"",""last_name"":""Reifschneider"",""political_party"":""Republican Party""},{""first_name"":""Florence"",""last_name"":""Spitzer"",""political_party"":""Democratic Party""}]",2017-11-18 08:39:54.593,2017-11-18 10:15:06.858
+Pueblo,"[{""first_name"":""Marla"",""last_name"":""Reichert"",""political_party"":""Republican Party""},{""first_name"":""Mary Beth"",""last_name"":""Corsentino"",""political_party"":""Democratic Party""}]",2017-11-17 12:12:03.687,
+Rio Blanco,,,
+Rio Grande,"[{""first_name"":""Jorie"",""last_name"":""Scott"",""political_party"":""Republican Party""},{""first_name"":""Brenda"",""last_name"":""Atencio"",""political_party"":""Democratic Party""}]",2017-11-17 12:24:19.066,2017-11-17 14:40:12.733
+Routt,"[{""first_name"":""Catherine"",""last_name"":""Carson"",""political_party"":""Democratic Party""},{""first_name"":""Tina"",""last_name"":""Kyprios"",""political_party"":""Republican Party""}]",2017-11-17 13:06:29.588,2017-11-17 15:58:53.016
+Saguache,"[{""first_name"":""Richard"",""last_name"":""Drake"",""political_party"":""Republican Party""},{""first_name"":""Kevin"",""last_name"":""Noland"",""political_party"":""Democratic Party""}]",2017-11-17 12:12:38.591,2017-11-17 13:57:43.738
+San Juan,,,
+San Miguel,"[{""first_name"":""Kris"",""last_name"":""Holstrom"",""political_party"":""Democratic Party""},{""first_name"":""Judy"",""last_name"":""Conder"",""political_party"":""Republican Party""}]",2017-11-17 12:26:52.267,2017-11-17 14:58:41.408
+Sedgwick,"[{""first_name"":""Jane"",""last_name"":""Kipp"",""political_party"":""Republican Party""},{""first_name"":""Nicohle"",""last_name"":""Skokan"",""political_party"":""Democratic Party""}]",2017-11-17 12:06:38.434,2017-11-17 12:44:43.829
+Summit,"[{""first_name"":""Patti"",""last_name"":""McLaughlin"",""political_party"":""Democratic Party""},{""first_name"":""Catherine"",""last_name"":""Jeter"",""political_party"":""Republican Party""}]",2017-11-17 12:32:36.665,2017-11-17 14:31:32.351
+Teller,"[{""first_name"":""Sandra"",""last_name"":""Chapman"",""political_party"":""Republican Party""},{""first_name"":""Rita"",""last_name"":""Randolph"",""political_party"":""Democratic Party""}]",2017-11-20 09:53:02.075,
+Washington,,,
+Weld,"[{""first_name"":""Patricia"",""last_name"":""Kiovsky"",""political_party"":""Democratic Party""},{""first_name"":""Stacey"",""last_name"":""Kjeldgaard"",""political_party"":""Republican Party""}]",2017-11-18 09:41:35.105,2017-11-18 11:44:25.041
+Yuma,"[{""first_name"":""Susan"",""last_name"":""Crow"",""political_party"":""Democratic Party""},{""first_name"":""Teresa"",""last_name"":""Imhof"",""political_party"":""Republican Party""}]",2017-11-17 13:38:19.342,2017-11-17 15:05:23.834

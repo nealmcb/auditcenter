@@ -1,0 +1,4 @@
+county_name,member,sign_in_time,sign_out_time
+Lake,"[{""first_name"":""Carol"",""last_name"":""Elder"",""political_party"":""Democratic Party""},{""first_name"":""Dick"",""last_name"":""Dougherty"",""political_party"":""Republican Party""}]",2017-11-18 10:12:57.227,2017-11-20 12:29:47.123
+Pueblo,"[{""first_name"":""Marla"",""last_name"":""Reichert"",""political_party"":""Republican Party""},{""first_name"":""Mary Beth"",""last_name"":""Corsentino"",""political_party"":""Democratic Party""}]",2017-11-17 12:12:03.687,2017-11-21 10:26:34.151
+Teller,"[{""first_name"":""Sandra"",""last_name"":""Chapman"",""political_party"":""Republican Party""},{""first_name"":""Rita"",""last_name"":""Randolph"",""political_party"":""Democratic Party""}]",2017-11-20 09:53:02.075,2017-11-20 11:48:14.492
