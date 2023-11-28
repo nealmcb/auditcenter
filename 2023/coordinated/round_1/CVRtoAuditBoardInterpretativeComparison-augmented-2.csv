@@ -1,0 +1,832 @@
+county_name,contest_name,Product - discrepancy
+Adams,Adams 12 Five Star School District Director District No 1,TRUE
+,Adams 12 Five Star School District Director District No 2,TRUE
+,Adams 12 Five Star School District Director District No 5,TRUE
+,Adams-Arapahoe School District 28J Board of Directors,TRUE
+,Bennett School District 29J Ballot Issue 5A,TRUE
+,Bennett School District 29J School Director at Large,TRUE
+,Brighton School District 27J Board of Education Director District No. 1,TRUE
+,Brighton School District 27J Board of Education Director District No. 3,TRUE
+,Brighton School District 27J Board of Education Director District No. 6,FALSE
+,Brighton School District 27J Board of Education Director District No. 7,TRUE
+,Buffalo Highlands Metropolitan District Ballot Issue 6A,TRUE
+,Buffalo Highlands Metropolitan District Ballot Issue 6B,TRUE
+,Buffalo Highlands Metropolitan District Ballot Issue 6C,TRUE
+,City of Arvada Council Member At-Large,TRUE
+,City of Arvada Council Member District 2,TRUE
+,City of Arvada Mayor,TRUE
+,City of Aurora Ballot Question 3A,FALSE
+,City of Aurora Ballot Question 3B,TRUE
+,City of Aurora Ballot Question 3C,TRUE
+,City of Aurora Ballot Question 3D,TRUE
+,City of Aurora Council Member At-Large,TRUE
+,City of Aurora Mayor,TRUE
+,City of Brighton Ballot Issue 3F,TRUE
+,City of Brighton Councilmember Ward 1,TRUE
+,City of Brighton Councilmember Ward 2,TRUE
+,City of Brighton Councilmember Ward 3,TRUE
+,City of Brighton Councilmember Ward 4,TRUE
+,City of Commerce City Ballot Question 3Q,TRUE
+,City of Commerce City Ballot Question 3R,TRUE
+,City of Commerce City Ballot Question 3S,TRUE
+,City of Commerce City Ballot Question 3T,TRUE
+,City of Commerce City Councilmember - At Large,TRUE
+,City of Commerce City Councilmember - Ward 2,TRUE
+,City of Commerce City Councilmember - Ward 3,TRUE
+,City of Commerce City Councilmember - Ward 4,TRUE
+,City of Commerce City Mayor,TRUE
+,City of Northglenn Ballot Issue 3G,TRUE
+,City of Northglenn Ballot Question 3H,TRUE
+,City of Northglenn Council Member - Ward 1,TRUE
+,City of Northglenn Council Member - Ward 2,TRUE
+,City of Northglenn Council Member - Ward 3 - 2 Year,TRUE
+,City of Northglenn Council Member - Ward 3 - 4 Year,TRUE
+,City of Northglenn Council Member - Ward 4 - 2 Year,TRUE
+,City of Northglenn Council Member - Ward 4 - 4 Year,TRUE
+,City of Northglenn Mayor,TRUE
+,City of Thornton Council Member - Ward 1,TRUE
+,City of Thornton Council Member - Ward 2,TRUE
+,City of Thornton Council Member - Ward 3,TRUE
+,City of Thornton Council Member - Ward 4,TRUE
+,City of Thornton Mayor,TRUE
+,City of Westminster Ballot Question 3L,TRUE
+,City of Westminster Ballot Question 3M,TRUE
+,City of Westminster Ballot Question 3N,TRUE
+,City of Westminster Ballot Question 3O,TRUE
+,City of Westminster Ballot Question 3P,TRUE
+,City of Westminster Council Members,FALSE
+,Lewis Pointe Metropolitan District Ballot Issue 6D,TRUE
+,Lewis Pointe Metropolitan District Ballot Issue 6E,TRUE
+,North Metro Fire Rescue District Ballot Issue 7A,TRUE
+,North Range Metropolitan District No. 2 Ballot Issue 6F,TRUE
+,North Range Metropolitan District No. 2 Ballot Issue 6G,TRUE
+,North Range Metropolitan District No. 2 Ballot Issue 6H,TRUE
+,North Range Metropolitan District No. 2 Ballot Issue 6I,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Strasburg School District 31J School Board Director,TRUE
+,Town of Lochbuie Ballot Question 3I,TRUE
+,Westminster Board Of Education,TRUE
+Alamosa,Alamosa - Proposition II (Statutory),TRUE
+,Alamosa School District RE-11J Director District 1,TRUE
+,Alamosa School District RE-11J Director District 2,TRUE
+,Alamosa School District RE-11J Director District 5,TRUE
+,Alamosa School District RE-11J Director District 7,TRUE
+,City of Alamosa Councilor at Large,TRUE
+,City of Alamosa Councilor Ward 1,TRUE
+,City of Alamosa Councilor Ward 2,TRUE
+,City of Alamosa Councilor Ward 3,TRUE
+,Proposition HH (Statutory),TRUE
+Arapahoe,Adams-Arapahoe School District 28J Board of Directors,TRUE
+,Arapahoe County School District #6 Littleton Public Schools School Director - At Large,TRUE
+,Cherry Creek School District No. 5 Director District A,TRUE
+,Cherry Creek School District No. 5 Director District B,TRUE
+,Cherry Creek School District No. 5 Director District C,TRUE
+,City of Aurora Ballot Question 3A,TRUE
+,City of Aurora Ballot Question 3B,TRUE
+,City of Aurora Ballot Question 3C,TRUE
+,City of Aurora Ballot Question 3D,TRUE
+,City of Aurora Council Member At-Large,TRUE
+,City of Aurora Council Member Ward IV,TRUE
+,City of Aurora Council Member Ward V,TRUE
+,City of Aurora Council Member Ward VI,TRUE
+,City of Aurora Mayor,TRUE
+,City of Centennial Council Member District 1,TRUE
+,City of Centennial Council Member District 2,TRUE
+,City of Centennial Council Member District 3,TRUE
+,City of Centennial Council Member District 4,TRUE
+,City of Englewood Ballot Question 2A,TRUE
+,City of Englewood Ballot Question 2B,TRUE
+,City of Englewood Ballot Question 2C,TRUE
+,City of Englewood Ballot Question 2D,TRUE
+,City of Englewood Ballot Question 2E,TRUE
+,City of Englewood Office of Council Member At-Large 2,TRUE
+,City of Englewood Office of Council Member At-Large 4,TRUE
+,City of Englewood Office of Council Member District 1,TRUE
+,City of Englewood Office of Council Member District 3,TRUE
+,City of Greenwood Village Councilmember District 1,TRUE
+,City of Greenwood Village Councilmember District 3,TRUE
+,City of Greenwood Village Mayor,TRUE
+,City of Littleton Ballot Question 3K,TRUE
+,City of Littleton Council Member At-Large,TRUE
+,City of Littleton Council Member District II,TRUE
+,City of Littleton Council Member District IV,TRUE
+,City of Sheridan City Council Member Ward 1,TRUE
+,Englewood School District No. 1 Ballot Issue 4A,TRUE
+,Englewood School District School Board Director 4,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Sheridan School District No. 2 Board of Education Director District B,TRUE
+,Sheridan School District No. 2 Board of Education Director District D,TRUE
+Archuleta,Archuleta - Archuleta County School District 50 JT Board of Directors District 3,TRUE
+,Archuleta County School District 50 JT Board of Directors District 2,TRUE
+,Archuleta County School District 50 JT Board of Directors District 4,TRUE
+,Archuleta County School District 50 JT Board of Directors District 5,TRUE
+,Ballot Issue 5A - Extension of Expiring Tax,TRUE
+,Ignacio School District 11JT Board of Directors,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Baca,Baca - Proposition II (Statutory),TRUE
+,Pritchett School District RE-3 Board of Directors Four Year Term,FALSE
+,Pritchett School District RE-3 Board of Directors Two Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Springfield School District RE-4 Board of Directors Four Year Term,TRUE
+,Springfield School District RE-4 Board of Directors Two Year Term,TRUE
+Bent,City of Las Animas Appointment of City Clerk 2A,TRUE
+,City of Las Animas Appointment of City Treasurer 2B,TRUE
+,City of Las Animas City Council Ward 1 - Precinct 10,TRUE
+,City of Las Animas City Council Ward 2 - Precinct 9,FALSE
+,City of Las Animas City Council Ward 3 - Precinct 8,TRUE
+,City of Las Animas Light & Power Board,FALSE
+,City of Las Animas Mayor,TRUE
+,Proposition HH (Statutory),FALSE
+,Proposition II (Statutory),FALSE
+Boulder,Boulder County Ballot Issue 1A,TRUE
+,Boulder County Ballot Issue 1B,TRUE
+,Boulder Valley School District RE-2 Director District A (4 Years),TRUE
+,Boulder Valley School District RE-2 Director District C (4 Years),FALSE
+,Boulder Valley School District RE-2 Director District D (4 years),TRUE
+,Boulder Valley School District RE-2 Director District G (4 Years),TRUE
+,City of Boulder Ballot Issue 2A,TRUE
+,City of Boulder Ballot Question 2B,TRUE
+,City of Boulder Ballot Question 302,TRUE
+,City of Boulder Council Candidates,TRUE
+,City of Lafayette City Council Candidates,TRUE
+,City of Longmont - City Council Member At-Large,TRUE
+,City of Longmont - Council Member Ward 1,TRUE
+,City of Longmont - Council Member Ward 3,TRUE
+,City of Longmont Ballot Issue 3C,TRUE
+,City of Longmont Ballot Issue 3D,TRUE
+,City of Longmont Ballot Issue 3E,TRUE
+,City of Longmont Mayor,TRUE
+,City of Longmont Municipal Court Judge - Frick,TRUE
+,City of Louisville Ballot Issue 2C,TRUE
+,City of Louisville City Council Ward 1 (4-year term),TRUE
+,City of Louisville City Council Ward 2 (4-year term),TRUE
+,City of Louisville City Council Ward 3,TRUE
+,City of Louisville Mayor At-Large (4 Year Term),TRUE
+,North Metro Fire Rescue District Ballot Issue 7A,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Town of Erie Ballot Question 3A,TRUE
+,Town of Erie Ballot Question 3B,TRUE
+,Town of Superior - Home Rule Charter Commission,TRUE
+,Town of Superior Ballot Question 301,TRUE
+Broomfield,Adams 12 Five Star School District Director District No 1,TRUE
+,Adams 12 Five Star School District Director District No 2,TRUE
+,Boulder Valley School District RE-2 Director District A (4 Years),TRUE
+,Boulder Valley School District RE-2 Director District C (4 Years),TRUE
+,Boulder Valley School District RE-2 Director District D (4 years),TRUE
+,Boulder Valley School District RE-2 Director District G (4 Years),TRUE
+,Broomfield - Adams 12 Five Star School District Director District No 5,TRUE
+,City and County of Broomfield - Mayor (2 Years),TRUE
+,City and County of Broomfield Councilmember Ward 1 (4 Years),TRUE
+,City and County of Broomfield Councilmember Ward 2 (4 Years),TRUE
+,City and County of Broomfield Councilmember Ward 3 (4 Years),TRUE
+,City and County of Broomfield Councilmember Ward 4 (4 Years),TRUE
+,City and County of Broomfield Councilmember Ward 5 (4 Years),TRUE
+,Jefferson County School District R-1 Director District 3,TRUE
+,Jefferson County School District R-1 Director District 4,TRUE
+,North Metro Fire Rescue District Ballot Issue 7A,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Recall Ward 5 Councilmember Todd Cohen,FALSE
+,Ward 5 Recall Successor,TRUE
+Chaffee,Buena Vista School District R-31 Board of Education Director At Large - 2 Year Term,TRUE
+,Buena Vista School District R-31 Board of Education Director At Large - 4 Year Term,TRUE
+,Buena Vista School District R-31 Board of Education District 1,TRUE
+,Buena Vista School District R-31 Board of Education District 3,TRUE
+,Buena Vista School District R-31 Board of Education District 4,TRUE
+,City of Salida Ballot Issue 300,TRUE
+,City of Salida Mayor - Two Year Term,TRUE
+,City of Salida Treasurer - Four Year Term,TRUE
+,Colorado Mountain College Board of Trustees - District 2,TRUE
+,Colorado Mountain College Board of Trustees - District 4,TRUE
+,Colorado Mountain College Board of Trustees - District 5,TRUE
+,Colorado Mountain College Board of Trustees - District 6,TRUE
+,Northern Chaffee County Library District Ballot Issue 6A,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Salida City Council Ward 1 - Four Year Term,TRUE
+,Salida City Council Ward 2 - Four Year Term,TRUE
+,Salida City Council Ward 3 - Four Year Term,TRUE
+Cheyenne,Cheyenne - Proposition II (Statutory),TRUE
+,Proposition HH (Statutory),TRUE
+Clear Creek,City of Idaho Springs Ballot Question 2A,TRUE
+,City of Idaho Springs Treasurer,TRUE
+,Clear Creek School District RE-1 Director District A,TRUE
+,Clear Creek School District RE-1 Director District E,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Ward I Councilmember,TRUE
+,Ward II Councilmember,TRUE
+Conejos,Alamosa School District RE-11J Director District 1,TRUE
+,Alamosa School District RE-11J Director District 2,TRUE
+,Alamosa School District RE-11J Director District 5,TRUE
+,Alamosa School District RE-11J Director District 7,TRUE
+,Conejos - Proposition II (Statutory),TRUE
+,Proposition HH (Statutory),TRUE
+,Sanford School District 6J - At Large Director - Four Year Term,TRUE
+,Sanford School District 6J - At Large Director - Two Year Term,TRUE
+,South Conejos School District RE-10 - At Large,TRUE
+Costilla,Centennial R-1 School District 1,TRUE
+,Centennial R-1 School District 5,TRUE
+,Costilla County Ballot Issue 1A,TRUE
+,Costilla County Library District Ballot Issue 1B,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Crowley,Crowley - Crowley County School District RE1-J Board of Directors - 2 Year Term,TRUE
+,CROWLEY COUNTY SCHOOL DISTRICT RE 1-J BALLOT ISSUE 5A: BONDS,TRUE
+,Crowley County School District RE1-J Board of Directors - 4 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Custer,Consolidated School District C-1 Board of Directors - At Large,TRUE
+,Florence School District RE-2 Board of Directors - At Large 2 Year Term,TRUE
+,Florence School District RE-2 Board of Directors - At Large 4 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Delta,Delta - Director for the Delta County Board of Education - District 4,TRUE
+,Director for the Delta County Board of Education - District 2,TRUE
+,Director for the Delta County Board of Education - District 3,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Denver,City and County of Denver Referred Question 2P,TRUE
+,Denargo Market District 2 BALLOT ISSUE 6A,TRUE
+,Denargo Market District 2 BALLOT ISSUE 6B,TRUE
+,Denver Public Schools Director At-Large,TRUE
+,Denver Public Schools Director District 1,TRUE
+,Denver Public Schools Director District 5,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Dolores,Dolores County School District RE-2J Ballot Question 5A: Rico Area Detachment,TRUE
+,Dolores County School District RE-2J Board of Directors - District A,TRUE
+,Dolores County School District RE-2J Board of Directors - District B,TRUE
+,Dolores County School District RE-2J Board of Directors - District C,TRUE
+,Proposition HH (Statutory),FALSE
+,Proposition II (Statutory),TRUE
+,Rico Fire Protection District Ballot Issue 6A,TRUE
+Douglas,Cherokee Ridge Estates MD Ballot Issue 6B,TRUE
+,City of Aurora Ballot Question 3A,TRUE
+,City of Aurora Ballot Question 3B,TRUE
+,City of Aurora Ballot Question 3C,TRUE
+,City of Aurora Ballot Question 3D,TRUE
+,City of Aurora Council Member At-Large,TRUE
+,City of Aurora Council Member Ward VI,TRUE
+,City of Aurora Mayor,TRUE
+,City of Caste Pines Ballot Issue 2E,TRUE
+,City of Castle Pines - Council District 1,TRUE
+,City of Castle Pines - Council District 2,TRUE
+,City of Castle Pines - Council District 3,TRUE
+,City of Castle Pines Ballot Issue 2F,TRUE
+,"Douglas County School Board Director, District A",TRUE
+,"Douglas County School Board Director, District C",TRUE
+,"Douglas County School Board Director, District F",TRUE
+,Douglas County School District RE-1 Ballot Issue 5A,TRUE
+,Douglas County School District RE-1 Ballot Issue 5B,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Town of Parker Ballot Question 2A,TRUE
+,Town of Parker Ballot Question 2B,TRUE
+,Town of Parker Ballot Question 2C,TRUE
+,Town of Parker Ballot Question 2D,TRUE
+Eagle,Basalt and Rural Fire Protection District Ballot Issue No. 7A,TRUE
+,Colorado Mountain College Board of Trustees - District 2,TRUE
+,Colorado Mountain College Board of Trustees - District 4,TRUE
+,Colorado Mountain College Board of Trustees - District 5,TRUE
+,Colorado Mountain College Board of Trustees - District 6,TRUE
+,Eagle County Ballot Issue 1A: Retain Excess 2023 Lodging Tax Revenue to Support Local Workforce,TRUE
+,Eagle County School District RE 50J Ballot Issue No. 5A,TRUE
+,Eagle County School District RE 50J Ballot Issue No. 5B,TRUE
+,Eagle County School District RE 50J Board of Directors - District A,TRUE
+,Eagle County School District RE 50J Board of Directors - District C,TRUE
+,Eagle County School District RE 50J Board of Directors - District D,TRUE
+,Eagle County School District RE 50J Board of Directors - District E,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Roaring Fork School District RE-1 Board of Directors - District B,TRUE
+,Roaring Fork School District RE-1 Board of Directors - District C,TRUE
+,Roaring Fork School District RE-1 Board of Directors - District D,TRUE
+,Town of Avon Ballot Issue 2A: Use Tax on Construction Materials,TRUE
+,Town of Eagle - Council Member - Four-Year Term,FALSE
+,Town of Vail - Council Members At-Large,TRUE
+El Paso,Academy School District 20 Ballot Issue 4A,TRUE
+,Academy School District 20 Board of Directors - 4 Year Term,TRUE
+,Cheyenne Mountain School District 12 Board of Directors - 4 Year Term,TRUE
+,City of Colorado Springs Ballot Ballot Issue 2A,TRUE
+,City of Fountain Ballot Issue 2B,TRUE
+,City of Fountain City Council - Ward 2,TRUE
+,City of Fountain Council Member - At Large,TRUE
+,City of Manitou Springs City Council,TRUE
+,City of Manitou Springs Mayor,TRUE
+,Colorado Springs School District 11 Board of Directors - 4 Year Term,TRUE
+,Donald Wescott Fire Protection District Ballot Issue 6A,TRUE
+,Donald Wescott Fire Protection District Northern Subdistrict Ballot Question 6B,TRUE
+,El Paso County Colorado School District 49 Ballot Issue 4C,TRUE
+,El Paso County School District 49 Board of Directors - District 2 - 4 Year Term,TRUE
+,El Paso County School District 49 Board of Directors - District 3 - 4 Year Term,TRUE
+,El Paso County School District 49 Board of Directors - District 5 - 4 Year Term,TRUE
+,Ellicott School District 22 Ballot Issue 4B,TRUE
+,Ellicott School District 22 Board of Directors - 4 Year Term,TRUE
+,Flying Horse Metropolitan District No. 2 Ballot Issue 6C,TRUE
+,Flying Horse Metropolitan District No. 2 Ballot Issue 6D,TRUE
+,Fountain-Fort Carson School District 8 Board of Directors - 4 Year Term,TRUE
+,Hanover School District 28 Board of Directors - 4 Year Term,TRUE
+,Harrison School District No. 2 Board of Directors - 4 Year Term,TRUE
+,Joint School District No. 23JT Ballot Issue 5C,TRUE
+,Joint School District No. 23JT Ballot Issue 5D,TRUE
+,Joint School District No. 23JT Board of Directors - 4 Year Term,TRUE
+,Lewis-Palmer School District 38 Board of Directors -  District 1 - 2 Year Term,TRUE
+,Lewis-Palmer School District 38 Board of Directors - District 2 - 4 Year Term,TRUE
+,Lewis-Palmer School District 38 Board of Directors - District 4 - 4 Year Term,TRUE
+,Lewis-Palmer School District 38 Board of Directors- District 5 - 4 Year Term,TRUE
+,Manitou Springs School District 14 Board of Directors - 4 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Widefield School District 3 Board of Directors - 4 Year Term,TRUE
+Elbert,Big Sandy School District 100J Board of Directors,TRUE
+,"Douglas County School Board Director, District A",TRUE
+,"Douglas County School Board Director, District C",TRUE
+,"Douglas County School Board Director, District F",TRUE
+,Douglas County School District RE-1 Ballot Issue 5A,TRUE
+,Douglas County School District RE-1 Ballot Issue 5B,TRUE
+,Elizabeth School District Director - 2 Year Term,TRUE
+,Elizabeth School District Director - 4 Year Term,TRUE
+,Kiowa C-2 School District Ballot Issue 4A,TRUE
+,Kiowa C-2 School District Director - 4 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Fremont,Canon City School District RE-1 Board of Directors - At Large,FALSE
+,CANON CITY SCHOOL DISTRICT RE-1 ISSUE # 4A:  BONDS,TRUE
+,City of Canon City - City Council - At-Large,TRUE
+,City of Canon City - City Council - District 2,TRUE
+,City of Canon City - City Council - District 4,TRUE
+,City of Canon City - Mayor,TRUE
+,City of Florence - City Council - Ward 1,TRUE
+,City of Florence - Mayor,TRUE
+,Florence School District RE-2 Board of Directors - At Large 2 Year Term,TRUE
+,Florence School District RE-2 Board of Directors - At Large 4 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Garfield,City of Rifle Street Sales Tax,TRUE
+,Colorado Mountain College Board of Trustees - District 2,TRUE
+,Colorado Mountain College Board of Trustees - District 4,TRUE
+,Colorado Mountain College Board of Trustees - District 5,TRUE
+,Colorado Mountain College Board of Trustees - District 6,TRUE
+,Eagle County School District RE 50J Board of Directors - District A,TRUE
+,Eagle County School District RE 50J Board of Directors - District C,TRUE
+,Eagle County School District RE 50J Board of Directors - District D,TRUE
+,Eagle County School District RE 50J Board of Directors - District E,TRUE
+,Garfield School RE-2  District B,TRUE
+,Garfield School RE-2 District C,TRUE
+,Garfield School RE-2 District D,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Rifle City Council,TRUE
+,Roaring Fork School District RE-1 Board of Directors - District B,TRUE
+,Roaring Fork School District RE-1 Board of Directors - District C,TRUE
+,Roaring Fork School District RE-1 Board of Directors - District D,TRUE
+Gilpin,Boulder Valley School District RE-2 Director District A (4 Years),TRUE
+,Boulder Valley School District RE-2 Director District C (4 Years),TRUE
+,Boulder Valley School District RE-2 Director District D (4 years),TRUE
+,Boulder Valley School District RE-2 Director District G (4 Years),TRUE
+,Gilpin County Ballot Issue 1A,TRUE
+,Gilpin County RE-1 School District Director At Large (4 years),TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Grand,Grand County Ballot Issue 1A,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Town of Fraser Ballot Question 2B,TRUE
+,West Grand School District 1-Jt Board of Directors,TRUE
+Gunnison,City of Gunnison Ballot Issue 2B,TRUE
+,City of Gunnison City Council,TRUE
+,Gunnison Watershed School District - Board of Directors,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Town of Mt. Crested Butte Ballot Question 2A,TRUE
+Hinsdale,Hinsdale - Proposition II (Statutory),TRUE
+,Proposition HH (Statutory),TRUE
+Huerfano,City of Walsenburg City Clerk,TRUE
+,City of Walsenburg City Council Ward 1,TRUE
+,City of Walsenburg City Council Ward 2,TRUE
+,City of Walsenburg City Council Ward 3,TRUE
+,City of Walsenburg City Treasurer,TRUE
+,City of Walsenburg Mayor,TRUE
+,City of Walsenburg Trash Initiative,TRUE
+,Proposition HH (Statutory),FALSE
+,Proposition II (Statutory),FALSE
+Jackson,County of Jackson 1B,TRUE
+,DIRECTOR DISTRICT 1,TRUE
+,DIRECTOR DISTRICT 3,TRUE
+,DIRECTOR DISTRICT A,TRUE
+,DIRECTOR DISTRICT B,TRUE
+,DIRECTOR DISTRICT D,TRUE
+,Jackson County Lodging Tax Panel 1A,TRUE
+,North Park R-1 School District 4A,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Jefferson,City of Arvada Council Member At-Large,TRUE
+,City of Arvada Council Member District 2,TRUE
+,City of Arvada Council Member District 4,TRUE
+,City of Arvada Mayor,TRUE
+,City of Edgewater Council Members,TRUE
+,City of Edgewater Mayor,TRUE
+,City of Golden Ballot Issue 2K,TRUE
+,City of Golden Ballot Issue 2L,TRUE
+,City of Golden Ballot Question 2M,TRUE
+,City of Golden Council District 1,TRUE
+,City of Golden Council District 2,TRUE
+,City of Golden Mayor,TRUE
+,City of Lakewood Council Member Ward 1,TRUE
+,City of Lakewood Council Member Ward 2,TRUE
+,City of Lakewood Council Member Ward 3,TRUE
+,City of Lakewood Council Member Ward 4,TRUE
+,City of Lakewood Council Member Ward 5,TRUE
+,City of Lakewood Mayor,TRUE
+,City of Lakewood Retention of Municipal Judge - Eastin,TRUE
+,City of Lakewood Retention of Presiding Judge - Bozarth,TRUE
+,City of Littleton Ballot Question 3K,TRUE
+,City of Littleton Council Member At-Large,TRUE
+,City of Littleton Council Member District IV,TRUE
+,City of Westminster Ballot Question 3L,TRUE
+,City of Westminster Ballot Question 3M,TRUE
+,City of Westminster Ballot Question 3N,TRUE
+,City of Westminster Ballot Question 3O,TRUE
+,City of Westminster Ballot Question 3P,TRUE
+,City of Westminster Council Members,TRUE
+,City of Wheat Ridge Ballot Issue 2J,TRUE
+,City of Wheat Ridge Clerk,TRUE
+,City of Wheat Ridge Council Member District I,TRUE
+,City of Wheat Ridge Council Member District II,TRUE
+,City of Wheat Ridge Council Member District III,TRUE
+,City of Wheat Ridge Treasurer,TRUE
+,Elk Creek Fire Protection District Ballot Issue 7D,TRUE
+,Elk Creek Fire Protection District Ballot Issue 7E,TRUE
+,Elk Creek Fire Protection District Ballot Question 7F,TRUE
+,Evergreen Park and Recreation District Ballot Issue 6C,TRUE
+,Inter-Canyon Fire Protection District Ballot Issue 6A,TRUE
+,Inter-Canyon Fire Protection District Ballot Question 6B,TRUE
+,Jefferson County School District R-1 Director District 3,TRUE
+,Jefferson County School District R-1 Director District 4,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Kiowa,Kiowa - Proposition II (Statutory),TRUE
+,Proposition HH (Statutory),FALSE
+Kit Carson,Arriba-Flagler School District C-20 Board of Directors - 4 Year Term,TRUE
+,Bethune School District R-5 Board of Directors - 4 Year Term,TRUE
+,Bethune School District R-5 Recall Question,TRUE
+,BURLINGTON SCHOOL DISTRICT RE-6J BALLOT ISSUE 5C,TRUE
+,Burlington School District RE-6J Board of Directors - 4 Year Term,TRUE
+,Hi-Plains School District R-23 Board of Directors - 4 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Stratton School District R-4 Board of Directors- 4 Year Term,TRUE
+La Plata,Bayfield School District 10 Jt-R Board of Directors,TRUE
+,DURANGO BUSINESS IMPROVEMENT DISTRICT BALLOT ISSUE 6A,TRUE
+,Ignacio School District 11JT Board of Directors,TRUE
+,La Plata - Upper Pine River Fire Protection District Ballot Issue 7A,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,TOWN OF BAYFIELD BALLOT ISSUE 2A,TRUE
+Lake,BALLOT ISSUE NO. 4A,FALSE
+,BALLOT ISSUE NO. 4B,FALSE
+,Board of Directors - At large,TRUE
+,City Council Ward 1,TRUE
+,City Council Ward 3,TRUE
+,Colorado Mountain College Board of Trustees - District 2,TRUE
+,Colorado Mountain College Board of Trustees - District 4,TRUE
+,Colorado Mountain College Board of Trustees - District 5,FALSE
+,Colorado Mountain College Board of Trustees - District 6,FALSE
+,Leadville Lake County Regional Housing Authority Measure 6A,FALSE
+,Mayor,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Larimer,City of Fort Collins Ballot Issue 2A,TRUE
+,City of Fort Collins Ballot Issue 2B,TRUE
+,City of Fort Collins Ballot Question 2C,TRUE
+,City of Fort Collins Ballot Question 2D,TRUE
+,City of Fort Collins Ballot Question 2E,FALSE
+,City of Fort Collins City Council - District 2,TRUE
+,City of Fort Collins City Council - District 4,TRUE
+,City of Fort Collins City Council - District 6,TRUE
+,City of Fort Collins Mayor,TRUE
+,City of Loveland Ballot Issue 2F,TRUE
+,City of Loveland Ballot Issue 2G,TRUE
+,City of Loveland Ballot Question 300,TRUE
+,City of Loveland Ballot Question 301,TRUE
+,City of Loveland City Council - Ward 1,TRUE
+,City of Loveland City Council - Ward 2,TRUE
+,City of Loveland City Council - Ward 3,TRUE
+,City of Loveland City Council - Ward 4,TRUE
+,City of Loveland Mayor,TRUE
+,Estes Park School District R-3 School Board Director At Large,TRUE
+,Loveland Rural Fire Protection District Ballot Issue 6B,TRUE
+,Poudre School District R-1 Director District A,TRUE
+,Poudre School District R-1 Director District B,TRUE
+,Poudre School District R-1 Director District F,TRUE
+,Poudre School District R-1 Director District G,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Thompson R2-J School District Board of Education Director District A,TRUE
+,Thompson R2-J School District Board of Education Director District C,TRUE
+,Thompson R2-J School District Board of Education Director District D,TRUE
+,Thompson R2-J School District Board of Education Director District G,TRUE
+Las Animas,City of Trinidad Ballot Issue,TRUE
+,City of Trinidad Ballot Question 2B,TRUE
+,City of Trinidad Ballot Question 2C,TRUE
+,Council Member - At Large,TRUE
+,Expanding Term Limits for Las Animas County Board of County Commissioners,TRUE
+,Las Animas - Proposition II (Statutory),TRUE
+,Mayor - At Large,TRUE
+,Primero - 4-Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Trinidad - 4-Year Term,TRUE
+Lincoln,Arriba-Flagler School District C-20 Board of Directors - 4 Year Term,TRUE
+,CROWLEY COUNTY SCHOOL DISTRICT RE 1-J BALLOT ISSUE 5A: BONDS,TRUE
+,Crowley County School District RE1-J Board of Directors - 2 Year Term,TRUE
+,Crowley County School District RE1-J Board of Directors - 4 Year Term,TRUE
+,Lincoln - Proposition II (Statutory),TRUE
+,Miami Yoder School District JT60 Board of Directors - 4 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+Logan,City of Sterling Councilmember Ward 1,TRUE
+,City of Sterling Councilmember Ward 2,TRUE
+,City of Sterling Councilmember Ward 3,TRUE
+,City of Sterling Mayor,TRUE
+,City of Sterling Referred Ballot Issue 2Q,TRUE
+,City of Sterling Referred Ballot Question 2R,TRUE
+,City of Sterling Referred Ballot Question 2S,TRUE
+,Frenchman RE-3 School District Board of Directors-Four Year Term,TRUE
+,Frenchman RE-3 School District Board of Directors-Two Year Term,TRUE
+,Haxtun School District RE-2J Ballot Issue 5B: Bonds,TRUE
+,Haxtun School District RE-2J Board of Directors,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Mesa,City of Grand Junction Question 2A,TRUE
+,City of Grand Junction Question 2B,TRUE
+,Mesa County Question 1A,TRUE
+,Mesa County Question 1B,TRUE
+,Mesa County Question 1C,TRUE
+,Mesa County Question 1D,TRUE
+,Mesa County Valley School District 51 - Director District A,TRUE
+,Mesa County Valley School District 51 - Director District B,TRUE
+,Plateau Valley School District 50 - Director District A,TRUE
+,Plateau Valley School District 50 - Director District C,TRUE
+,Plateau Valley School District 50 - Director District E,TRUE
+,Plateau Valley School District 50 Question 4A,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Mineral,Creede School District Board Director Four Year Term,TRUE
+,Mineral County Referred Ballot Measure 2A,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Moffat,City of Craig Ballot Question 2A - Charter Amendment for Revocable Permits,TRUE
+,City of Craig Ballot Question 2B - Charter Amendment Regarding Council President,TRUE
+,City of Craig City Council,FALSE
+,City of Craig Mayor,TRUE
+,Moffat County Advisory Ballot Question 1A - Junk and Rubbish Ordinance,TRUE
+,Moffat County School District RE NO 1 Board of Directors - District B,TRUE
+,Moffat County School District RE NO 1 Board of Directors - District C,TRUE
+,Moffat County School District RE NO 1 Board of Directors - District D,TRUE
+,Moffat County School District RE NO 1 Board of Directors - District E,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Montezuma,Cortez Fire Protection District Ballot Issue 6A,TRUE
+,Dolores School Board of Directors,TRUE
+,Dolores School District RE-4A Ballot Issue 4A,TRUE
+,Mancos School Board of Directors,FALSE
+,Montezuma School District Director-District A,TRUE
+,Montezuma School District Director-District C,TRUE
+,Montezuma School District Director-District D,TRUE
+,Montezuma School District Director-District G,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Town of Dolores Ballot Question 2A,TRUE
+,Town of Dolores Ballot Question 2B,TRUE
+Montrose,Board of Education Directors - At large,TRUE
+,Director for Montrose County Board of Education - District A,TRUE
+,Director for Montrose County Board of Education - District B,TRUE
+,Director for Montrose County Board of Education - District D,TRUE
+,Director for Montrose County Board of Education - District F,TRUE
+,Montrose - Proposition II (Statutory),TRUE
+,Norwood School District R-2J Ballot Issue 5B - Bonds,TRUE
+,Norwood School District R-2J Board of Directors,TRUE
+,Nucla-Naturita Fire Protection District Ballot Question 6A,TRUE
+,Proposition HH (Statutory),TRUE
+,Town of Olathe Ballot Issue 2A,TRUE
+,Town of Olathe Ballot Issue 2B,TRUE
+,Town of Olathe Ballot Question 2C,TRUE
+Morgan,Ballot Question 2C,TRUE
+,Ballot Question 2G,TRUE
+,City of Brush Councilor Ward 1,TRUE
+,City of Brush Councilor Ward 2,TRUE
+,City of Brush Councilor Ward 3,TRUE
+,City of Fort Morgan Councilmember Ward 1,TRUE
+,City of Fort Morgan Councilmember Ward 2,TRUE
+,City of Fort Morgan Councilmember Ward 3,TRUE
+,City of Fort Morgan Mayor,TRUE
+,Morgan - Proposition II (Statutory),TRUE
+,Morgan County Re-3 School Director,TRUE
+,Proposition HH (Statutory),TRUE
+Otero,City of La Junta Referred Ballot Issue,FALSE
+,City of Rocky Ford Referred Ballot Issue,TRUE
+,La Junta City Utilities Board,TRUE
+,La Junta Mayor at Large,TRUE
+,LJ 4 School Board Member At Large,TRUE
+,LJC2 Council Member,TRUE
+,LJC3 Council Member,TRUE
+,LJCW1 4 Council Member,TRUE
+,Proposition HH (Statutory),FALSE
+,Proposition II (Statutory),FALSE
+,RF Mayor,TRUE
+,RFCW1 Council Member,TRUE
+Ouray,City of Ouray Council Member - At Large,TRUE
+,City of Ouray Mayor,TRUE
+,Director for Montrose County Board of Education - District A,TRUE
+,Director for Montrose County Board of Education - District B,TRUE
+,Director for Montrose County Board of Education - District D,TRUE
+,Director for Montrose County Board of Education - District F,TRUE
+,Ouray School Board Director - At Large,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Town of Ridgway Ballot Issue 2A,TRUE
+Park,Elk Creek Fire Protection District Ballot Issue 7D,TRUE
+,Elk Creek Fire Protection District Ballot Issue 7E,TRUE
+,Elk Creek Fire Protection District Ballot Question 7F,TRUE
+,Park County Ballot Issue 1A,TRUE
+,Platte Canyon School District No 1 Ballot Issue 4A - Bonds,TRUE
+,Platte Canyon School District RE-1 Board of Directors - At large,FALSE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Ute Pass Regional Health Service District Ballot Issue 7A,TRUE
+Phillips,Haxtun School District RE-2J Ballot Issue 5B: Bonds,TRUE
+,Haxtun School District RE-2J Board of Directors,TRUE
+,Holyoke School District RE-1J Board of Directors - 4 Year Term,TRUE
+,Phillips - Holyoke School District RE-1J Board of Directors - 2 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Pitkin,Aspen School District No. 1 - Board of Directors,FALSE
+,Basalt and Rural Fire Protection District Ballot Issue No. 7A,TRUE
+,Colorado Mountain College Board of Trustees - District 2,FALSE
+,Colorado Mountain College Board of Trustees - District 4,TRUE
+,Colorado Mountain College Board of Trustees - District 5,TRUE
+,Colorado Mountain College Board of Trustees - District 6,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Roaring Fork School District RE-1 Board of Directors - District B,TRUE
+,Roaring Fork School District RE-1 Board of Directors - District C,TRUE
+,Roaring Fork School District RE-1 Board of Directors - District D,TRUE
+,Snowmass Water and Sanitation District Ballot Issue No. 6B,TRUE
+,Town of Snowmass Village Ballot Question No. 2A - Amendment to Town Charter,TRUE
+Prowers,City of Lamar Councilman-Ward 1,TRUE
+,City of Lamar Councilman-Ward 2,FALSE
+,City of Lamar Councilman-Ward 3,TRUE
+,City of Lamar Mayor-At Large,TRUE
+,Lamar School District RE2 Director District B,TRUE
+,Lamar School District RE2 Director District C,FALSE
+,Lamar School District RE2 Director District D,TRUE
+,Lamar School District RE2 Director District F,TRUE
+,Lamar School District RE2 Director District G,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+Pueblo,City of Pueblo Ballot Question 2A,TRUE
+,City of Pueblo City Council - At Large,TRUE
+,City of Pueblo City Council - District 2,TRUE
+,City of Pueblo City Council - District 4,TRUE
+,City of Pueblo Mayor,TRUE
+,Member Pueblo Board of Water Works,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Pueblo Civil Service Commissioner,TRUE
+,Pueblo School District No. 60 School Director At-Large Four Year Term,TRUE
+,Pueblo School District No. 60 School Director At-Large Two Year Term,TRUE
+Rio Blanco,Proposition HH (Statutory),TRUE
+,Rio Blanco - Proposition II (Statutory),TRUE
+Rio Grande,City of Monte Vista Councilor,TRUE
+,Proposition HH (Statutory),TRUE
+,Rio Grande - Proposition II (Statutory),TRUE
+Routt,City of Steamboat Springs Ballot Question No. 2F,TRUE
+,City of Steamboat Springs Ballot Question No. 2G,TRUE
+,City of Steamboat Springs Ballot Question No. 2H,TRUE
+,City of Steamboat Springs Ballot Question No. 2I,TRUE
+,City of Steamboat Springs City Council - At Large,FALSE
+,City of Steamboat Springs City Council - District I,TRUE
+,City of Steamboat Springs City Council - District II,TRUE
+,City of Steamboat Springs City Council - District III,TRUE
+,Colorado Mountain College Board of Trustees - District 2,TRUE
+,Colorado Mountain College Board of Trustees - District 4,TRUE
+,Colorado Mountain College Board of Trustees - District 5,TRUE
+,Colorado Mountain College Board of Trustees - District 6,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Town of Hayden Ballot Question No. 2C,TRUE
+,Town of Hayden Ballot Question No. 2D,TRUE
+,Town of Hayden Ballot Question No. 2E,TRUE
+,Town of Yampa Ballot Issue No. 2A,TRUE
+,Town of Yampa Ballot Issue No. 2B,TRUE
+Saguache,Center Consolidated School District 26 JT Director - District C,TRUE
+,Center Consolidated School District 26 JT Director - District Member At Large,TRUE
+,Center Fire Protection District Ballot Issue 7A - Mill Levy Increase,TRUE
+,Gunnison Watershed School District - Board of Directors,TRUE
+,Proposition HH (Statutory),FALSE
+,Saguache - Proposition II (Statutory),TRUE
+San Miguel,Dolores County School District RE-2J Ballot Question 5A: Rico Area Detachment,TRUE
+,Dolores County School District RE-2J Board of Directors - District A,TRUE
+,Dolores County School District RE-2J Board of Directors - District B,TRUE
+,Dolores County School District RE-2J Board of Directors - District C,TRUE
+,Norwood School District R-2J Ballot Issue 5B - Bonds,TRUE
+,Norwood School District R-2J Board of Directors,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Telluride Hospital District Ballot Issue 6A,TRUE
+,Telluride School District R-1 Ballot Issue 4A - Bonds,TRUE
+,Telluride School District R-1 Ballot Question 4B - Rico Area Annexation,TRUE
+,Telluride School District R-1 Board of Directors,FALSE
+,Town of Telluride Ballot Issue 2A - Authorization to Retain Lodgers' Tax Revenues,TRUE
+,Town of Telluride Ballot Question 2B - Home Rule Charter Amendment,TRUE
+,Town of Telluride Mayor,TRUE
+,Town of Telluride Town Council,FALSE
+,Town of Telluride Town Meeting Moderator,TRUE
+Sedgwick,Proposition HH (Statutory),TRUE
+,Sedgwick - Proposition II (Statutory),TRUE
+Summit,Colorado Mountain College Board of Trustees - District 2,TRUE
+,Colorado Mountain College Board of Trustees - District 4,TRUE
+,Colorado Mountain College Board of Trustees - District 5,TRUE
+,Colorado Mountain College Board of Trustees - District 6,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Summit School District RE-1 Board of Directors - At large,TRUE
+Teller,City of Cripple Creek Ballot Issue 2A,TRUE
+,City of Cripple Creek Council - Ward 4,TRUE
+,City of Cripple Creek Council - Ward 5,TRUE
+,City of Cripple Creek Mayor,TRUE
+,City of Victor Clerk/Treasurer,TRUE
+,City of Victor Mayor,TRUE
+,Cripple Creek-Victor School District RE-1 Board of Directors - District A City of Cripple Creek,TRUE
+,Cripple Creek-Victor School District RE-1 Board of Directors - District B City of Victor,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Ute Pass Regional Health Service District Ballot Issue 7A,TRUE
+,Victor Council Ward 1,TRUE
+,Victor Council Ward 2,TRUE
+,Woodland Park School District RE-2 Board of Directors - District A,TRUE
+,Woodland Park School District RE-2 Board of Directors - District C,TRUE
+,Woodland Park School District RE-2 Board of Directors - District D,TRUE
+Washington,Proposition HH (Statutory),TRUE
+,School Board,TRUE
+,Washington - Proposition II (Statutory),TRUE
+Weld,Aims Community College Trustee District A,TRUE
+,Aims Community College Trustee District B,TRUE
+,Aims Community College Trustee District E,TRUE
+,Ault-Highland School District RE-9 Director District B,TRUE
+,Ault-Highland School District RE-9 Director District D,TRUE
+,Ault-Highland School District RE-9 Director District E,TRUE
+,City of Dacono Ballot Issue 2D,TRUE
+,City of Dacono Ballot Question 2E,TRUE
+,City of Dacono Ballot Question 2F,TRUE
+,City of Dacono Ballot Question 2G,TRUE
+,City of Dacono Council Members,TRUE
+,City of Evans Ballot Question 2B,TRUE
+,City of Greeley Ballot Question 2I,TRUE
+,City of Greeley Ballot Question 2J,TRUE
+,City of Greeley Councilmember At-Large,TRUE
+,City of Greeley Mayor,TRUE
+,City of Greeley Ward 1 Councilmember,TRUE
+,City of Greeley Ward 4 Councilmember,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Thompson R-2J School District Board of Education Director District A,TRUE
+,Thompson R-2J School District Board of Education Director District C,TRUE
+,Thompson R-2J School District Board of Education Director District D,TRUE
+,Thompson R-2J School District Board of Education Director District G,TRUE
+,Town of Ault Ballot Issue 2H,TRUE
+,Town of Eaton Ballot Issue 2A,TRUE
+,Town of Erie Ballot Question 3A,TRUE
+,Town of Erie Ballot Question 3B,TRUE
+,Town of Frederick Ballot Issue 2C,TRUE
+,Town of Lochbuie Ballot Question 3I,TRUE
+,Weld County RE-1 Board of Education At-Large 4-year term,TRUE
+,Weld County RE-1 Board of Education District B,TRUE
+,Weld County School District 6 Board of Education School Director,FALSE
+,Weld County School District RE-4 Director District A,TRUE
+,Weld County School District RE-4 Director District B,TRUE
+,Weld County School District RE-4 Director District D,TRUE
+,Weld County School District RE-4 Director District E,TRUE
+,Weld County School District RE-5J Director District A,TRUE
+,Weld County School District RE-5J Director District B,TRUE
+,Weld County School District RE-5J Director District C,TRUE
+,Weld County School District RE-5J Director District D,TRUE
+,Weld County School District RE-5J Director District E,TRUE
+,Weld County School District RE-8 Ballot Issue 5A,TRUE
+,Weld County School District RE-8 Ballot Issue 5B,TRUE
+,Weld RE-8 School District Director District B,TRUE
+,Weld RE-8 School District Director District D,TRUE
+,Weld RE-8 School District Director District E,TRUE
+Yuma,Holyoke School District RE-1J Board of Directors - 2 Year Term,TRUE
+,Holyoke School District RE-1J Board of Directors - 4 Year Term,TRUE
+,Proposition HH (Statutory),TRUE
+,Proposition II (Statutory),TRUE
+,Wray City Council,TRUE
+,Wray School District RD-2 Board of Education Directors - 2 Year Term,FALSE
+,Wray School District RD-2 Board of Education Directors 4-Year Term,FALSE
+,Yuma School District-1 Board of Education Directors,FALSE
+Total Result,,FALSE
