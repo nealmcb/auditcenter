@@ -1,0 +1,65 @@
+contest_name,audit_reason,random_audit_status,winners_allowed,ballot_card_count,contest_ballot_card_count,winners,min_margin,risk_limit,audited_sample_count,two_vote_over_count,one_vote_over_count,one_vote_under_count,two_vote_under_count,disagreement_count,other_count,gamma,overstatements,optimistic_samples_to_audit,estimated_samples_to_audit
+Adams - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,89033,37762,"""Joseph R Biden Jr""",26099,0.03000000,26,0,0,0,0,0,0,1.03905000,0,25,25
+Alamosa - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,3621,1336,"""Joseph R Biden Jr""",964,0.03000000,29,0,0,0,0,0,0,1.03905000,0,28,28
+Arapahoe - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,139528,62209,"""Joseph R Biden Jr""",46047,0.03000000,24,0,0,0,0,0,0,1.03905000,0,23,23
+Archuleta - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,5297,1473,"""Joseph R Biden Jr""",1178,0.03000000,34,0,0,0,0,0,0,1.03905000,0,33,33
+Baca - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1297,159,"""Joseph R Biden Jr""",72,0.03000000,133,0,0,0,0,0,0,1.03905000,0,132,132
+Bent - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1276,308,"""Joseph R Biden Jr""",182,0.03000000,53,0,0,0,0,0,0,1.03905000,0,52,52
+Boulder - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,94038,58097,"""Joseph R Biden Jr""",43250,0.03000000,17,0,0,0,0,0,0,1.03905000,0,16,16
+Broomfield - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,22146,10093,"""Joseph R Biden Jr""",7587,0.03000000,23,0,0,0,0,0,0,1.03905000,0,22,22
+Chaffee - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,7926,3067,"""Joseph R Biden Jr""",2268,0.03000000,27,0,0,0,0,0,0,1.03905000,0,26,26
+Cheyenne - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,686,61,"""Joseph R Biden Jr""",21,0.03000000,240,0,0,0,0,0,0,1.03905000,0,239,239
+Clear Creek - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2942,1277,"""Joseph R Biden Jr""",940,0.03000000,24,0,0,0,0,0,0,1.03905000,0,23,23
+Conejos - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2255,945,"""Joseph R Biden Jr""",689,0.03000000,25,0,0,0,0,0,0,1.03905000,0,24,24
+Costilla - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1047,630,"""Joseph R Biden Jr""",421,0.03000000,20,0,0,0,0,0,0,1.03905000,0,19,19
+Crowley - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1082,205,"""Joseph R Biden Jr""",149,0.03000000,54,0,0,0,0,0,0,1.03905000,0,53,53
+Custer - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2490,481,"""Joseph R Biden Jr""",413,0.03000000,45,0,0,0,0,0,0,1.03905000,0,44,44
+Delta - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,11380,2451,"""Joseph R Biden Jr""",1793,0.03000000,48,0,0,0,0,0,0,1.03905000,0,47,47
+Denver - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,138951,92579,"""Joseph R Biden Jr""",64321,0.03000000,17,0,0,0,0,0,0,1.03905000,0,16,16
+Dolores - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,823,111,"""Joseph R Biden Jr""",74,0.03000000,83,0,0,0,0,0,0,1.03905000,0,82,82
+Douglas - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,115035,31873,"""Joseph R Biden Jr""",24685,0.03000000,35,0,0,0,0,0,0,1.03905000,0,34,34
+Eagle - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,11237,4615,"""Joseph R Biden Jr""",3600,0.03000000,24,0,0,0,0,0,0,1.03905000,0,23,23
+Elbert - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,11347,1595,"""Joseph R Biden Jr""",1179,0.03000000,72,0,0,0,0,0,0,1.03905000,0,71,71
+El Paso - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,180979,51254,"""Joseph R Biden Jr""",38294,0.03000000,36,0,0,0,0,0,0,1.03905000,0,35,35
+Fremont - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,14414,3198,"""Joseph R Biden Jr""",2429,0.03000000,45,0,0,0,0,0,0,1.03905000,0,44,44
+Garfield - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,14277,4872,"""Joseph R Biden Jr""",3610,0.03000000,30,0,0,0,0,0,0,1.03905000,0,29,29
+Gilpin - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2027,829,"""Joseph R Biden Jr""",588,0.03000000,27,0,0,0,0,0,0,1.03905000,0,26,26
+Grand - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,4845,1494,"""Joseph R Biden Jr""",1141,0.03000000,32,0,0,0,0,0,0,1.03905000,0,31,31
+Gunnison - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,4848,2019,"""Joseph R Biden Jr""",1470,0.03000000,26,0,0,0,0,0,0,1.03905000,0,25,25
+Hinsdale - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,341,67,"""Joseph R Biden Jr""",54,0.03000000,48,0,0,0,0,0,0,1.03905000,0,47,47
+Huerfano - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2574,1051,"""Joseph R Biden Jr""",776,0.03000000,26,0,0,1,0,0,0,1.03905000,0,22,22
+Jackson - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,526,44,"""Joseph R Biden Jr""",36,0.03000000,108,0,0,0,0,0,0,1.03905000,0,107,107
+Jefferson - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,176180,75538,"""Joseph R Biden Jr""",55273,0.03000000,25,0,0,0,0,0,0,1.03905000,0,24,24
+Kiowa - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,537,44,"""Joseph R Biden Jr""",17,0.03000000,232,0,0,0,0,0,0,1.03905000,0,231,231
+Kit Carson - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2273,234,"""Joseph R Biden Jr""",121,0.03000000,138,0,0,0,0,0,0,1.03905000,0,137,137
+Lake - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1470,730,"""Joseph R Biden Jr""",500,0.03000000,23,0,0,0,0,0,0,1.03905000,0,22,22
+La Plata - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,17901,7248,"""Joseph R Biden Jr""",5468,0.03000000,25,0,0,0,0,0,0,1.03905000,0,24,24
+Larimer - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,104355,43377,"""Joseph R Biden Jr""",32278,0.03000000,25,0,0,0,0,0,0,1.03905000,0,24,24
+Las Animas - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,4299,1840,"""Joseph R Biden Jr""",1219,0.03000000,27,0,0,0,0,0,0,1.03905000,0,26,26
+Lincoln - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1546,176,"""Joseph R Biden Jr""",97,0.03000000,118,0,0,0,0,0,0,1.03905000,0,117,117
+Logan - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,6056,904,"""Joseph R Biden Jr""",600,0.03000000,75,0,0,0,0,0,0,1.03905000,0,74,74
+Mesa - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,49584,11599,"""Joseph R Biden Jr""",8912,0.03000000,42,0,0,0,0,0,0,1.03905000,0,41,41
+Mineral - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,504,167,"""Joseph R Biden Jr""",114,0.03000000,34,0,0,0,0,0,0,1.03905000,0,33,33
+Moffat - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,3554,377,"""Joseph R Biden Jr""",258,0.03000000,102,0,0,0,0,0,0,1.03905000,0,101,101
+Montezuma - President of the United States - DEM,county_wide_contest,in_progress,1,8640,2251,"""Joseph R Biden Jr""",1720,0.03000000,38,0,1,0,0,0,0,1.03905000,0,44,44
+Montrose - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,14603,3086,"""Joseph R Biden Jr""",2467,0.03000000,45,0,0,0,0,0,0,1.03905000,0,44,44
+Morgan - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,6805,1171,"""Joseph R Biden Jr""",704,0.03000000,72,0,0,0,0,0,0,1.03905000,0,71,71
+Otero - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,4882,1420,"""Joseph R Biden Jr""",1034,0.03000000,36,0,0,0,0,0,0,1.03905000,0,35,35
+Ouray - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2339,906,"""Joseph R Biden Jr""",767,0.03000000,24,0,0,0,0,0,0,1.03905000,0,23,23
+Park - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,6237,1651,"""Joseph R Biden Jr""",1278,0.03000000,37,0,0,0,0,0,0,1.03905000,0,36,36
+Phillips - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1460,162,"""Joseph R Biden Jr""",97,0.03000000,111,0,0,0,0,0,0,1.03905000,0,110,110
+Pitkin - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,4295,2393,"""Joseph R Biden Jr""",1947,0.03000000,18,0,0,0,0,0,0,1.03905000,0,17,17
+President of the United States - REP,state_wide_contest,risk_limit_achieved,1,1462727,882836,"""Donald J. Trump""",263829,0.03000000,42,0,0,0,0,0,0,1.03905000,0,41,41
+Prowers - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2980,505,"""Joseph R Biden Jr""",317,0.03000000,70,0,0,0,0,0,0,1.03905000,0,69,69
+Pueblo - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,40555,17081,"""Joseph R Biden Jr""",12464,0.03000000,25,0,0,0,0,0,0,1.03905000,0,24,24
+Rio Blanco - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2181,185,"""Joseph R Biden Jr""",139,0.03000000,116,0,0,0,0,0,0,1.03905000,0,115,115
+Rio Grande - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,3303,937,"""Joseph R Biden Jr""",681,0.03000000,37,0,0,0,0,0,0,1.03905000,0,36,36
+Routt - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,7078,2995,"""Joseph R Biden Jr""",2392,0.03000000,23,0,0,0,0,0,0,1.03905000,0,22,22
+Saguache - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1759,797,"""Joseph R Biden Jr""",544,0.03000000,25,0,0,0,0,0,0,1.03905000,0,24,24
+San Miguel - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2029,1079,"""Joseph R Biden Jr""",837,0.03000000,19,0,0,0,0,0,0,1.03905000,0,18,18
+Sedgwick - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,825,132,"""Joseph R Biden Jr""",96,0.03000000,64,0,0,0,0,0,0,1.03905000,0,63,63
+Summit - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,7013,3146,"""Joseph R Biden Jr""",2394,0.03000000,23,0,0,0,0,0,0,1.03905000,0,22,22
+Teller - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,9245,1941,"""Joseph R Biden Jr""",1493,0.03000000,47,0,0,0,0,0,0,1.03905000,0,46,46
+Washington - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,1890,126,"""Joseph R Biden Jr""",85,0.03000000,164,0,0,0,0,0,0,1.03905000,0,163,163
+Weld - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,75236,19199,"""Joseph R Biden Jr""",13990,0.03000000,41,0,0,0,0,0,0,1.03905000,0,40,40
+Yuma - President of the United States - DEM,county_wide_contest,risk_limit_achieved,1,2845,328,"""Joseph R Biden Jr""",178,0.03000000,118,0,0,0,0,0,0,1.03905000,0,117,117
