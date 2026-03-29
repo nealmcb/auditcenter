@@ -1,0 +1,42 @@
+contest_name,audit_reason,random_audit_status,winners_allowed,ballot_card_count,contest_ballot_card_count,winners,min_margin,risk_limit,audited_sample_count,two_vote_over_count,one_vote_over_count,zero_discrepancy_count,one_vote_under_count,two_vote_under_count,disagreement_count,gamma,overstatements,optimistic_samples_to_audit,estimated_samples_to_audit
+City of Fort Collins Ballot Issue 2A,opportunistic_benefits,ended,1,191186,57101,"""Yes/For""",30707,0.03000000,0,0,0,0,0,0,0,1.03905000,0,46,46
+City of Fort Collins Ballot Issue 302,opportunistic_benefits,ended,1,191186,56984,"""Yes/For""",25091,0.03000000,0,0,0,0,0,0,0,1.03905000,0,56,56
+City of Fort Collins Ballot Question 2B,opportunistic_benefits,ended,1,191186,57101,"""Yes/For""",34526,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+City of Fort Collins Ballot Question 2C,opportunistic_benefits,ended,1,191186,56984,"""Yes/For""",27387,0.03000000,0,0,0,0,0,0,0,1.03905000,0,51,51
+City of Fort Collins Ballot Question 2D,opportunistic_benefits,ended,1,191186,56984,"""Yes/For""",25482,0.03000000,0,0,0,0,0,0,0,1.03905000,0,55,55
+City of Fort Collins Ballot Question 2E,opportunistic_benefits,ended,1,191186,56984,"""Yes/For""",36143,0.03000000,0,0,0,0,0,0,0,1.03905000,0,39,39
+City of Fort Collins Ballot Question 2F,opportunistic_benefits,ended,1,191186,56984,"""No/Against""",8374,0.03000000,0,0,0,0,0,0,0,1.03905000,0,167,167
+City of Fort Collins Ballot Question 2G,opportunistic_benefits,ended,1,191186,56984,"""Yes/For""",30022,0.03000000,0,0,0,0,0,0,0,1.03905000,0,47,47
+City of Fort Collins Ballot Question 2H,opportunistic_benefits,ended,1,191186,56984,"""Yes/For""",19485,0.03000000,0,0,0,0,0,0,0,1.03905000,0,72,72
+City of Fort Collins Ballot Question 303,opportunistic_benefits,ended,1,191186,56984,"""No/Against""",4183,0.03000000,0,0,0,0,0,0,0,1.03905000,0,334,334
+City of Fort Collins Councilmember - District 1,opportunistic_benefits,ended,1,191186,9821,"""Chris Conway""",2079,0.03000000,0,0,0,0,0,0,0,1.03905000,0,671,671
+City of Fort Collins Councilmember - District 3,opportunistic_benefits,ended,1,191186,10360,"""Josh Fudge""",2279,0.03000000,0,0,0,0,0,0,0,1.03905000,0,612,612
+City of Fort Collins Councilmember - District 5,opportunistic_benefits,ended,1,191186,8148,"""Amy Hoeven""",991,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1406,1406
+City of Fort Collins Mayor,county_wide_contest,risk_limit_achieved,1,191186,57101,"""Emily Francis""",5847,0.03000000,240,0,0,0,0,0,0,1.03905000,0,239,239
+City of Loveland City Council - Ward 1,opportunistic_benefits,ended,1,191186,7745,"""Geoff Frahm""",773,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1803,1803
+City of Loveland City Council - Ward 2,opportunistic_benefits,ended,1,191186,9176,"""Sarah Rothberg""",172,0.03000000,0,0,0,0,0,0,0,1.03905000,0,8100,8100
+City of Loveland City Council - Ward 3,opportunistic_benefits,ended,2,191186,6291,"""Caitlin Wyrick"",""Kalina Middleton""",32,0.03000000,0,0,0,0,0,0,0,1.03905000,0,43537,43537
+City of Loveland City Council - Ward 4,opportunistic_benefits,ended,1,191186,7656,"""Zeke Cortez""",808,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1725,1725
+City of Loveland Mayor,opportunistic_benefits,ended,1,191186,30868,"""Patrick McFall""",193,0.03000000,0,0,0,0,0,0,0,1.03905000,0,7219,7219
+Larimer County Ballot Issue 1A,opportunistic_benefits,ended,1,191186,134140,"""No/Against""",6859,0.03000000,0,0,0,0,0,0,0,1.03905000,0,204,204
+Larimer County Ballot Issue 1B,opportunistic_benefits,ended,1,191186,134140,"""Yes/For""",3718,0.03000000,0,0,0,0,0,0,0,1.03905000,0,375,375
+Larimer County Nedrah Acres Public Improvement District No. 77 Ballot Issue 6B,opportunistic_benefits,ended,1,191186,107,"""Yes/For""",50,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27864,27864
+Larimer County Rolling Hills Public Improvement District No. 78 Ballot Issue 6C,opportunistic_benefits,ended,1,191186,97,"""No/Against""",31,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44941,44941
+Larimer County Thunder Mountain Public Improvement District No. 76 Ballot Issue 6A,opportunistic_benefits,ended,1,191186,45,"""Yes/For""",15,0.03000000,0,0,0,0,0,0,0,1.03905000,0,92878,92878
+Poudre School District R-1 Director District C,opportunistic_benefits,ended,1,191186,77309,"""Karla Baise""",21338,0.03000000,0,0,0,0,0,0,0,1.03905000,0,66,66
+Poudre School District R-1 Director District D,opportunistic_benefits,ended,1,191186,77309,"""Coronda Ziegler""",13558,0.03000000,0,0,0,0,0,0,0,1.03905000,0,103,103
+Poudre School District R-1 Director District E,opportunistic_benefits,not_auditable,1,191186,77309,"""Andrew E Spain""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Proposition LL (Statutory),opportunistic_benefits,ended,1,191186,134140,"""Yes/For""",49810,0.03000000,0,0,0,0,0,0,0,1.03905000,0,28,28
+Proposition MM (Statutory),opportunistic_benefits,ended,1,191186,134140,"""Yes/For""",32606,0.03000000,0,0,0,0,0,0,0,1.03905000,0,43,43
+St. Vrain Valley School District RE-1J Board of Education Director in Director District B,opportunistic_benefits,ended,1,191186,305,"""Hadley Solomon""",58,0.03000000,0,0,0,0,0,0,0,1.03905000,0,24021,24021
+St. Vrain Valley School District RE-1J Board of Education Director in Director District D,opportunistic_benefits,ended,1,191186,305,"""Meosha Babbs""",40,0.03000000,0,0,0,0,0,0,0,1.03905000,0,34830,34830
+St. Vrain Valley School District RE-1J Board of Education Director in Director District E,opportunistic_benefits,not_auditable,1,191186,305,"""Jocelyn Gilligan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+St. Vrain Valley School District RE-1J Board of Education Director in Director District F,opportunistic_benefits,not_auditable,1,191186,305,"""Sarah Hurianek""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Thompson School District R2-J Ballot Issue 5A,opportunistic_benefits,ended,1,191186,51852,"""Yes/For""",8612,0.03000000,0,0,0,0,0,0,0,1.03905000,0,162,162
+Thompson School District R2-J Board of Education Director District B,opportunistic_benefits,not_auditable,1,191186,51852,"""Mike Scholl""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Thompson School District R2-J Board of Education Director District E,opportunistic_benefits,ended,1,191186,51852,"""Alexandra Lessem""",895,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1557,1557
+Thompson School District R2-J Board of Education Director District F,opportunistic_benefits,ended,1,191186,51852,"""Lori Goebel""",1083,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1287,1287
+Town of Estes Park Ballot Question 300,opportunistic_benefits,ended,1,191186,2442,"""Yes/For""",152,0.03000000,0,0,0,0,0,0,0,1.03905000,0,9166,9166
+Town of Estes Park Ballot Question 301,opportunistic_benefits,ended,1,191186,2442,"""No/Against""",475,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2933,2933
+Town of Timnath Ballot Issue 3A,opportunistic_benefits,ended,1,191186,4062,"""Yes/For""",336,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4147,4147
+Wellington Fire Protection District Ballot Issue 6D,opportunistic_benefits,ended,1,191186,4472,"""No/Against""",583,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2390,2390
