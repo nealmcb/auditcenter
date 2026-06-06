@@ -4,15 +4,15 @@
 
 | Election | Report Available |
 |---|---|
-| 2017 (pilot) | Arapahoe raw data only; no SOS-categorized report |
-| 2018 Primary | No formal report; ballot polling only (Mineral docx) |
-| 2018 General | No formal report; ballot polling Mineral docx only |
-| 2019 Coordinated | No formal report; raw contestComparison CSVs |
+| 2017 (pilot) | No SOS-annotated discrepancy report found |
+| 2018 Primary | No SOS-annotated discrepancy report found; Mineral ballot polling discrepancies in separate docx |
+| 2018 General | No SOS-annotated discrepancy report found; Mineral ballot polling discrepancies in separate docx |
+| 2019 Coordinated | No SOS-annotated discrepancy report found |
 | 2020 Primary | Full annotated SOS PDF |
 | 2020 General | Full annotated SOS PDF |
 | 2021 Coordinated | Full annotated SOS PDF |
 | 2022 Primary | Full annotated SOS PDF |
-| 2022 General | No formal report; raw CVR comparison CSV only (link in auditCenter was a placeholder, never published; not in Wayback Machine) |
+| 2022 General | SOS-annotated report known to exist (live link in auditCenter Nov 2022) but not yet acquired; not in Wayback Machine |
 | 2023 Coordinated | Full annotated SOS PDF (recovered from Wayback Machine, captured 2025-03-02) |
 | 2024 General | Full annotated XLSX |
 | 2025 Coordinated | Full annotated XLSX |
@@ -72,25 +72,28 @@ Notes on 2023 Coordinated counts: the 4 "Ambiguous Intent" entries include 3 lab
 
 ## Elections Without Full Annotated Reports
 
-### 2017 Pilot (Arapahoe only, raw data)
+### 2017 Pilot (statewide comparison RLA; no SOS-annotated discrepancy report found)
 
-3 ballot-level discrepancies found in the raw export:
-- Two **City of Aurora Council Member At-Large** ballots where the CVR and audit board agreed on one candidate (Tom Tobiassen) but disagreed on the second vote — likely **audit board error** (wrong candidate name recorded).
+The 2017 pilot was a statewide comparison RLA with ballot-list data for ~60 counties in round_1 and 3 counties in round_2 (Lake, Pueblo, Teller). Six counties (Custer, Douglas, Garfield, Las Animas, Montrose, Rio Blanco) additionally had ballot polling audits. No SOS-annotated discrepancy report has been found.
+
+The only discrepancy detail available in this mirror is an Arapahoe County database export produced by the rla_export tool (at `../2017/arapahoe/`), which shows 3 ballot-level discrepancies:
+- Two **City of Aurora Council Member At-Large** ballots where the CVR and audit board agreed on one candidate (Tom Tobiassen) but differed on the second — likely **audit board error**.
 - One **City of Centennial Mayor** — completely different candidates (Stephanie Piko vs. C.J. Whelan III) — likely **audit board error or wrong ballot**.
 
-No SOS categorization. Also notable: Jefferson County had a discrepancy on an unopposed contest (documented separately in the jeffco-discrepancy-unopposed images), almost certainly a **voting system limitation** (system flagged a non-contested contest).
+Also notable: Jefferson County had a discrepancy on an unopposed contest (documented in the jeffco-discrepancy-unopposed images), almost certainly a **voting system limitation**.
 
-### 2018 Ballot Polling Audits (Mineral County)
+### 2018 Primary and 2018 General (statewide comparison RLA; no SOS-annotated discrepancy report found)
 
-Both the **2018 Primary** and **2018 General** Mineral explanations involve the county's aging 12-year-old optical scanner:
-- **2018 Primary**: Two discrepancies — (1) a lightly penciled ballot the scanner failed to read (voting system/hardware limitation); (2) a ballot that the tabulator didn't re-feed properly and the judge didn't catch (operator/machine error, borderline auditing and voting system).
-- **2018 General**: One discrepancy — another lightly penciled ballot not picked up by the scanner (voting system/hardware limitation).
+Both were statewide comparison RLAs. The mirror contains ballot-list data for all counties in round_1 (and round_2 for a subset). The 2018 General additionally has per-county XLSX reports for all counties. Some counties additionally had ballot polling audits; Mineral County's ballot polling discrepancies are documented in the Mineral explanation PDFs in this mirror:
 
-Both clearly **voting system issues** (hardware limitations of an old scanner, not ballot manipulation). No formal discrepancy report was published for 2018 or found in the Wayback Machine.
+- **2018 Primary (Mineral)**: Two discrepancies — (1) a lightly penciled ballot the scanner failed to read (voting system/hardware limitation); (2) a ballot the tabulator didn't re-feed properly (operator/machine error).
+- **2018 General (Mineral)**: One discrepancy — another lightly penciled ballot not picked up by the scanner (voting system/hardware limitation).
 
-### 2019 Coordinated (raw contestComparison data, 110 raw discrepancies in round 3)
+No SOS-annotated discrepancy report covering the full comparison RLA has been found for either election.
 
-No formal SOS annotation; no discrepancy report found in Wayback Machine. Raw data categorized manually:
+### 2019 Coordinated (raw contestComparison data, 110 raw discrepancies in round 3; no SOS-annotated report found)
+
+No SOS-annotated discrepancy report has been found for this election; the Wayback Machine CDX shows zero captures for all guessed URL patterns. Raw contestComparison data categorized manually:
 
 | Pattern | Count | Likely cause |
 |---|---|---|
@@ -100,9 +103,9 @@ No formal SOS annotation; no discrepancy report found in Wayback Machine. Raw da
 
 The ordering discrepancies represent a systematic software design issue, not actual disagreements about votes.
 
-### 2022 General (raw data, 214 raw discrepancies in round 3)
+### 2022 General (raw CVR comparison data, 214 raw discrepancies in round 3; no SOS-annotated report found)
 
-No formal report published (the auditCenter page had a placeholder link during the audit in November 2022, but the file was never made available and is not in the Wayback Machine). Large clusters in Rio Blanco (46), Kiowa (29), Routt (19), Crowley (18) suggest **wrong ballot** events at the county level similar to Hinsdale 2020. Not further categorized.
+A SOS-annotated discrepancy report is known to exist: the auditCenter page carried a live `<a href>` link to `DiscrepancyReport.pdf` during the November 2022 audit period. The file has not been acquired — it is not in the Wayback Machine and currently returns 404 on the SoS site. It should be obtainable by request from the SoS office. Large clusters in Rio Blanco (46), Kiowa (29), Routt (19), Crowley (18) suggest **wrong ballot** events similar to Hinsdale 2020. Not further categorized.
 
 ---
 
