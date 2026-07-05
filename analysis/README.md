@@ -13,7 +13,15 @@ submitted by audit boards) — should reconcile: every selected CVR ID should
 eventually get a comparison record, and every comparison record should trace
 back to a selection.
 
-They don't, due to two independent bugs in the server SQL:
+They don't, due to two independent bugs in the server SQL. Full technical
+detail, live reproduction steps, and proposed SQL fixes are in
+[`bug_details.md`](bug_details.md).
+
+Note: file names, directory layouts, and CSV header names have varied across
+audit years (e.g. `contestSelection.csv` vs `contest_selection.csv`,
+`round_1` vs `round1`). This complicates full automated reproduction and
+correction across the archive; `check_corla_exports.py` handles the known
+variants, but the accounting may be incomplete for years not yet tested.
 
 **Bug 1 — `contest_selection.sql` has no round filter.**
 `ComparisonAudit.addContestCVRIds()` appends all rounds' draws to a single
@@ -22,17 +30,41 @@ regardless of which round's file you requested. Per-round selection files are
 therefore nearly or completely identical across rounds.
 
 **Bug 2 — `contest_comparison.sql` attributes CVRs to every contest on a ballot.**
-`cvr_contest_info` fans out to every contest printed on a ballot, and the join
-to `comparison_audit` is a `LEFT JOIN` that never filters rows. Every CVR
-audited for contest A appears in the comparison export for contests B, C, D...
-(all contests on that ballot). On a typical Colorado general election ballot
-with ~26 contests, each audited CVR produces ~26 comparison rows, of which
-~25 are spurious.
+`cvr_contest_info` has one row per (CVR, contest) for every contest printed on
+a ballot. The join to `comparison_audit` uses a `LEFT JOIN` that never filters
+rows. As a result, any CVR audited for contest A appears in the comparison
+export for every other contest on that ballot — whether or not it was drawn for
+those contests.
 
-**Both bugs are confirmed export-only.** They do not affect the risk-limit math,
-sample counts, discrepancy tallies, or audit status — only the CSV/report layer.
-See the [GitHub issue](https://github.com/loriinboulder/colorado-rla/issues)
-for full technical detail, proposed SQL fixes, and live reproduction steps.
+An important nuance: contests that share the same PRNG domain (e.g., two
+county-wide contests in the same county, or two statewide contests) draw from
+the same underlying random sequence, so the smaller contest's sample is a
+subset of the larger contest's sample. CVRs drawn for the larger contest but
+not the smaller will be spurious in the smaller contest's comparison export.
+Contests with *different* PRNG domains do not share this systematic subset
+relationship, though they can still produce spurious rows via the
+`cvr_contest_info` fan-out for any ballot type on which both contests appear.
+
+**Both bugs are confirmed export-only.** They do not affect the risk-limit
+math, sample counts, discrepancy tallies, or audit status — only the CSV/report
+layer.
+
+## Definitions
+
+- **sel\_only**: CVR IDs that appear in `contestSelection.csv` for a contest
+  but have no corresponding audited comparison record in `contestComparison.csv`
+  (identified by a non-null `timestamp` in the comparison file). These are
+  drawn ballots with no submitted audit board interpretation — expected at
+  round end for unfinished audits, but also inflated by Bug 1 when next-round
+  draws have already been appended before auditing begins.
+
+- **cmp\_only**: CVR IDs that appear in `contestComparison.csv` for a contest
+  but are not in that contest's `contestSelection.csv` entry. These are the
+  primary Bug 2 signal: comparison records attributed to a contest the CVR was
+  never drawn for.
+
+- **aff\_c** (affected contests): contests in a round where either sel\_only
+  or cmp\_only is nonzero.
 
 ## Survey results
 
@@ -48,12 +80,7 @@ both a selection and comparison file are available (23 rounds, 2019–2025).
 | Rounds with cmp\_only > 0 (Bug 2 signal) | 23 / 23 |
 | Total sel\_only (selected, no audited comparison) | 64,017 |
 | Total cmp\_only (comparison attributed to wrong contest) | 1,743,228 |
-| Affected contest-rounds | 10,216 |
-
-`sel_only` counts CVR IDs in `contestSelection` for a contest that have no
-corresponding audited comparison record. `cmp_only` counts CVR IDs in
-`contestComparison` for a contest that are not in that contest's selection
-list — these are spurious Bug 2 rows.
+| Affected contest-rounds (aff\_c summed) | 10,216 |
 
 The Bug 1 cross-round identity check found that 99–100% of contests have
 identical selection IDs between consecutive rounds for every multi-round audit,
@@ -70,16 +97,20 @@ that contest's `contestSelection` entry for the same round. The selection file
 is the authoritative draw list; the correction is lossless (every removed row
 is a spurious attribution). See `correct_comparison.py`.
 
-*WIP:* The corrector script is functional for individual round pairs but a
-batch mode covering all 23 rounds, and a detailed accounting of what changed
-in each corrected file, is still in progress. The corrected files have not yet
+*WIP:* The corrector script is functional for individual round pairs. A batch
+mode covering all 23 rounds, including handling of filename and header
+variations across years, is still in progress. Corrected files have not yet
 been committed to this repository.
 
-**Bug 1 is not correctable from the archived files alone.**
-The per-round selection files are nearly identical across rounds; there is no
-way to reconstruct which CVR IDs were added in each round without the server's
-internal `comparison_audit.contest_cvr_ids` data at each round boundary.
-Single-round audits (the majority) are unaffected in practice.
+**Bug 1 correction is also being explored (WIP).** The Colorado RLA PRNG is
+deterministic given the public seed and ballot manifest, both of which are
+archived here. Recalculating the per-round draws from the PRNG — rather than
+relying on the accumulated `contestSelection` files — may allow reconstruction
+of true per-round selection lists. This is tractable for single-round audits
+and for identifying which contests gained new draws between rounds; the work
+of determining exact round boundaries for multi-round escalations is ongoing.
+See also the [rlauxe](https://github.com/JohnLCaron/rlauxe) repository for
+related prior work.
 
 ## Planned extensions (WIP)
 
@@ -99,6 +130,7 @@ Single-round audits (the majority) are unaffected in practice.
 |------|-------------|
 | `check_corla_exports.py` | Fetches selection and comparison files from this repo and reports sel\_only / cmp\_only counts per contest per round, plus Bug 1 cross-round identity check. Run with `--verbose` for per-contest breakdowns. |
 | `correct_comparison.py` | Filters a `contestComparison.csv` to remove Bug 2 spurious rows, using the corresponding `contestSelection.csv` as the authoritative draw list. Accepts `--round 2024/general/round1` to fetch directly from this repo, or `--selection` / `--comparison` for local files. |
+| `bug_details.md` | Full technical write-up: root-cause analysis, live reproduction steps, proposed SQL fixes with diffs, and confirmation that both bugs are export-only. |
 
 ## Usage
 
