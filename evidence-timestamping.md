@@ -144,22 +144,27 @@ For the 2026 primary dice roll, the concrete artifacts are in
 — once redacted CVRs are added to the repo, they'll go through the same
 three-layer process described above.
 
-- [`files/`](2026/primary/files/) — the 61 county manifest CSVs collected
-  from Colorado's Audit Center (3 of Colorado's 64 counties are absent: Baca
-  and Washington hadn't posted their manifests as of the roll; San Juan
-  County hand-counts and is excluded from the audit entirely)
-- `SHA256SUMS.txt` — SHA-256 digest of every manifest file and the county
-  index page
-- `SHA256SUMS.txt.ots` — the OpenTimestamps proof
-- `SHA256SUMS.txt.cosign-bundle` — the Sigstore/Rekor signature bundle
+- [`files/`](2026/primary/files/) — county manifest CSVs collected from
+  Colorado's Audit Center (San Juan County hand-counts and is excluded from
+  the audit entirely)
+- [`observerfiles/`](2026/primary/observerfiles/) — manifests and redacted
+  CVRs obtained directly from counties, plus notes on anything found
+- `SHA256SUMS*.txt` (+ matching `.ots` / `.cosign-bundle`) — SHA-256 digests
+  of the evidence files above, timestamped as described below
 
-To verify any of these yourself:
+We never overwrite a `SHA256SUMS*.txt` once it's been stamped and pushed —
+each update to the evidence set gets a new version (`SHA256SUMS.txt`,
+`SHA256SUMS.v2.txt`, ...) with its own OTS and Rekor proof, so every
+commitment we ever made stays independently checkable, even after later
+files supersede it.
+
+To verify any version yourself (substitute the version you're checking):
 
 ```
-$ sha256sum -c SHA256SUMS.txt          # confirm the files match the recorded hashes
-$ ots verify SHA256SUMS.txt.ots        # confirm the Bitcoin-anchored timestamp
-$ cosign verify-blob --bundle SHA256SUMS.txt.cosign-bundle SHA256SUMS.txt
-                                        # confirm the Rekor transparency-log signature
+$ sha256sum -c SHA256SUMS.v2.txt          # confirm the files match the recorded hashes
+$ ots verify SHA256SUMS.v2.txt.ots        # confirm the Bitcoin-anchored timestamp
+$ cosign verify-blob --bundle SHA256SUMS.v2.txt.cosign-bundle SHA256SUMS.v2.txt
+                                           # confirm the Rekor transparency-log signature
 ```
 
 ## Further reading / where this could go next
