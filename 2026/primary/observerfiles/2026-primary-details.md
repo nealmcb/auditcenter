@@ -26,6 +26,13 @@ directly from the counties (below), then confirmed by hashing all 61 posted
 manifests and finding this was the only collision — no other counties are
 affected.
 
+**Resolved as of 10:20 MDT, 2026-07-13.** Both `LaPlata.csv` and
+`Morgan.csv` now serve county-specific data. Morgan's posted file is now
+byte-for-byte identical to the county-provided copy below. La Plata's posted
+file parses to the same data as the county-provided copy below, differing
+only in CSV quoting style (SoS's version leaves fields unquoted; the
+county's copy quotes them).
+
 ## La Plata County
 
 - County-provided files (via Google Drive, received 2026-07-13):
@@ -49,3 +56,15 @@ affected.
     redacted CVR export from the county, dated 2026-07-09.
 - Same situation as La Plata: manifest confirmed straight from the county,
   supplementing the (currently incorrect) Audit Center copy.
+
+## Weld County
+
+- Files from Teague, received by email at 10:03 MDT on 2026-07-13 — Neal
+  attests personally to this receipt time, before the dice roll concluded
+  at approximately 10:10:
+  - [`Weld_BallotManifest.csv`](Weld_BallotManifest.csv) — byte-for-byte
+    identical (SHA-256 `c26253088b...eaeab1b`) to the manifest already
+    posted at SoS's `files/Weld.csv`, confirming that one is correct.
+  - [`Weld_CVR_Export_20260709140755.csv`](Weld_CVR_Export_20260709140755.csv) —
+    redacted CVR export from the county, dated 2026-07-09, converted here
+    from the original `.xlsx` for consistency with the other CVR files.
