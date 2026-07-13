@@ -22,3 +22,8 @@ observers can confirm the data was locked in place before the dice roll. See
 [evidence-timestamping.md](evidence-timestamping.md) for why this matters and how it's done,
 and [2026/primary/observerfiles/2026-primary-details.md](2026/primary/observerfiles/2026-primary-details.md)
 for the specific commitments made for the 2026 primary.
+
+Note on staleness: as of 2026-07-13, the pages this mirror was originally scraped from for
+elections prior to the 2026 primary (2017 through 2025) return 404 on the live Secretary
+of State site — only the current election's Audit Center pages are live. Files here for
+those earlier years predate that, and can no longer be checked against a live copy.
