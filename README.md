@@ -18,5 +18,7 @@ which have been shared at [democracyworks/ColoradoRLA](https://github.com/democr
 
 Independent observers are working with the Department of State to post public,
 independently-verifiable timestamps of the audit data before each audit's random seed is generated, so that
-observers can confirm the data was all fixed before the dice roll. See
-[evidence-timestamping.md](evidence-timestamping.md) for why this matters and how it's done.
+observers can confirm the data was locked in place before the dice roll. See
+[evidence-timestamping.md](evidence-timestamping.md) for why this matters and how it's done,
+and [2026/primary/observerfiles/2026-primary-details.md](2026/primary/observerfiles/2026-primary-details.md)
+for the specific commitments made for the 2026 primary.
