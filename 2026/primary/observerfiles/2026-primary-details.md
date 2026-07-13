@@ -33,6 +33,14 @@ file parses to the same data as the county-provided copy below, differing
 only in CSV quoting style (SoS's version leaves fields unquoted; the
 county's copy quotes them).
 
+**This looks like a publishing-pipeline issue rather than a county-data
+problem.** SoS also posts [`files/uploadStatus.csv`](../files/uploadStatus.csv),
+an internal log of county upload activity for the RLA system. It shows both
+La Plata's and Morgan's manifests were successfully imported ahead of the
+dice roll, so the correct data was already in the system; whatever step
+exports that data to the public Audit Center page appears to be what served
+Saguache's file under their names instead.
+
 ## La Plata County
 
 - County-provided files (via Google Drive, received 2026-07-13):
