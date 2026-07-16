@@ -1,0 +1,1840 @@
+county_id,county_name,contest_name,contest_id
+1,Adams,United States Senator - DEM,509677
+1,Adams,Representative to the 120th United States Congress - District 4 - DEM,509679
+1,Adams,Representative to the 120th United States Congress - District 6 - DEM,509681
+1,Adams,Representative to the 120th United States Congress - District 7 - DEM,509683
+1,Adams,Representative to the 120th United States Congress - District 8 - DEM,509685
+1,Adams,Governor - DEM,509687
+1,Adams,Secretary of State - DEM,509689
+1,Adams,State Treasurer - DEM,509691
+1,Adams,Attorney General - DEM,509693
+1,Adams,State Board of Education Member - Congressional District 7 - DEM,509695
+1,Adams,Regent of the University of Colorado - Congressional District 6 - DEM,509697
+1,Adams,Regent of the University of Colorado - Congressional District 7 - DEM,509699
+1,Adams,State Senator - District 21 - DEM (Adams),509701
+1,Adams,State Senator - District 24 - DEM,509703
+1,Adams,State Senator - District 25 - DEM,509705
+1,Adams,State Representative - District 24 - DEM,509707
+1,Adams,State Representative - District 29 - DEM,509709
+1,Adams,State Representative - District 31 - DEM,509711
+1,Adams,State Representative - District 32 - DEM,509713
+1,Adams,State Representative - District 33 - DEM,509715
+1,Adams,State Representative - District 34 - DEM,509717
+1,Adams,State Representative - District 35 - DEM,509719
+1,Adams,State Representative - District 36 - DEM,509721
+1,Adams,State Representative - District 48 - DEM,509723
+1,Adams,Adams County Commissioner - District 3 - DEM,509725
+1,Adams,Adams County Commissioner - District 4 - DEM,509727
+1,Adams,Adams County Clerk and Recorder - DEM,509729
+1,Adams,Adams County Treasurer - DEM,509731
+1,Adams,Adams County Assessor - DEM,509733
+1,Adams,Adams County Sheriff - DEM,509735
+1,Adams,Adams County Coroner - DEM,509737
+1,Adams,United States Senator - REP,509739
+1,Adams,Representative to the 120th United States Congress - District 4 - REP,509741
+1,Adams,Representative to the 120th United States Congress - District 6 - REP,509743
+1,Adams,Representative to the 120th United States Congress - District 7 - REP,509745
+1,Adams,Representative to the 120th United States Congress - District 8 - REP,509747
+1,Adams,Governor - REP,509749
+1,Adams,Secretary of State - REP,509751
+1,Adams,State Treasurer - REP,509753
+1,Adams,Attorney General - REP (Adams),509755
+1,Adams,State Board of Education Member - Congressional District 7 - REP,509757
+1,Adams,Regent of the University of Colorado - Congressional District 6 - REP,509759
+1,Adams,Regent of the University of Colorado - Congressional District 7 - REP,509761
+1,Adams,State Senator - District 21 - REP,509763
+1,Adams,State Senator - District 24 - REP,509765
+1,Adams,State Senator - District 25 - REP,509767
+1,Adams,State Representative - District 24 - REP,509769
+1,Adams,State Representative - District 29 - REP,509771
+1,Adams,State Representative - District 31 - REP,509773
+1,Adams,State Representative - District 32 - REP,509775
+1,Adams,State Representative - District 33 - REP,509777
+1,Adams,State Representative - District 34 - REP,509779
+1,Adams,State Representative - District 36 - REP,509781
+1,Adams,State Representative - District 48 - REP,509783
+1,Adams,State Representative - District 56 - REP,509785
+1,Adams,Adams County Commissioner - District 4 - REP,509787
+1,Adams,Adams County Clerk and Recorder - REP,509789
+1,Adams,Adams County Sheriff - REP,509791
+1,Adams,Secretary of State - LBR,509793
+1,Adams,Governor - UNI,509795
+2,Alamosa,United States Senator - DEM,1615114
+2,Alamosa,Representative to the 120th United States Congress - District 3 - DEM,1615116
+2,Alamosa,Governor - DEM,1615118
+2,Alamosa,Secretary of State - DEM,1615120
+2,Alamosa,State Treasurer - DEM,1615122
+2,Alamosa,Attorney General - DEM,1615124
+2,Alamosa,State Board of Education Member - Congressional District 3 - DEM,1615126
+2,Alamosa,State Representative - District 62 - DEM,1615128
+2,Alamosa,Alamosa County Commissioner - District 2 - DEM,1615130
+2,Alamosa,Alamosa County Assessor - DEM,1615132
+2,Alamosa,Alamosa County Sheriff - DEM,1615134
+2,Alamosa,Secretary of State - LBR,1615136
+2,Alamosa,United States Senator - REP,1615138
+2,Alamosa,Representative to the 120th United States Congress - District 3 - REP,1615140
+2,Alamosa,Governor - REP,1615142
+2,Alamosa,Secretary of State - REP,1615144
+2,Alamosa,State Treasurer - REP,1615146
+2,Alamosa,Attorney General - REP (Alamosa),1615148
+2,Alamosa,State Board of Education Member - Congressional District 3 - REP,1615150
+2,Alamosa,State Representative - District 62 - REP,1615152
+2,Alamosa,Alamosa County Commissioner - District 2 - REP,1615154
+2,Alamosa,Alamosa County Clerk and Recorder - REP,1615156
+2,Alamosa,Alamosa County Treasurer - REP,1615158
+2,Alamosa,Alamosa County Surveyor - REP,1615160
+2,Alamosa,Alamosa County Coroner - REP,1615162
+2,Alamosa,Governor - UNI,1615164
+3,Arapahoe,United States Senator - DEM,707071
+3,Arapahoe,Representative to the 120th United States Congress - District 1 - DEM,707073
+3,Arapahoe,Representative to the 120th United States Congress - District 4 - DEM,707075
+3,Arapahoe,Representative to the 120th United States Congress - District 6 - DEM,707077
+3,Arapahoe,Governor - DEM,707084
+3,Arapahoe,Secretary of State - DEM,707094
+3,Arapahoe,State Treasurer - DEM,707106
+3,Arapahoe,Attorney General - DEM,707115
+3,Arapahoe,State Board of Education Member - Congressional District 1 - DEM,707125
+3,Arapahoe,Regent of the University of Colorado - Congressional District 6 - DEM,707134
+3,Arapahoe,State Senator - District 21 - DEM,707143
+3,Arapahoe,State Senator - District 27 - DEM,707150
+3,Arapahoe,State Senator - District 29 - DEM,707158
+3,Arapahoe,State Senator - District 32 - DEM,707166
+3,Arapahoe,State Representative - District 3 - DEM,707174
+3,Arapahoe,State Representative - District 9 - DEM,707181
+3,Arapahoe,State Representative - District 36 - DEM,707183
+3,Arapahoe,State Representative - District 37 - DEM,707185
+3,Arapahoe,State Representative - District 38 - DEM,707187
+3,Arapahoe,State Representative - District 40 - DEM,707189
+3,Arapahoe,State Representative - District 41 - DEM,707191
+3,Arapahoe,State Representative - District 42 - DEM,707193
+3,Arapahoe,State Representative - District 61 - DEM,707195
+3,Arapahoe,Arapahoe County Commissioner - District 2 - DEM,707197
+3,Arapahoe,Arapahoe County Commissioner - District 4 - DEM,707199
+3,Arapahoe,Arapahoe County Clerk and Recorder - DEM,707201
+3,Arapahoe,Arapahoe County Treasurer - DEM,707203
+3,Arapahoe,Arapahoe County Assessor - DEM,707205
+3,Arapahoe,Arapahoe County Sheriff - DEM,707207
+3,Arapahoe,Arapahoe County Coroner - DEM,707209
+3,Arapahoe,Secretary of State - LBR,707211
+3,Arapahoe,United States Senator - REP,707213
+3,Arapahoe,Representative to the 120th United States Congress - District 1 - REP,707215
+3,Arapahoe,Representative to the 120th United States Congress - District 4 - REP,707217
+3,Arapahoe,Representative to the 120th United States Congress - District 6 - REP,707219
+3,Arapahoe,Governor - REP,707221
+3,Arapahoe,Secretary of State - REP,707223
+3,Arapahoe,State Treasurer - REP,707225
+3,Arapahoe,Attorney General - REP (Arapahoe),707227
+3,Arapahoe,State Board of Education Member - Congressional District 1 - REP,707229
+3,Arapahoe,Regent of the University of Colorado - Congressional District 6 - REP,707236
+3,Arapahoe,State Senator - District 21 - REP,707248
+3,Arapahoe,State Senator - District 27 - REP,707259
+3,Arapahoe,State Senator - District 29 - REP,707269
+3,Arapahoe,State Senator - District 32 - REP,707280
+3,Arapahoe,State Representative - District 3 - REP,707290
+3,Arapahoe,State Representative - District 9 - REP,707299
+3,Arapahoe,State Representative - District 36 - REP,707309
+3,Arapahoe,State Representative - District 37 - REP,707319
+3,Arapahoe,State Representative - District 40 - REP,707329
+3,Arapahoe,State Representative - District 56 - REP,707331
+3,Arapahoe,State Representative - District 61 - REP,707333
+3,Arapahoe,Arapahoe County Commissioner - District 2 - REP,707335
+3,Arapahoe,Arapahoe County Commissioner - District 4 - REP,707337
+3,Arapahoe,Arapahoe County Clerk and Recorder - REP,707339
+3,Arapahoe,Arapahoe County Assessor - REP,707341
+3,Arapahoe,Arapahoe County Sheriff - REP,707343
+3,Arapahoe,Governor - UNI,707345
+4,Archuleta,United States Senator - DEM,1609037
+4,Archuleta,Representative to the 120th United States Congress - District 3 - DEM,1609039
+4,Archuleta,Governor - DEM,1609041
+4,Archuleta,Secretary of State - DEM,1609043
+4,Archuleta,State Treasurer - DEM,1609045
+4,Archuleta,Attorney General - DEM (Archuleta),1609047
+4,Archuleta,State Board of Education Member - Congressional District 3 - DEM,1609049
+4,Archuleta,State Representative - District 59 - DEM,1609051
+4,Archuleta,Secretary of State - LBR,1609053
+4,Archuleta,United States Senator - REP,1609055
+4,Archuleta,Representative to the 120th United States Congress - District 3 - REP,1609057
+4,Archuleta,Governor - REP,1609059
+4,Archuleta,Secretary of State - REP,1609061
+4,Archuleta,State Treasurer - REP,1609063
+4,Archuleta,Attorney General - REP,1609065
+4,Archuleta,State Board of Education Member - Congressional District 3 - REP,1609067
+4,Archuleta,State Representative - District 59 - REP,1609069
+4,Archuleta,Archuleta County Commissioner - District 3 - REP,1609071
+4,Archuleta,Archuleta County Clerk and Recorder - REP,1609073
+4,Archuleta,Archuleta County Treasurer - REP,1609075
+4,Archuleta,Archuleta County Assessor - REP,1609077
+4,Archuleta,Archuleta County Sheriff - REP,1609079
+4,Archuleta,Archuleta County Coroner - REP,1609081
+4,Archuleta,Governor - UNI,1609083
+5,Baca,United States Senator - DEM,1602724
+5,Baca,Representative to the 120th United States Congress - District 4 - DEM,1602726
+5,Baca,Governor - DEM,1602728
+5,Baca,Secretary of State - DEM,1602730
+5,Baca,State Treasurer - DEM,1602732
+5,Baca,Attorney General - DEM,1602734
+5,Baca,State Senator - District 35 - DEM,1602736
+5,Baca,State Representative - District 47 - DEM,1602738
+5,Baca,Baca County Clerk and Recorder - DEM,1602740
+5,Baca,Secretary of State - LBR,1602742
+5,Baca,United States Senator - REP,1602744
+5,Baca,Representative to the 120th United States Congress - District 4 - REP,1602746
+5,Baca,Governor - REP,1602748
+5,Baca,Secretary of State - REP,1602750
+5,Baca,State Treasurer - REP,1602752
+5,Baca,Attorney General - REP,1602754
+5,Baca,State Senator - District 35 - REP,1602756
+5,Baca,State Representative - District 47 - REP,1602758
+5,Baca,Baca County Commissioner - District 2 - REP,1602760
+5,Baca,Baca County Treasurer - REP,1602762
+5,Baca,Baca County Assessor - REP,1602764
+5,Baca,Baca County Sheriff - REP,1602766
+5,Baca,Baca County Coroner - REP,1602768
+5,Baca,Governor - UNI,1602770
+6,Bent,United States Senator - DEM,1607625
+6,Bent,Representative to the 120th United States Congress - District 4 - DEM,1607627
+6,Bent,Governor - DEM (Bent),1607629
+6,Bent,Secretary of State - DEM,1607631
+6,Bent,State Treasurer - DEM,1607633
+6,Bent,Attorney General - DEM,1607635
+6,Bent,State Senator - District 35 - DEM,1607637
+6,Bent,State Representative - District 47 - DEM,1607639
+6,Bent,Secretary of State - LBR,1607641
+6,Bent,United States Senator - REP,1607643
+6,Bent,Representative to the 120th United States Congress - District 4 - REP,1607645
+6,Bent,Governor - REP,1607647
+6,Bent,Secretary of State - REP,1607649
+6,Bent,State Treasurer - REP,1607651
+6,Bent,Attorney General - REP (Bent),1607653
+6,Bent,State Senator - District 35 - REP,1607655
+6,Bent,State Representative - District 47 - REP,1607657
+6,Bent,Bent County Commissioner - District 2 - REP,1607659
+6,Bent,Bent County Clerk and Recorder - REP,1607661
+6,Bent,Bent County Treasurer - REP,1607663
+6,Bent,Bent County Sheriff - REP,1607665
+6,Bent,Bent County Coroner - REP,1607667
+6,Bent,Governor - UNI,1607669
+7,Boulder,United States Senator - DEM,1501843
+7,Boulder,Representative to the 120th United States Congress - District 2 - DEM,1501845
+7,Boulder,Governor - DEM,1501847
+7,Boulder,Secretary of State - DEM,1501849
+7,Boulder,State Treasurer - DEM,1501851
+7,Boulder,Attorney General - DEM (Boulder),1501853
+7,Boulder,Regent of the University of Colorado - Congressional District 2 - DEM,1501855
+7,Boulder,State Senator - District 15 - DEM,1501857
+7,Boulder,State Senator - District 17 - DEM,1501859
+7,Boulder,State Representative - District 10 - DEM,1501861
+7,Boulder,State Representative - District 11 - DEM,1501863
+7,Boulder,State Representative - District 12 - DEM,1501865
+7,Boulder,State Representative - District 19 - DEM,1501867
+7,Boulder,State Representative - District 49 - DEM,1501869
+7,Boulder,Boulder County Commissioner - District 3 - DEM,1501871
+7,Boulder,Boulder County Clerk and Recorder - DEM,1501873
+7,Boulder,Boulder County Treasurer - DEM,1501875
+7,Boulder,Boulder County Assessor - DEM,1501877
+7,Boulder,Boulder County Sheriff - DEM,1501879
+7,Boulder,Boulder County Surveyor - DEM,1501881
+7,Boulder,Boulder County Coroner - DEM,1501883
+7,Boulder,Secretary of State - LBR,1501885
+7,Boulder,United States Senator - REP,1501887
+7,Boulder,Representative to the 120th United States Congress - District 2 - REP (Boulder),1501889
+7,Boulder,Governor - REP,1501891
+7,Boulder,Secretary of State - REP,1501893
+7,Boulder,State Treasurer - REP,1501895
+7,Boulder,Attorney General - REP,1501897
+7,Boulder,Regent of the University of Colorado - Congressional District 2 - REP,1501899
+7,Boulder,State Senator - District 15 - REP,1501901
+7,Boulder,State Senator - District 17 - REP,1501903
+7,Boulder,State Representative - District 12 - REP,1501905
+7,Boulder,State Representative - District 19 - REP,1501907
+7,Boulder,State Representative - District 49 - REP,1501909
+7,Boulder,Governor - UNI,1501911
+8,Chaffee,United States Senator - DEM,124605
+8,Chaffee,Representative to the 120th United States Congress - District 7 - DEM,124607
+8,Chaffee,Governor - DEM,124609
+8,Chaffee,Secretary of State - DEM (Chaffee),124611
+8,Chaffee,State Treasurer - DEM,124613
+8,Chaffee,Attorney General - DEM,124615
+8,Chaffee,State Board of Education Member - Congressional District 7 - DEM,124617
+8,Chaffee,Regent of the University of Colorado - Congressional District 7 - DEM,124619
+8,Chaffee,State Senator - District 4 - DEM,124621
+8,Chaffee,State Representative - District 13 - DEM,124623
+8,Chaffee,State Representative - District 60 - DEM,124625
+8,Chaffee,Chaffee County Commissioner - District 3 - DEM,124627
+8,Chaffee,Chaffee County Clerk and Recorder - DEM,124629
+8,Chaffee,Chaffee County Treasurer - DEM,124631
+8,Chaffee,Chaffee County Coroner - DEM,124633
+8,Chaffee,Secretary of State - LBR,124635
+8,Chaffee,United States Senator - REP,124637
+8,Chaffee,Representative to the 120th United States Congress - District 7 - REP,124639
+8,Chaffee,Governor - REP,124641
+8,Chaffee,Secretary of State - REP,124643
+8,Chaffee,State Treasurer - REP,124645
+8,Chaffee,Attorney General - REP,124647
+8,Chaffee,State Board of Education Member - Congressional District 7 - REP,124649
+8,Chaffee,Regent of the University of Colorado - Congressional District 7 - REP (Chaffee),124651
+8,Chaffee,State Senator - District 4 - REP,124653
+8,Chaffee,State Representative - District 13 - REP,124655
+8,Chaffee,State Representative - District 60 - REP,124657
+8,Chaffee,Chaffee County Commissioner - District 3 - REP,124659
+8,Chaffee,Governor - UNI,124661
+9,Cheyenne,United States Senator - DEM,27321
+9,Cheyenne,Representative to the 120th United States Congress - District 4 - DEM,27323
+9,Cheyenne,Governor - DEM,27325
+9,Cheyenne,Secretary of State - DEM,27327
+9,Cheyenne,State Treasurer - DEM,27329
+9,Cheyenne,Attorney General - DEM,27331
+9,Cheyenne,State Senator - District 35 - DEM,27333
+9,Cheyenne,Secretary of State - LBR,27335
+9,Cheyenne,United States Senator - REP,27337
+9,Cheyenne,Representative to the 120th United States Congress - District 4 - REP,27339
+9,Cheyenne,Governor - REP (Cheyenne),27341
+9,Cheyenne,Secretary of State - REP,27343
+9,Cheyenne,State Treasurer - REP,27345
+9,Cheyenne,Attorney General - REP,27347
+9,Cheyenne,State Senator - District 35 - REP,27349
+9,Cheyenne,State Representative - District 56 - REP,27351
+9,Cheyenne,Cheyenne County Commissioner - District 2 - REP,27353
+9,Cheyenne,Cheyenne County Clerk and Recorder - REP,27355
+9,Cheyenne,Cheyenne County Treasurer - REP,27357
+9,Cheyenne,Cheyenne County Assessor - REP,27359
+9,Cheyenne,Cheyenne County Sheriff - REP,27361
+9,Cheyenne,Governor - UNI,27363
+10,Clear Creek,United States Senator - DEM,377737
+10,Clear Creek,Representative to the 120th United States Congress - District 2 - DEM,377739
+10,Clear Creek,Governor - DEM,377741
+10,Clear Creek,Secretary of State - DEM (Clear Creek),377743
+10,Clear Creek,State Treasurer - DEM,377745
+10,Clear Creek,Attorney General - DEM,377747
+10,Clear Creek,Regent of the University of Colorado - Congressional District 2 - DEM,377749
+10,Clear Creek,State Senator - District 8 - DEM,377751
+10,Clear Creek,State Representative - District 49 - DEM,377753
+10,Clear Creek,Clear Creek County Commissioner - District 1 - DEM,377755
+10,Clear Creek,Clear Creek County Clerk and Recorder - DEM,377757
+10,Clear Creek,Clear Creek County Treasurer - DEM,377759
+10,Clear Creek,Secretary of State - LBR,377761
+10,Clear Creek,United States Senator - REP,377763
+10,Clear Creek,Representative to the 120th United States Congress - District 2 - REP (Clear Creek),377765
+10,Clear Creek,Governor - REP,377767
+10,Clear Creek,Secretary of State - REP,377769
+10,Clear Creek,State Treasurer - REP,377771
+10,Clear Creek,Attorney General - REP,377773
+10,Clear Creek,Regent of the University of Colorado - Congressional District 2 - REP,377775
+10,Clear Creek,State Senator - District 8 - REP,377777
+10,Clear Creek,State Representative - District 49 - REP,377779
+10,Clear Creek,Clear Creek County Assessor - REP,377781
+10,Clear Creek,Clear Creek County Sheriff - REP,377783
+10,Clear Creek,Clear Creek County Coroner - REP,377785
+10,Clear Creek,Governor - UNI,377787
+11,Conejos,United States Senator - DEM,503752
+11,Conejos,Representative to the 120th United States Congress - District 3 - DEM,503754
+11,Conejos,Governor - DEM (Conejos),503756
+11,Conejos,Secretary of State - DEM,503758
+11,Conejos,State Treasurer - DEM,503760
+11,Conejos,Attorney General - DEM,503762
+11,Conejos,State Board of Education Member - Congressional District 3 - DEM,503764
+11,Conejos,State Representative - District 62 - DEM,503766
+11,Conejos,Conejos County Commissioner District 2 - DEM,503768
+11,Conejos,Conejos County Clerk and Recorder - DEM,503770
+11,Conejos,Conejos County Treasurer - DEM,503772
+11,Conejos,Conejos County Assessor - DEM,503774
+11,Conejos,Conejos County Sheriff - DEM,503776
+11,Conejos,Secretary of State - LBR,503778
+11,Conejos,United States Senator - REP,503780
+11,Conejos,Representative to the 120th United States Congress - District 3 - REP,503782
+11,Conejos,Governor - REP,503784
+11,Conejos,Secretary of State - REP,503786
+11,Conejos,State Treasurer - REP,503788
+11,Conejos,Attorney General - REP,503790
+11,Conejos,State Board of Education Member - Congressional District 3 - REP,503792
+11,Conejos,State Representative - District 62 - REP,503794
+11,Conejos,Conejos County Commissioner District 2 - REP,503796
+11,Conejos,Conejos County Sheriff - REP,503798
+11,Conejos,Conejos County Surveyor - REP,503800
+11,Conejos,Conejos County Coroner - REP,503802
+11,Conejos,Governor - UNI,503804
+12,Costilla,United States Senator - DEM,1619186
+12,Costilla,Representative to the 120th United States Congress - District 3 - DEM,1619188
+12,Costilla,Governor - DEM,1619190
+12,Costilla,Secretary of State - DEM,1619192
+12,Costilla,State Treasurer - DEM,1619194
+12,Costilla,Attorney General - DEM,1619196
+12,Costilla,State Board of Education Member - Congressional District 3 - DEM,1619198
+12,Costilla,State Representative - District 62 - DEM,1619200
+12,Costilla,Costilla County Commissioner District 2 - DEM,1619202
+12,Costilla,Costilla County Clerk and Recorder - DEM,1619204
+12,Costilla,Costilla County Treasurer - DEM,1619206
+12,Costilla,Costilla County Assessor - DEM,1619208
+12,Costilla,Costilla County Sheriff - DEM,1619210
+12,Costilla,Costilla County Coroner - DEM,1619212
+12,Costilla,Secretary of State - LBR,1619214
+12,Costilla,United States Senator - REP,1619216
+12,Costilla,Representative to the 120th United States Congress - District 3 - REP (Costilla),1619218
+12,Costilla,Governor - REP,1619220
+12,Costilla,Secretary of State - REP,1619222
+12,Costilla,State Treasurer - REP,1619224
+12,Costilla,Attorney General - REP,1619226
+12,Costilla,State Board of Education Member - Congressional District 3 - REP,1619228
+12,Costilla,State Representative - District 62 - REP,1619230
+12,Costilla,Costilla County Assessor - REP,1619232
+12,Costilla,Costilla County Sheriff - REP,1619234
+12,Costilla,Governor - UNI,1619236
+13,Crowley,United States Senator - DEM,346865
+13,Crowley,Representative to the 120th United States Congress - District 4 - DEM,346867
+13,Crowley,Governor - DEM,346869
+13,Crowley,Secretary of State - DEM,346871
+13,Crowley,State Treasurer - DEM,346873
+13,Crowley,Attorney General - DEM (Crowley),346875
+13,Crowley,State Senator - District 35 - DEM,346877
+13,Crowley,State Representative - District 47 - DEM,346879
+13,Crowley,Secretary of State - LBR,346881
+13,Crowley,United States Senator - REP,346883
+13,Crowley,Representative to the 120th United States Congress - District 4 - REP,346885
+13,Crowley,Governor - REP (Crowley),346887
+13,Crowley,Secretary of State - REP,346889
+13,Crowley,State Treasurer - REP,346891
+13,Crowley,Attorney General - REP,346893
+13,Crowley,State Senator - District 35 - REP,346895
+13,Crowley,State Representative - District 47 - REP,346897
+13,Crowley,Crowley County Commissioner - District 1 - REP,346899
+13,Crowley,Crowley County Clerk and Recorder - REP,346901
+13,Crowley,Crowley County Treasurer - REP,346903
+13,Crowley,Crowley County Assessor - REP,346905
+13,Crowley,Crowley County Sheriff - REP,346907
+13,Crowley,Governor - UNI,346909
+14,Custer,United States Senator - DEM,1037863
+14,Custer,Representative to the 120th United States Congress - District 7 - DEM,1037865
+14,Custer,Governor - DEM,1037867
+14,Custer,Secretary of State - DEM,1037869
+14,Custer,State Treasurer - DEM,1037871
+14,Custer,Attorney General - DEM (Custer),1037873
+14,Custer,State Board of Education Member - Congressional District 7 - DEM,1037875
+14,Custer,Regent of the University of Colorado - Congressional District 7 - DEM,1037877
+14,Custer,State Senator - District 4 - DEM,1037879
+14,Custer,State Representative - District 60 - DEM,1037881
+14,Custer,Secretary of State - LBR,1037883
+14,Custer,United States Senator - REP,1037885
+14,Custer,Representative to the 120th United States Congress - District 7 - REP,1037887
+14,Custer,Governor - REP,1037889
+14,Custer,Secretary of State - REP,1037891
+14,Custer,State Treasurer - REP,1037893
+14,Custer,Attorney General - REP,1037895
+14,Custer,State Board of Education Member - Congressional District 7 - REP,1037897
+14,Custer,Regent of the University of Colorado - Congressional District 7 - REP (Custer),1037899
+14,Custer,State Senator - District 4 - REP,1037901
+14,Custer,State Representative - District 60 - REP,1037903
+14,Custer,Custer County Board of County Commissioners - District 1 - REP,1037905
+14,Custer,Custer County Clerk and Recorder - REP,1037907
+14,Custer,Custer County Treasurer - REP,1037909
+14,Custer,Custer County Assessor - REP,1037911
+14,Custer,Custer County Sheriff - REP,1037913
+14,Custer,Custer County Coroner - REP,1037915
+14,Custer,Governor - UNI,1037917
+15,Delta,United States Senator - DEM,1363372
+15,Delta,Representative to the 120th United States Congress - District 3 - DEM,1363374
+15,Delta,Governor - DEM,1363376
+15,Delta,Secretary of State - DEM (Delta),1363378
+15,Delta,State Treasurer - DEM,1363380
+15,Delta,Attorney General - DEM,1363382
+15,Delta,State Board of Education Member - Congressional District 3 - DEM,1363384
+15,Delta,State Representative - District 54 - DEM,1363386
+15,Delta,State Representative - District 58 - DEM,1363388
+15,Delta,Delta County Commissioner - District 1 - DEM,1363390
+15,Delta,Delta County Sheriff - DEM,1363392
+15,Delta,Delta County Coroner - DEM,1363394
+15,Delta,Secretary of State - LBR,1363396
+15,Delta,United States Senator - REP,1363398
+15,Delta,Representative to the 120th United States Congress - District 3 - REP,1363400
+15,Delta,Governor - REP (Delta),1363402
+15,Delta,Secretary of State - REP,1363404
+15,Delta,State Treasurer - REP,1363406
+15,Delta,Attorney General - REP,1363408
+15,Delta,State Board of Education Member - Congressional District 3 - REP,1363410
+15,Delta,State Senator - District 7 - REP,1363412
+15,Delta,State Representative - District 54 - REP,1363414
+15,Delta,State Representative - District 58 - REP,1363416
+15,Delta,Delta County Commissioner - District 1 - REP,1363418
+15,Delta,Delta County Clerk and Recorder - REP,1363420
+15,Delta,Delta County Treasurer - REP,1363422
+15,Delta,Delta County Assessor - REP,1363424
+15,Delta,Delta County Sheriff - REP,1363426
+15,Delta,Delta County Coroner - REP,1363428
+15,Delta,Governor - UNI,1363430
+16,Denver,United States Senator - DEM,167244
+16,Denver,United States Senator - REP,167246
+16,Denver,Representative to the 120th United States Congress - District 1 - DEM,167248
+16,Denver,Representative to the 120th United States Congress - District 1 - REP,167250
+16,Denver,Representative to the 120th United States Congress - District 6 - DEM,167252
+16,Denver,Representative to the 120th United States Congress - District 6 - REP,167254
+16,Denver,Governor - DEM,167256
+16,Denver,Governor - REP (Denver),167258
+16,Denver,Governor - UNI,167260
+16,Denver,Secretary of State - DEM,167262
+16,Denver,Secretary of State - REP,167264
+16,Denver,Secretary of State - LBR,167266
+16,Denver,State Treasurer - DEM,167268
+16,Denver,State Treasurer - REP,167270
+16,Denver,Attorney General - DEM,167272
+16,Denver,Attorney General - REP,167274
+16,Denver,State Board of Education Member - Congressional District 1 - DEM,167276
+16,Denver,State Board of Education Member - Congressional District 1 - REP,167278
+16,Denver,Regent of the University of Colorado - Congressional District 6 - DEM,167280
+16,Denver,Regent of the University of Colorado - Congressional District 6 - REP,167282
+16,Denver,State Senator - District 31 (DEM),167284
+16,Denver,State Senator - District 31 (REP),167286
+16,Denver,State Senator - District 32 - DEM,167288
+16,Denver,State Senator - District 32 - REP,167290
+16,Denver,State Senator - District 34 (DEM),167292
+16,Denver,State Senator - District 34 (REP),167294
+16,Denver,State Representative - District 1 - DEM,167296
+16,Denver,State Representative - District 1 - REP,167298
+16,Denver,State Representative - District 2 (DEM),167300
+16,Denver,State Representative - District 2 (REP),167302
+16,Denver,State Representative - District 3 - DEM,167304
+16,Denver,State Representative - District 3 - REP,167306
+16,Denver,State Representative - District 4 (DEM),167308
+16,Denver,State Representative - District 4 (REP),167310
+16,Denver,State Representative - District 5 (DEM),167312
+16,Denver,State Representative - District 5 (REP),167314
+16,Denver,State Representative - District 6 (DEM),167316
+16,Denver,State Representative - District 6 (REP),167318
+16,Denver,State Representative - District 7 (DEM),167320
+16,Denver,State Representative - District 8 (DEM),167322
+16,Denver,State Representative - District 8 (REP),167324
+16,Denver,State Representative - District 9 - DEM,167326
+16,Denver,State Representative - District 9 - REP,167328
+17,Dolores,United States Senator - DEM,1498242
+17,Dolores,Representative to the 120th United States Congress - District 3 - DEM,1498244
+17,Dolores,Governor - DEM,1498246
+17,Dolores,Secretary of State - DEM,1498248
+17,Dolores,State Treasurer - DEM,1498250
+17,Dolores,Attorney General - DEM,1498252
+17,Dolores,State Board of Education Member - Congressional District 3 - DEM,1498254
+17,Dolores,State Representative - District 58 - DEM,1498256
+17,Dolores,Secretary of State - LBR,1498258
+17,Dolores,United States Senator - REP,1498260
+17,Dolores,Representative to the 120th United States Congress - District 3 - REP,1498262
+17,Dolores,Governor - REP (Dolores),1498264
+17,Dolores,Secretary of State - REP,1498266
+17,Dolores,State Treasurer - REP,1498268
+17,Dolores,Attorney General - REP,1498270
+17,Dolores,State Board of Education Member - Congressional District 3 - REP,1498272
+17,Dolores,State Representative - District 58 - REP,1498274
+17,Dolores,Dolores County Commissioner District 1 - REP,1498276
+17,Dolores,Dolores County Treasurer - REP,1498278
+17,Dolores,Dolores County Sheriff - REP,1498280
+17,Dolores,Dolores County Coroner - REP,1498282
+17,Dolores,Governor - UNI,1498284
+18,Douglas,United States Senator - DEM,605692
+18,Douglas,Representative to the 120th United States Congress - District 4 - DEM,605694
+18,Douglas,Representative to the 120th United States Congress - District 6 - DEM,605696
+18,Douglas,Governor - DEM (Douglas),605698
+18,Douglas,Secretary of State - DEM,605700
+18,Douglas,State Treasurer - DEM,605702
+18,Douglas,Attorney General - DEM,605704
+18,Douglas,Regent of the University of Colorado - Congressional District 6 - DEM,605706
+18,Douglas,State Senator - District 4 - DEM,605708
+18,Douglas,State Senator - District 27 - DEM,605710
+18,Douglas,State Senator - District 30 (DEM),605712
+18,Douglas,State Representative - District 39 (DEM),605714
+18,Douglas,State Representative - District 43 (DEM),605716
+18,Douglas,State Representative - District 44 (DEM),605718
+18,Douglas,State Representative - District 45 (DEM),605720
+18,Douglas,State Representative - District 61 - DEM,605722
+18,Douglas,Douglas County Commissioner - District 1 (DEM),605724
+18,Douglas,Douglas County Clerk and Recorder (DEM),605726
+18,Douglas,Douglas County Treasurer (DEM),605728
+18,Douglas,Douglas County Assessor (DEM),605730
+18,Douglas,Secretary of State - LBR,605732
+18,Douglas,United States Senator - REP,605734
+18,Douglas,Representative to the 120th United States Congress - District 4 - REP,605736
+18,Douglas,Representative to the 120th United States Congress - District 6 - REP,605738
+18,Douglas,Governor - REP,605740
+18,Douglas,Secretary of State - REP,605742
+18,Douglas,State Treasurer - REP,605744
+18,Douglas,Attorney General - REP,605746
+18,Douglas,Regent of the University of Colorado - Congressional District 6 - REP,605748
+18,Douglas,State Senator - District 4 - REP,605750
+18,Douglas,State Senator - District 27 - REP,605752
+18,Douglas,State Senator - District 30 (REP),605754
+18,Douglas,State Representative - District 39 (REP),605756
+18,Douglas,State Representative - District 43 (REP),605758
+18,Douglas,State Representative - District 44 (REP),605760
+18,Douglas,State Representative - District 45 (REP),605762
+18,Douglas,State Representative - District 61 - REP,605764
+18,Douglas,Douglas County Commissioner - District 1 (REP),605766
+18,Douglas,Douglas County Clerk and Recorder (REP),605768
+18,Douglas,Douglas County Treasurer (REP),605770
+18,Douglas,Douglas County Assessor (REP),605772
+18,Douglas,Douglas County Sheriff (REP),605774
+18,Douglas,Douglas County Surveyor (REP),605776
+18,Douglas,Douglas County Coroner (REP),605778
+18,Douglas,Governor - UNI,605780
+19,Eagle,United States Senator - DEM,349105
+19,Eagle,Representative to the 120th United States Congress - District 2 - DEM,349107
+19,Eagle,Representative to the 120th United States Congress - District 3 - DEM,349109
+19,Eagle,Governor - DEM,349111
+19,Eagle,Secretary of State - DEM,349113
+19,Eagle,State Treasurer - DEM,349115
+19,Eagle,Attorney General - DEM,349117
+19,Eagle,State Board of Education Member - Congressional District 3 - DEM,349119
+19,Eagle,Regent of the University of Colorado - Congressional District 2 - DEM,349121
+19,Eagle,State Senator - District 8 - DEM,349123
+19,Eagle,State Representative - District 26 - DEM,349125
+19,Eagle,State Representative - District 57 - DEM,349127
+19,Eagle,Eagle County Commissioner - District 3 - DEM,349129
+19,Eagle,Eagle County Treasurer - DEM,349131
+19,Eagle,Eagle County Assessor - DEM,349133
+19,Eagle,Eagle County Sheriff - DEM,349135
+19,Eagle,Eagle County Coroner - DEM,349137
+19,Eagle,Secretary of State - LBR,349139
+19,Eagle,United States Senator - REP,349141
+19,Eagle,Representative to the 120th United States Congress - District 2 - REP,349143
+19,Eagle,Representative to the 120th United States Congress - District 3 - REP,349145
+19,Eagle,Governor - REP,349147
+19,Eagle,Secretary of State - REP,349149
+19,Eagle,State Treasurer - REP,349151
+19,Eagle,Attorney General - REP (Eagle),349153
+19,Eagle,State Board of Education Member - Congressional District 3 - REP,349155
+19,Eagle,Regent of the University of Colorado - Congressional District 2 - REP,349157
+19,Eagle,State Senator - District 8 - REP,349159
+19,Eagle,State Representative - District 26 - REP,349161
+19,Eagle,State Representative - District 57 - REP,349163
+19,Eagle,Eagle County Commissioner - District 3 - REP,349165
+19,Eagle,Eagle County Assessor - REP,349167
+19,Eagle,Eagle County Sheriff - REP,349169
+19,Eagle,Eagle County Coroner - REP,349171
+19,Eagle,Governor - UNI,349173
+20,Elbert,United States Senator - DEM,108933
+20,Elbert,United States Senator - REP,108935
+20,Elbert,Representative to the 120th United States Congress - District 4 - DEM,108937
+20,Elbert,Representative to the 120th United States Congress - District 4 - REP,108939
+20,Elbert,Governor - DEM,108941
+20,Elbert,Governor - REP,108943
+20,Elbert,Secretary of State - DEM,108945
+20,Elbert,Secretary of State - REP,108947
+20,Elbert,Secretary of State - LBR,108949
+20,Elbert,State Treasurer - DEM,108951
+20,Elbert,State Treasurer - REP,108953
+20,Elbert,Attorney General - DEM (Elbert),108955
+20,Elbert,Attorney General - REP (Elbert),108957
+20,Elbert,State Senator - District 35 - DEM,108959
+20,Elbert,State Senator - District 35 - REP,108961
+20,Elbert,State Representative - District 56 - REP,108963
+20,Elbert,Elbert County Commissioner - District 2 (REP),108965
+20,Elbert,Elbert County Clerk and Recorder (REP),108967
+20,Elbert,Elbert County Treasurer (REP),108969
+20,Elbert,Elbert County Assessor (REP),108971
+20,Elbert,Elbert County Sheriff (REP),108973
+20,Elbert,Elbert County Surveyor (REP),108975
+20,Elbert,Elbert County Coroner (DEM),108977
+20,Elbert,Elbert County Coroner (REP),108979
+21,El Paso,United States Senator - DEM,1078349
+21,El Paso,Representative to the 120th United States Congress - District 4 - DEM,1078351
+21,El Paso,Representative to the 120th United States Congress - District 5 - DEM,1078353
+21,El Paso,Representative to the 120th United States Congress - District 7 - DEM,1078355
+21,El Paso,Governor - DEM,1078357
+21,El Paso,Secretary of State - DEM,1078359
+21,El Paso,State Treasurer - DEM,1078361
+21,El Paso,Attorney General - DEM,1078363
+21,El Paso,State Board of Education Member - Congressional District 7 - DEM,1078365
+21,El Paso,Regent of the University of Colorado - Congressional District 7 - DEM,1078367
+21,El Paso,State Senator - District 9 - DEM,1078369
+21,El Paso,State Senator - District 11 - DEM,1078371
+21,El Paso,State Senator - District 35 - DEM,1078373
+21,El Paso,State Representative - District 14 - DEM,1078375
+21,El Paso,State Representative - District 15 - DEM,1078377
+21,El Paso,State Representative - District 16 - DEM,1078379
+21,El Paso,State Representative - District 17 - DEM,1078381
+21,El Paso,State Representative - District 18 - DEM,1078383
+21,El Paso,State Representative - District 21 - DEM,1078385
+21,El Paso,State Representative - District 22 - DEM,1078387
+21,El Paso,El Paso County Commissioner - District 1 - DEM,1078389
+21,El Paso,El Paso County Commissioner - District 5 - DEM,1078391
+21,El Paso,El Paso County Clerk and Recorder - DEM,1078393
+21,El Paso,El Paso County Assessor - DEM,1078395
+21,El Paso,El Paso County Sheriff - DEM,1078397
+21,El Paso,Secretary of State - LBR,1078399
+21,El Paso,United States Senator - REP,1078401
+21,El Paso,Representative to the 120th United States Congress - District 4 - REP,1078403
+21,El Paso,Representative to the 120th United States Congress - District 5 - REP,1078405
+21,El Paso,Representative to the 120th United States Congress - District 7 - REP,1078407
+21,El Paso,Governor - REP,1078409
+21,El Paso,Secretary of State - REP,1078411
+21,El Paso,State Treasurer - REP,1078413
+21,El Paso,Attorney General - REP,1078415
+21,El Paso,State Board of Education Member - Congressional District 7 - REP,1078417
+21,El Paso,Regent of the University of Colorado - Congressional District 7 - REP,1078419
+21,El Paso,State Senator - District 9 - REP,1078421
+21,El Paso,State Senator - District 11 - REP,1078423
+21,El Paso,State Senator - District 35 - REP,1078425
+21,El Paso,State Representative - District 14 - REP,1078427
+21,El Paso,State Representative - District 15 - REP,1078429
+21,El Paso,State Representative - District 16 - REP,1078431
+21,El Paso,State Representative - District 17 - REP,1078433
+21,El Paso,State Representative - District 18 - REP,1078435
+21,El Paso,State Representative - District 20 - REP,1078437
+21,El Paso,State Representative - District 21 - REP,1078439
+21,El Paso,State Representative - District 22 - REP,1078441
+21,El Paso,State Representative - District 56 - REP,1078443
+21,El Paso,El Paso County Commissioner - District 1 - REP,1078445
+21,El Paso,El Paso County Commissioner - District 5 - REP,1078447
+21,El Paso,El Paso County Clerk and Recorder - REP,1078449
+21,El Paso,El Paso County Treasurer - REP,1078451
+21,El Paso,El Paso County Assessor - REP,1078453
+21,El Paso,El Paso County Sheriff - REP,1078455
+21,El Paso,El Paso County Coroner - REP,1078457
+21,El Paso,Governor - UNI,1078459
+22,Fremont,United States Senator - DEM,82554
+22,Fremont,Representative to the 120th United States Congress - District 7 - DEM,82556
+22,Fremont,Governor - DEM,82558
+22,Fremont,Secretary of State - DEM (Fremont),82560
+22,Fremont,State Treasurer - DEM,82562
+22,Fremont,Attorney General - DEM,82564
+22,Fremont,State Board of Education Member - Congressional District 7 - DEM,82566
+22,Fremont,Regent of the University of Colorado - Congressional District 7 - DEM,82568
+22,Fremont,State Senator - District 4 - DEM,82570
+22,Fremont,State Representative - District 60 - DEM,82572
+22,Fremont,Secretary of State - LBR,82574
+22,Fremont,United States Senator - REP,82576
+22,Fremont,Representative to the 120th United States Congress - District 7 - REP,82578
+22,Fremont,Governor - REP,82580
+22,Fremont,Secretary of State - REP,82582
+22,Fremont,State Treasurer - REP,82584
+22,Fremont,Attorney General - REP (Fremont),82586
+22,Fremont,State Board of Education Member - Congressional District 7 - REP,82588
+22,Fremont,Regent of the University of Colorado - Congressional District 7 - REP,82590
+22,Fremont,State Senator - District 4 - REP,82592
+22,Fremont,State Representative - District 60 - REP,82594
+22,Fremont,Fremont County Board of County Commissioners - District 2 - REP,82596
+22,Fremont,Fremont County Clerk and Recorder - REP,82598
+22,Fremont,Fremont County Treasurer - REP,82600
+22,Fremont,Fremont County Assessor - REP,82602
+22,Fremont,Fremont County Sheriff - REP,82604
+22,Fremont,Fremont County Coroner - REP,82606
+22,Fremont,Governor - UNI,82608
+23,Garfield,United States Senator - DEM,361311
+23,Garfield,United States Senator - REP,361313
+23,Garfield,Representative to the 120th United States Congress - District 3 - DEM,361315
+23,Garfield,Representative to the 120th United States Congress - District 3 - REP,361317
+23,Garfield,Governor - DEM,361319
+23,Garfield,Governor - REP,361321
+23,Garfield,Governor - UNI,361323
+23,Garfield,Secretary of State - DEM (Garfield),361325
+23,Garfield,Secretary of State - REP,361327
+23,Garfield,Secretary of State - LBR,361329
+23,Garfield,State Treasurer - DEM,361331
+23,Garfield,State Treasurer - REP,361333
+23,Garfield,Attorney General - DEM,361335
+23,Garfield,Attorney General - REP (Garfield),361337
+23,Garfield,State Board of Education Member - Congressional District 3 - DEM,361339
+23,Garfield,State Board of Education Member - Congressional District 3 - REP,361341
+23,Garfield,State Senator - District 8 - DEM,361343
+23,Garfield,State Senator - District 8 - REP,361345
+23,Garfield,State Representative - District 57 - DEM,361347
+23,Garfield,State Representative - District 57 - REP,361349
+23,Garfield,County Commissioner - District 1 (DEM),361351
+23,Garfield,County Commissioner - District 1 (REP),361353
+23,Garfield,County Clerk & Recorder (REP),361355
+23,Garfield,Garfield County Treasurer (REP),361357
+23,Garfield,Garfield County Assessor (REP),361359
+23,Garfield,Garfield County Sheriff (REP),361361
+23,Garfield,County Coroner (REP),361363
+24,Gilpin,United States Senator - DEM,1057449
+24,Gilpin,Representative to the 120th United States Congress - District 2 - DEM,1057451
+24,Gilpin,Governor - DEM,1057453
+24,Gilpin,Secretary of State - DEM,1057455
+24,Gilpin,State Treasurer - DEM,1057457
+24,Gilpin,Attorney General - DEM (Gilpin),1057459
+24,Gilpin,Regent of the University of Colorado - Congressional District 2 - DEM,1057461
+24,Gilpin,State Senator - District 8 - DEM,1057463
+24,Gilpin,State Representative - District 49 - DEM,1057465
+24,Gilpin,County Commissioner - District 2 (DEM),1057467
+24,Gilpin,County Clerk and Recorder (DEM),1057469
+24,Gilpin,County Assessor (DEM),1057471
+24,Gilpin,County Sheriff (DEM),1057473
+24,Gilpin,County Surveyor (DEM),1057475
+24,Gilpin,County Coroner (DEM),1057477
+24,Gilpin,United States Senator - REP,1057479
+24,Gilpin,Representative to the 120th United States Congress - District 2 - REP,1057481
+24,Gilpin,Governor - REP,1057483
+24,Gilpin,Secretary of State - REP,1057485
+24,Gilpin,State Treasurer - REP,1057487
+24,Gilpin,Attorney General - REP (Gilpin),1057489
+24,Gilpin,Regent of the University of Colorado - Congressional District 2 - REP,1057491
+24,Gilpin,State Senator - District 8 - REP,1057493
+24,Gilpin,State Representative - District 49 - REP,1057495
+24,Gilpin,County Commissioner - District 2 (REP),1057497
+24,Gilpin,County Clerk and Recorder (REP),1057499
+24,Gilpin,Gilpin County Treasurer (REP),1057501
+24,Gilpin,Gilpin County Assessor (REP),1057503
+24,Gilpin,Gilpin County Sheriff (REP),1057505
+24,Gilpin,Secretary of State - LBR,1057507
+25,Grand,United States Senator - DEM,1622367
+25,Grand,Representative to the 120th United States Congress - District 2 - DEM,1622369
+25,Grand,Governor - DEM,1622371
+25,Grand,Secretary of State - DEM (Grand),1622373
+25,Grand,State Treasurer - DEM,1622375
+25,Grand,Attorney General - DEM,1622377
+25,Grand,Regent of the University of Colorado - Congressional District 2 - DEM,1622379
+25,Grand,State Senator - District 8 - DEM,1622381
+25,Grand,State Representative - District 13 - DEM,1622383
+25,Grand,Clerk and Recorder (DEM),1622385
+25,Grand,United States Senator - REP,1622387
+25,Grand,Representative to the 120th United States Congress - District 2 - REP,1622389
+25,Grand,Governor - REP,1622391
+25,Grand,Secretary of State - REP,1622393
+25,Grand,State Treasurer - REP,1622395
+25,Grand,Attorney General - REP (Grand),1622397
+25,Grand,Regent of the University of Colorado - Congressional District 2 - REP,1622399
+25,Grand,State Senator - District 8 - REP,1622401
+25,Grand,State Representative - District 13 - REP,1622403
+25,Grand,Commissioner - District 3 (REP),1622405
+25,Grand,Clerk and Recorder (REP),1622407
+25,Grand,Grand County Treasurer (REP),1622409
+25,Grand,Grand County Assessor (REP),1622411
+25,Grand,Grand County Sheriff (REP),1622413
+25,Grand,Surveyor (REP),1622415
+25,Grand,Grand County Coroner (REP),1622417
+25,Grand,Governor - UNI,1622419
+25,Grand,Secretary of State - LBR,1622421
+26,Gunnison,United States Senator - DEM,150202
+26,Gunnison,Representative to the 120th United States Congress - District 3 - DEM,150204
+26,Gunnison,Governor - DEM,150206
+26,Gunnison,Secretary of State - DEM (Gunnison),150208
+26,Gunnison,State Treasurer - DEM,150210
+26,Gunnison,Attorney General - DEM,150212
+26,Gunnison,State Board of Education Member - Congressional District 3 - DEM,150214
+26,Gunnison,State Representative - District 58 - DEM,150216
+26,Gunnison,Gunnison County Commissioner District 3 - DEM,150218
+26,Gunnison,Gunnison County Clerk and Recorder - DEM,150220
+26,Gunnison,Gunnison County Assessor - DEM,150222
+26,Gunnison,Gunnison County Coroner - DEM,150224
+26,Gunnison,Secretary of State - LBR,150226
+26,Gunnison,United States Senator - REP,150228
+26,Gunnison,Representative to the 120th United States Congress - District 3 - REP (Gunnison),150230
+26,Gunnison,Governor - REP,150232
+26,Gunnison,Secretary of State - REP,150234
+26,Gunnison,State Treasurer - REP,150236
+26,Gunnison,Attorney General - REP,150238
+26,Gunnison,State Board of Education Member - Congressional District 3 - REP,150240
+26,Gunnison,State Representative - District 58 - REP,150242
+26,Gunnison,Governor - UNI,150244
+27,Hinsdale,United States Senator - DEM,1056796
+27,Hinsdale,Representative to the 120th United States Congress - District 3 - DEM,1056798
+27,Hinsdale,Governor - DEM,1056800
+27,Hinsdale,Secretary of State - DEM,1056802
+27,Hinsdale,State Treasurer - DEM,1056804
+27,Hinsdale,Attorney General - DEM,1056806
+27,Hinsdale,State Board of Education Member - Congressional District 3 - DEM,1056808
+27,Hinsdale,State Representative - District 58 - DEM,1056810
+27,Hinsdale,Secretary of State - LBR,1056812
+27,Hinsdale,United States Senator - REP,1056814
+27,Hinsdale,Representative to the 120th United States Congress - District 3 - REP (Hinsdale),1056816
+27,Hinsdale,Governor - REP,1056818
+27,Hinsdale,Secretary of State - REP,1056820
+27,Hinsdale,State Treasurer - REP,1056822
+27,Hinsdale,Attorney General - REP,1056824
+27,Hinsdale,State Board of Education Member - Congressional District 3 - REP,1056826
+27,Hinsdale,State Representative - District 58 - REP,1056828
+27,Hinsdale,Hinsdale County Commissioner District 2 - REP,1056830
+27,Hinsdale,Hinsdale County Clerk and Recorder - REP,1056832
+27,Hinsdale,Hinsdale County Treasurer - REP,1056834
+27,Hinsdale,Hinsdale County Assessor - REP,1056836
+27,Hinsdale,Hinsdale County Sheriff - REP,1056838
+27,Hinsdale,Governor - UNI,1056840
+28,Huerfano,United States Senator - DEM,76970
+28,Huerfano,Representative to the 120th United States Congress - District 3 - DEM,76972
+28,Huerfano,Governor - DEM (Huerfano),76974
+28,Huerfano,Secretary of State - DEM,76976
+28,Huerfano,State Treasurer - DEM,76978
+28,Huerfano,Attorney General - DEM,76980
+28,Huerfano,State Board of Education Member - Congressional District 3 - DEM,76982
+28,Huerfano,State Senator - District 35 - DEM,76984
+28,Huerfano,State Representative - District 47 - DEM,76986
+28,Huerfano,State Representative - District 62 - DEM,76988
+28,Huerfano,Huerfano County Assessor - DEM,76990
+28,Huerfano,Huerfano County Sheriff - DEM,76992
+28,Huerfano,Secretary of State - LBR,76994
+28,Huerfano,United States Senator - REP,76996
+28,Huerfano,Representative to the 120th United States Congress - District 3 - REP,76998
+28,Huerfano,Governor - REP,77000
+28,Huerfano,Secretary of State - REP,77002
+28,Huerfano,State Treasurer - REP,77004
+28,Huerfano,Attorney General - REP,77006
+28,Huerfano,State Board of Education Member - Congressional District 3 - REP,77008
+28,Huerfano,State Senator - District 35 - REP,77010
+28,Huerfano,State Representative - District 47 - REP,77012
+28,Huerfano,State Representative - District 62 - REP,77014
+28,Huerfano,Huerfano County Commissioner - District 3 - REP,77016
+28,Huerfano,Huerfano County Sheriff - REP,77018
+28,Huerfano,Governor - UNI,77020
+29,Jackson,United States Senator - DEM,506886
+29,Jackson,Representative to the 120th United States Congress - District 2 - DEM,506888
+29,Jackson,Governor - DEM,506890
+29,Jackson,Secretary of State - DEM,506892
+29,Jackson,State Treasurer - DEM,506894
+29,Jackson,Attorney General - DEM,506896
+29,Jackson,Regent of the University of Colorado - Congressional District 2 - DEM,506898
+29,Jackson,State Senator - District 8 - DEM,506900
+29,Jackson,State Representative - District 13 - DEM,506902
+29,Jackson,Secretary of State - LBR,506904
+29,Jackson,United States Senator - REP,506906
+29,Jackson,Representative to the 120th United States Congress - District 2 - REP,506908
+29,Jackson,Governor - REP,506910
+29,Jackson,Secretary of State - REP,506912
+29,Jackson,State Treasurer - REP,506914
+29,Jackson,Attorney General - REP,506916
+29,Jackson,Regent of the University of Colorado - Congressional District 2 - REP,506918
+29,Jackson,State Senator - District 8 - REP,506920
+29,Jackson,State Representative - District 13 - REP,506922
+29,Jackson,Jackson County Commissioner 1 - REP,506924
+29,Jackson,Jackson County Clerk and Recorder - REP,506926
+29,Jackson,Jackson County Treasurer - REP,506928
+29,Jackson,Jackson County Assessor - REP,506930
+29,Jackson,Jackson County Sheriff - REP,506932
+29,Jackson,Jackson County Surveyor - REP,506934
+29,Jackson,Jackson County Coroner - REP,506936
+29,Jackson,Governor - UNI,506938
+30,Jefferson,United States Senator - DEM,856945
+30,Jefferson,Representative to the 120th United States Congress - District 1 - DEM,856947
+30,Jefferson,Representative to the 120th United States Congress - District 2 - DEM,856950
+30,Jefferson,Representative to the 120th United States Congress - District 6 - DEM,856952
+30,Jefferson,Representative to the 120th United States Congress - District 7 - DEM,856954
+30,Jefferson,Governor - DEM,856956
+30,Jefferson,Secretary of State - DEM,856958
+30,Jefferson,State Treasurer - DEM,856960
+30,Jefferson,Attorney General - DEM,856962
+30,Jefferson,State Board of Education Member - Congressional District 1 - DEM,856964
+30,Jefferson,State Board of Education Member - Congressional District 7 - DEM,856966
+30,Jefferson,Regent of the University of Colorado - Congressional District 2 - DEM,856968
+30,Jefferson,Regent of the University of Colorado - Congressional District 6 - DEM,856970
+30,Jefferson,Regent of the University of Colorado - Congressional District 7 - DEM,856972
+30,Jefferson,State Senator - District 4 - DEM,856974
+30,Jefferson,State Senator - District 20 - DEM,856976
+30,Jefferson,State Senator - District 22 - DEM,856978
+30,Jefferson,State Senator - District 32 - DEM,856980
+30,Jefferson,State Representative - District 1 - DEM,856982
+30,Jefferson,State Representative - District 23 - DEM,856984
+30,Jefferson,State Representative - District 24 - DEM,856986
+30,Jefferson,State Representative - District 25 - DEM,856988
+30,Jefferson,State Representative - District 27 - DEM,856990
+30,Jefferson,State Representative - District 28 - DEM,856992
+30,Jefferson,State Representative - District 29 - DEM,856994
+30,Jefferson,State Representative - District 30 - DEM,856996
+30,Jefferson,State Representative - District 35 - DEM,856998
+30,Jefferson,State Representative - District 38 - DEM,857000
+30,Jefferson,Jefferson County Commissioner - District 3 - DEM,857002
+30,Jefferson,Jefferson County Clerk and Recorder - DEM,857004
+30,Jefferson,Jefferson County Treasurer - DEM,857006
+30,Jefferson,Jefferson County Assessor - DEM,857008
+30,Jefferson,Jefferson County Sheriff - DEM,857010
+30,Jefferson,Jefferson County Coroner - DEM,857012
+30,Jefferson,United States Senator - REP,857014
+30,Jefferson,Representative to the 120th United States Congress - District 1 - REP,857016
+30,Jefferson,Representative to the 120th United States Congress - District 2 - REP,857018
+30,Jefferson,Representative to the 120th United States Congress - District 6 - REP,857020
+30,Jefferson,Representative to the 120th United States Congress - District 7 - REP,857022
+30,Jefferson,Governor - REP (Jefferson),857024
+30,Jefferson,Secretary of State - REP,857026
+30,Jefferson,State Treasurer - REP,857028
+30,Jefferson,Attorney General - REP,857030
+30,Jefferson,State Board of Education Member - Congressional District 1 - REP,857032
+30,Jefferson,State Board of Education Member - Congressional District 7 - REP,857034
+30,Jefferson,Regent of the University of Colorado - Congressional District 2 - REP,857036
+30,Jefferson,Regent of the University of Colorado - Congressional District 6 - REP,857038
+30,Jefferson,Regent of the University of Colorado - Congressional District 7 - REP,857040
+30,Jefferson,State Senator - District 4 - REP,857042
+30,Jefferson,State Senator - District 20 - REP,857044
+30,Jefferson,State Senator - District 22 - REP,857046
+30,Jefferson,State Senator - District 32 - REP,857048
+30,Jefferson,State Representative - District 1 - REP,857050
+30,Jefferson,State Representative - District 24 - REP,857052
+30,Jefferson,State Representative - District 25 - REP,857054
+30,Jefferson,State Representative - District 27 - REP,857056
+30,Jefferson,State Representative - District 29 - REP,857058
+30,Jefferson,State Representative - District 30 - REP,857060
+30,Jefferson,Jefferson County Commissioner - District 3 - REP,857062
+30,Jefferson,Jefferson County Clerk and Recorder - REP,857064
+30,Jefferson,Jefferson County Treasurer - REP,857066
+30,Jefferson,Jefferson County Assessor - REP,857068
+30,Jefferson,Jefferson County Sheriff - REP,857070
+30,Jefferson,Jefferson County Surveyor - REP,857072
+30,Jefferson,Jefferson County Coroner - REP,857074
+30,Jefferson,Secretary of State - LBR,857076
+30,Jefferson,Governor - UNI,857078
+31,Kiowa,United States Senator - DEM,3223
+31,Kiowa,Representative to the 120th United States Congress - District 4 - DEM,3225
+31,Kiowa,Governor - DEM,3227
+31,Kiowa,Secretary of State - DEM,3229
+31,Kiowa,State Treasurer - DEM,3231
+31,Kiowa,Attorney General - DEM,3233
+31,Kiowa,State Senator - District 35 - DEM,3235
+31,Kiowa,State Representative - District 47 - DEM,3237
+31,Kiowa,Secretary of State - LBR,3239
+31,Kiowa,United States Senator - REP,3241
+31,Kiowa,Representative to the 120th United States Congress - District 4 - REP,3243
+31,Kiowa,Governor - REP,3245
+31,Kiowa,Secretary of State - REP,3247
+31,Kiowa,State Treasurer - REP,3249
+31,Kiowa,Attorney General - REP,3251
+31,Kiowa,State Senator - District 35 - REP,3253
+31,Kiowa,State Representative - District 47 - REP,3255
+31,Kiowa,Kiowa County Commissioner - District 2 - REP,3257
+31,Kiowa,Kiowa County Clerk and Recorder - REP,3259
+31,Kiowa,Kiowa County Treasurer - REP,3261
+31,Kiowa,Kiowa County Assessor - REP,3263
+31,Kiowa,Kiowa County Sheriff - REP,3265
+31,Kiowa,Kiowa County Coroner - REP,3267
+31,Kiowa,Governor - UNI,3269
+32,Kit Carson,United States Senator - DEM,106656
+32,Kit Carson,Representative to the 120th United States Congress - District 4 - DEM,106658
+32,Kit Carson,Governor - DEM,106660
+32,Kit Carson,Secretary of State - DEM,106662
+32,Kit Carson,State Treasurer - DEM,106664
+32,Kit Carson,Attorney General - DEM,106666
+32,Kit Carson,State Senator - District 35 - DEM,106668
+32,Kit Carson,Kit Carson County Assessor - DEM,106670
+32,Kit Carson,Secretary of State - LBR,106672
+32,Kit Carson,United States Senator - REP,106674
+32,Kit Carson,Representative to the 120th United States Congress - District 4 - REP,106676
+32,Kit Carson,Governor - REP,106678
+32,Kit Carson,Secretary of State - REP,106680
+32,Kit Carson,State Treasurer - REP,106682
+32,Kit Carson,Attorney General - REP (Kit Carson),106684
+32,Kit Carson,State Senator - District 35 - REP,106686
+32,Kit Carson,State Representative - District 56 - REP,106688
+32,Kit Carson,Kit Carson County Commissioner - District 2 - REP,106690
+32,Kit Carson,Kit Carson County Clerk and Recorder - REP,106692
+32,Kit Carson,Kit Carson County Treasurer - REP,106694
+32,Kit Carson,Kit Carson County Assessor - REP,106696
+32,Kit Carson,Kit Carson County Sheriff - REP,106698
+32,Kit Carson,Kit Carson County Coroner - REP,106700
+32,Kit Carson,Governor - UNI,106702
+33,Lake,United States Senator - DEM,969992
+33,Lake,Representative to the 120th United States Congress - District 7 - DEM,969994
+33,Lake,Governor - DEM,969996
+33,Lake,Secretary of State - DEM,969998
+33,Lake,State Treasurer - DEM,970000
+33,Lake,Attorney General - DEM,970002
+33,Lake,State Board of Education Member - Congressional District 7 - DEM,970004
+33,Lake,Regent of the University of Colorado - Congressional District 7 - DEM,970007
+33,Lake,State Senator - District 4 - DEM,970014
+33,Lake,State Representative - District 13 - DEM,970021
+33,Lake,Lake County Commissioner District 1 - DEM,970028
+33,Lake,Lake County Clerk and Recorder - DEM,970035
+33,Lake,Lake County Treasurer - DEM,970042
+33,Lake,Lake County Coroner - DEM,970048
+33,Lake,Secretary of State - LBR,970055
+33,Lake,United States Senator - REP,970062
+33,Lake,Representative to the 120th United States Congress - District 7 - REP,970067
+33,Lake,Governor - REP,970074
+33,Lake,Secretary of State - REP,970080
+33,Lake,State Treasurer - REP,970087
+33,Lake,Attorney General - REP,970093
+33,Lake,State Board of Education Member - Congressional District 7 - REP,970100
+33,Lake,Regent of the University of Colorado - Congressional District 7 - REP,970106
+33,Lake,State Senator - District 4 - REP,970112
+33,Lake,State Representative - District 13 - REP,970118
+33,Lake,Lake County Commissioner District 1 - REP,970122
+33,Lake,Lake County Clerk and Recorder - REP,970124
+33,Lake,Lake County Sheriff - REP,970126
+33,Lake,Governor - UNI,970128
+34,La Plata,United States Senator - DEM,11045
+34,La Plata,Representative to the 120th United States Congress - District 3 - DEM (La Plata),11047
+34,La Plata,Governor - DEM,11049
+34,La Plata,Secretary of State - DEM,11051
+34,La Plata,State Treasurer - DEM,11053
+34,La Plata,Attorney General - DEM,11055
+34,La Plata,State Board of Education Member - Congressional District 3 - DEM,11057
+34,La Plata,State Representative - District 59 - DEM,11059
+34,La Plata,La Plata County Commissioner District 1 - DEM,11061
+34,La Plata,La Plata County Treasurer - DEM,11063
+34,La Plata,La Plata County Assessor - DEM,11065
+34,La Plata,La Plata County Sheriff - DEM,11067
+34,La Plata,La Plata County Coroner - DEM,11069
+34,La Plata,Secretary of State - LBR,11071
+34,La Plata,United States Senator - REP,11073
+34,La Plata,Representative to the 120th United States Congress - District 3 - REP (La Plata),11075
+34,La Plata,Governor - REP,11077
+34,La Plata,Secretary of State - REP,11079
+34,La Plata,State Treasurer - REP,11081
+34,La Plata,Attorney General - REP,11083
+34,La Plata,State Board of Education Member - Congressional District 3 - REP,11085
+34,La Plata,State Representative - District 59 - REP,11087
+34,La Plata,La Plata County Surveyor - REP,11089
+34,La Plata,La Plata County Coroner - REP,11091
+34,La Plata,Governor - UNI,11093
+34,La Plata,City of Durango Ballot Issue 2A,11095
+35,Larimer,United States Senator - DEM,1379635
+35,Larimer,Representative to the 120th United States Congress - District 2 - DEM,1379637
+35,Larimer,Representative to the 120th United States Congress - District 4 - DEM,1379639
+35,Larimer,Representative to the 120th United States Congress - District 8 - DEM,1379641
+35,Larimer,Governor - DEM (Larimer),1379643
+35,Larimer,Secretary of State - DEM,1379645
+35,Larimer,State Treasurer - DEM,1379647
+35,Larimer,Attorney General - DEM,1379649
+35,Larimer,Regent of the University of Colorado - Congressional District 2 - DEM,1379651
+35,Larimer,State Senator - District 15 - DEM,1379653
+35,Larimer,State Representative - District 49 - DEM,1379655
+35,Larimer,State Representative - District 51 - DEM,1379657
+35,Larimer,State Representative - District 52 - DEM,1379659
+35,Larimer,State Representative - District 53 - DEM,1379661
+35,Larimer,State Representative - District 64 - DEM,1379663
+35,Larimer,Larimer County Commissioner - District 1 - DEM,1379665
+35,Larimer,Larimer County Clerk and Recorder - DEM,1379667
+35,Larimer,Larimer County Treasurer - DEM,1379669
+35,Larimer,Larimer County Assessor - DEM,1379671
+35,Larimer,Larimer County Coroner - DEM,1379673
+35,Larimer,Secretary of State - LBR,1379675
+35,Larimer,United States Senator - REP,1379677
+35,Larimer,Representative to the 120th United States Congress - District 2 - REP,1379679
+35,Larimer,Representative to the 120th United States Congress - District 4 - REP,1379681
+35,Larimer,Representative to the 120th United States Congress - District 8 - REP,1379683
+35,Larimer,Governor - REP,1379685
+35,Larimer,Secretary of State - REP,1379687
+35,Larimer,State Treasurer - REP,1379689
+35,Larimer,Attorney General - REP,1379691
+35,Larimer,Regent of the University of Colorado - Congressional District 2 - REP,1379693
+35,Larimer,State Senator - District 15 - REP,1379695
+35,Larimer,State Representative - District 49 - REP,1379697
+35,Larimer,State Representative - District 51 - REP,1379699
+35,Larimer,State Representative - District 53 - REP,1379701
+35,Larimer,State Representative - District 64 - REP,1379703
+35,Larimer,State Representative - District 65 - REP,1379705
+35,Larimer,Larimer County Commissioner - District 1 - REP,1379707
+35,Larimer,Larimer County Clerk and Recorder - REP,1379709
+35,Larimer,Larimer County Treasurer - REP,1379711
+35,Larimer,Larimer County Assessor - REP,1379713
+35,Larimer,Larimer County Sheriff - REP,1379715
+35,Larimer,Larimer County Surveyor - REP,1379717
+35,Larimer,Governor - UNI,1379719
+36,Las Animas,United States Senator - DEM,95857
+36,Las Animas,Representative to the 120th United States Congress - District 3 - DEM (Las Animas),95859
+36,Las Animas,Governor - DEM,95861
+36,Las Animas,Secretary of State - DEM,95863
+36,Las Animas,State Treasurer - DEM,95865
+36,Las Animas,Attorney General - DEM,95867
+36,Las Animas,State Board of Education Member - Congressional District 3 - DEM,95869
+36,Las Animas,State Senator - District 35 - DEM,95871
+36,Las Animas,State Representative - District 47 - DEM,95873
+36,Las Animas,Las Animas County Commissioner District 3 - DEM,95875
+36,Las Animas,Las Animas County Clerk and Recorder - DEM,95877
+36,Las Animas,Las Animas County Treasurer - DEM,95879
+36,Las Animas,Las Animas County Sheriff - DEM,95881
+36,Las Animas,Las Animas County Coroner - DEM,95883
+36,Las Animas,Secretary of State - LBR,95885
+36,Las Animas,United States Senator - REP,95887
+36,Las Animas,Representative to the 120th United States Congress - District 3 - REP,95889
+36,Las Animas,Governor - REP,95891
+36,Las Animas,Secretary of State - REP,95893
+36,Las Animas,State Treasurer - REP,95895
+36,Las Animas,Attorney General - REP (Las Animas),95897
+36,Las Animas,State Board of Education Member - Congressional District 3 - REP,95899
+36,Las Animas,State Senator - District 35 - REP,95901
+36,Las Animas,State Representative - District 47 - REP,95903
+36,Las Animas,Las Animas County Commissioner District 3 - REP,95905
+36,Las Animas,Las Animas County Clerk and Recorder - REP,95907
+36,Las Animas,Las Animas County Treasurer - REP,95909
+36,Las Animas,Las Animas County Assessor - REP,95911
+36,Las Animas,Las Animas County Sheriff - REP,95913
+36,Las Animas,Las Animas County Coroner - REP,95915
+36,Las Animas,Governor - UNI,95917
+37,Lincoln,United States Senator - DEM,1374563
+37,Lincoln,Representative to the 120th United States Congress - District 4 - DEM,1374565
+37,Lincoln,Governor - DEM,1374567
+37,Lincoln,Secretary of State - DEM,1374569
+37,Lincoln,State Treasurer - DEM,1374571
+37,Lincoln,Attorney General - DEM,1374573
+37,Lincoln,State Senator - District 35 - DEM,1374575
+37,Lincoln,United States Senator - REP,1374577
+37,Lincoln,Representative to the 120th United States Congress - District 4 - REP,1374579
+37,Lincoln,Governor - REP,1374581
+37,Lincoln,Secretary of State - REP,1374583
+37,Lincoln,State Treasurer - REP,1374585
+37,Lincoln,Attorney General - REP (Lincoln),1374587
+37,Lincoln,State Senator - District 35 - REP,1374589
+37,Lincoln,State Representative - District 56 - REP,1374591
+37,Lincoln,Lincoln County Commissioner - District 1 - REP,1374593
+37,Lincoln,Lincoln County Clerk and Recorder - REP,1374595
+37,Lincoln,Lincoln County Treasurer - REP,1374597
+37,Lincoln,Lincoln County Assessor - REP,1374599
+37,Lincoln,Lincoln County Sheriff - REP,1374601
+37,Lincoln,Lincoln County Coroner - REP,1374603
+37,Lincoln,Secretary of State - LBR,1374605
+37,Lincoln,Governor - UNI,1374607
+38,Logan,United States Senator - DEM,1051477
+38,Logan,Representative to the 120th United States Congress - District 4 - DEM,1051479
+38,Logan,Governor - DEM,1051481
+38,Logan,Secretary of State - DEM,1051483
+38,Logan,State Treasurer - DEM,1051485
+38,Logan,Attorney General - DEM (Logan),1051487
+38,Logan,State Senator - District 1 - DEM,1051489
+38,Logan,Secretary of State - LBR,1051491
+38,Logan,United States Senator - REP,1051493
+38,Logan,Representative to the 120th United States Congress - District 4 - REP,1051495
+38,Logan,Governor - REP,1051497
+38,Logan,Secretary of State - REP,1051499
+38,Logan,State Treasurer - REP,1051501
+38,Logan,Attorney General - REP (Logan),1051503
+38,Logan,State Senator - District 1 - REP,1051505
+38,Logan,State Representative - District 63 - REP,1051507
+38,Logan,Logan County Commissioner - District 3 - REP,1051509
+38,Logan,Logan County Clerk and Recorder - REP,1051511
+38,Logan,Logan County Treasurer - REP,1051513
+38,Logan,Logan County Assessor - REP,1051515
+38,Logan,Logan County Sheriff - REP,1051517
+38,Logan,Governor - UNI,1051519
+39,Mesa,United States Senator - DEM,29062
+39,Mesa,Representative to the 120th United States Congress - District 3 - DEM,29064
+39,Mesa,Governor - DEM (Mesa),29066
+39,Mesa,Secretary of State - DEM,29068
+39,Mesa,State Treasurer - DEM,29070
+39,Mesa,Attorney General - DEM,29072
+39,Mesa,State Board of Education Member - Congressional District 3 - DEM,29074
+39,Mesa,State Representative - District 54 - DEM,29076
+39,Mesa,State Representative - District 55 - DEM,29078
+39,Mesa,Mesa County Treasurer - DEM,29080
+39,Mesa,Secretary of State - LBR,29082
+39,Mesa,United States Senator - REP,29084
+39,Mesa,Representative to the 120th United States Congress - District 3 - REP,29086
+39,Mesa,Governor - REP,29088
+39,Mesa,Secretary of State - REP,29090
+39,Mesa,State Treasurer - REP,29092
+39,Mesa,Attorney General - REP (Mesa),29094
+39,Mesa,State Board of Education Member - Congressional District 3 - REP,29096
+39,Mesa,State Senator - District 7 - REP,29098
+39,Mesa,State Representative - District 54 - REP,29100
+39,Mesa,State Representative - District 55 - REP,29102
+39,Mesa,Mesa County Commissioner - District 2 - REP,29104
+39,Mesa,Mesa County Clerk and Recorder - REP,29106
+39,Mesa,Mesa County Treasurer - REP,29108
+39,Mesa,Mesa County Assessor - REP,29110
+39,Mesa,Mesa County Sheriff - REP,29112
+39,Mesa,Mesa County Surveyor - REP,29114
+39,Mesa,Mesa County Coroner - REP,29116
+39,Mesa,Governor - UNI,29118
+40,Mineral,United States Senator - DEM,503277
+40,Mineral,Representative to the 120th United States Congress - District 3 - DEM,503279
+40,Mineral,Governor - DEM,503281
+40,Mineral,Secretary of State - DEM,503283
+40,Mineral,State Treasurer - DEM,503285
+40,Mineral,Attorney General - DEM (Mineral),503287
+40,Mineral,State Board of Education Member - Congressional District 3 - DEM,503289
+40,Mineral,State Representative - District 62 - DEM,503291
+40,Mineral,Mineral County Commissioner - District 1 - DEM,503293
+40,Mineral,Mineral County Coroner - DEM,503295
+40,Mineral,Secretary of State - LBR,503297
+40,Mineral,United States Senator - REP,503299
+40,Mineral,Representative to the 120th United States Congress - District 3 - REP (Mineral),503301
+40,Mineral,Governor - REP,503303
+40,Mineral,Secretary of State - REP,503305
+40,Mineral,State Treasurer - REP,503307
+40,Mineral,Attorney General - REP,503309
+40,Mineral,State Board of Education Member - Congressional District 3 - REP,503311
+40,Mineral,State Representative - District 62 - REP,503313
+40,Mineral,Mineral County Clerk and Recorder - REP,503315
+40,Mineral,Mineral County Assessor - REP,503317
+40,Mineral,Governor - UNI,503319
+41,Moffat,United States Senator - DEM,1604266
+41,Moffat,Representative to the 120th United States Congress - District 3 - DEM,1604268
+41,Moffat,Governor - DEM,1604270
+41,Moffat,Secretary of State - DEM,1604272
+41,Moffat,State Treasurer - DEM,1604274
+41,Moffat,Attorney General - DEM,1604276
+41,Moffat,State Board of Education Member - Congressional District 3 - DEM,1604278
+41,Moffat,State Senator - District 8 - DEM,1604280
+41,Moffat,State Representative - District 26 - DEM,1604282
+41,Moffat,Secretary of State - LBR,1604284
+41,Moffat,United States Senator - REP,1604286
+41,Moffat,Representative to the 120th United States Congress - District 3 - REP,1604288
+41,Moffat,Governor - REP,1604290
+41,Moffat,Secretary of State - REP,1604292
+41,Moffat,State Treasurer - REP,1604294
+41,Moffat,Attorney General - REP,1604296
+41,Moffat,State Board of Education Member - Congressional District 3 - REP,1604298
+41,Moffat,State Senator - District 8 - REP,1604300
+41,Moffat,State Representative - District 26 - REP,1604302
+41,Moffat,Moffat County Commissioner District 3 - REP,1604304
+41,Moffat,Moffat County Clerk and Recorder - REP,1604306
+41,Moffat,Moffat County Treasurer - REP,1604308
+41,Moffat,Moffat County Assessor - REP,1604310
+41,Moffat,Moffat County Sheriff - REP,1604312
+41,Moffat,Moffat County Surveyor - REP,1604314
+41,Moffat,Moffat County Coroner - REP,1604316
+41,Moffat,Governor - UNI,1604318
+42,Montezuma,United States Senator - DEM,1059638
+42,Montezuma,Representative to the 120th United States Congress - District 3 - DEM,1059640
+42,Montezuma,Governor - DEM,1059642
+42,Montezuma,Secretary of State - DEM,1059644
+42,Montezuma,State Treasurer - DEM,1059646
+42,Montezuma,Attorney General - DEM (Montezuma),1059648
+42,Montezuma,State Board of Education Member - Congressional District 3 - DEM,1059650
+42,Montezuma,State Representative - District 58 - DEM,1059652
+42,Montezuma,State Representative - District 59 - DEM,1059654
+42,Montezuma,Montezuma County Commissioner District 1 - DEM,1059656
+42,Montezuma,Secretary of State - LBR,1059658
+42,Montezuma,United States Senator - REP,1059660
+42,Montezuma,Representative to the 120th United States Congress - District 3 - REP,1059662
+42,Montezuma,Governor - REP,1059664
+42,Montezuma,Secretary of State - REP,1059666
+42,Montezuma,State Treasurer - REP,1059668
+42,Montezuma,Attorney General - REP,1059670
+42,Montezuma,State Board of Education Member - Congressional District 3 - REP,1059672
+42,Montezuma,State Representative - District 58 - REP,1059674
+42,Montezuma,State Representative - District 59 - REP,1059676
+42,Montezuma,Montezuma County Commissioner District 1 - REP,1059678
+42,Montezuma,Montezuma County Clerk and Recorder - REP,1059680
+42,Montezuma,Montezuma County Treasurer - REP,1059682
+42,Montezuma,Montezuma County Sheriff - REP,1059684
+42,Montezuma,Montezuma County Coroner - REP,1059686
+42,Montezuma,Governor - UNI,1059688
+43,Montrose,United States Senator - DEM,134502
+43,Montrose,Representative to the 120th United States Congress - District 3 - DEM,134504
+43,Montrose,Governor - DEM,134506
+43,Montrose,Secretary of State - DEM (Montrose),134508
+43,Montrose,State Treasurer - DEM,134510
+43,Montrose,Attorney General - DEM,134512
+43,Montrose,State Board of Education Member - Congressional District 3 - DEM,134514
+43,Montrose,State Representative - District 58 - DEM,134516
+43,Montrose,Secretary of State - LBR,134518
+43,Montrose,United States Senator - REP,134520
+43,Montrose,Representative to the 120th United States Congress - District 3 - REP,134522
+43,Montrose,Governor - REP (Montrose),134524
+43,Montrose,Secretary of State - REP,134526
+43,Montrose,State Treasurer - REP,134528
+43,Montrose,Attorney General - REP,134530
+43,Montrose,State Board of Education Member - Congressional District 3 - REP,134532
+43,Montrose,State Representative - District 58 - REP,134534
+43,Montrose,Montrose County Commissioner - District 2 - REP,134536
+43,Montrose,Montrose County Commissioner - District 3 - REP,134538
+43,Montrose,Montrose County Clerk and Recorder - REP,134540
+43,Montrose,Montrose County Treasurer - REP,134542
+43,Montrose,Montrose County Assessor - REP,134544
+43,Montrose,Montrose County Sheriff - REP,134546
+43,Montrose,Montrose County Surveyor - REP,134548
+43,Montrose,Montrose County Coroner - REP,134550
+43,Montrose,Governor - UNI,134552
+44,Morgan,United States Senator - DEM,5186
+44,Morgan,Representative to the 120th United States Congress - District 4 - DEM,5188
+44,Morgan,Governor - DEM,5190
+44,Morgan,Secretary of State - DEM,5192
+44,Morgan,State Treasurer - DEM,5194
+44,Morgan,Attorney General - DEM (Morgan),5196
+44,Morgan,State Senator - District 1 - DEM,5198
+44,Morgan,Secretary of State - LBR,5200
+44,Morgan,United States Senator - REP,5202
+44,Morgan,Representative to the 120th United States Congress - District 4 - REP,5204
+44,Morgan,Governor - REP,5206
+44,Morgan,Secretary of State - REP,5208
+44,Morgan,State Treasurer - REP,5210
+44,Morgan,Attorney General - REP (Morgan),5212
+44,Morgan,State Senator - District 1 - REP,5214
+44,Morgan,State Representative - District 63 - REP,5216
+44,Morgan,Morgan County Commissioner District 2 - REP,5218
+44,Morgan,Morgan County Clerk and Recorder - REP,5220
+44,Morgan,Morgan County Treasurer - REP,5222
+44,Morgan,Morgan County Assessor - REP,5224
+44,Morgan,Morgan County Sheriff - REP,5226
+44,Morgan,Morgan County Coroner - REP,5228
+44,Morgan,Governor - UNI,5230
+45,Otero,United States Senator - DEM,1490098
+45,Otero,Representative to the 120th United States Congress - District 3 - DEM (Otero),1490100
+45,Otero,Governor - DEM,1490102
+45,Otero,Secretary of State - DEM,1490104
+45,Otero,State Treasurer - DEM,1490106
+45,Otero,Attorney General - DEM,1490108
+45,Otero,State Board of Education Member - Congressional District 3 - DEM,1490110
+45,Otero,State Senator - District 35 - DEM,1490112
+45,Otero,State Representative - District 47 - DEM,1490114
+45,Otero,United States Senator - REP,1490116
+45,Otero,Representative to the 120th United States Congress - District 3 - REP,1490118
+45,Otero,Governor - REP (Otero),1490120
+45,Otero,Secretary of State - REP,1490122
+45,Otero,State Treasurer - REP,1490124
+45,Otero,Attorney General - REP,1490126
+45,Otero,State Board of Education Member - Congressional District 3 - REP,1490128
+45,Otero,State Senator - District 35 - REP,1490130
+45,Otero,State Representative - District 47 - REP,1490132
+45,Otero,Commissioner - District 2 (REP),1490134
+45,Otero,Clerk & Recorder (REP),1490136
+45,Otero,Otero County Treasurer (REP),1490138
+45,Otero,Otero County Assessor (REP),1490140
+45,Otero,Otero County Sheriff (REP),1490142
+45,Otero,Otero County Coroner (REP),1490144
+45,Otero,Secretary of State - LBR,1490146
+46,Ouray,United States Senator - DEM,104413
+46,Ouray,Representative to the 120th United States Congress - District 3 - DEM,104415
+46,Ouray,Governor - DEM (Ouray),104417
+46,Ouray,Secretary of State - DEM,104419
+46,Ouray,State Treasurer - DEM,104421
+46,Ouray,Attorney General - DEM,104423
+46,Ouray,State Board of Education Member - Congressional District 3 - DEM,104425
+46,Ouray,State Representative - District 58 - DEM,104427
+46,Ouray,Ouray County Commissioner - District 2 - DEM,104429
+46,Ouray,Secretary of State - LBR,104431
+46,Ouray,United States Senator - REP,104433
+46,Ouray,Representative to the 120th United States Congress - District 3 - REP (Ouray),104435
+46,Ouray,Governor - REP,104437
+46,Ouray,Secretary of State - REP,104439
+46,Ouray,State Treasurer - REP,104441
+46,Ouray,Attorney General - REP,104443
+46,Ouray,State Board of Education Member - Congressional District 3 - REP,104445
+46,Ouray,State Representative - District 58 - REP,104447
+46,Ouray,Governor - UNI,104449
+47,Park,United States Senator - DEM,1031771
+47,Park,Representative to the 120th United States Congress - District 7 - DEM,1031773
+47,Park,Governor - DEM,1031775
+47,Park,Secretary of State - DEM (Park),1031777
+47,Park,State Treasurer - DEM,1031779
+47,Park,Attorney General - DEM,1031781
+47,Park,State Board of Education Member - Congressional District 7 - DEM,1031783
+47,Park,Regent of the University of Colorado - Congressional District 7 - DEM,1031785
+47,Park,State Senator - District 4 - DEM,1031787
+47,Park,State Representative - District 13 - DEM,1031789
+47,Park,Park County Commissioner District 3 - DEM,1031791
+47,Park,Park County Clerk and Recorder - DEM,1031793
+47,Park,Park County Treasurer - DEM,1031795
+47,Park,Park County Assessor - DEM,1031797
+47,Park,Park County Sheriff - DEM,1031799
+47,Park,Park County Coroner - DEM,1031801
+47,Park,Secretary of State - LBR,1031803
+47,Park,United States Senator - REP,1031805
+47,Park,Representative to the 120th United States Congress - District 7 - REP,1031807
+47,Park,Governor - REP,1031809
+47,Park,Secretary of State - REP,1031811
+47,Park,State Treasurer - REP,1031813
+47,Park,Attorney General - REP,1031815
+47,Park,State Board of Education Member - Congressional District 7 - REP,1031817
+47,Park,Regent of the University of Colorado - Congressional District 7 - REP,1031819
+47,Park,State Senator - District 4 - REP,1031821
+47,Park,State Representative - District 13 - REP,1031823
+47,Park,Park County Commissioner District 3 - REP,1031825
+47,Park,Park County Clerk and Recorder - REP,1031827
+47,Park,Park County Treasurer - REP,1031829
+47,Park,Park County Assessor - REP,1031831
+47,Park,Park County Sheriff - REP,1031833
+47,Park,Park County Surveyor - REP,1031835
+47,Park,Park County Coroner - REP,1031837
+47,Park,Governor - UNI,1031839
+48,Phillips,United States Senator - DEM,1029794
+48,Phillips,Representative to the 120th United States Congress - District 4 - DEM,1029796
+48,Phillips,Governor - DEM,1029798
+48,Phillips,Secretary of State - DEM,1029800
+48,Phillips,State Treasurer - DEM,1029802
+48,Phillips,Attorney General - DEM,1029804
+48,Phillips,State Senator - District 1 - DEM,1029806
+48,Phillips,Secretary of State - LBR,1029808
+48,Phillips,United States Senator - REP,1029810
+48,Phillips,Representative to the 120th United States Congress - District 4 - REP,1029812
+48,Phillips,Governor - REP,1029814
+48,Phillips,Secretary of State - REP,1029816
+48,Phillips,State Treasurer - REP,1029818
+48,Phillips,Attorney General - REP (Phillips),1029820
+48,Phillips,State Senator - District 1 - REP,1029822
+48,Phillips,State Representative - District 63 - REP,1029824
+48,Phillips,Phillips County Commissioner - District 1 - REP,1029826
+48,Phillips,Phillips County Treasurer - REP,1029828
+48,Phillips,Phillips County Assessor - REP,1029830
+48,Phillips,Phillips County Sheriff - REP,1029832
+48,Phillips,Governor - UNI,1029834
+49,Pitkin,United States Senator - DEM,119262
+49,Pitkin,Representative to the 120th United States Congress - District 3 - DEM,119264
+49,Pitkin,Governor - DEM,119266
+49,Pitkin,Secretary of State - DEM (Pitkin),119268
+49,Pitkin,State Treasurer - DEM,119270
+49,Pitkin,Attorney General - DEM,119272
+49,Pitkin,State Board of Education Member - Congressional District 3 - DEM,119274
+49,Pitkin,State Representative - District 57 - DEM,119276
+49,Pitkin,Secretary of State - LBR,119278
+49,Pitkin,United States Senator - REP,119280
+49,Pitkin,Representative to the 120th United States Congress - District 3 - REP (Pitkin),119282
+49,Pitkin,Governor - REP,119284
+49,Pitkin,Secretary of State - REP,119286
+49,Pitkin,State Treasurer - REP,119288
+49,Pitkin,Attorney General - REP,119290
+49,Pitkin,State Board of Education Member - Congressional District 3 - REP,119292
+49,Pitkin,State Representative - District 57 - REP,119294
+49,Pitkin,Governor - UNI,119296
+49,Pitkin,Pitkin County Commissioner - District 1,119298
+50,Prowers,United States Senator - DEM,1045571
+50,Prowers,Representative to the 120th United States Congress - District 4 - DEM,1045573
+50,Prowers,Governor - DEM,1045575
+50,Prowers,Secretary of State - DEM,1045577
+50,Prowers,State Treasurer - DEM,1045579
+50,Prowers,Attorney General - DEM (Prowers),1045581
+50,Prowers,State Senator - District 35 - DEM,1045583
+50,Prowers,State Representative - District 47 - DEM,1045585
+50,Prowers,Secretary of State - LBR,1045587
+50,Prowers,United States Senator - REP,1045589
+50,Prowers,Representative to the 120th United States Congress - District 4 - REP,1045591
+50,Prowers,Governor - REP,1045593
+50,Prowers,Secretary of State - REP,1045595
+50,Prowers,State Treasurer - REP,1045597
+50,Prowers,Attorney General - REP (Prowers),1045599
+50,Prowers,State Senator - District 35 - REP,1045601
+50,Prowers,State Representative - District 47 - REP,1045603
+50,Prowers,Prowers County Commissioner - District 2 - REP,1045605
+50,Prowers,Prowers County Clerk and Recorder - REP,1045607
+50,Prowers,Prowers County Treasurer - REP,1045609
+50,Prowers,Prowers County Assessor - REP,1045611
+50,Prowers,Prowers County Sheriff - REP,1045613
+50,Prowers,Prowers County Coroner - REP,1045615
+50,Prowers,Governor - UNI,1045617
+51,Pueblo,United States Senator - DEM,1244791
+51,Pueblo,Representative to the 120th United States Congress - District 3 - DEM,1244793
+51,Pueblo,Governor - DEM,1244795
+51,Pueblo,Secretary of State - DEM,1244797
+51,Pueblo,State Treasurer - DEM,1244799
+51,Pueblo,Attorney General - DEM,1244801
+51,Pueblo,State Board of Education Member - Congressional District 3 - DEM,1244803
+51,Pueblo,State Senator - District 3 - DEM,1244805
+51,Pueblo,State Representative - District 46 - DEM,1244807
+51,Pueblo,State Representative - District 47 - DEM,1244809
+51,Pueblo,State Representative - District 60 - DEM,1244811
+51,Pueblo,State Representative - District 62 - DEM,1244813
+51,Pueblo,Pueblo County Commissioner - District 3 - DEM,1244815
+51,Pueblo,Pueblo County Clerk and Recorder - DEM,1244817
+51,Pueblo,Pueblo County Treasurer - DEM,1244819
+51,Pueblo,Pueblo County Assessor - DEM,1244821
+51,Pueblo,Pueblo County Sheriff - DEM,1244823
+51,Pueblo,Pueblo County Surveyor - DEM,1244825
+51,Pueblo,Pueblo County Coroner - DEM,1244827
+51,Pueblo,Secretary of State - LBR,1244829
+51,Pueblo,United States Senator - REP,1244831
+51,Pueblo,Representative to the 120th United States Congress - District 3 - REP,1244833
+51,Pueblo,Governor - REP,1244835
+51,Pueblo,Secretary of State - REP,1244837
+51,Pueblo,State Treasurer - REP,1244839
+51,Pueblo,Attorney General - REP (Pueblo),1244841
+51,Pueblo,State Board of Education Member - Congressional District 3 - REP,1244843
+51,Pueblo,State Senator - District 3 - REP,1244845
+51,Pueblo,State Representative - District 46 - REP,1244847
+51,Pueblo,State Representative - District 47 - REP,1244849
+51,Pueblo,State Representative - District 60 - REP,1244851
+51,Pueblo,State Representative - District 62 - REP,1244853
+51,Pueblo,Pueblo County Commissioner - District 3 - REP,1244855
+51,Pueblo,Pueblo County Clerk and Recorder - REP,1244857
+51,Pueblo,Pueblo County Treasurer - REP,1244859
+51,Pueblo,Pueblo County Assessor - REP,1244861
+51,Pueblo,Pueblo County Coroner - REP,1244863
+51,Pueblo,Governor - UNI,1244865
+52,Rio Blanco,United States Senator - DEM,155271
+52,Rio Blanco,Representative to the 120th United States Congress - District 3 - DEM,155273
+52,Rio Blanco,Governor - DEM,155275
+52,Rio Blanco,Secretary of State - DEM,155277
+52,Rio Blanco,State Treasurer - DEM,155279
+52,Rio Blanco,Attorney General - DEM,155281
+52,Rio Blanco,State Board of Education Member - Congressional District 3 - DEM,155283
+52,Rio Blanco,State Senator - District 8 - DEM,155285
+52,Rio Blanco,State Representative - District 26 - DEM,155287
+52,Rio Blanco,Secretary of State - LBR,155289
+52,Rio Blanco,United States Senator - REP,155291
+52,Rio Blanco,Representative to the 120th United States Congress - District 3 - REP,155293
+52,Rio Blanco,Governor - REP,155295
+52,Rio Blanco,Secretary of State - REP,155297
+52,Rio Blanco,State Treasurer - REP,155299
+52,Rio Blanco,Attorney General - REP,155301
+52,Rio Blanco,State Board of Education Member - Congressional District 3 - REP,155303
+52,Rio Blanco,State Senator - District 8 - REP,155305
+52,Rio Blanco,State Representative - District 26 - REP,155307
+52,Rio Blanco,Rio Blanco County Commissioner District 1 - REP,155309
+52,Rio Blanco,Rio Blanco County Clerk and Recorder - REP,155311
+52,Rio Blanco,Rio Blanco County Treasurer - REP,155313
+52,Rio Blanco,Rio Blanco County Sheriff - REP,155315
+52,Rio Blanco,Rio Blanco County Surveyor - REP,155317
+52,Rio Blanco,Rio Blanco County Coroner - REP,155319
+52,Rio Blanco,Governor - UNI,155321
+53,Rio Grande,United States Senator - DEM,73509
+53,Rio Grande,Representative to the 120th United States Congress - District 3 - DEM,73511
+53,Rio Grande,Governor - DEM,73513
+53,Rio Grande,Secretary of State - DEM,73515
+53,Rio Grande,State Treasurer - DEM,73517
+53,Rio Grande,Attorney General - DEM (Rio Grande),73519
+53,Rio Grande,State Board of Education Member - Congressional District 3 - DEM,73521
+53,Rio Grande,State Representative - District 62 - DEM,73523
+53,Rio Grande,Rio Grande County Sheriff - DEM,73525
+53,Rio Grande,Secretary of State - LBR,73527
+53,Rio Grande,United States Senator - REP,73529
+53,Rio Grande,Representative to the 120th United States Congress - District 3 - REP,73531
+53,Rio Grande,Governor - REP,73533
+53,Rio Grande,Secretary of State - REP,73535
+53,Rio Grande,State Treasurer - REP,73537
+53,Rio Grande,Attorney General - REP,73539
+53,Rio Grande,State Board of Education Member - Congressional District 3 - REP,73541
+53,Rio Grande,State Representative - District 62 - REP,73543
+53,Rio Grande,Rio Grande County Commissioner District 2 - REP,73545
+53,Rio Grande,Rio Grande County Clerk and Recorder - REP,73547
+53,Rio Grande,Rio Grande County Assessor - REP,73549
+53,Rio Grande,Rio Grande County Sheriff - REP,73551
+53,Rio Grande,Rio Grande County Coroner - REP,73553
+53,Rio Grande,Governor - UNI,73555
+54,Routt,United States Senator - DEM,1285550
+54,Routt,Representative to the 120th United States Congress - District 2 - DEM,1285552
+54,Routt,Governor - DEM,1285554
+54,Routt,Secretary of State - DEM,1285556
+54,Routt,State Treasurer - DEM,1285558
+54,Routt,Attorney General - DEM,1285560
+54,Routt,Regent of the University of Colorado - Congressional District 2 - DEM (Routt),1285562
+54,Routt,State Senator - District 8 - DEM,1285564
+54,Routt,State Representative - District 26 - DEM,1285566
+54,Routt,Routt County Commissioner - District 3 - DEM,1285568
+54,Routt,Routt County Sheriff - DEM,1285570
+54,Routt,Secretary of State - LBR,1285572
+54,Routt,United States Senator - REP,1285574
+54,Routt,Representative to the 120th United States Congress - District 2 - REP,1285576
+54,Routt,Governor - REP,1285578
+54,Routt,Secretary of State - REP,1285580
+54,Routt,State Treasurer - REP,1285582
+54,Routt,Attorney General - REP (Routt),1285584
+54,Routt,Regent of the University of Colorado - Congressional District 2 - REP,1285586
+54,Routt,State Senator - District 8 - REP,1285588
+54,Routt,State Representative - District 26 - REP,1285590
+54,Routt,Governor - UNI,1285592
+55,Saguache,United States Senator - DEM,1045
+55,Saguache,Representative to the 120th United States Congress - District 3 - DEM,1047
+55,Saguache,Governor - DEM,1049
+55,Saguache,Secretary of State - DEM (Saguache),1051
+55,Saguache,State Treasurer - DEM,1053
+55,Saguache,Attorney General - DEM,1055
+55,Saguache,State Board of Education Member - Congressional District 3 - DEM,1057
+55,Saguache,State Representative - District 62 - DEM,1059
+55,Saguache,Saguache County Commissioner District 3 - DEM,1061
+55,Saguache,Saguache County Assessor - DEM,1063
+55,Saguache,Secretary of State - LBR,1065
+55,Saguache,United States Senator - REP,1067
+55,Saguache,Representative to the 120th United States Congress - District 3 - REP (Saguache),1069
+55,Saguache,Governor - REP,1071
+55,Saguache,Secretary of State - REP,1073
+55,Saguache,State Treasurer - REP,1075
+55,Saguache,Attorney General - REP,1077
+55,Saguache,State Board of Education Member - Congressional District 3 - REP,1079
+55,Saguache,State Representative - District 62 - REP,1081
+55,Saguache,Saguache County Commissioner District 3 - REP,1083
+55,Saguache,Saguache County Clerk and Recorder - REP,1085
+55,Saguache,Saguache County Treasurer - REP,1087
+55,Saguache,Saguache County Sheriff - REP,1089
+55,Saguache,Saguache County Coroner - REP,1091
+55,Saguache,Governor - UNI,1093
+57,San Miguel,United States Senator - DEM,132231
+57,San Miguel,Representative to the 120th United States Congress - District 3 - DEM (San Miguel),132233
+57,San Miguel,Governor - DEM,132235
+57,San Miguel,Secretary of State - DEM,132237
+57,San Miguel,State Treasurer - DEM,132239
+57,San Miguel,Attorney General - DEM,132241
+57,San Miguel,State Board of Education Member - Congressional District 3 - DEM,132243
+57,San Miguel,State Representative - District 58 - DEM,132245
+57,San Miguel,San Miguel County Commissioner District 2 - DEM,132247
+57,San Miguel,San Miguel County Clerk and Recorder - DEM,132249
+57,San Miguel,San Miguel County Treasurer - DEM,132251
+57,San Miguel,San Miguel County Sheriff - DEM,132253
+57,San Miguel,San Miguel County Surveyor - DEM,132255
+57,San Miguel,San Miguel County Coroner - DEM,132257
+57,San Miguel,Secretary of State - LBR,132259
+57,San Miguel,United States Senator - REP,132261
+57,San Miguel,Representative to the 120th United States Congress - District 3 - REP (San Miguel),132263
+57,San Miguel,Governor - REP,132265
+57,San Miguel,Secretary of State - REP,132267
+57,San Miguel,State Treasurer - REP,132269
+57,San Miguel,Attorney General - REP,132271
+57,San Miguel,State Board of Education Member - Congressional District 3 - REP,132273
+57,San Miguel,State Representative - District 58 - REP,132275
+57,San Miguel,Governor - UNI,132277
+57,San Miguel,Town of Telluride Town Council,132279
+58,Sedgwick,United States Senator - DEM,4159
+58,Sedgwick,Representative to the 120th United States Congress - District 4 - DEM,4161
+58,Sedgwick,Governor - DEM,4163
+58,Sedgwick,Secretary of State - DEM,4165
+58,Sedgwick,State Treasurer - DEM,4167
+58,Sedgwick,Attorney General - DEM,4169
+58,Sedgwick,State Senator - District 1 - DEM,4171
+58,Sedgwick,Secretary of State - LBR,4173
+58,Sedgwick,United States Senator - REP,4175
+58,Sedgwick,Representative to the 120th United States Congress - District 4 - REP,4177
+58,Sedgwick,Governor - REP,4179
+58,Sedgwick,Secretary of State - REP,4181
+58,Sedgwick,State Treasurer - REP,4183
+58,Sedgwick,Attorney General - REP (Sedgwick),4185
+58,Sedgwick,State Senator - District 1 - REP,4187
+58,Sedgwick,State Representative - District 63 - REP,4189
+58,Sedgwick,Sedgwick County Commissioner - District 1 - REP,4191
+58,Sedgwick,Sedgwick County Treasurer - REP,4193
+58,Sedgwick,Sedgwick County Assessor - REP,4195
+58,Sedgwick,Sedgwick County Sheriff - REP,4197
+58,Sedgwick,Sedgwick County Coroner - REP,4199
+58,Sedgwick,Governor - UNI,4201
+59,Summit,United States Senator - DEM,158520
+59,Summit,Representative to the 120th United States Congress - District 2 - DEM,158522
+59,Summit,Governor - DEM,158524
+59,Summit,Secretary of State - DEM (Summit),158526
+59,Summit,State Treasurer - DEM,158528
+59,Summit,Attorney General - DEM,158530
+59,Summit,Regent of the University of Colorado - Congressional District 2 - DEM,158532
+59,Summit,State Senator - District 8 - DEM,158534
+59,Summit,State Representative - District 13 - DEM,158536
+59,Summit,Summit County Commissioner - District 1 - DEM,158538
+59,Summit,Summit County Clerk and Recorder - DEM,158540
+59,Summit,Summit County Treasurer - DEM,158542
+59,Summit,Summit County Assessor - DEM,158544
+59,Summit,Summit County Sheriff - DEM,158546
+59,Summit,Summit County Coroner - DEM,158548
+59,Summit,Secretary of State - LBR,158550
+59,Summit,United States Senator - REP,158552
+59,Summit,Representative to the 120th United States Congress - District 2 - REP,158554
+59,Summit,Governor - REP,158556
+59,Summit,Secretary of State - REP,158558
+59,Summit,State Treasurer - REP,158560
+59,Summit,Attorney General - REP (Summit),158562
+59,Summit,Regent of the University of Colorado - Congressional District 2 - REP,158564
+59,Summit,State Senator - District 8 - REP,158566
+59,Summit,State Representative - District 13 - REP,158568
+59,Summit,Summit County Commissioner - District 1 - REP,158570
+59,Summit,Governor - UNI,158572
+60,Teller,United States Senator - DEM,1481179
+60,Teller,Representative to the 120th United States Congress - District 7 - DEM,1481181
+60,Teller,Governor - DEM,1481183
+60,Teller,Secretary of State - DEM (Teller),1481185
+60,Teller,State Treasurer - DEM,1481187
+60,Teller,Attorney General - DEM,1481189
+60,Teller,State Board of Education Member - Congressional District 7 - DEM,1481191
+60,Teller,Regent of the University of Colorado - Congressional District 7 - DEM,1481193
+60,Teller,State Senator - District 4 - DEM,1481195
+60,Teller,State Representative - District 18 - DEM,1481197
+60,Teller,State Representative - District 60 - DEM,1481199
+60,Teller,Teller County Commissioner District 2 - DEM,1481201
+60,Teller,United States Senator - REP,1481203
+60,Teller,Representative to the 120th United States Congress - District 7 - REP,1481205
+60,Teller,Governor - REP (Teller),1481207
+60,Teller,Secretary of State - REP,1481209
+60,Teller,State Treasurer - REP,1481211
+60,Teller,Attorney General - REP,1481213
+60,Teller,State Board of Education Member - Congressional District 7 - REP,1481215
+60,Teller,Regent of the University of Colorado - Congressional District 7 - REP,1481217
+60,Teller,State Senator - District 4 - REP,1481219
+60,Teller,State Representative - District 18 - REP,1481221
+60,Teller,State Representative - District 60 - REP,1481223
+60,Teller,Teller County Commissioner District 2 - REP,1481225
+60,Teller,Teller County Clerk and Recorder - REP,1481227
+60,Teller,Teller County Treasurer - REP,1481229
+60,Teller,Teller County Assessor - REP,1481231
+60,Teller,Teller County Sheriff - REP,1481233
+60,Teller,Teller County Coroner - REP,1481235
+60,Teller,Secretary of State - LBR,1481237
+60,Teller,Governor - UNI,1481239
+61,Washington,United States Senator - DEM,79835
+61,Washington,Representative to the 120th United States Congress - District 4 - DEM,79837
+61,Washington,Governor - DEM,79839
+61,Washington,Secretary of State - DEM,79841
+61,Washington,State Treasurer - DEM,79843
+61,Washington,Attorney General - DEM,79845
+61,Washington,State Senator - District 1 - DEM,79847
+61,Washington,Secretary of State - LBR,79849
+61,Washington,United States Senator - REP,79851
+61,Washington,Representative to the 120th United States Congress - District 4 - REP,79853
+61,Washington,Governor - REP,79855
+61,Washington,Secretary of State - REP,79857
+61,Washington,State Treasurer - REP,79859
+61,Washington,Attorney General - REP,79861
+61,Washington,State Senator - District 1 - REP,79863
+61,Washington,State Representative - District 63 - REP,79865
+61,Washington,Washington County Commissioner - District 1 - REP,79867
+61,Washington,Washington County Clerk and Recorder - REP,79869
+61,Washington,Washington County Treasurer - REP,79871
+61,Washington,Washington County Assessor - REP,79873
+61,Washington,Washington County Sheriff - REP,79875
+61,Washington,Washington County Coroner - REP,79877
+61,Washington,Governor - UNI,79879
+62,Weld,United States Senator - DEM,1292785
+62,Weld,Representative to the 120th United States Congress - District 2 - DEM,1292787
+62,Weld,Representative to the 120th United States Congress - District 4 - DEM,1292789
+62,Weld,Representative to the 120th United States Congress - District 7 - DEM,1292791
+62,Weld,Representative to the 120th United States Congress - District 8 - DEM,1292793
+62,Weld,Governor - DEM,1292795
+62,Weld,Secretary of State - DEM,1292797
+62,Weld,State Treasurer - DEM,1292799
+62,Weld,Attorney General - DEM,1292801
+62,Weld,State Board of Education Member - Congressional District 7 - DEM,1292803
+62,Weld,Regent of the University of Colorado - Congressional District 2 - DEM,1292805
+62,Weld,Regent of the University of Colorado - Congressional District 7 - DEM,1292807
+62,Weld,State Senator - District 1 - DEM,1292809
+62,Weld,State Senator - District 17 - DEM,1292811
+62,Weld,State Senator - District 25 - DEM,1292813
+62,Weld,State Representative - District 19 - DEM (Weld),1292815
+62,Weld,State Representative - District 33 - DEM,1292817
+62,Weld,State Representative - District 48 - DEM,1292819
+62,Weld,State Representative - District 50 - DEM,1292821
+62,Weld,State Representative - District 64 - DEM,1292823
+62,Weld,Secretary of State - LBR,1292825
+62,Weld,United States Senator - REP,1292827
+62,Weld,Representative to the 120th United States Congress - District 2 - REP,1292829
+62,Weld,Representative to the 120th United States Congress - District 4 - REP,1292831
+62,Weld,Representative to the 120th United States Congress - District 7 - REP,1292833
+62,Weld,Representative to the 120th United States Congress - District 8 - REP,1292835
+62,Weld,Governor - REP,1292837
+62,Weld,Secretary of State - REP,1292839
+62,Weld,State Treasurer - REP,1292841
+62,Weld,Attorney General - REP (Weld),1292843
+62,Weld,State Board of Education Member - Congressional District 7 - REP,1292845
+62,Weld,Regent of the University of Colorado - Congressional District 2 - REP,1292847
+62,Weld,Regent of the University of Colorado - Congressional District 7 - REP,1292849
+62,Weld,State Senator - District 1 - REP,1292851
+62,Weld,State Senator - District 17 - REP,1292853
+62,Weld,State Senator - District 25 - REP,1292855
+62,Weld,State Representative - District 19 - REP,1292857
+62,Weld,State Representative - District 33 - REP,1292859
+62,Weld,State Representative - District 48 - REP,1292861
+62,Weld,State Representative - District 50 - REP,1292863
+62,Weld,State Representative - District 63 - REP,1292865
+62,Weld,State Representative - District 64 - REP,1292867
+62,Weld,State Representative - District 65 - REP,1292869
+62,Weld,Weld County Commissioner - At-Large - REP,1292871
+62,Weld,Weld County Commissioner - District 2 - REP,1292873
+62,Weld,Weld County Clerk and Recorder - REP,1292875
+62,Weld,Weld County Assessor - REP,1292877
+62,Weld,Weld County Sheriff - REP,1292879
+62,Weld,Governor - UNI,1292881
+63,Yuma,United States Senator - DEM,1041658
+63,Yuma,Representative to the 120th United States Congress - District 4 - DEM,1041660
+63,Yuma,Governor - DEM,1041662
+63,Yuma,Secretary of State - DEM,1041664
+63,Yuma,State Treasurer - DEM,1041666
+63,Yuma,Attorney General - DEM,1041668
+63,Yuma,State Senator - District 1 - DEM,1041670
+63,Yuma,Secretary of State - LBR,1041672
+63,Yuma,United States Senator - REP,1041674
+63,Yuma,Representative to the 120th United States Congress - District 4 - REP,1041676
+63,Yuma,Governor - REP,1041678
+63,Yuma,Secretary of State - REP,1041680
+63,Yuma,State Treasurer - REP,1041682
+63,Yuma,Attorney General - REP (Yuma),1041684
+63,Yuma,State Senator - District 1 - REP,1041686
+63,Yuma,State Representative - District 63 - REP,1041688
+63,Yuma,Yuma County Commissioner - District 1 - REP,1041690
+63,Yuma,Yuma County Clerk and Recorder - REP,1041692
+63,Yuma,Yuma County Treasurer - REP,1041694
+63,Yuma,Yuma County Assessor - REP,1041696
+63,Yuma,Yuma County Sheriff - REP,1041698
+63,Yuma,Yuma County Coroner - REP,1041700
+63,Yuma,Governor - UNI,1041702
+64,Broomfield,United States Senator - DEM,478396
+64,Broomfield,Representative to the 120th United States Congress - District 7 - DEM,478398
+64,Broomfield,Governor - DEM,478400
+64,Broomfield,Secretary of State - DEM,478402
+64,Broomfield,State Treasurer - DEM,478404
+64,Broomfield,Attorney General - DEM,478406
+64,Broomfield,State Board of Education Member - Congressional District 7 - DEM,478408
+64,Broomfield,Regent of the University of Colorado - Congressional District 7 - DEM,478410
+64,Broomfield,State Senator - District 25 - DEM,478412
+64,Broomfield,State Representative - District 33 - DEM (Broomfield),478414
+64,Broomfield,Secretary of State - LBR,478416
+64,Broomfield,United States Senator - REP,478418
+64,Broomfield,Representative to the 120th United States Congress - District 7 - REP,478420
+64,Broomfield,Governor - REP,478422
+64,Broomfield,Secretary of State - REP,478424
+64,Broomfield,State Treasurer - REP,478426
+64,Broomfield,Attorney General - REP (Broomfield),478428
+64,Broomfield,State Board of Education Member - Congressional District 7 - REP,478430
+64,Broomfield,Regent of the University of Colorado - Congressional District 7 - REP,478432
+64,Broomfield,State Senator - District 25 - REP,478434
+64,Broomfield,State Representative - District 33 - REP,478436
+64,Broomfield,Governor - UNI,478438
