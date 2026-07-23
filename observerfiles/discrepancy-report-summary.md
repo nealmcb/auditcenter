@@ -51,6 +51,9 @@ These elections include the SOS Voting Systems team's classification of each dis
 | **2024 General** | **186** | **34** | 5 | 9 | — | — | — | — | 1 | **235** |
 | **2025 Coordinated** | **4** | **11** | 1 | 2 | — | — | — | 4 | — | **22** |
 | **2026 Primary** | **6** | **8** | 1 | — | — | — | **1** | — | — | **16** |
+| **TOTALS (2020 Primary–2026 Primary, 8 elections)** | **539** | **175** | **45** | **40** | **2** | **4** | **1** | **19** | **9** | **834** |
+
+Totals cover only the 8 elections with full annotated reports above — 2017–2019 and 2022 General have partial/raw, uncategorized data only and are deliberately excluded (see "Elections Without Full Annotated Reports" below), not silently folded in.
 
 Notes on 2023 Coordinated counts: the 4 "Ambiguous Intent" entries include 3 labeled "Ambiguous Voter Intent" (Lake County ballot issues) and 1 labeled "Adjudication Disagreement" (Broomfield recall).
 
@@ -118,16 +121,19 @@ A SOS-annotated discrepancy report is known to exist: the auditCenter page carri
 
 ## Summary by Discrepancy Type Across All Elections
 
-| Type | Frequency | Notes |
-|---|---|---|
-| **Wrong ballot** (auditing) | Very common; dominates totals in large elections | Single-county batch errors (Hinsdale 2020, Rio Blanco 2022, etc.) create spikes. Procedural training and workflow issue. |
-| **Audit board error** (auditing) | Consistently present, 10–40% of discrepancies in annotated elections | Audit board entered a different candidate than what the voter marked. |
-| **Voting System Limitation** (system) | Low but present in every annotated election | Structural: uncorrected single-selection undervotes. Not fixable without system redesign. |
-| **Adjudication Error** (system process) | Present in most elections, notable spikes in 2020 G (23) and 2024 G (9) | Bipartisan judge teams applying Voter Intent Guide imperfectly during tabulation. |
-| **Misconfiguration** (system/admin) | Once (2023 Coordinated, 2 entries, Dolores County) | County ballot out-stack misconfiguration prevented human review of some ballots. |
-| **CDOS Instructions Deficiency** (system) | Once (2022 Primary, 4 entries) | Write-in CVR format mismatch with ClearVote; since addressed. |
-| **Duplication Error** (system/process) | Once (2026 Primary, 1 entry, Routt County) | A ballot's duplicate copy (made to replace a damaged/unreadable original for scanning) wasn't marked to match the original's voter intent; audit board correctly read the original per protocol. |
-| **Ambiguous Voter Intent / Adjudication Disagreement** (genuine disagreement) | Rare: 0–6 per election | Genuine hard-to-read ballots where reasonable humans disagree. |
-| **Voter Mistake** | Rare: 0–3 per election | Voter marked outside target areas; intent genuinely unclear. |
+Counts and percentages below are totals across the 8 elections with full annotated reports (2020 Primary–2026 Primary, 834 discrepancies total — see the TOTALS row above); 2017–2019 and 2022 General are excluded, per the same scoping used throughout this file.
 
-**The vast majority of discrepancies are auditing-process issues** (wrong ballot retrieved or data entry error), not evidence of voting system errors or contested vote interpretation. True human disagreement on voter intent is rare — typically 0–6 cases per election statewide.
+| Type | Count | % of 834 | Frequency (qualitative) | Notes |
+|---|---:|---:|---|---|
+| **Wrong ballot** (auditing) | 539 | 64.6% | Very common; dominates totals in large elections | Single-county batch errors (Hinsdale 2020, Rio Blanco 2022, etc.) create spikes. Procedural training and workflow issue. |
+| **Audit board error** (auditing) | 175 | 21.0% | Consistently present, 10–40% of discrepancies in annotated elections | Audit board entered a different candidate than what the voter marked. |
+| **Voting System Limitation** (system) | 45 | 5.4% | Low but present in every annotated election | Structural: uncorrected single-selection undervotes. Not fixable without system redesign. |
+| **Adjudication Error** (system process) | 40 | 4.8% | Present in most elections, notable spikes in 2020 G (23) and 2024 G (9) | Bipartisan judge teams applying Voter Intent Guide imperfectly during tabulation. |
+| **Ambiguous Voter Intent / Adjudication Disagreement** (genuine disagreement) | 19 | 2.3% | Rare: 0–6 per election | Genuine hard-to-read ballots where reasonable humans disagree. |
+| **Voter Mistake** | 9 | 1.1% | Rare: 0–3 per election | Voter marked outside target areas; intent genuinely unclear. |
+| **CDOS Instructions Deficiency** (system) | 4 | 0.5% | Once (2022 Primary, 4 entries) | Write-in CVR format mismatch with ClearVote; since addressed. |
+| **Misconfiguration** (system/admin) | 2 | 0.2% | Once (2023 Coordinated, 2 entries, Dolores County) | County ballot out-stack misconfiguration prevented human review of some ballots. |
+| **Duplication Error** (system/process) | 1 | 0.1% | Once (2026 Primary, 1 entry, Routt County) | A ballot's duplicate copy (made to replace a damaged/unreadable original for scanning) wasn't marked to match the original's voter intent; audit board correctly read the original per protocol. |
+| **Total** | **834** | **100.0%** | | |
+
+**The vast majority of discrepancies are auditing-process issues** (wrong ballot retrieved or data entry error) — Wrong Ballot and Audit Board Error together account for **714 of 834 (85.6%)** — not evidence of voting system errors or contested vote interpretation. Genuine human disagreement on voter intent (Ambiguous Voter Intent / Adjudication Disagreement) is rare: 19 of 834 (2.3%), typically 0–6 cases per election statewide.
