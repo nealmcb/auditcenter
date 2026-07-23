@@ -1,4 +1,4 @@
-# Colorado RLA Discrepancy Reports: Summary 2017–2025
+# Colorado RLA Discrepancy Reports: Summary 2017–2026
 
 ## Data Sources Available
 
@@ -16,10 +16,11 @@
 | 2023 Coordinated | Full annotated SOS PDF (recovered from Wayback Machine, captured 2025-03-02) |
 | 2024 General | Full annotated XLSX |
 | 2025 Coordinated | Full annotated XLSX |
+| 2026 Primary | Full annotated XLSX (also DOCX, same content) |
 
 ---
 
-## Elections with Full Annotated Reports (2020–2025)
+## Elections with Full Annotated Reports (2020–2026)
 
 These elections include the SOS Voting Systems team's classification of each discrepancy reason.
 
@@ -33,23 +34,27 @@ These elections include the SOS Voting Systems team's classification of each dis
 | **Adjudication Error** | Voting system issue (bipartisan judges made an error during tabulation adjudication) |
 | **Misconfiguration** | Voting system issue (county misconfigured ballot out-stack conditions; small subset of ballots not queued for human review; 2023 only) |
 | **CDOS Instructions Deficiency** | Voting system issue (ClearVote write-in CVR format mismatch, 2022 Primary only) |
+| **Duplication Error** | Voting system/process issue (a duplicated ballot's replacement copy — scanned by the voting system in place of a damaged/unreadable original — was not marked to accurately reflect the original's voter intent; the audit board audits the original itself, so this surfaces as an audit discrepancy without being an audit board or wrong-ballot error; 2026 Primary only, per official SoS definition) |
 | **Ambiguous Voter Intent** | Human disagreement (audit board and adjudication judges genuinely disagree on hard-to-read marks) |
 | **Adjudication Disagreement** | Human disagreement (same phenomenon as Ambiguous Voter Intent; one Broomfield recall case in 2023 labeled differently) |
 | **Voter Mistake** | Borderline — voter filled ballot contrary to instructions, making intent unclear |
 
 ### Counts by election
 
-| Election | Wrong Ballot | Audit Brd Error | Voting Sys Limit | Adjudication Error | Misconfig | CDOS Deficiency | Ambiguous Intent | Voter Mistake | **Total** |
-|---|---|---|---|---|---|---|---|---|---|
-| **2020 Primary** | **96** | **16** | 10 | — | — | — | — | — | **122** |
-| **2020 General** | **185** | **57** | 9 | 23 | — | — | 6 | — | **280** |
-| **2021 Coordinated** | **6** | **18** | 11 | 4 | — | — | 3 | 2 | **44** |
-| **2022 Primary** | **52** | **23** | 7 | 2 | — | 4 | 2 | 3 | **93** |
-| **2023 Coordinated** | **4** | **8** | 1 | — | 2 | — | 4 | 3 | **22** |
-| **2024 General** | **186** | **34** | 5 | 9 | — | — | — | 1 | **235** |
-| **2025 Coordinated** | **4** | **11** | 1 | 2 | — | — | 4 | — | **22** |
+| Election | Wrong Ballot | Audit Brd Error | Voting Sys Limit | Adjudication Error | Misconfig | CDOS Deficiency | Duplication Error | Ambiguous Intent | Voter Mistake | **Total** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **2020 Primary** | **96** | **16** | 10 | — | — | — | — | — | — | **122** |
+| **2020 General** | **185** | **57** | 9 | 23 | — | — | — | 6 | — | **280** |
+| **2021 Coordinated** | **6** | **18** | 11 | 4 | — | — | — | 3 | 2 | **44** |
+| **2022 Primary** | **52** | **23** | 7 | 2 | — | 4 | — | 2 | 3 | **93** |
+| **2023 Coordinated** | **4** | **8** | 1 | — | 2 | — | — | 4 | 3 | **22** |
+| **2024 General** | **186** | **34** | 5 | 9 | — | — | — | — | 1 | **235** |
+| **2025 Coordinated** | **4** | **11** | 1 | 2 | — | — | — | 4 | — | **22** |
+| **2026 Primary** | **6** | **8** | 1 | — | — | — | **1** | — | — | **16** |
 
 Notes on 2023 Coordinated counts: the 4 "Ambiguous Intent" entries include 3 labeled "Ambiguous Voter Intent" (Lake County ballot issues) and 1 labeled "Adjudication Disagreement" (Broomfield recall).
+
+Notes on 2026 Primary counts: parsed from `2026DiscrepancyReportPE.xlsx` (16 data rows; the DOCX version carries the same content plus the category definitions quoted above, including "Duplication Error"'s official text — cross-checked, identical categorization). "Duplication Error" is a genuinely new category, not seen in any prior year's report and not an existing bucket this project invented a fit for — it has its own official SoS definition (see table above) and is used for exactly one entry (Routt County, State Treasurer - REP). This election's own independent CVR-vs-audit-board reproduction (`auditcenter_analyze`'s `discrepancy_verification.py`, in the companion analysis repo) finds the identical 16 rows on 9 distinct ballots, an exact match.
 
 ### Cross-cutting patterns
 
@@ -66,7 +71,9 @@ Notes on 2023 Coordinated counts: the 4 "Ambiguous Intent" entries include 3 lab
 
 **CDOS Instructions Deficiency (2022 Primary only)**: The two ClearVote counties (Garfield, Rio Blanco) encode certified write-ins differently from Democracy Suite; the mitigation instructions from the state were incomplete. 4 entries. Write-in votes were tabulated correctly — only the audit comparison was affected.
 
-**Ambiguous Voter Intent / genuine human disagreement**: The smallest category across all elections. Never more than 6 in any election with a formal report. These are the cases where the audit board and the original adjudication team both looked at the same ballot image and reached different conclusions — reflecting genuinely hard-to-read marks. 2023 Coordinated had 3 Ambiguous Voter Intent entries (Lake County ballot issues) plus 1 "Adjudication Disagreement" (Broomfield recall) — the same phenomenon under a different label. 2025 Coordinated had 4 such entries, all from Clear Creek County (Idaho Springs City Council and Mayor), where the audit board noted "voter intent not clear, per voter intent guide" and marked `consensus: NO`.
+**Ambiguous Voter Intent / genuine human disagreement**: The smallest category across all elections. Never more than 6 in any election with a formal report. These are the cases where the audit board and the original adjudication team both looked at the same ballot image and reached different conclusions — reflecting genuinely hard-to-read marks. 2023 Coordinated had 3 Ambiguous Voter Intent entries (Lake County ballot issues) plus 1 "Adjudication Disagreement" (Broomfield recall) — the same phenomenon under a different label. 2025 Coordinated had 4 such entries, all from Clear Creek County (Idaho Springs City Council and Mayor), where the audit board noted "voter intent not clear, per voter intent guide" and marked `consensus: NO`. **2026 Primary had none at all** — the first election in this survey's full-report era with zero entries in this category (and zero Voter Mistake, zero Adjudication Error too); every one of its 16 discrepancies has a mundane auditing or process explanation, not a genuine interpretation dispute.
+
+**2026 Primary**: smallest total of any election with a full annotated report (16, below even 2023's and 2025's 22), dominated by Audit Board Error (8, spread one-per-ballot across 6 counties: Arapahoe, Conejos, Jefferson ×2, Larimer ×3, San Miguel) rather than by Wrong Ballot for once. Its 6 Wrong Ballot entries are all a *single* physical ballot (Broomfield `104-109-47`) mismatching across six different Democratic primary contests — the same single-ballot-multiple-contest pattern as Hinsdale 2020 and Rio Blanco 2022's clusters, just at the scale of one ballot rather than a whole batch or precinct. The companion analysis repo's own independent CVR-vs-audit-board reproduction had flagged this specific ballot as "worth a closer look" (a pattern that read, before this official report existed, more like a possible CVR/ballot-pairing anomaly than an ordinary misread) — this report's own SoS Voting Systems team determination resolves that open question with the mundane explanation: **Wrong Ballot**, i.e. the audit board simply retrieved the wrong physical ballot for that voter. And **Duplication Error makes its first appearance in this survey** (1 entry, Routt County, State Treasurer - REP): the SoS's own new category for when a ballot's *duplicate* — the replacement copy scanned by the tabulator in place of a damaged/unreadable original — wasn't marked to accurately capture the original's voter intent, distinct from both Wrong Ballot (audit board error, not tabulation) and Voting System Limitation (an unrelated, narrower undervote-correction quirk).
 
 ---
 
@@ -119,6 +126,7 @@ A SOS-annotated discrepancy report is known to exist: the auditCenter page carri
 | **Adjudication Error** (system process) | Present in most elections, notable spikes in 2020 G (23) and 2024 G (9) | Bipartisan judge teams applying Voter Intent Guide imperfectly during tabulation. |
 | **Misconfiguration** (system/admin) | Once (2023 Coordinated, 2 entries, Dolores County) | County ballot out-stack misconfiguration prevented human review of some ballots. |
 | **CDOS Instructions Deficiency** (system) | Once (2022 Primary, 4 entries) | Write-in CVR format mismatch with ClearVote; since addressed. |
+| **Duplication Error** (system/process) | Once (2026 Primary, 1 entry, Routt County) | A ballot's duplicate copy (made to replace a damaged/unreadable original for scanning) wasn't marked to match the original's voter intent; audit board correctly read the original per protocol. |
 | **Ambiguous Voter Intent / Adjudication Disagreement** (genuine disagreement) | Rare: 0–6 per election | Genuine hard-to-read ballots where reasonable humans disagree. |
 | **Voter Mistake** | Rare: 0–3 per election | Voter marked outside target areas; intent genuinely unclear. |
 
