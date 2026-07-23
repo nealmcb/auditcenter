@@ -298,3 +298,23 @@ that's expected, not a red flag).
 - Moving from a throwaway signing key to Sigstore's keyless/OIDC signing
   would let the public Rekor entry itself identify who vouched for the
   evidence set, rather than just an anonymous keypair.
+- **Older manifest hashes, posted on Twitter/X before the seed ceremony, for
+  past audits.** Before this repo's three-layer approach existed, the
+  practice for at least some prior audits was posting a manifest hash
+  publicly on Twitter/X in advance of the random seed being drawn — exactly
+  the same commitment principle as above, just via a weaker channel (see
+  "Older approaches we've used or considered" earlier in this document for
+  why that channel alone isn't relied on going forward). Those tweets
+  still have real evidentiary value for grounding *manifest* provenance in
+  those earlier audits, if they can be located, dated, and linked here —
+  not yet done. **Open task, for Neal or a future pass of this project**:
+  search Twitter/X history for these pre-seed-ceremony manifest-hash posts,
+  across however many past audits they exist for, and catalog them (date,
+  audit/election, tweet link, manifest file/hash referenced).
+  **A real, honest gap this doesn't close**: no equivalent public
+  pre-commitment exists for *cast vote records* from audits before 2026 —
+  so even once the manifest tweets are cataloged, the evidentiary story for
+  older audits stays asymmetric: manifests can be shown not to have been
+  altered after the fact, but the CVRs compared against them for those
+  same older audits generally can't be. Worth stating plainly rather than
+  glossing over.

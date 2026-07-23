@@ -2,7 +2,7 @@
 
 Notes on county-provided files collected directly by observers, as a
 supplement to the mirrored [Audit Center](../countyManifest.html) data in
-[`../files/`](../files/). See [evidence-timestamping.md](../../../evidence-timestamping.md)
+[`../files/`](../files/). See [evidence-timestamping.md](../../../observerfiles/evidence-timestamping.md)
 for how this evidence gets publicly timestamped.
 
 ## Critical finding: La Plata, Morgan, and Saguache manifests are duplicated on the SoS site
