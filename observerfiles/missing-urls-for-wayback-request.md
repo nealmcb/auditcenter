@@ -93,6 +93,34 @@ was generated.
 |---|---|---|
 | 2023 Coordinated | `https://coloradosos.gov/pubs/elections/RLA/files/2023/coordinated/DiscrepancyReport.pdf` | **Downloaded** from Wayback capture 20250302112507; saved to `2023/coordinated/DiscrepancyReport.pdf` |
 
+**2026-07-24 bulk recovery:** a systematic Wayback CDX bulk pull and comparison against
+this mirror (done in the sibling `auditcenter-wayback` repo; full methodology and
+per-year analysis in `auditcenter_analyze-private/output/2026-primary/WAYBACK_COMPARISON_FINDINGS.md`)
+found this mirror's spider had never captured the per-county final audit report PDFs,
+round CSVs, and manifests for three entire elections -- not just isolated missing
+discrepancy reports. All recovered from Wayback captures; per-file source URL + capture
+timestamp is in each directory's own `WAYBACK_RECOVERED.md`:
+
+| Election | Files recovered | Manifest |
+|---|---:|---|
+| 2022 General | 62 | `2022/general/WAYBACK_RECOVERED.md` |
+| 2022 Primary | 1 | `2022/primary/WAYBACK_RECOVERED.md` |
+| 2023 Coordinated | 120 | `2023/coordinated/WAYBACK_RECOVERED.md` |
+| 2024 Presidential Primary | 77 | `2024/presidential/WAYBACK_RECOVERED.md` |
+| 2024 Primary | 61 | `2024/primary/WAYBACK_RECOVERED.md` |
+
+Also recovered: `OverviewThreeYearsIn.pdf` (a standalone, non-year-specific RLA program
+overview document, from Wayback capture 20201110121126).
+
+Deliberately NOT recovered: narrative/dashboard status pages (`audit.html`,
+`riskLimit.html`, `countyManifest.html`, `finalReports.html`, `background.html`,
+per-county pages like `Gunnison.html`) and the Spanish FAQ page (`faqsEsp.html`) --
+these are consistently absent from this mirror across every year from 2017 through 2024
+despite having Wayback captures, which looks like a deliberate original scope decision
+(this mirror captures data files, not the SoS's live status-page chrome) rather than a
+gap, and their informational value is already covered by the data files recovered above.
+Recovery script: `recover_wayback_only_2022_2024.py`.
+
 ---
 
 ## Notes on 2022 General
