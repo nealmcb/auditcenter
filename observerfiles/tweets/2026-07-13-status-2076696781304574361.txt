@@ -1,0 +1,9 @@
+https://x.com/nealmcb/status/2076696781304574361
+Monday, 2026-07-13, 09:54:30 MDT
+
+Watch risk-limiting audits in Colorado! Drawing random seed for audit at 10:00, see https://www.sos.state.co.us/pubs/elections/auditCenter.html
+SHA256 hash of hashes: cba43b7b811d12a16cb9f673f55d68c0cdab800de693b797d4caacd604df5e2e SHA256SUMS.txt
+https://github.com/nealmcb/auditcenter/blob/main/README.md
+@COSecofState
+@KimZetter
+#RiskLimitingAudits

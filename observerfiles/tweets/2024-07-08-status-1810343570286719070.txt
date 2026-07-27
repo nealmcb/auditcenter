@@ -1,0 +1,8 @@
+https://x.com/nealmcb/status/1810343570286719070
+Monday, 2024-07-08, 10:01 MDT
+
+Risk-limiting audits in Colorado underway! Drawing random seed for audit selections soon, see https://sos.state.co.us/pubs/elections/auditCenter.html
+SHA256 hash hashes: a816078483c789512688cf2ee8fcb12a9185415d56323c9913122bd895bf9cec uploadStatus.csv
+@COSecofState
+@KimZetter
+#RiskLimitingAudits

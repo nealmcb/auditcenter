@@ -283,6 +283,54 @@ Jefferson County, and La Plata and Morgan didn't get a hit at all in that
 initial batch (both are small counties relative to the statewide total, so
 that's expected, not a red flag).
 
+## Manifest-hash commitments on Twitter/X
+
+Before this repo's three-layer (git + OpenTimestamps + Sigstore) approach
+existed, the practice for several past audits was posting a manifest hash
+publicly on Twitter/X in advance of the seed ceremony — the same
+commitment principle described above, via a weaker (single, centralized)
+channel.
+
+- **2026 primary** — [tweets/2026-07-13-status-2076696781304574361.txt](tweets/2026-07-13-status-2076696781304574361.txt)
+  ([original](https://x.com/nealmcb/status/2076696781304574361)),
+  Monday, 2026-07-13, 09:54:30 MDT. SHA-256 of `SHA256SUMS.txt`:
+  ```
+  cba43b7b811d12a16cb9f673f55d68c0cdab800de693b797d4caacd604df5e2e
+  ```
+  This checks out: [`SHA256SUMS.txt`](../2026/primary/SHA256SUMS.txt) in
+  this repo hashes to exactly this value, its git commit timestamp is
+  09:52:41 MDT (two minutes before the tweet), and its OpenTimestamps
+  proof is anchored into two Bitcoin blocks (957876 and 957882, mined at
+  10:00:32 and 10:48:10 MDT — see the worked example above).
+
+- **2025 coordinated** — [tweets/2025-11-17-status-1990454123456803020.txt](tweets/2025-11-17-status-1990454123456803020.txt)
+  ([original](https://x.com/nealmcb/status/1990454123456803020)),
+  Monday, 2025-11-17, 09:16:58 MST. SHA-256 of `uploadStatus.csv`:
+  ```
+  c284f31a83d33fe5823629824b7df0f4782e590a72c6a9a8c14bd1d9d8490ca8
+  ```
+
+- **2024, primary season** — [tweets/2024-07-08-status-1810343570286719070.txt](tweets/2024-07-08-status-1810343570286719070.txt)
+  ([original](https://x.com/nealmcb/status/1810343570286719070)),
+  Monday, 2024-07-08, 10:01 MDT. SHA-256 of `uploadStatus.csv`:
+  ```
+  a816078483c789512688cf2ee8fcb12a9185415d56323c9913122bd895bf9cec
+  ```
+
+- **2021 coordinated** — [tweets/2021-11-15-status-1460273652763545603.txt](tweets/2021-11-15-status-1460273652763545603.txt)
+  ([original](https://x.com/nealmcb/status/1460273652763545603)),
+  Monday, 2021-11-15, 08:49:04 MST. SHA-256 of `sha256sums.txt`:
+  ```
+  59ad58c2ed8eae0a92479c39cc173db1570000e0fa9f403333a854a3d994b8fe
+  ```
+
+- **2018 general** — [tweets/2018-11-16-status-1063473017290919936.txt](tweets/2018-11-16-status-1063473017290919936.txt)
+  ([original](https://x.com/nealmcb/status/1063473017290919936)),
+  Friday, 2018-11-16, 09:45:00 MST. SHA-256 of `manifest_hash.csv`:
+  ```
+  c3f23655ae1bcb721255288f8e44d9a3ebdedb885c4bcb4cfc2b8986d1aaf5ee
+  ```
+
 ## Further reading / where this could go next
 
 - [IETF SCITT](https://datatracker.ietf.org/wg/scitt/about/) (Supply Chain
@@ -304,16 +352,12 @@ that's expected, not a red flag).
   publicly on Twitter/X in advance of the random seed being drawn — exactly
   the same commitment principle as above, just via a weaker channel (see
   "Older approaches we've used or considered" earlier in this document for
-  why that channel alone isn't relied on going forward). Those tweets
-  still have real evidentiary value for grounding *manifest* provenance in
-  those earlier audits, if they can be located, dated, and linked here —
-  not yet done. **Open task, for Neal or a future pass of this project**:
-  search Twitter/X history for these pre-seed-ceremony manifest-hash posts,
-  across however many past audits they exist for, and catalog them (date,
-  audit/election, tweet link, manifest file/hash referenced).
+  why that channel alone isn't relied on going forward). See
+  ["Manifest-hash commitments on Twitter/X"](#manifest-hash-commitments-on-twitterx)
+  above.
   **A real, honest gap this doesn't close**: no equivalent public
   pre-commitment exists for *cast vote records* from audits before 2026 —
-  so even once the manifest tweets are cataloged, the evidentiary story for
+  so even with the manifest tweets cataloged, the evidentiary story for
   older audits stays asymmetric: manifests can be shown not to have been
   altered after the fact, but the CVRs compared against them for those
   same older audits generally can't be. Worth stating plainly rather than
