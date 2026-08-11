@@ -2,7 +2,7 @@
 
 The data in this repository relate to risk-limiting audits.
 Initially it includes data from the statewide ballot-level comparison RLAs in Colorado, starting in 2017,
-as described at [The Colorado Risk\-Limiting Audit Project \(CORLA\) and related work](http://bcn.boulder.co.us/~neal/elections/corla/)
+as described at [The Colorado Risk\-Limiting Audit Project \(CORLA\) and related work](https://neal.mcburnett.org/elections/corla/)
 
 The initial scope includes data published in Colorado's
 [Audit Center](https://www.sos.state.co.us/pubs/elections/auditCenter.html),
@@ -23,7 +23,19 @@ observers can confirm the data was locked in place before the dice roll. See
 and [2026/primary/observerfiles/2026-primary-details.md](2026/primary/observerfiles/2026-primary-details.md)
 for the specific commitments made for the 2026 primary.
 
-Note on staleness: as of 2026-07-13, the pages this mirror was originally scraped from for
-elections prior to the 2026 primary (2017 through 2025) return 404 on the live Secretary
-of State site — only the current election's Audit Center pages are live. Files here for
-those earlier years predate that, and can no longer be checked against a live copy.
+Note: the pages this mirror was originally scraped from for elections prior to the 2026
+primary (2017 through 2025) now return 404 on the live Secretary of State site — as of
+2026-07-13, only the current election's Audit Center pages are live. The files here for
+those earlier years aren't so much stale as orphaned: the original source is simply gone,
+and they can no longer be checked against a live copy.
+
+Known gap: point-in-time snapshots, not continuous versioning. This mirror is built by
+periodically scraping what the Secretary of State's Audit Center (and, for some files,
+individual counties directly) had published at the time of each scrape — it is not a
+continuous capture of every version of every file. Some files, ballot manifests in
+particular, can be revised more than once during an active audit cycle as errors are
+found and corrected; if a file changed between scrapes, this mirror may hold only one
+snapshot of it, and that snapshot isn't guaranteed to be the first version, the last
+version, or the corrected one.
+
+We're working to close that gap.
