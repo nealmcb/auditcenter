@@ -22,12 +22,27 @@
 \thispagestyle{empty}
 
 \subsection*{Abstract}
-{\it Placeholder abstract for this page-count mockup -- not yet drafted
-for real submission.} Colorado has run a mandatory, statewide
-risk-limiting audit after every election since 2017. We reconstruct,
-clean, and normalize ten years of the state's public audit exports into a
-single dataset, verify it against an independent ground truth, and report
-the resulting structural coverage and discrepancy findings.
+Colorado has an unprecedented record of transparency: a mandatory,
+statewide risk-limiting audit after every election since 2017, spanning
+ten years and fourteen election instances. That record has been
+presented only as a fragmented set of separately published, yearly
+audit-center exports -- three structurally distinct formats -- that
+require substantial reconciliation and cleaning before they support
+efficient analysis across elections. We reconstruct, clean, and
+normalize this entire record into a single relational dataset spanning
+6,522 contests, verify it against an independent ground truth by
+reconstructing the state's own pseudo-random ballot selections from
+public inputs alone (an exact match for 97.9\% of checkable targeted
+contests), and report the resulting structural findings: 93.9\% of
+contests receive at least some independently examined-ballot evidence,
+and audit boards' physical reads disagreed with the voting system's own
+interpretation for just 0.067\% of 965,254 examined contest-ballot
+comparisons -- a rate dominated by human process error rather than any
+tabulation flaw. The normalized dataset, analysis code, and a notebook
+reproducing every result in this paper are available in an open-source,
+independently reproducible companion repository, laying the groundwork
+for the further statistical and policy work this reconstruction newly
+makes possible.
 
 \input{body.tex}
 
