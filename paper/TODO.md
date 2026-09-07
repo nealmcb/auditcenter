@@ -384,3 +384,33 @@ This TODO file names real third parties (e.g. "John, Edouard", "John
 Caron") in several planning notes above. Fine for an internal working
 file, but scrub before this repo is actually deposited/linked for
 review -- same final pass noted in the repository root's own TODO.md.
+
+## Repo-structure refinement (2026-09-07, Neal): separate the paper repo from auditcenter
+
+After more thought, the plan for this whole reproduction package is
+changing:
+
+- **Move the actual paper-support package (this `paper/` directory,
+  `corla_results/`, `reproduce_paper.ipynb`, `cross_election.db`, and
+  `DATABASE.md`) into a new, separate, initially-private repository**
+  (working name: `corla10`) -- not nested inside `auditcenter` as a
+  branch, its own repo.
+- That new repo's own reproduction instructions should reference
+  `auditcenter` (the raw CORLA export mirror) as a **separate**
+  repository/dependency -- clone it alongside, don't re-bundle a copy of
+  its raw data inside the new repo.
+- Once `corla10` exists and the reproduction actually works end to end
+  from it, **wipe this `evtwote2026-submission` branch back to clean**
+  on `auditcenter` -- remove the accumulated `REVIEW.md` files and
+  review-cycle commits entirely, so `auditcenter` goes back to being
+  just the raw data mirror it always was, with nothing paper-specific on
+  any of its branches.
+- Then give GitHub Copilot a genuinely fresh start: a clean new task
+  against `corla10` (once it's ready), rather than another pass on this
+  branch's accumulated history.
+- Also still want a truly **anonymous** hosting setup for `corla10` (not
+  just an anonymized-proxy view of a repo under Neal's own account --
+  see the earlier anonymous.4open.science discussion) before this is
+  actually used for real review.
+
+Not started yet -- this is the plan, recorded here before acting on it.
