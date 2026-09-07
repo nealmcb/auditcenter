@@ -1,0 +1,954 @@
+county_id,county_name,contest_name,contest_id
+1,Adams,United States Senator - DEM,1738934
+1,Adams,Representative to the 117th United States Congress-District 4 - DEM,1738936
+1,Adams,Representative to the 117th United States Congress-District 6 - DEM,1738938
+1,Adams,Representative to the 117th United States Congress-District 7 - DEM,1738940
+1,Adams,State Board of Education Member - Congressional District 7 - DEM,1738942
+1,Adams,Regent of the University of Colorado - Congressional District 6 - DEM,1738944
+1,Adams,Regent of the University of Colorado - Congressional District 7 - DEM,1738946
+1,Adams,State Senator - District 21 - DEM,1738948
+1,Adams,State Senator - District 25 - DEM,1738950
+1,Adams,State Representative - District 30 - DEM,1738952
+1,Adams,State Representative - District 31 - DEM,1738954
+1,Adams,State Representative - District 32 - DEM,1738956
+1,Adams,State Representative - District 34 - DEM,1738958
+1,Adams,State Representative - District 35 - DEM,1738960
+1,Adams,State Representative - District 56 - DEM,1738962
+1,Adams,District Attorney - 17th Judicial District - DEM,1738964
+1,Adams,Adams County Commissioner - District 1 - DEM,1738966
+1,Adams,Adams County Commissioner - District 2 - DEM,1738968
+1,Adams,Adams County Commissioner - District 5 - DEM,1738970
+1,Adams,United States Senator - LBR,1738972
+1,Adams,United States Senator - REP,1738974
+1,Adams,Representative to the 117th United States Congress-District 4 - REP,1738976
+1,Adams,Representative to the 117th United States Congress-District 6 - REP,1738978
+1,Adams,Representative to the 117th United States Congress-District 7 - REP,1738980
+1,Adams,State Board of Education Member - Congressional District 7 - REP,1738982
+1,Adams,Regent of the University of Colorado - Congressional District 6 - REP - Adams County,1738984
+1,Adams,State Senator - District 21 - REP,1738986
+1,Adams,State Senator - District 25 - REP,1738988
+1,Adams,State Representative - District 30 - REP,1738990
+1,Adams,State Representative - District 31 - REP,1738992
+1,Adams,State Representative - District 32 - REP,1738994
+1,Adams,State Representative - District 34 - REP,1738996
+1,Adams,State Representative - District 35 - REP,1738998
+1,Adams,State Representative - District 56 - REP,1739000
+1,Adams,District Attorney - 17th Judicial District - REP,1739002
+1,Adams,Adams County Commissioner - District 1 - REP,1739004
+1,Adams,Adams County Commissioner - District 5 - REP,1739006
+2,Alamosa,United States Senator - DEM,31421
+2,Alamosa,Representative to the 117th United States Congress-District 3 - DEM,31423
+2,Alamosa,State Board of Education Member - Congressional District 3 - DEM,31425
+2,Alamosa,State Senator - District 35 - DEM,31427
+2,Alamosa,State Representative - District 62 - DEM,31429
+2,Alamosa,District Attorney - 12th Judicial District - DEM,31431
+2,Alamosa,Alamosa County Commissioner - District 1 - DEM,31433
+2,Alamosa,Alamosa County Commissioner - District 3 - DEM,31435
+2,Alamosa,Alamosa County Clerk and Recorder - DEM,31437
+2,Alamosa,United States Senator - LBR,31439
+2,Alamosa,United States Senator - REP,31441
+2,Alamosa,Representative to the 117th United States Congress-District 3 - REP,31443
+2,Alamosa,State Board of Education Member - Congressional District 3 - REP,31445
+2,Alamosa,State Senator - District 35 - REP,31447
+2,Alamosa,State Representative - District 62 - REP,31449
+2,Alamosa,Alamosa County Commissioner - District 1 - REP,31451
+2,Alamosa,Alamosa County Commissioner - District 3 - REP,31453
+2,Alamosa,Alamosa County Clerk and Recorder - REP,31455
+3,Arapahoe,United States Senator - DEM,412104
+3,Arapahoe,Representative to the 117th United States Congress-District 1 - DEM,412106
+3,Arapahoe,Representative to the 117th United States Congress-District 4 - DEM,412108
+3,Arapahoe,Representative to the 117th United States Congress-District 6 - DEM,412110
+3,Arapahoe,State Board of Education Member - Congressional District 1 - DEM,412112
+3,Arapahoe,Regent of the University of Colorado - Congressional District 6 - DEM,412114
+3,Arapahoe,State Senator - District 26 - DEM,412116
+3,Arapahoe,State Senator - District 27 - DEM,412118
+3,Arapahoe,State Senator - District 28 - DEM,412120
+3,Arapahoe,State Senator - District 29 - DEM,412122
+3,Arapahoe,State Senator - District 31 - DEM,412124
+3,Arapahoe,State Representative - District 3 - DEM,412126
+3,Arapahoe,State Representative - District 36 - DEM,412128
+3,Arapahoe,State Representative - District 37 - DEM,412130
+3,Arapahoe,State Representative - District 38 - DEM,412132
+3,Arapahoe,State Representative - District 40 - DEM,412134
+3,Arapahoe,State Representative - District 41 - DEM,412136
+3,Arapahoe,State Representative - District 42 - DEM,412138
+3,Arapahoe,State Representative - District 56 - DEM,412140
+3,Arapahoe,State Representative - District 9 - DEM,412142
+3,Arapahoe,District Attorney--18th Judicial District - DEM,412144
+3,Arapahoe,Arapahoe County Commissioner - District 1 - DEM,412146
+3,Arapahoe,Arapahoe County Commissioner - District 3 - DEM,412148
+3,Arapahoe,Arapahoe County Commissioner - District 5 - DEM,412150
+3,Arapahoe,United States Senator - LBR,412152
+3,Arapahoe,United States Senator - REP,412154
+3,Arapahoe,Representative to the 117th United States Congress-District 1 - REP,412156
+3,Arapahoe,Representative to the 117th United States Congress-District 4 - REP,412158
+3,Arapahoe,Representative to the 117th United States Congress-District 6 - REP,412160
+3,Arapahoe,State Board of Education Member - Congressional District 1 - REP,412162
+3,Arapahoe,Regent of the University of Colorado - Congressional District 6 - REP - Arapahoe County,412164
+3,Arapahoe,State Senator - District 26 - REP,412166
+3,Arapahoe,State Senator - District 27 - REP,412168
+3,Arapahoe,State Senator - District 28 - REP,412170
+3,Arapahoe,State Senator - District 31 - REP,412172
+3,Arapahoe,State Representative - District 3 - REP,412174
+3,Arapahoe,State Representative - District 36 - REP,412176
+3,Arapahoe,State Representative - District 37 - REP,412178
+3,Arapahoe,State Representative - District 38 - REP,412180
+3,Arapahoe,State Representative - District 40 - REP,412182
+3,Arapahoe,State Representative - District 41 - REP,412184
+3,Arapahoe,State Representative - District 56 - REP,412186
+3,Arapahoe,State Representative - District 9 - REP,412188
+3,Arapahoe,District Attorney--18th Judicial District - REP,412190
+3,Arapahoe,Arapahoe County Commissioner - District 1 - REP,412192
+3,Arapahoe,Arapahoe County Commissioner - District 3 - REP,412194
+3,Arapahoe,Arapahoe County Commissioner - District 5 - REP,412196
+4,Archuleta,United States Senator - DEM,38107
+4,Archuleta,Representative to the 117th United States Congress-District 3 - DEM - Archuleta County,38109
+4,Archuleta,State Board of Education Member - Congressional District 3 - DEM,38111
+4,Archuleta,State Representative - District 59 - DEM,38113
+4,Archuleta,District Attorney--6th Judicial District - DEM,38115
+4,Archuleta,United States Senator - LBR,38117
+4,Archuleta,United States Senator - REP,38119
+4,Archuleta,Representative to the 117th United States Congress-District 3 - REP,38121
+4,Archuleta,State Board of Education Member - Congressional District 3 - REP,38123
+4,Archuleta,State Representative - District 59 - REP,38125
+4,Archuleta,Archuleta County Commissioner District 1 - REP,38127
+4,Archuleta,Archuleta County Commissioner District 2 - REP,38129
+5,Baca,United States Senator - DEM,43405
+5,Baca,Representative to the 117th United States Congress-District 4 - DEM,43407
+5,Baca,State Senator - District 35 - DEM,43409
+5,Baca,State Representative - District 64 - DEM,43411
+5,Baca,United States Senator - LBR,43413
+5,Baca,United States Senator - REP,43415
+5,Baca,Representative to the 117th United States Congress-District 4 - REP,43417
+5,Baca,State Senator - District 35 - REP,43419
+5,Baca,State Representative - District 64 - REP,43421
+5,Baca,District Attorney - 15th Judicial District - REP,43423
+5,Baca,Baca County Commissioner 1 - REP,43425
+5,Baca,Baca County Commissioner 3 - REP,43427
+6,Bent,United States Senator - DEM,1437317
+6,Bent,Representative to the 117th United States Congress-District 4 - DEM,1437323
+6,Bent,State Senator - District 35 - DEM,1437340
+6,Bent,State Representative - District 64 - DEM,1437351
+6,Bent,District Attorney--16th Judicial District - DEM,1437361
+6,Bent,United States Senator - LBR,1437368
+6,Bent,United States Senator - REP,1437380
+6,Bent,Representative to the 117th United States Congress-District 4 - REP,1437383
+6,Bent,State Senator - District 35 - REP,1437385
+6,Bent,State Representative - District 64 - REP,1437387
+6,Bent,District Attorney--16th Judicial District - REP,1437389
+6,Bent,Bent County Commissioner-District 1 - REP,1437391
+6,Bent,Bent County Commissioner-District 3 - REP,1437393
+8,Chaffee,United States Senator - DEM,285531
+8,Chaffee,Representative to the 117th United States Congress-District 5 - DEM,285533
+8,Chaffee,State Representative - District 60 - DEM,285535
+8,Chaffee,District Attorney - 11th Judicial District - DEM,285537
+8,Chaffee,Chaffee County Commissioner - District 1 - DEM,285539
+8,Chaffee,United States Senator - LBR,285541
+8,Chaffee,United States Senator - REP,285543
+8,Chaffee,Representative to the 117th United States Congress-District 5 - REP,285545
+8,Chaffee,State Representative - District 60 - REP,285547
+8,Chaffee,District Attorney - 11th Judicial District - REP - Chaffee,285549
+8,Chaffee,Chaffee County Commissioner - District 1 - REP,285551
+9,Cheyenne,United States Senator - DEM,411283
+9,Cheyenne,Representative to the 117th United States Congress-District 4 - DEM,411285
+9,Cheyenne,United States Senator - LBR,411287
+9,Cheyenne,United States Senator - REP,411289
+9,Cheyenne,Representative to the 117th United States Congress-District 4 - REP,411291
+9,Cheyenne,State Representative - District 65 - REP,411293
+9,Cheyenne,District Attorney - 15th Judicial District - REP,411295
+9,Cheyenne,Cheyenne County Commissioner - District 1 - REP,411297
+9,Cheyenne,Cheyenne County Commissioner - District 3 - REP,411299
+10,Clear Creek,United States Senator - DEM,391021
+10,Clear Creek,Representative to the 117th United States Congress-District 2 - DEM,391023
+10,Clear Creek,Regent of the University of Colorado - Congressional District 2 - DEM - Clear Creek County,391025
+10,Clear Creek,State Representative - District 13 - DEM,391027
+10,Clear Creek,District Attorney - 5th Judicial District - DEM,391029
+10,Clear Creek,Clear Creek County Commissioner - District 3 - DEM,391031
+10,Clear Creek,United States Senator - LBR,391033
+10,Clear Creek,United States Senator - REP,391035
+10,Clear Creek,Representative to the 117th United States Congress-District 2 - REP,391037
+10,Clear Creek,Regent of the University of Colorado - Congressional District 2 - REP,391039
+10,Clear Creek,State Representative - District 13 - REP,391041
+10,Clear Creek,Clear Creek County Commissioner - District 2 - REP,391043
+10,Clear Creek,Clear Creek County Commissioner - District 3 - REP,391045
+11,Conejos,United States Senator - DEM,348950
+11,Conejos,Representative to the 117th United States Congress-District 3 - DEM,348952
+11,Conejos,State Board of Education Member - Congressional District 3 - DEM,348954
+11,Conejos,State Senator - District 35 - DEM,348956
+11,Conejos,State Representative - District 62 - DEM,348958
+11,Conejos,District Attorney - 12th Judicial District - DEM,348960
+11,Conejos,Conejos County Commissioner District 1 - DEM,348962
+11,Conejos,Conejos County Commissioner District 3 - DEM,348964
+11,Conejos,United States Senator - LBR,348966
+11,Conejos,United States Senator - REP,348968
+11,Conejos,Representative to the 117th United States Congress-District 3 - REP,348970
+11,Conejos,State Board of Education Member - Congressional District 3 - REP,348972
+11,Conejos,State Senator - District 35 - REP,348974
+11,Conejos,State Representative - District 62 - REP,348976
+11,Conejos,Conejos County Commissioner District 1 - REP,348978
+11,Conejos,Conejos County Commissioner District 3 - REP,348980
+12,Costilla,United States Senator - DEM,29887
+12,Costilla,Representative to the 117th United States Congress-District 3 - DEM,29889
+12,Costilla,State Board of Education Member - Congressional District 3 - DEM,29891
+12,Costilla,State Senator - District 35 - DEM,29893
+12,Costilla,State Representative - District 62 - DEM,29895
+12,Costilla,District Attorney - 12th Judicial District - DEM,29897
+12,Costilla,Costilla County Commissioner District 1 - DEM,29899
+12,Costilla,Costilla County Commissioner District 3 - DEM,29901
+12,Costilla,United States Senator - LBR,29903
+12,Costilla,United States Senator - REP,29905
+12,Costilla,Representative to the 117th United States Congress-District 3 - REP,29907
+12,Costilla,State Board of Education Member - Congressional District 3 - REP,29909
+12,Costilla,State Senator - District 35 - REP,29911
+12,Costilla,State Representative - District 62 - REP - Costilla County,29913
+13,Crowley,United States Senator - DEM,367989
+13,Crowley,Representative to the 117th United States Congress-District 4 - DEM,367991
+13,Crowley,State Senator - District 35 - DEM,367993
+13,Crowley,State Representative - District 64 - DEM,367995
+13,Crowley,District Attorney--16th Judicial District - DEM,367997
+13,Crowley,United States Senator - LBR,367999
+13,Crowley,United States Senator - REP,368001
+13,Crowley,Representative to the 117th United States Congress-District 4 - REP,368003
+13,Crowley,State Senator - District 35 - REP,368005
+13,Crowley,State Representative - District 64 - REP,368007
+13,Crowley,District Attorney--16th Judicial District - REP,368009
+13,Crowley,Crowley County Commissioner - District 2 - Rep,368011
+13,Crowley,Crowley County Commissioner - District 3 - Rep,368013
+14,Custer,United States Senator - DEM,370270
+14,Custer,Representative to the 117th United States Congress-District 3 - DEM - Custer County,370272
+14,Custer,State Board of Education Member - Congressional District 3 - DEM,370274
+14,Custer,State Senator - District 35 - DEM,370276
+14,Custer,State Representative - District 60 - DEM,370278
+14,Custer,District Attorney - 11th Judicial District - DEM,370280
+14,Custer,United States Senator - LBR,370282
+14,Custer,United States Senator - REP,370284
+14,Custer,Representative to the 117th United States Congress-District 3 - REP,370286
+14,Custer,State Board of Education Member - Congressional District 3 - REP,370288
+14,Custer,State Senator - District 35 - REP,370290
+14,Custer,State Representative - District 60 - REP,370292
+14,Custer,District Attorney - 11th Judicial District - REP - Custer County,370294
+14,Custer,Custer County Commissioner - District 2 - REP,370296
+14,Custer,Custer County Commissioner - District 3 - REP,370298
+15,Delta,United States Senator - DEM,2818
+15,Delta,Representative to the 117th United States Congress-District 3 - DEM - Delta County,2820
+15,Delta,State Board of Education Member - Congressional District 3 - DEM,2822
+15,Delta,State Representative - District 54 - DEM,2824
+15,Delta,State Representative - District 61 - DEM,2826
+15,Delta,United States Senator - LBR,2828
+15,Delta,United States Senator - REP,2830
+15,Delta,Representative to the 117th United States Congress-District 3 - REP,2832
+15,Delta,State Board of Education Member - Congressional District 3 - REP,2834
+15,Delta,State Representative - District 54 - REP,2836
+15,Delta,State Representative - District 61 - REP,2838
+15,Delta,District Attorney--7th Judicial District - REP,2840
+15,Delta,Delta County Commissioner - District 2 - REP,2842
+15,Delta,Delta County Commissioner - District 3 - REP,2844
+16,Denver,United States Senator - DEM,944162
+16,Denver,United States Senator - REP,944168
+16,Denver,United States Senator - LBR,944186
+16,Denver,Representative to the 117th United States Congress-District 1 - DEM,944188
+16,Denver,Representative to the 117th United States Congress-District 1 - REP,944190
+16,Denver,State Board of Education Member - Congressional District 1 - DEM,944192
+16,Denver,State Board of Education Member - Congressional District 1 - REP,944194
+16,Denver,State Senator - District 31 - DEM - Denver County,944196
+16,Denver,State Senator - District 31 - REP,944198
+16,Denver,State Senator - District 33 - DEM,944200
+16,Denver,State Representative - District 1 - DEM,944202
+16,Denver,State Representative - District 1 - REP,944204
+16,Denver,State Representative - District 2 - DEM,944206
+16,Denver,State Representative - District 2 - REP,944208
+16,Denver,State Representative - District 4 - DEM,944210
+16,Denver,State Representative - District 4 - REP,944212
+16,Denver,State Representative - District 5 - DEM,944214
+16,Denver,State Representative - District 5 - REP,944216
+16,Denver,State Representative - District 6 - DEM,944218
+16,Denver,State Representative - District 6 - REP,944220
+16,Denver,State Representative - District 7 - DEM,944222
+16,Denver,State Representative - District 8 - DEM,944230
+16,Denver,State Representative - District 9 - DEM,944245
+16,Denver,State Representative - District 9 - REP,944260
+16,Denver,District Attorney - 2nd Judicial District - DEM,944272
+17,Dolores,United States Senator - DEM,367059
+17,Dolores,Representative to the 117th United States Congress-District 3 - DEM,367061
+17,Dolores,State Board of Education Member - Congressional District 3 - DEM,367063
+17,Dolores,State Representative - District 58 - DEM,367065
+17,Dolores,United States Senator - LBR,367067
+17,Dolores,United States Senator - REP,367069
+17,Dolores,Representative to the 117th United States Congress-District 3 - REP - Dolores County,367071
+17,Dolores,State Board of Education Member - Congressional District 3 - REP,367073
+17,Dolores,State Representative - District 58 - REP,367075
+17,Dolores,District Attorney--22nd Judicial District - REP,367077
+17,Dolores,Dolores County Commissioner District 2 - REP,367079
+17,Dolores,Dolores County Commissioner District 3 - REP,367081
+18,Douglas,United States Senator - DEM,881504
+18,Douglas,United States Senator - LBR,881506
+18,Douglas,United States Senator - REP,881508
+18,Douglas,Representative to the 117th United States Congress-District 4 - DEM,881510
+18,Douglas,Representative to the 117th United States Congress-District 4 - REP,881512
+18,Douglas,Representative to the 117th United States Congress-District 6 - DEM,881514
+18,Douglas,Representative to the 117th United States Congress-District 6 - REP,881516
+18,Douglas,Regent of the University of Colorado - Congressional District 6 - DEM,881518
+18,Douglas,Regent of the University of Colorado - Congressional District 6 - REP,881520
+18,Douglas,State Senator - District 4 - DEM,881522
+18,Douglas,State Senator - District 4 - REP,881524
+18,Douglas,State Representative - District 39 - DEM,881526
+18,Douglas,State Representative - District 39 - REP,881528
+18,Douglas,State Representative - District 43 - DEM,881530
+18,Douglas,State Representative - District 43 - REP,881532
+18,Douglas,State Representative - District 44 - DEM,881534
+18,Douglas,State Representative - District 44 - REP,881536
+18,Douglas,State Representative - District 45 - DEM,881538
+18,Douglas,State Representative - District 45 - REP,881540
+18,Douglas,District Attorney--18th Judicial District - DEM - Douglas County,881542
+18,Douglas,District Attorney--18th Judicial District - REP,881544
+18,Douglas,Douglas County Commissioner - District 2 - DEM,881546
+18,Douglas,Douglas County Commissioner - District 2 - REP,881548
+18,Douglas,Douglas County Commissioner - District 3 - DEM,881550
+18,Douglas,Douglas County Commissioner - District 3 - REP,881552
+19,Eagle,United States Senator - DEM,395234
+19,Eagle,Representative to the 117th United States Congress-District 2 - DEM,395236
+19,Eagle,Representative to the 117th United States Congress-District 3 - DEM,395238
+19,Eagle,State Board of Education Member - Congressional District 3 - DEM,395240
+19,Eagle,Regent of the University of Colorado - Congressional District 2 - DEM,395242
+19,Eagle,State Representative - District 26 - DEM,395244
+19,Eagle,District Attorney - 5th Judicial District - DEM - Eagle County,395246
+19,Eagle,Eagle County Commissioner - District 1 - DEM,395248
+19,Eagle,Eagle County Commissioner - District 2 - DEM,395250
+19,Eagle,United States Senator - LBR,395252
+19,Eagle,United States Senator - REP,395254
+19,Eagle,Representative to the 117th United States Congress-District 2 - REP,395256
+19,Eagle,Representative to the 117th United States Congress-District 3 - REP - Eagle County,395258
+19,Eagle,State Board of Education Member - Congressional District 3 - REP,395260
+19,Eagle,Regent of the University of Colorado - Congressional District 2 - REP,395262
+19,Eagle,Eagle County Commissioner - District 1 - REP,395264
+19,Eagle,Eagle County Commissioner - District 2 - REP,395266
+20,Elbert,United States Senator - DEM,1302132
+20,Elbert,Representative to the 117th United States Congress-District 4 - DEM,1302134
+20,Elbert,State Representative - District 64 - DEM,1302136
+20,Elbert,District Attorney--18th Judicial District - DEM - Elbert County,1302138
+20,Elbert,Elbert County Commissioner District 3 - DEM,1302140
+20,Elbert,United States Senator - LBR,1302142
+20,Elbert,United States Senator - REP,1302144
+20,Elbert,Representative to the 117th United States Congress-District 4 - REP,1302146
+20,Elbert,State Representative - District 64 - REP,1302148
+20,Elbert,District Attorney--18th Judicial District - REP,1302150
+20,Elbert,Elbert County Commissioner District 1 - REP,1302152
+20,Elbert,Elbert County Commissioner District 3 - REP,1302154
+21,El Paso,United States Senator - DEM,109635
+21,El Paso,Representative to the 117th United States Congress-District 5 - DEM,109637
+21,El Paso,State Senator - District 10 - DEM,109639
+21,El Paso,State Senator - District 12 - DEM,109641
+21,El Paso,State Representative - District 14 - DEM,109643
+21,El Paso,State Representative - District 15 - DEM,109645
+21,El Paso,State Representative - District 16 - DEM,109647
+21,El Paso,State Representative - District 17 - DEM,109649
+21,El Paso,State Representative - District 18 - DEM,109651
+21,El Paso,State Representative - District 19 - DEM,109653
+21,El Paso,State Representative - District 20 - DEM,109655
+21,El Paso,State Representative - District 21 - DEM,109657
+21,El Paso,El Paso County Commissioner - District 2 - DEM,109659
+21,El Paso,El Paso County Commissioner - District 3 - DEM,109661
+21,El Paso,El Paso County Commissioner - District 4 - DEM,109663
+21,El Paso,United States Senator - LBR,109665
+21,El Paso,United States Senator - REP,109667
+21,El Paso,Representative to the 117th United States Congress-District 5 - REP,109669
+21,El Paso,State Senator - District 10 - REP,109671
+21,El Paso,State Senator - District 12 - REP,109673
+21,El Paso,State Representative - District 14 - REP,109675
+21,El Paso,State Representative - District 15 - REP,109677
+21,El Paso,State Representative - District 16 - REP,109679
+21,El Paso,State Representative - District 17 - REP,109681
+21,El Paso,State Representative - District 18 - REP,109683
+21,El Paso,State Representative - District 19 - REP,109685
+21,El Paso,State Representative - District 20 - REP,109687
+21,El Paso,State Representative - District 21 - REP,109689
+21,El Paso,District Attorney - 4th Judicial District - REP - El Paso County,109691
+21,El Paso,El Paso County Commissioner - District 2 - REP,109693
+21,El Paso,El Paso County Commissioner - District 3 - REP,109695
+21,El Paso,El Paso County Commissioner - District 4 - REP,109697
+22,Fremont,United States Senator - DEM,15778
+22,Fremont,Representative to the 117th United States Congress-District 5 - DEM,15780
+22,Fremont,State Representative - District 47 - DEM,15782
+22,Fremont,State Representative - District 60 - DEM,15784
+22,Fremont,District Attorney - 11th Judicial District - DEM,15786
+22,Fremont,United States Senator - LBR,15788
+22,Fremont,United States Senator - REP,15790
+22,Fremont,Representative to the 117th United States Congress-District 5 - REP,15792
+22,Fremont,State Representative - District 47 - REP,15794
+22,Fremont,State Representative - District 60 - REP,15796
+22,Fremont,District Attorney - 11th Judicial District - REP,15798
+22,Fremont,Fremont County Commissioner - District 1 - REP,15800
+22,Fremont,Fremont County Commissioner - District 3 - REP,15802
+23,Garfield,United States Senator - DEM,351869
+23,Garfield,United States Senator - REP,351871
+23,Garfield,United States Senator - LBR,351873
+23,Garfield,Representative to the 117th United States Congress-District 3 - DEM,351875
+23,Garfield,Representative to the 117th United States Congress-District 3 - REP,351877
+23,Garfield,State Board of Education Member - Congressional District 3 - DEM,351879
+23,Garfield,State Board of Education Member - Congressional District 3 - REP,351881
+23,Garfield,State Senator - District 8 - DEM - Garfield County,351883
+23,Garfield,State Senator - District 8 - REP - Garfield County,351885
+23,Garfield,State Representative - District 57 - DEM,351887
+23,Garfield,State Representative - District 57 - REP,351889
+23,Garfield,District Attorney--9th Judicial District - REP,351891
+23,Garfield,Garfield County Commissioner District 2 - DEM,351893
+23,Garfield,Garfield County Commissioner District 2 - REP,351895
+23,Garfield,Garfield County Commissioner District 3 - DEM,351897
+23,Garfield,Garfield County Commissioner District 3 - REP,351899
+24,Gilpin,United States Senator - DEM,1275592
+24,Gilpin,Representative to the 117th United States Congress-District 2 - DEM,1275594
+24,Gilpin,Regent of the University of Colorado - Congressional District 2 - DEM - Gilpin County,1275596
+24,Gilpin,State Representative - District 13 - DEM,1275598
+24,Gilpin,District Attorney--1st Judicial District - DEM,1275600
+24,Gilpin,Gilpin County Commissioner District 1 - DEM,1275602
+24,Gilpin,Gilpin County Commissioner District 3 - DEM,1275604
+24,Gilpin,United States Senator - LBR,1275606
+24,Gilpin,United States Senator - REP,1275608
+24,Gilpin,Representative to the 117th United States Congress-District 2 - REP,1275610
+24,Gilpin,Regent of the University of Colorado - Congressional District 2 - REP,1275612
+24,Gilpin,State Representative - District 13 - REP,1275614
+24,Gilpin,District Attorney--1st Judicial District - REP,1275616
+24,Gilpin,Gilpin County Commissioner District 1 - REP,1275618
+24,Gilpin,Gilpin County Commissioner District 3 - REP,1275620
+25,Grand,United States Senator - DEM,794471
+25,Grand,Representative to the 117th United States Congress-District 2 - DEM,794473
+25,Grand,Regent of the University of Colorado - Congressional District 2 - DEM,794475
+25,Grand,State Senator - District 8 - DEM - Grand County,794477
+25,Grand,State Representative - District 13 - DEM,794479
+25,Grand,Grand County Commissioner - District 2 - DEM,794481
+25,Grand,United States Senator - LBR,794483
+25,Grand,United States Senator - REP,794485
+25,Grand,Representative to the 117th United States Congress-District 2 - REP,794487
+25,Grand,Regent of the University of Colorado - Congressional District 2 - REP,794489
+25,Grand,State Senator - District 8 - REP - Grand County,794491
+25,Grand,State Representative - District 13 - REP,794493
+25,Grand,Grand County Commissioner - District 1 - REP,794495
+25,Grand,Grand County Commissioner - District 2 - REP,794497
+26,Gunnison,United States Senator - DEM,815880
+26,Gunnison,Representative to the 117th United States Congress-District 3 - DEM - Gunnison County,815882
+26,Gunnison,State Board of Education Member - Congressional District 3 - DEM,815884
+26,Gunnison,State Representative - District 59 - DEM,815886
+26,Gunnison,State Representative - District 61 - DEM,815888
+26,Gunnison,Gunnison County Commissioner District 1 - DEM,815890
+26,Gunnison,Gunnison County Commissioner District 2 - DEM,815892
+26,Gunnison,United States Senator - LBR,815894
+26,Gunnison,United States Senator - REP,815896
+26,Gunnison,Representative to the 117th United States Congress-District 3 - REP - Gunnison County,815898
+26,Gunnison,State Board of Education Member - Congressional District 3 - REP,815900
+26,Gunnison,State Representative - District 59 - REP,815902
+26,Gunnison,State Representative - District 61 - REP,815904
+26,Gunnison,District Attorney - 7th Judicial District - REP,815906
+26,Gunnison,Gunnison County Commissioner District 1 - REP,815908
+27,Hinsdale,United States Senator - DEM,384242
+27,Hinsdale,Representative to the 117th United States Congress-District 3 - DEM - Hinsdale County,384244
+27,Hinsdale,State Board of Education Member - Congressional District 3 - DEM,384246
+27,Hinsdale,State Representative - District 59 - DEM,384248
+27,Hinsdale,Hinsdale County Commissioner District 1 - DEM,384250
+27,Hinsdale,United States Senator - LBR,384252
+27,Hinsdale,United States Senator - REP,384254
+27,Hinsdale,Representative to the 117th United States Congress-District 3 - REP,384256
+27,Hinsdale,State Board of Education Member - Congressional District 3 - REP,384258
+27,Hinsdale,State Representative - District 59 - REP,384260
+27,Hinsdale,District Attorney - 7th Judicial District - REP,384262
+27,Hinsdale,Hinsdale County Commissioner District 1 - REP,384264
+27,Hinsdale,Hinsdale County Commissioner District 3 - REP,384266
+27,Hinsdale,Hinsdale County Sheriff - REP,384268
+28,Huerfano,United States Senator - DEM,1278060
+28,Huerfano,Representative to the 117th United States Congress-District 3 - DEM,1278062
+28,Huerfano,State Board of Education Member - Congressional District 3 - DEM,1278064
+28,Huerfano,State Senator - District 35 - DEM,1278066
+28,Huerfano,State Representative - District 62 - DEM,1278068
+28,Huerfano,District Attorney - 3rd Judicial District - DEM,1278070
+28,Huerfano,Huerfano County Commissioner - District 1 - DEM,1278072
+28,Huerfano,Huerfano County Commissioner - District 2 - DEM,1278074
+28,Huerfano,United States Senator - LBR,1278076
+28,Huerfano,United States Senator - REP,1278078
+28,Huerfano,Representative to the 117th United States Congress-District 3 - REP,1278080
+28,Huerfano,State Board of Education Member - Congressional District 3 - REP,1278082
+28,Huerfano,State Senator - District 35 - REP,1278084
+28,Huerfano,State Representative - District 62 - REP,1278086
+28,Huerfano,Huerfano County Commissioner - District 1 - REP,1278088
+28,Huerfano,Huerfano County Commissioner - District 2 - REP,1278090
+29,Jackson,United States Senator - DEM,1532
+29,Jackson,Representative to the 117th United States Congress-District 3 - DEM,1534
+29,Jackson,State Board of Education Member - Congressional District 3 - DEM,1536
+29,Jackson,State Senator - District 8 - DEM - Jackson County,1538
+29,Jackson,State Representative - District 13 - DEM,1540
+29,Jackson,District Attorney - 8th Judicial District - DEM,1542
+29,Jackson,United States Senator - LBR,1544
+29,Jackson,United States Senator - REP,1546
+29,Jackson,Representative to the 117th United States Congress-District 3 - REP - Jackson County,1548
+29,Jackson,State Board of Education Member - Congressional District 3 - REP,1550
+29,Jackson,State Senator - District 8 - REP,1552
+29,Jackson,State Representative - District 13 - REP,1554
+29,Jackson,District Attorney - 8th Judicial District - REP,1556
+29,Jackson,Jackson County Commissioner Dist 2 - REP,1558
+29,Jackson,Jackson County Commissioner Dist 3 - REP,1560
+30,Jefferson,United States Senator - DEM,1544190
+30,Jefferson,Representative to the 117th United States Congress-District 1 - DEM,1544192
+30,Jefferson,Representative to the 117th United States Congress-District 2 - DEM,1544194
+30,Jefferson,Representative to the 117th United States Congress-District 7 - DEM,1544196
+30,Jefferson,State Board of Education Member - Congressional District 1 - DEM,1544198
+30,Jefferson,State Board of Education Member - Congressional District 7 - DEM,1544200
+30,Jefferson,Regent of the University of Colorado - Congressional District 2 - DEM,1544202
+30,Jefferson,Regent of the University of Colorado - Congressional District 7 - DEM,1544204
+30,Jefferson,State Senator - District 19 - DEM,1544206
+30,Jefferson,State Representative - District 1 - DEM,1544208
+30,Jefferson,State Representative - District 22 - DEM,1544210
+30,Jefferson,State Representative - District 23 - DEM,1544212
+30,Jefferson,State Representative - District 24 - DEM,1544214
+30,Jefferson,State Representative - District 25 - DEM,1544216
+30,Jefferson,State Representative - District 27 - DEM,1544218
+30,Jefferson,State Representative - District 28 - DEM,1544220
+30,Jefferson,State Representative - District 29 - DEM,1544222
+30,Jefferson,District Attorney--1st Judicial District - DEM - Jefferson County,1544224
+30,Jefferson,Jefferson County Commissioner - District 1 - DEM,1544226
+30,Jefferson,Jefferson County Commissioner - District 2 - DEM,1544228
+30,Jefferson,United States Senator - LBR,1544230
+30,Jefferson,United States Senator - REP,1544232
+30,Jefferson,Representative to the 117th United States Congress-District 1 - REP,1544234
+30,Jefferson,Representative to the 117th United States Congress-District 2 - REP,1544236
+30,Jefferson,Representative to the 117th United States Congress-District 7 - REP,1544238
+30,Jefferson,State Board of Education Member - Congressional District 1 - REP,1544240
+30,Jefferson,State Board of Education Member - Congressional District 7 - REP,1544242
+30,Jefferson,Regent of the University of Colorado - Congressional District 2 - REP,1544244
+30,Jefferson,State Senator - District 19 - REP,1544246
+30,Jefferson,State Representative - District 1 - REP,1544248
+30,Jefferson,State Representative - District 22 - REP,1544250
+30,Jefferson,State Representative - District 23 - REP,1544252
+30,Jefferson,State Representative - District 24 - REP,1544254
+30,Jefferson,State Representative - District 25 - REP,1544256
+30,Jefferson,State Representative - District 27 - REP,1544258
+30,Jefferson,State Representative - District 28 - REP,1544260
+30,Jefferson,State Representative - District 29 - REP,1544262
+30,Jefferson,District Attorney--1st Judicial District - REP,1544264
+30,Jefferson,Jefferson County Commissioner - District 1 - REP,1544266
+30,Jefferson,Jefferson County Commissioner - District 2 - REP,1544268
+31,Kiowa,United States Senator - DEM,14586
+31,Kiowa,Representative to the 117th United States Congress-District 4 - DEM,14588
+31,Kiowa,State Senator - District 35 - DEM,14590
+31,Kiowa,State Representative - District 64 - DEM,14592
+31,Kiowa,United States Senator - LBR,14594
+31,Kiowa,United States Senator - REP,14596
+31,Kiowa,Representative to the 117th United States Congress-District 4 - REP,14598
+31,Kiowa,State Senator - District 35 - REP,14600
+31,Kiowa,State Representative - District 64 - REP,14602
+31,Kiowa,District Attorney - 15th Judicial District - REP,14604
+31,Kiowa,Kiowa County Commissioner - District 1 - REP,14606
+31,Kiowa,Kiowa County Commissioner - District 3 - REP,14608
+32,Kit Carson,United States Senator - DEM,45302
+32,Kit Carson,Representative to the 117th United States Congress-District 4 - DEM,45304
+32,Kit Carson,Kit Carson County Commissioner - District 3 - DEM,45306
+32,Kit Carson,United States Senator - LBR,45308
+32,Kit Carson,United States Senator - REP,45310
+32,Kit Carson,Representative to the 117th United States Congress-District 4 - REP,45312
+32,Kit Carson,State Representative - District 65 - REP,45314
+32,Kit Carson,District Attorney - 13th Judicial District - REP,45316
+32,Kit Carson,Kit Carson County Commissioner - District 1 - REP,45318
+32,Kit Carson,Kit Carson County Commissioner - District 3 - REP,45320
+33,Lake,United States Senator - DEM,55436
+33,Lake,Representative to the 117th United States Congress-District 3 - DEM,55438
+33,Lake,State Board of Education Member - Congressional District 3 - DEM,55440
+33,Lake,State Representative - District 61 - DEM,55442
+33,Lake,District Attorney - 5th Judicial District - DEM - Lake County,55444
+33,Lake,Lake County Commissioner District 2 - DEM,55446
+33,Lake,Lake County Commissioner District 3 - DEM,55448
+33,Lake,United States Senator - LBR,55450
+33,Lake,United States Senator - REP,55452
+33,Lake,Representative to the 117th United States Congress-District 3 - REP - Lake County,55454
+33,Lake,State Board of Education Member - Congressional District 3 - REP,55456
+33,Lake,State Representative - District 61 - REP,55458
+33,Lake,Lake County Commissioner District 2 - REP,55460
+34,La Plata,United States Senator - DEM,1282549
+34,La Plata,Representative to the 117th United States Congress-District 3 - DEM - La Plata County,1282551
+34,La Plata,State Board of Education Member - Congressional District 3 - DEM,1282553
+34,La Plata,State Representative - District 59 - DEM,1282555
+34,La Plata,District Attorney--6th Judicial District - DEM,1282557
+34,La Plata,La Plata County Commissioner District 2 - DEM,1282559
+34,La Plata,La Plata County Commissioner District 3 - DEM,1282561
+34,La Plata,United States Senator - LBR,1282563
+34,La Plata,United States Senator - REP,1282565
+34,La Plata,Representative to the 117th United States Congress-District 3 - REP - La Plata County,1282567
+34,La Plata,State Board of Education Member - Congressional District 3 - REP,1282569
+34,La Plata,State Representative - District 59 - REP,1282571
+35,Larimer,United States Senator - DEM,1330263
+35,Larimer,Representative to the 117th United States Congress-District 2 - DEM,1330265
+35,Larimer,Regent of the University of Colorado - Congressional District 2 - DEM,1330267
+35,Larimer,State Senator - District 14 - DEM,1330269
+35,Larimer,State Senator - District 23 - DEM,1330271
+35,Larimer,State Representative - District 49 - DEM,1330273
+35,Larimer,State Representative - District 52 - DEM,1330275
+35,Larimer,State Representative - District 53 - DEM,1330283
+35,Larimer,District Attorney - 8th Judicial District - DEM,1330294
+35,Larimer,Larimer County Commissioner - District 2 - DEM,1330303
+35,Larimer,Larimer County Commissioner - District 3 - DEM,1330312
+35,Larimer,United States Senator - LBR,1330320
+35,Larimer,United States Senator - REP,1330329
+35,Larimer,Representative to the 117th United States Congress-District 2 - REP,1330338
+35,Larimer,Regent of the University of Colorado - Congressional District 2 - REP,1330346
+35,Larimer,State Senator - District 14 - REP,1330354
+35,Larimer,State Senator - District 23 - REP,1330363
+35,Larimer,State Representative - District 49 - REP,1330374
+35,Larimer,State Representative - District 51 - REP,1330379
+35,Larimer,State Representative - District 52 - REP,1330381
+35,Larimer,District Attorney - 8th Judicial District - REP,1330383
+35,Larimer,Larimer County Commissioner - District 2 - REP,1330385
+35,Larimer,Larimer County Commissioner - District 3 - REP,1330387
+36,Las Animas,United States Senator - DEM,385074
+36,Las Animas,Representative to the 117th United States Congress-District 4 - DEM,385076
+36,Las Animas,State Senator - District 35 - DEM,385078
+36,Las Animas,State Representative - District 64 - DEM,385080
+36,Las Animas,District Attorney - 3rd Judicial District - DEM,385082
+36,Las Animas,Las Animas County Commissioner District 2 - DEM,385084
+36,Las Animas,United States Senator - LBR,385086
+36,Las Animas,United States Senator - REP,385088
+36,Las Animas,Representative to the 117th United States Congress-District 4 - REP,385090
+36,Las Animas,State Senator - District 35 - REP,385092
+36,Las Animas,State Representative - District 64 - REP,385094
+36,Las Animas,Las Animas County Commissioner District 1 - REP,385096
+37,Lincoln,United States Senator - DEM,296131
+37,Lincoln,Representative to the 117th United States Congress-District 4 - DEM,296133
+37,Lincoln,State Representative - District 64 - DEM,296135
+37,Lincoln,District Attorney--18th Judicial District - DEM - Lincoln County,296137
+37,Lincoln,United States Senator - LBR,296139
+37,Lincoln,United States Senator - REP,296141
+37,Lincoln,Representative to the 117th United States Congress-District 4 - REP,296143
+37,Lincoln,State Representative - District 64 - REP,296145
+37,Lincoln,District Attorney--18th Judicial District - REP,296147
+37,Lincoln,Lincoln County Commissioner District 2 - REP,296149
+37,Lincoln,Lincoln County Commissioner District 3 - REP,296151
+38,Logan,United States Senator - DEM,279758
+38,Logan,Representative to the 117th United States Congress-District 4 - DEM,279760
+38,Logan,United States Senator - LBR,279762
+38,Logan,United States Senator - REP,279764
+38,Logan,Representative to the 117th United States Congress-District 4 - REP,279766
+38,Logan,State Representative - District 65 - REP,279768
+38,Logan,District Attorney - 13th Judicial District - REP,279770
+38,Logan,Logan County Commissioner District 1 - REP,279772
+38,Logan,Logan County Commissioner District 2 - REP,279774
+39,Mesa,United States Senator - DEM,60924
+39,Mesa,Representative to the 117th United States Congress-District 3 - DEM - Mesa County,60926
+39,Mesa,State Board of Education Member - Congressional District 3 - DEM,60928
+39,Mesa,State Representative - District 54 - DEM,60930
+39,Mesa,State Representative - District 55 - DEM,60932
+39,Mesa,Mesa County Commissioner - District 1 - DEM,60934
+39,Mesa,Mesa County Commissioner - District 3 - DEM,60936
+39,Mesa,United States Senator - LBR,60938
+39,Mesa,United States Senator - REP,60940
+39,Mesa,Representative to the 117th United States Congress-District 3 - REP,60942
+39,Mesa,State Board of Education Member - Congressional District 3 - REP,60944
+39,Mesa,State Representative - District 54 - REP,60946
+39,Mesa,State Representative - District 55 - REP,60948
+39,Mesa,District Attorney-21st Judicial District - REP,60950
+39,Mesa,Mesa County Commissioner - District 1 - REP,60952
+39,Mesa,Mesa County Commissioner - District 3 - REP,60954
+40,Mineral,United States Senator - DEM,13814
+40,Mineral,Representative to the 117th United States Congress-District 3 - DEM - Mineral County,13816
+40,Mineral,State Board of Education Member - Congressional District 3 - DEM,13818
+40,Mineral,State Senator - District 35 - DEM,13820
+40,Mineral,State Representative - District 62 - DEM,13822
+40,Mineral,District Attorney - 12th Judicial District - DEM,13824
+40,Mineral,Mineral County Commissioner - District 2 - DEM,13826
+40,Mineral,United States Senator - LBR,13828
+40,Mineral,United States Senator - REP,13830
+40,Mineral,Representative to the 117th United States Congress-District 3 - REP - Mineral County,13832
+40,Mineral,State Board of Education Member - Congressional District 3 - REP,13834
+40,Mineral,State Senator - District 35 - REP,13836
+40,Mineral,State Representative - District 62 - REP,13838
+40,Mineral,Mineral County Commissioner - District 2 - REP,13840
+40,Mineral,Mineral County Commissioner - District 3 - REP,13842
+41,Moffat,United States Senator - DEM,821729
+41,Moffat,Representative to the 117th United States Congress-District 3 - DEM - Moffat County,821731
+41,Moffat,State Board of Education Member - Congressional District 3 - DEM,821733
+41,Moffat,State Senator - District 8 - DEM,821735
+41,Moffat,State Representative - District 57 - DEM,821737
+41,Moffat,United States Senator - LBR,821739
+41,Moffat,United States Senator - REP,821741
+41,Moffat,Representative to the 117th United States Congress-District 3 - REP,821743
+41,Moffat,State Board of Education Member - Congressional District 3 - REP,821745
+41,Moffat,State Senator - District 8 - REP,821747
+41,Moffat,State Representative - District 57 - REP,821749
+41,Moffat,Moffat County Commissioner District 1 - REP,821751
+41,Moffat,Moffat County Commissioner District 2 - REP,821753
+42,Montezuma,United States Senator - DEM,785416
+42,Montezuma,Representative to the 117th United States Congress-District 3 - DEM - Montezuma County,785418
+42,Montezuma,State Board of Education Member - Congressional District 3 - DEM,785420
+42,Montezuma,State Representative - District 58 - DEM,785422
+42,Montezuma,United States Senator - LBR,785424
+42,Montezuma,United States Senator - REP,785426
+42,Montezuma,Representative to the 117th United States Congress-District 3 - REP,785428
+42,Montezuma,State Board of Education Member - Congressional District 3 - REP,785430
+42,Montezuma,State Representative - District 58 - REP,785432
+42,Montezuma,District Attorney--22nd Judicial District - REP,785434
+42,Montezuma,Montezuma County Commissioner District 2 - REP,785436
+42,Montezuma,Montezuma County Commissioner District 3 - REP,785438
+43,Montrose,United States Senator - DEM,307320
+43,Montrose,Representative to the 117th United States Congress-District 3 - DEM - Montrose County,307322
+43,Montrose,State Board of Education Member - Congressional District 3 - DEM,307324
+43,Montrose,State Representative - District 58 - DEM,307326
+43,Montrose,United States Senator - LBR,307328
+43,Montrose,United States Senator - REP,307330
+43,Montrose,Representative to the 117th United States Congress-District 3 - REP - Montrose County,307332
+43,Montrose,State Board of Education Member - Congressional District 3 - REP,307334
+43,Montrose,State Representative - District 58 - REP,307336
+43,Montrose,District Attorney--7th Judicial District - REP,307338
+43,Montrose,Montrose County Commissioner - District 1 - REP,307340
+43,Montrose,Montrose County Commissioner - District 3 - REP,307342
+44,Morgan,United States Senator - DEM,583178
+44,Morgan,Representative to the 117th United States Congress-District 4 - DEM,583180
+44,Morgan,United States Senator - LBR,583182
+44,Morgan,United States Senator - REP,583184
+44,Morgan,Representative to the 117th United States Congress-District 4 - REP,583186
+44,Morgan,State Representative - District 65 - REP,583188
+44,Morgan,District Attorney - 13th Judicial District - REP,583190
+44,Morgan,Morgan County Commissioner District 1 - REP,583192
+44,Morgan,Morgan County Commissioner District 3 - REP,583194
+45,Otero,United States Senator - DEM,1531184
+45,Otero,Representative to the 117th United States Congress-District 4 - DEM,1531186
+45,Otero,State Senator - District 35 - DEM,1531188
+45,Otero,State Representative - District 47 - DEM,1531190
+45,Otero,District Attorney--16th Judicial District - DEM,1531192
+45,Otero,Otero County Commissioner District 1 - DEM,1531194
+45,Otero,United States Senator - LBR,1531196
+45,Otero,United States Senator - REP,1531198
+45,Otero,Representative to the 117th United States Congress-District 4 - REP,1531200
+45,Otero,State Senator - District 35 - REP,1531202
+45,Otero,State Representative - District 47 - REP - Otero County,1531204
+45,Otero,District Attorney--16th Judicial District - REP,1531206
+45,Otero,Otero County Commissioner District 1 - REP,1531208
+45,Otero,Otero County Commissioner District 3 - REP,1531210
+46,Ouray,United States Senator - DEM,1526640
+46,Ouray,Representative to the 117th United States Congress-District 3 - DEM - Ouray County,1526642
+46,Ouray,State Board of Education Member - Congressional District 3 - DEM,1526644
+46,Ouray,State Representative - District 59 - DEM,1526646
+46,Ouray,Ouray County Commissioner - District 1 - DEM,1526648
+46,Ouray,Ouray County Commissioner - District 3 - DEM,1526650
+46,Ouray,United States Senator - LBR,1526652
+46,Ouray,United States Senator - REP,1526654
+46,Ouray,Representative to the 117th United States Congress-District 3 - REP - Ouray County,1526656
+46,Ouray,State Board of Education Member - Congressional District 3 - REP,1526658
+46,Ouray,State Representative - District 59 - REP,1526660
+46,Ouray,District Attorney - 7th Judicial District - REP,1526662
+47,Park,United States Senator - DEM,1536380
+47,Park,Representative to the 117th United States Congress-District 2 - DEM,1536382
+47,Park,Representative to the 117th United States Congress-District 5 - DEM,1536384
+47,Park,Regent of the University of Colorado - Congressional District 2 - DEM - Park County,1536386
+47,Park,State Representative - District 60 - DEM,1536388
+47,Park,District Attorney - 11th Judicial District - DEM,1536390
+47,Park,United States Senator - LBR,1536392
+47,Park,United States Senator - REP,1536394
+47,Park,Representative to the 117th United States Congress-District 2 - REP,1536396
+47,Park,Representative to the 117th United States Congress-District 5 - REP,1536398
+47,Park,Regent of the University of Colorado - Congressional District 2 - REP,1536400
+47,Park,State Representative - District 60 - REP,1536402
+47,Park,District Attorney - 11th Judicial District - REP,1536404
+47,Park,Park County Commissioner District 1 - REP,1536406
+47,Park,Park County Commissioner District 2 - REP,1536408
+48,Phillips,United States Senator - DEM,53629
+48,Phillips,Representative to the 117th United States Congress-District 4 - DEM,53631
+48,Phillips,United States Senator - LBR,53633
+48,Phillips,United States Senator - REP,53635
+48,Phillips,Representative to the 117th United States Congress-District 4 - REP,53637
+48,Phillips,State Representative - District 65 - REP,53639
+48,Phillips,District Attorney - 13th Judicial District - REP,53641
+48,Phillips,Phillips County Commissioner - District 2 - REP,53643
+48,Phillips,Phillips County Commissioner - District 3 - REP,53645
+49,Pitkin,United States Senator - DEM,827445
+49,Pitkin,Representative to the 117th United States Congress-District 3 - DEM - Pitkin County,827447
+49,Pitkin,State Board of Education Member - Congressional District 3 - DEM,827449
+49,Pitkin,State Representative - District 61 - DEM,827451
+49,Pitkin,United States Senator - LBR,827453
+49,Pitkin,United States Senator - REP,827455
+49,Pitkin,Representative to the 117th United States Congress-District 3 - REP - Pitkin County,827457
+49,Pitkin,State Board of Education Member - Congressional District 3 - REP,827459
+49,Pitkin,State Representative - District 61 - REP,827461
+49,Pitkin,District Attorney--9th Judicial District - REP,827463
+50,Prowers,United States Senator - DEM,293554
+50,Prowers,Representative to the 117th United States Congress-District 4 - DEM,293556
+50,Prowers,State Senator - District 35 - DEM,293558
+50,Prowers,State Representative - District 64 - DEM,293560
+50,Prowers,United States Senator - LBR,293562
+50,Prowers,United States Senator - REP,293564
+50,Prowers,Representative to the 117th United States Congress-District 4 - REP,293566
+50,Prowers,State Senator - District 35 - REP,293568
+50,Prowers,State Representative - District 64 - REP,293570
+50,Prowers,District Attorney - 15th Judicial District - REP,293572
+50,Prowers,Prowers County Commissioner District 1 - REP,293574
+50,Prowers,Prowers County Commissioner District 3 - REP,293576
+51,Pueblo,United States Senator - DEM,834450
+51,Pueblo,Representative to the 117th United States Congress-District 3 - DEM,834452
+51,Pueblo,State Board of Education Member - Congressional District 3 - DEM,834454
+51,Pueblo,State Senator - District 35 - DEM,834456
+51,Pueblo,State Representative - District 46 - DEM,834458
+51,Pueblo,State Representative - District 47 - DEM,834460
+51,Pueblo,State Representative - District 62 - DEM,834462
+51,Pueblo,District Attorney--10th Judicial District - DEM,834464
+51,Pueblo,Pueblo County Commissioner 1 - DEM,834466
+51,Pueblo,Pueblo County Commissioner 2 - DEM,834468
+51,Pueblo,United States Senator - LBR,834470
+51,Pueblo,United States Senator - REP,834472
+51,Pueblo,Representative to the 117th United States Congress-District 3 - REP,834474
+51,Pueblo,State Board of Education Member - Congressional District 3 - REP,834476
+51,Pueblo,State Senator - District 35 - REP,834478
+51,Pueblo,State Representative - District 46 - REP,834480
+51,Pueblo,State Representative - District 47 - REP,834482
+51,Pueblo,State Representative - District 62 - REP,834484
+52,Rio Blanco,United States Senator - DEM,878026
+52,Rio Blanco,Representative to the 117th United States Congress-District 3 - DEM,878028
+52,Rio Blanco,State Board of Education Member - Congressional District 3 - DEM,878030
+52,Rio Blanco,State Senator - District 8 - DEM - Rio Blanco County,878032
+52,Rio Blanco,State Representative - District 57 - DEM,878034
+52,Rio Blanco,United States Senator - LBR,878036
+52,Rio Blanco,United States Senator - REP,878038
+52,Rio Blanco,Representative to the 117th United States Congress-District 3 - REP,878040
+52,Rio Blanco,State Board of Education Member - Congressional District 3 - REP,878042
+52,Rio Blanco,State Senator - District 8 - REP,878044
+52,Rio Blanco,State Representative - District 57 - REP,878046
+52,Rio Blanco,District Attorney--9th Judicial District - REP,878048
+52,Rio Blanco,Rio Blanco County Commissioner District 2 - REP,878050
+52,Rio Blanco,Rio Blanco County Commissioner District 3 - REP,878052
+53,Rio Grande,United States Senator - DEM,49848
+53,Rio Grande,Representative to the 117th United States Congress-District 3 - DEM,49850
+53,Rio Grande,State Board of Education Member - Congressional District 3 - DEM,49852
+53,Rio Grande,State Senator - District 35 - DEM,49854
+53,Rio Grande,State Representative - District 62 - DEM,49856
+53,Rio Grande,District Attorney - 12th Judicial District - DEM - Rio Grande County,49858
+53,Rio Grande,United States Senator - LBR,49860
+53,Rio Grande,United States Senator - REP,49862
+53,Rio Grande,Representative to the 117th United States Congress-District 3 - REP,49864
+53,Rio Grande,State Board of Education Member - Congressional District 3 - REP,49866
+53,Rio Grande,State Senator - District 35 - REP,49868
+53,Rio Grande,State Representative - District 62 - REP,49870
+53,Rio Grande,Rio Grande County Commissioner District 1 - REP,49872
+53,Rio Grande,Rio Grande County Commissioner District 3 - REP,49874
+54,Routt,United States Senator - DEM,374716
+54,Routt,Representative to the 117th United States Congress-District 3 - DEM,374718
+54,Routt,State Board of Education Member - Congressional District 3 - DEM,374720
+54,Routt,State Senator - District 8 - DEM - Routt County,374722
+54,Routt,State Representative - District 26 - DEM,374724
+54,Routt,Routt County Commissioner - District 1 - DEM,374726
+54,Routt,Routt County Commissioner - District 2 - DEM,374728
+54,Routt,United States Senator - LBR,374730
+54,Routt,United States Senator - REP,374732
+54,Routt,Representative to the 117th United States Congress-District 3 - REP,374734
+54,Routt,State Board of Education Member - Congressional District 3 - REP,374736
+54,Routt,State Senator - District 8 - REP - Routt County,374738
+55,Saguache,United States Senator - DEM,47895
+55,Saguache,Representative to the 117th United States Congress-District 3 - DEM,47897
+55,Saguache,State Board of Education Member - Congressional District 3 - DEM,47899
+55,Saguache,State Senator - District 35 - DEM,47901
+55,Saguache,State Representative - District 62 - DEM,47903
+55,Saguache,District Attorney - 12th Judicial District - DEM,47905
+55,Saguache,Saguache County Commissioner District 1 - DEM,47907
+55,Saguache,Saguache County Commissioner District 2 - DEM,47909
+55,Saguache,United States Senator - LBR,47911
+55,Saguache,United States Senator - REP,47913
+55,Saguache,Representative to the 117th United States Congress-District 3 - REP,47915
+55,Saguache,State Board of Education Member - Congressional District 3 - REP,47917
+55,Saguache,State Senator - District 35 - REP,47919
+55,Saguache,State Representative - District 62 - REP - Saguache County,47921
+55,Saguache,Saguache County Commissioner District 1 - REP,47923
+57,San Miguel,United States Senator - DEM,57260
+57,San Miguel,Representative to the 117th United States Congress-District 3 - DEM - San Miguel County,57262
+57,San Miguel,State Board of Education Member - Congressional District 3 - DEM,57264
+57,San Miguel,State Representative - District 58 - DEM,57266
+57,San Miguel,San Miguel County Commissioner - District 1 - DEM,57268
+57,San Miguel,San Miguel County Commissioner- District 3 - DEM,57270
+57,San Miguel,United States Senator - LBR,57272
+57,San Miguel,United States Senator - REP,57274
+57,San Miguel,Representative to the 117th United States Congress-District 3 - REP,57276
+57,San Miguel,State Board of Education Member - Congressional District 3 - REP,57278
+57,San Miguel,State Representative - District 58 - REP,57280
+57,San Miguel,District Attorney--7th Judicial District - REP,57282
+58,Sedgwick,United States Senator - DEM,668
+58,Sedgwick,Representative to the 117th United States Congress-District 4 - DEM,670
+58,Sedgwick,United States Senator - LBR,672
+58,Sedgwick,United States Senator - REP,674
+58,Sedgwick,Representative to the 117th United States Congress-District 4 - REP,676
+58,Sedgwick,State Representative - District 65 - REP,678
+58,Sedgwick,District Attorney - 13th Judicial District - REP,680
+58,Sedgwick,Sedgwick County Commissioner - District 2 - REP,682
+58,Sedgwick,Sedgwick County Commissioner - District 3 - REP,684
+59,Summit,United States Senator - DEM,800083
+59,Summit,Representative to the 117th United States Congress-District 2 - DEM,800085
+59,Summit,Regent of the University of Colorado - Congressional District 2 - DEM,800087
+59,Summit,State Senator - District 8 - DEM - Summit County,800089
+59,Summit,State Representative - District 61 - DEM,800091
+59,Summit,District Attorney - 5th Judicial District - DEM,800093
+59,Summit,Summit County Commissioner - District 1 - DEM,800095
+59,Summit,Summit County Commissioner - District 2 - DEM,800097
+59,Summit,Summit County Commissioner - District 3 - DEM,800099
+59,Summit,United States Senator - LBR,800101
+59,Summit,United States Senator - REP,800103
+59,Summit,Representative to the 117th United States Congress-District 2 - REP,800105
+59,Summit,Regent of the University of Colorado - Congressional District 2 - REP,800107
+59,Summit,State Senator - District 8 - REP,800109
+59,Summit,State Representative - District 61 - REP,800111
+59,Summit,Summit County Commissioner - District 1 - REP,800113
+59,Summit,Summit County Commissioner - District 2 - REP,800115
+60,Teller,United States Senator - DEM,298735
+60,Teller,Representative to the 117th United States Congress-District 5 - DEM,298737
+60,Teller,State Representative - District 39 - DEM,298739
+60,Teller,United States Senator - LBR,298741
+60,Teller,United States Senator - REP,298743
+60,Teller,Representative to the 117th United States Congress-District 5 - REP,298745
+60,Teller,State Representative - District 39 - REP,298747
+60,Teller,District Attorney - 4th Judicial District - REP,298749
+60,Teller,Teller County Commissioner District 1 - REP,298751
+60,Teller,Teller County Commissioner District 3 - REP,298753
+61,Washington,United States Senator - DEM,1840164
+61,Washington,Representative to the 117th United States Congress-District 4 - DEM,1840166
+61,Washington,State Representative - District 64 - DEM,1840168
+61,Washington,United States Senator - LBR,1840170
+61,Washington,United States Senator - REP,1840172
+61,Washington,Representative to the 117th United States Congress-District 4 - REP,1840174
+61,Washington,State Representative - District 64 - REP,1840176
+61,Washington,District Attorney - 13th Judicial District - REP,1840178
+61,Washington,Washington County Commissioner District 2 - REP,1840180
+61,Washington,Washington County Commissioner District 3 - REP,1840182
+62,Weld,United States Senator - DEM,1203039
+62,Weld,Representative to the 117th United States Congress-District 4 - DEM,1203041
+62,Weld,State Senator - District 23 - DEM - Weld County,1203043
+62,Weld,State Representative - District 48 - DEM,1203045
+62,Weld,State Representative - District 49 - DEM,1203047
+62,Weld,State Representative - District 50 - DEM,1203049
+62,Weld,State Representative - District 63 - DEM,1203051
+62,Weld,Weld County Commissioner At-Large - DEM,1203053
+62,Weld,Weld County Commissioner District 1 - DEM,1203055
+62,Weld,Weld County Commissioner District 3 - DEM,1203057
+62,Weld,United States Senator - LBR,1203059
+62,Weld,Weld County Commissioner District 3 - LBR,1203061
+62,Weld,United States Senator - REP,1203063
+62,Weld,Representative to the 117th United States Congress-District 4 - REP,1203065
+62,Weld,State Senator - District 23 - REP,1203067
+62,Weld,State Representative - District 48 - REP,1203069
+62,Weld,State Representative - District 49 - REP,1203071
+62,Weld,State Representative - District 63 - REP,1203073
+62,Weld,District Attorney-19th Judicial District - REP,1203075
+62,Weld,Weld County Commissioner At-Large - REP,1203077
+62,Weld,Weld County Commissioner District 1 - REP,1203079
+62,Weld,Weld County Commissioner District 3 - REP,1203081
+63,Yuma,United States Senator - DEM,808711
+63,Yuma,Representative to the 117th United States Congress-District 4 - DEM,808713
+63,Yuma,Yuma County Commissioner - District 2 - DEM,808715
+63,Yuma,Yuma County Commissioner - District 3 - DEM,808717
+63,Yuma,United States Senator - LBR,808719
+63,Yuma,United States Senator - REP,808721
+63,Yuma,Representative to the 117th United States Congress-District 4 - REP,808723
+63,Yuma,State Representative - District 65 - REP,808725
+63,Yuma,District Attorney - 13th Judicial District - REP,808727
+63,Yuma,Yuma County Commissioner - District 2 - REP,808729
+63,Yuma,Yuma County Commissioner - District 3 - REP,808731
+64,Broomfield,United States Senator - DEM,322005
+64,Broomfield,Representative to the 117th United States Congress-District 2 - DEM,322007
+64,Broomfield,Regent of the University of Colorado - Congressional District 2 - DEM,322009
+64,Broomfield,State Senator - District 23 - DEM - Broomfield County,322011
+64,Broomfield,State Representative - District 33 - DEM,322013
+64,Broomfield,District Attorney - 17th Judicial District - DEM,322015
+64,Broomfield,United States Senator - LBR,322017
+64,Broomfield,United States Senator - REP,322019
+64,Broomfield,Representative to the 117th United States Congress-District 2 - REP,322021
+64,Broomfield,Regent of the University of Colorado - Congressional District 2 - REP,322023
+64,Broomfield,State Senator - District 23 - REP - Broomfield County,322025
+64,Broomfield,State Representative - District 33 - REP,322027
+64,Broomfield,District Attorney - 17th Judicial District - REP,322029

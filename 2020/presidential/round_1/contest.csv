@@ -1,0 +1,3 @@
+contest_name,audit_reason,random_audit_status,winners_allowed,ballot_card_count,contest_ballot_card_count,winners,min_margin,risk_limit,audited_sample_count,two_vote_over_count,one_vote_over_count,one_vote_under_count,two_vote_under_count,disagreement_count,other_count,gamma,overstatements,optimistic_samples_to_audit,estimated_samples_to_audit
+President of the United States - DEM,state_wide_contest,risk_limit_achieved,1,1686656,1045438,"""Bernie Sanders""",105075,0.01000000,155,0,0,0,0,0,0,1.03905000,0,154,154
+President of the United States - REP,state_wide_contest,risk_limit_achieved,1,1686656,641218,"""Donald J. Trump""",564867,0.01000000,30,0,0,0,0,0,0,1.03905000,0,29,29

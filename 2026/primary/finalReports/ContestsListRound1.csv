@@ -1,0 +1,708 @@
+contest_name,audit_reason,random_audit_status,winners_allowed,ballot_card_count,contest_ballot_card_count,winners,min_margin,risk_limit,audited_sample_count,two_vote_over_count,one_vote_over_count,zero_discrepancy_count,one_vote_under_count,two_vote_under_count,disagreement_count,gamma,overstatements,optimistic_samples_to_audit,estimated_samples_to_audit
+Adams County Assessor - DEM,opportunistic_benefits,not_auditable,1,95537,64356,"""Thomas Swingle""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,95537,64356,"""Josh Zygielbaum""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,95537,30876,"""Karen Hoopes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Commissioner - District 3 - DEM,opportunistic_benefits,not_auditable,1,95537,64356,"""Emma Pinter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Commissioner - District 4 - DEM,opportunistic_benefits,ended,1,95537,64356,"""Karen DeAguero""",694,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1004,1004
+Adams County Commissioner - District 4 - REP,opportunistic_benefits,not_auditable,1,95537,30876,"""Joseph P Domenico""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Coroner - DEM,opportunistic_benefits,not_auditable,1,95537,64356,"""Monica Broncucia-Jordan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Sheriff - DEM,opportunistic_benefits,not_auditable,1,95537,64356,"""Gene R. Claps""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Sheriff - REP,opportunistic_benefits,not_auditable,1,95537,30876,"""Mark Goodell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Adams County Treasurer - DEM,opportunistic_benefits,not_auditable,1,95537,64356,"""Jason Anaya-Ledeboer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Assessor - DEM,county_wide_contest,risk_limit_achieved,1,3475,1759,"""Jason Duncan""",253,0.03000000,102,0,0,0,0,0,0,1.03905000,0,101,101
+Alamosa County Clerk and Recorder - REP,opportunistic_benefits,ended,1,3475,1709,"""Tina Espinoza""",21,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1206,1206
+Alamosa County Commissioner - District 2 - DEM,opportunistic_benefits,not_auditable,1,3475,1759,"""Sherry Perdue""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,3475,1709,"""Arlan Van Ry""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Coroner - REP,opportunistic_benefits,not_auditable,1,3475,1709,"""Joseph Dzuris""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Sheriff - DEM,opportunistic_benefits,not_auditable,1,3475,1759,"""Robert Jackson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Surveyor - REP,opportunistic_benefits,not_auditable,1,3475,1709,"""Anthony James Martin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Alamosa County Treasurer - REP,opportunistic_benefits,not_auditable,1,3475,1709,"""Amy McKinley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Assessor - DEM,opportunistic_benefits,not_auditable,1,139152,96262,"""PK Kaiser""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Assessor - REP,opportunistic_benefits,not_auditable,1,139152,42414,"""Jesse Lind""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,139152,96262,"""Joan Lopez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,139152,42414,"""Annette Budd""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Commissioner - District 2 - DEM,county_wide_contest,risk_limit_achieved,1,139152,22678,"""Jessica Campbell""",5950,0.03000000,172,0,0,0,0,0,0,1.03905000,0,171,171
+Arapahoe County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,139152,11615,"""Carl Schuldies""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Commissioner - District 4 - DEM,opportunistic_benefits,ended,1,139152,18581,"""Leslie Summey""",1139,0.03000000,0,0,0,0,0,0,0,1.03905000,0,891,891
+Arapahoe County Commissioner - District 4 - REP,opportunistic_benefits,not_auditable,1,139152,6087,"""Sonda ""Sunny"" Banka""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Coroner - DEM,opportunistic_benefits,not_auditable,1,139152,96262,"""Casey Bitting""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Sheriff - DEM,opportunistic_benefits,not_auditable,1,139152,96262,"""Tyler Scott Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Sheriff - REP,opportunistic_benefits,not_auditable,1,139152,42414,"""Kevin Scott Edling""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Arapahoe County Treasurer - DEM,opportunistic_benefits,not_auditable,1,139152,96262,"""Michael Westerberg""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Assessor - REP,opportunistic_benefits,not_auditable,1,4637,2787,"""Johanna Tully-Elliott""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,4637,2787,"""Kristy Archuleta""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Commissioner - District 3 - REP,county_wide_contest,risk_limit_achieved,1,4637,2787,"""Randy Betts""",920,0.03000000,38,0,0,0,0,0,0,1.03905000,0,37,37
+Archuleta County Coroner - REP,opportunistic_benefits,not_auditable,1,4637,2787,"""Brad Hunt""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Sheriff - REP,opportunistic_benefits,not_auditable,1,4637,2787,"""Mike Le Roux""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Archuleta County Treasurer - REP,opportunistic_benefits,not_auditable,1,4637,2787,"""Elsa P. White""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Attorney General - DEM,opportunistic_benefits,in_progress,1,1300658,804494,"""Jena Griswold""",197896,0.03000000,0,0,0,0,0,0,0,1.03905000,0,48,48
+Attorney General - DEM (Archuleta),county_wide_contest,risk_limit_achieved,1,4637,1842,"""Jena Griswold""",728,0.03000000,48,0,0,0,0,0,0,1.03905000,0,47,47
+Attorney General - DEM (Boulder),county_wide_contest,risk_limit_achieved,1,100423,85944,"""Michael Dougherty""",4554,0.03000000,162,0,0,0,0,0,0,1.03905000,0,161,161
+Attorney General - DEM (Crowley),county_wide_contest,risk_limit_achieved,1,895,233,"""Jena Griswold""",130,0.03000000,52,0,0,0,0,0,0,1.03905000,0,51,51
+Attorney General - DEM (Custer),county_wide_contest,risk_limit_achieved,1,2002,662,"""Jena Griswold""",322,0.03000000,47,0,0,0,0,0,0,1.03905000,0,46,46
+Attorney General - DEM (Elbert),county_wide_contest,risk_limit_achieved,1,9919,2397,"""Jena Griswold""",772,0.03000000,95,0,0,0,0,0,0,1.03905000,0,94,94
+Attorney General - DEM (Gilpin),county_wide_contest,risk_limit_achieved,1,1888,1196,"""Jena Griswold""",237,0.03000000,60,0,0,0,0,0,0,1.03905000,0,59,59
+Attorney General - DEM (Logan),county_wide_contest,risk_limit_achieved,1,4846,1142,"""Jena Griswold""",380,0.03000000,94,0,0,0,0,0,0,1.03905000,0,93,93
+Attorney General - DEM (Mineral),county_wide_contest,risk_limit_achieved,1,396,197,"""Jena Griswold""",67,0.03000000,45,0,0,0,0,0,0,1.03905000,0,44,44
+Attorney General - DEM (Montezuma),county_wide_contest,risk_limit_achieved,1,7725,2874,"""Jena Griswold""",1119,0.03000000,52,0,0,0,0,0,0,1.03905000,0,51,51
+Attorney General - DEM (Morgan),county_wide_contest,risk_limit_achieved,1,5220,1529,"""Jena Griswold""",451,0.03000000,86,0,0,0,0,0,0,1.03905000,0,85,85
+Attorney General - DEM (Prowers),county_wide_contest,risk_limit_achieved,1,2298,593,"""Jena Griswold""",234,0.03000000,73,0,0,0,0,0,0,1.03905000,0,72,72
+Attorney General - DEM (Rio Grande),county_wide_contest,risk_limit_achieved,1,3140,1231,"""Jena Griswold""",358,0.03000000,65,0,0,0,0,0,0,1.03905000,0,64,64
+Attorney General - REP,opportunistic_benefits,in_progress,1,937023,323111,"""Michael J. Allen""",63125,0.03000000,0,0,0,0,0,0,0,1.03905000,0,109,109
+Attorney General - REP (Adams),county_wide_contest,risk_limit_achieved,1,95537,30878,"""Michael J. Allen""",4078,0.03000000,172,0,0,0,0,0,0,1.03905000,0,171,171
+Attorney General - REP (Alamosa),county_wide_contest,risk_limit_achieved,1,3475,1709,"""Michael J. Allen""",352,0.03000000,73,0,0,0,0,0,0,1.03905000,0,72,72
+Attorney General - REP (Arapahoe),county_wide_contest,risk_limit_achieved,1,139152,42425,"""Michael J. Allen""",7317,0.03000000,140,0,0,0,0,0,0,1.03905000,0,139,139
+Attorney General - REP (Bent),county_wide_contest,risk_limit_achieved,1,1087,753,"""Michael J. Allen""",145,0.03000000,56,0,0,0,0,0,0,1.03905000,0,55,55
+Attorney General - REP (Broomfield),county_wide_contest,risk_limit_achieved,1,22906,6216,"""Michael J. Allen""",1035,0.03000000,163,0,0,0,0,0,0,1.03905000,0,162,162
+Attorney General - REP (Eagle),county_wide_contest,risk_limit_achieved,1,10412,2846,"""Michael J. Allen""",291,0.03000000,262,0,0,0,0,0,0,1.03905000,0,261,261
+Attorney General - REP (Elbert),county_wide_contest,risk_limit_achieved,1,9919,7492,"""Michael J. Allen""",726,0.03000000,101,0,0,0,0,0,0,1.03905000,0,100,100
+Attorney General - REP (Fremont),county_wide_contest,risk_limit_achieved,1,13174,8982,"""Michael J. Allen""",1516,0.03000000,65,0,0,0,0,0,0,1.03905000,0,64,64
+Attorney General - REP (Garfield),county_wide_contest,risk_limit_achieved,1,14398,7559,"""Michael J. Allen""",404,0.03000000,261,0,0,0,0,0,0,1.03905000,0,260,260
+Attorney General - REP (Gilpin),county_wide_contest,risk_limit_achieved,1,1888,688,"""Michael J. Allen""",145,0.03000000,96,0,0,0,0,0,0,1.03905000,0,95,95
+Attorney General - REP (Grand),county_wide_contest,risk_limit_achieved,1,4645,2206,"""Michael J. Allen""",314,0.03000000,109,0,0,0,0,0,0,1.03905000,0,108,108
+Attorney General - REP (Kit Carson),county_wide_contest,risk_limit_achieved,1,1867,1583,"""Michael J. Allen""",193,0.03000000,72,0,0,0,0,0,0,1.03905000,0,71,71
+Attorney General - REP (Las Animas),county_wide_contest,risk_limit_achieved,1,4007,1740,"""Michael J. Allen""",299,0.03000000,99,0,0,0,0,0,0,1.03905000,0,98,98
+Attorney General - REP (Lincoln),county_wide_contest,risk_limit_achieved,1,1317,1089,"""Michael J. Allen""",244,0.03000000,41,0,0,0,0,0,0,1.03905000,0,40,40
+Attorney General - REP (Logan),county_wide_contest,risk_limit_achieved,1,4846,3699,"""Michael J. Allen""",719,0.03000000,51,0,0,0,0,0,0,1.03905000,0,50,50
+Attorney General - REP (Mesa),county_wide_contest,risk_limit_achieved,1,44177,26985,"""Michael J. Allen""",3666,0.03000000,89,0,0,0,0,0,0,1.03905000,0,88,88
+Attorney General - REP (Morgan),county_wide_contest,risk_limit_achieved,1,5220,3676,"""Michael J. Allen""",656,0.03000000,59,0,0,0,0,0,0,1.03905000,0,58,58
+Attorney General - REP (Phillips),county_wide_contest,risk_limit_achieved,1,1310,1088,"""Michael J. Allen""",163,0.03000000,60,0,0,0,0,0,0,1.03905000,0,59,59
+Attorney General - REP (Prowers),county_wide_contest,risk_limit_achieved,1,2298,1703,"""Michael J. Allen""",274,0.03000000,63,0,0,0,0,0,0,1.03905000,0,62,62
+Attorney General - REP (Pueblo),county_wide_contest,risk_limit_achieved,1,39028,15507,"""Michael J. Allen""",2995,0.03000000,96,0,0,0,0,0,0,1.03905000,0,95,95
+Attorney General - REP (Routt),county_wide_contest,risk_limit_achieved,1,6297,1638,"""Michael J. Allen""",274,0.03000000,169,0,0,0,0,0,0,1.03905000,0,168,168
+Attorney General - REP (Sedgwick),county_wide_contest,risk_limit_achieved,1,801,675,"""Michael J. Allen""",115,0.03000000,52,0,0,0,0,0,0,1.03905000,0,51,51
+Attorney General - REP (Summit),county_wide_contest,risk_limit_achieved,1,6774,1469,"""Michael J. Allen""",334,0.03000000,149,0,0,0,0,0,0,1.03905000,0,148,148
+Attorney General - REP (Weld),county_wide_contest,risk_limit_achieved,1,69640,37563,"""Michael J. Allen""",5213,0.03000000,99,0,0,0,0,0,0,1.03905000,0,98,98
+Attorney General - REP (Yuma),county_wide_contest,risk_limit_achieved,1,2849,2509,"""Michael J. Allen""",367,0.03000000,58,0,0,0,0,0,0,1.03905000,0,57,57
+Baca County Assessor - REP,opportunistic_benefits,not_auditable,1,1215,1052,"""Crista D. Figgins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,1215,160,"""Sharon Dubois""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Commissioner - District 2 - REP,county_wide_contest,risk_limit_achieved,1,1215,1052,"""Tyson Chick""",287,0.03000000,32,0,0,0,0,0,0,1.03905000,0,31,31
+Baca County Coroner - REP,opportunistic_benefits,not_auditable,1,1215,1052,"""Everett Brisendine""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Sheriff - REP,opportunistic_benefits,not_auditable,1,1215,1052,"""Aaron Mack Shiplett""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Baca County Treasurer - REP,opportunistic_benefits,not_auditable,1,1215,1052,"""Jozy Stegman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,1087,753,"""Anne Boswell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,1087,753,"""C J Gallegos""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Coroner - REP,opportunistic_benefits,not_auditable,1,1087,753,"""Jason E. Nichols""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Sheriff - REP,opportunistic_benefits,not_auditable,1,1087,753,"""Jake R. Six""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Bent County Treasurer - REP,opportunistic_benefits,not_auditable,1,1087,753,"""Jennifer M. Godfrey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Assessor - DEM,opportunistic_benefits,not_auditable,1,100423,85924,"""Cynthia Braddock""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,100423,85924,"""Molly Fitzpatrick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Commissioner - District 3 - DEM,opportunistic_benefits,not_auditable,1,100423,85924,"""Ashley Stolzmann""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Coroner - DEM,opportunistic_benefits,not_auditable,1,100423,85924,"""Jeff Martin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Sheriff - DEM,opportunistic_benefits,not_auditable,1,100423,85924,"""Curtis Johnson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Surveyor - DEM,opportunistic_benefits,not_auditable,1,100423,85924,"""Kayce D. W. Keane""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Boulder County Treasurer - DEM,opportunistic_benefits,ended,1,100423,85924,"""Rachel Friend""",9127,0.03000000,0,0,0,0,0,0,0,1.03905000,0,81,81
+Chaffee County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,7491,4762,"""Sophia Gibb""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Chaffee County Commissioner - District 3 - DEM,opportunistic_benefits,not_auditable,1,7491,4762,"""PT Wood""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Chaffee County Commissioner - District 3 - REP,opportunistic_benefits,not_auditable,1,7491,2711,"""Toby Taylor""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Chaffee County Coroner - DEM,opportunistic_benefits,not_auditable,1,7491,4762,"""Jeff Graf""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Chaffee County Treasurer - DEM,opportunistic_benefits,not_auditable,1,7491,4762,"""Jolene Ellis""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne County Assessor - REP,opportunistic_benefits,not_auditable,1,609,559,"""Lacey Welsh""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,609,559,"""Allison Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne County Commissioner - District 2 - REP,opportunistic_benefits,ended,1,609,559,"""Ronald R Smith""",207,0.03000000,0,0,0,0,0,0,0,1.03905000,0,22,22
+Cheyenne County Sheriff - REP,opportunistic_benefits,not_auditable,1,609,559,"""Joseph Conner""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Cheyenne County Treasurer - REP,opportunistic_benefits,not_auditable,1,609,559,"""Gaila Mitchek""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+City of Durango Ballot Issue 2A,opportunistic_benefits,ended,1,16146,8,"""FOR THE ORDINANCE""",5,0.03000000,0,0,0,0,0,0,0,1.03905000,0,23532,23532
+Clear Creek County Assessor - REP,opportunistic_benefits,not_auditable,1,2641,852,"""Donna Gee""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clear Creek County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,2641,1779,"""Lisa Manifold""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clear Creek County Commissioner - District 1 - DEM,opportunistic_benefits,not_auditable,1,2641,1779,"""Chris Gould""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clear Creek County Coroner - REP,opportunistic_benefits,not_auditable,1,2641,852,"""Chris Hegmann""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clear Creek County Sheriff - REP,opportunistic_benefits,not_auditable,1,2641,852,"""Ron Thornton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clear Creek County Treasurer - DEM,opportunistic_benefits,not_auditable,1,2641,1779,"""Keith Vieweg""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clerk and Recorder (DEM),opportunistic_benefits,not_auditable,1,4645,2425,"""Liz Newsom""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clerk and Recorder (REP),opportunistic_benefits,not_auditable,1,4645,2204,"""Jolene Stetson Linke""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Clerk & Recorder (REP),opportunistic_benefits,not_auditable,1,4134,2508,"""Lynda ""Lyn"" Scott""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Commissioner - District 2 (REP),opportunistic_benefits,not_auditable,1,4134,2508,"""Timothy Knabenshue""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Commissioner - District 3 (REP),opportunistic_benefits,not_auditable,1,4645,2204,"""Randy George""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Assessor - DEM,opportunistic_benefits,not_auditable,1,2489,1163,"""Naomi Martinez-Keys """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,2489,1163,"""Nathan Ruybal """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Commissioner District 2 - DEM,opportunistic_benefits,not_auditable,1,2489,1163,"""Randy Perea""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Commissioner District 2 - REP,opportunistic_benefits,ended,1,2489,1324,"""Colton Sutherland""",123,0.03000000,0,0,0,0,0,0,0,1.03905000,0,148,148
+Conejos County Coroner - REP,county_wide_contest,risk_limit_achieved,1,2489,1324,"""Ashley Crowther """,191,0.03000000,96,0,0,0,0,0,0,1.03905000,0,95,95
+Conejos County Sheriff - DEM,opportunistic_benefits,not_auditable,1,2489,1163,"""Matthew Montoya """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Sheriff - REP,opportunistic_benefits,not_auditable,1,2489,1324,"""Garth Crowther """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Surveyor - REP,opportunistic_benefits,not_auditable,1,2489,1324,"""Toby Crowther """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Conejos County Treasurer - DEM,opportunistic_benefits,ended,1,2489,1163,"""Donald E. Valdez""",41,0.03000000,0,0,0,0,0,0,0,1.03905000,0,443,443
+Costilla County Assessor - DEM,county_wide_contest,risk_limit_achieved,1,1416,1066,"""Pamela Vigil""",107,0.03000000,98,0,0,0,0,0,0,1.03905000,0,97,97
+Costilla County Assessor - REP,opportunistic_benefits,not_auditable,1,1416,349,"""Gary Myco""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Costilla County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,1416,1066,"""Adelia Romero""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Costilla County Commissioner District 2 - DEM,opportunistic_benefits,ended,1,1416,1066,"""Patrick Roybal""",56,0.03000000,0,0,0,0,0,0,0,1.03905000,0,185,185
+Costilla County Coroner - DEM,opportunistic_benefits,not_auditable,1,1416,1066,"""Sherri Vigil""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Costilla County Sheriff - DEM,opportunistic_benefits,ended,1,1416,1066,"""Jason Maestas""",664,0.03000000,0,0,0,0,0,0,0,1.03905000,0,16,16
+Costilla County Sheriff - REP,opportunistic_benefits,ended,1,1416,349,"""Kirk Taylor""",181,0.03000000,0,0,0,0,0,0,0,1.03905000,0,58,58
+Costilla County Treasurer - DEM,opportunistic_benefits,not_auditable,1,1416,1066,"""Michael Ray Vigil""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Assessor (DEM),opportunistic_benefits,not_auditable,1,1888,1196,"""April Nielsen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Clerk and Recorder (DEM),opportunistic_benefits,not_auditable,1,1888,1196,"""Joe Self""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Clerk and Recorder (REP),opportunistic_benefits,not_auditable,1,1888,688,"""Tara Gillivan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Clerk & Recorder (REP),opportunistic_benefits,not_auditable,1,14398,7557,"""Jacklyn K. Harmon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Commissioner - District 1 (DEM),opportunistic_benefits,not_auditable,1,14398,6788,"""Jonathan Godes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Commissioner - District 1 (REP),opportunistic_benefits,not_auditable,1,14398,7557,"""Eric Rudd""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Commissioner - District 2 (DEM),opportunistic_benefits,not_auditable,1,1888,1196,"""Susan Berumen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Commissioner - District 2 (REP),opportunistic_benefits,not_auditable,1,1888,688,"""Brady S. Fowler""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Coroner (DEM),opportunistic_benefits,not_auditable,1,1888,1196,"""Zane Laubhan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Coroner (REP),opportunistic_benefits,not_auditable,1,14398,7557,"""Robert Glassmire""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Sheriff (DEM),opportunistic_benefits,not_auditable,1,1888,1196,"""Greg Demo""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+County Surveyor (DEM),opportunistic_benefits,not_auditable,1,1888,1196,"""Corey Diekman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Assessor - REP,opportunistic_benefits,not_auditable,1,895,660,"""Doug England""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,895,660,"""Melinda ""Mindy"" Carter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Commissioner - District 1 - REP,opportunistic_benefits,not_auditable,1,895,660,"""Roy Elliott""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Sheriff - REP,opportunistic_benefits,not_auditable,1,895,660,"""Jonathan Mazzella""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Crowley County Treasurer - REP,opportunistic_benefits,not_auditable,1,895,660,"""Holly McCuistion""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Assessor - REP,opportunistic_benefits,not_auditable,1,2002,1331,"""J.D. Henrich""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Board of County Commissioners - District 1 - REP,opportunistic_benefits,not_auditable,1,2002,1331,"""Taylor LoPresti""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,2002,1331,"""Kelley S. Camper""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Coroner - REP,opportunistic_benefits,not_auditable,1,2002,1331,"""Brad L. Baltzly""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Sheriff - REP,opportunistic_benefits,not_auditable,1,2002,1331,"""Lloyd Rich Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Custer County Treasurer - REP,opportunistic_benefits,not_auditable,1,2002,1331,"""Virginia Trujillo""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Assessor - REP,opportunistic_benefits,not_auditable,1,9806,6437,"""Jolene George""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,9806,6437,"""Rene D. Warner""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Commissioner - District 1 - DEM,opportunistic_benefits,not_auditable,1,9806,3347,"""Nathan Clay""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Commissioner - District 1 - REP,opportunistic_benefits,not_auditable,1,9806,6437,"""Matt Soper""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Coroner - DEM,opportunistic_benefits,not_auditable,1,9806,3347,"""Jill Deneau""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Coroner - REP,opportunistic_benefits,not_auditable,1,9806,6437,"""Lance B. Boren""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Sheriff - DEM,opportunistic_benefits,not_auditable,1,9806,3347,"""Demitri Stelter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Delta County Sheriff - REP,opportunistic_benefits,ended,1,9806,6437,"""Quinn Archibeque""",3403,0.03000000,0,0,0,0,0,0,0,1.03905000,0,21,21
+Delta County Treasurer - REP,opportunistic_benefits,not_auditable,1,9806,6437,"""Brittany Kuhn""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Dolores County Commissioner District 1 - REP,opportunistic_benefits,not_auditable,1,693,538,"""Jerry Baxter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Dolores County Coroner - REP,opportunistic_benefits,not_auditable,1,693,538,"""Aaron Hankins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Dolores County Sheriff - REP,opportunistic_benefits,not_auditable,1,693,538,"""Krista M Schear""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Dolores County Treasurer - REP,opportunistic_benefits,not_auditable,1,693,538,"""Taylor L. Funk""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Assessor (DEM),opportunistic_benefits,not_auditable,1,104759,52330,"""Kara Garr""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Assessor (REP),opportunistic_benefits,not_auditable,1,104759,52152,"""Toby Damisch""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Clerk and Recorder (DEM),opportunistic_benefits,not_auditable,1,104759,52330,"""Jim Oehler""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Clerk and Recorder (REP),opportunistic_benefits,not_auditable,1,104759,52152,"""Sheri Davis""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Commissioner - District 1 (DEM),opportunistic_benefits,not_auditable,1,104759,52330,"""Irene Bonham""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Commissioner - District 1 (REP),county_wide_contest,risk_limit_achieved,1,104759,52152,"""Jake Bockenfeld""",5719,0.03000000,135,0,0,0,0,0,0,1.03905000,0,134,134
+Douglas County Coroner (REP),opportunistic_benefits,not_auditable,1,104759,52152,"""Raeann Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Sheriff (REP),opportunistic_benefits,not_auditable,1,104759,52152,"""Darren M. Weekly""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Surveyor (REP),opportunistic_benefits,not_auditable,1,104759,52152,"""Darrell E. Roberts""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Treasurer (DEM),opportunistic_benefits,not_auditable,1,104759,52330,"""Dan Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Douglas County Treasurer (REP),opportunistic_benefits,ended,1,104759,52152,"""Tim Dietz""",10723,0.03000000,0,0,0,0,0,0,0,1.03905000,0,72,72
+Eagle County Assessor - DEM,opportunistic_benefits,not_auditable,1,10412,7550,"""Andie Noakes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Eagle County Assessor - REP,opportunistic_benefits,not_auditable,1,10412,2846,"""Christopher Buono""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Eagle County Commissioner - District 3 - DEM,opportunistic_benefits,not_auditable,1,10412,7550,"""Kathleen Brendza""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Eagle County Commissioner - District 3 - REP,opportunistic_benefits,not_auditable,1,10412,2846,"""Wendy Sacks""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Eagle County Coroner - DEM,opportunistic_benefits,not_auditable,1,10412,7550,"""Claire Noble""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Eagle County Coroner - REP,opportunistic_benefits,not_auditable,1,10412,2846,"""Christian ""Chris"" Ryan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Eagle County Sheriff - DEM,county_wide_contest,risk_limit_achieved,1,10412,7550,"""Rebecca Anderson""",1162,0.03000000,67,0,0,0,0,0,0,1.03905000,0,66,66
+Eagle County Sheriff - REP,opportunistic_benefits,not_auditable,1,10412,2846,"""James Van Beek""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Eagle County Treasurer - DEM,opportunistic_benefits,not_auditable,1,10412,7550,"""Teak Simonton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Assessor (REP),opportunistic_benefits,not_auditable,1,9919,7492,"""Susan Murphy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Clerk and Recorder (REP),opportunistic_benefits,not_auditable,1,9919,7492,"""Rhonda Braun""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Commissioner - District 2 (REP),opportunistic_benefits,ended,1,9919,7492,"""Ken Madsen""",2911,0.03000000,0,0,0,0,0,0,0,1.03905000,0,25,25
+Elbert County Coroner (DEM),opportunistic_benefits,not_auditable,1,9919,2396,"""Edmond Charles Hauser""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Coroner (REP),opportunistic_benefits,not_auditable,1,9919,7492,"""Todd Pederson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Sheriff (REP),opportunistic_benefits,not_auditable,1,9919,7492,"""Timothy D. Norton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Surveyor (REP),opportunistic_benefits,not_auditable,1,9919,7492,"""Karl Szyszkoski""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Elbert County Treasurer (REP),opportunistic_benefits,not_auditable,1,9919,7492,"""Sheryl (Sherry) Hewlett""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Assessor - DEM,opportunistic_benefits,not_auditable,1,165793,77812,"""David 'Muka' Traenkle""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Assessor - REP,opportunistic_benefits,ended,1,165793,87386,"""Becky Fuller""",38385,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+El Paso County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,165793,77812,"""Tracie Woods""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,165793,87386,"""Steve Schleiker""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Commissioner - District 1 - DEM,opportunistic_benefits,not_auditable,1,165793,16257,"""Gavin Rainey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Commissioner - District 1 - REP,county_wide_contest,risk_limit_achieved,1,165793,26271,"""Ryan Graham""",6357,0.03000000,192,0,0,0,0,0,0,1.03905000,0,191,191
+El Paso County Commissioner - District 5 - DEM,county_wide_contest,risk_limit_achieved,1,165793,13440,"""Yolanda L. Avila""",4975,0.03000000,244,0,0,0,0,0,0,1.03905000,0,243,243
+El Paso County Commissioner - District 5 - REP,opportunistic_benefits,ended,1,165793,10355,"""Lauren Nelson""",2455,0.03000000,0,0,0,0,0,0,0,1.03905000,0,493,493
+El Paso County Coroner - REP,opportunistic_benefits,not_auditable,1,165793,87386,"""Emily Russell-Kinsley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Sheriff - DEM,opportunistic_benefits,not_auditable,1,165793,77812,"""Mateo Montoya-Collis""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Sheriff - REP,opportunistic_benefits,not_auditable,1,165793,87386,"""Joe Roybal""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+El Paso County Treasurer - REP,opportunistic_benefits,not_auditable,1,165793,87386,"""Chuck Broerman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Assessor - REP,opportunistic_benefits,not_auditable,1,13174,8981,"""Stacey Seifert""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Board of County Commissioners - District 2 - REP,opportunistic_benefits,not_auditable,1,13174,8981,"""Gregory Carlson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,13174,8981,"""Justin D Grantham""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Coroner - REP,opportunistic_benefits,not_auditable,1,13174,8981,"""Randy V. Keller""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Fremont County Sheriff - REP,opportunistic_benefits,ended,1,13174,8981,"""Greg Owen""",2453,0.03000000,0,0,0,0,0,0,0,1.03905000,0,40,40
+Fremont County Treasurer - REP,opportunistic_benefits,not_auditable,1,13174,8981,"""Kathy Elliot""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Garfield County Assessor (REP),opportunistic_benefits,not_auditable,1,14398,7557,"""Jim Yellico""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Garfield County Sheriff (REP),opportunistic_benefits,ended,1,14398,7557,"""Brent Baker""",2602,0.03000000,0,0,0,0,0,0,0,1.03905000,0,41,41
+Garfield County Treasurer (REP),opportunistic_benefits,not_auditable,1,14398,7557,"""Carrie Couey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gilpin County Assessor (REP),opportunistic_benefits,not_auditable,1,1888,688,"""Kathleen Balfour""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gilpin County Sheriff (REP),opportunistic_benefits,not_auditable,1,1888,688,"""Zach Meyer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gilpin County Treasurer (REP),opportunistic_benefits,not_auditable,1,1888,688,"""Brenda Diehl""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Governor - DEM,opportunistic_benefits,in_progress,1,1187954,766200,"""Phil Weiser""",106670,0.03000000,0,0,0,0,0,0,0,1.03905000,0,82,82
+Governor - DEM (Bent),county_wide_contest,risk_limit_achieved,1,1087,332,"""Michael Bennet""",148,0.03000000,55,0,0,0,0,0,0,1.03905000,0,54,54
+Governor - DEM (Conejos),county_wide_contest,risk_limit_achieved,1,2489,1164,"""Michael Bennet""",310,0.03000000,60,0,0,0,0,0,0,1.03905000,0,59,59
+Governor - DEM (Douglas),county_wide_contest,risk_limit_achieved,1,104759,52334,"""Phil Weiser""",3358,0.03000000,229,0,0,0,0,0,0,1.03905000,0,228,228
+Governor - DEM (Huerfano),county_wide_contest,risk_limit_achieved,1,2315,1263,"""Michael Bennet""",236,0.03000000,73,0,0,0,0,0,0,1.03905000,0,72,72
+Governor - DEM (Larimer),county_wide_contest,risk_limit_achieved,1,99236,64670,"""Phil Weiser""",9873,0.03000000,75,0,0,0,0,0,0,1.03905000,0,74,74
+Governor - DEM (Mesa),county_wide_contest,risk_limit_achieved,1,44177,17072,"""Phil Weiser""",2995,0.03000000,109,0,0,0,0,0,0,1.03905000,0,108,108
+Governor - DEM (Ouray),county_wide_contest,risk_limit_achieved,1,2030,1299,"""Phil Weiser""",127,0.03000000,118,0,0,0,0,0,0,1.03905000,0,117,117
+Governor - REP,opportunistic_benefits,in_progress,1,1060174,440127,"""Victor Marx""",6310,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1225,1225
+Governor - REP (Cheyenne),county_wide_contest,risk_limit_achieved,1,609,559,"""Barb Kirkmeyer""",73,0.03000000,62,0,0,0,0,0,0,1.03905000,0,61,61
+Governor - REP (Crowley),county_wide_contest,risk_limit_achieved,1,895,660,"""Victor Marx""",204,0.03000000,33,0,0,0,0,0,0,1.03905000,0,32,32
+Governor - REP (Delta),county_wide_contest,risk_limit_achieved,1,9806,6437,"""Victor Marx""",1676,0.03000000,44,0,0,0,0,0,0,1.03905000,0,43,43
+Governor - REP (Denver),county_wide_contest,risk_limit_achieved,1,178068,18270,"""Barb Kirkmeyer""",3611,0.03000000,361,0,0,0,0,0,0,1.03905000,0,360,360
+Governor - REP (Dolores),county_wide_contest,risk_limit_achieved,1,693,538,"""Victor Marx""",68,0.03000000,76,0,0,0,0,0,0,1.03905000,0,75,75
+Governor - REP (Jefferson),county_wide_contest,risk_limit_achieved,1,169345,53705,"""Barb Kirkmeyer""",5149,0.03000000,241,0,0,0,0,0,0,1.03905000,0,240,240
+Governor - REP (Montrose),county_wide_contest,risk_limit_achieved,1,12318,7831,"""Victor Marx""",1586,0.03000000,58,0,0,0,0,0,0,1.03905000,0,57,57
+Governor - REP (Otero),county_wide_contest,risk_limit_achieved,1,4134,2508,"""Victor Marx""",596,0.03000000,52,0,0,0,0,0,0,1.03905000,0,51,51
+Governor - REP (Teller),county_wide_contest,risk_limit_achieved,1,8005,5154,"""Victor Marx""",839,0.03000000,71,0,0,0,0,0,0,1.03905000,0,70,70
+Governor - UNI,opportunistic_benefits,in_progress,1,1428106,279,"""Jeff Peckman""",20,0.03000000,0,0,0,0,0,0,0,1.03905000,0,520329,520329
+Grand County Assessor (REP),opportunistic_benefits,not_auditable,1,4645,2204,"""Christine Murphy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Grand County Coroner (REP),opportunistic_benefits,not_auditable,1,4645,2204,"""Tawnya Bailey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Grand County Sheriff (REP),opportunistic_benefits,not_auditable,1,4645,2204,"""Brett D. Schroetlin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Grand County Treasurer (REP),opportunistic_benefits,not_auditable,1,4645,2204,"""Marcy Wheatley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Assessor - DEM,opportunistic_benefits,not_auditable,1,4558,3240,"""Alexandra Cohen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,4558,3240,"""Kathy Simillion""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Commissioner District 3 - DEM,opportunistic_benefits,not_auditable,1,4558,3240,"""Laura Puckett Daniels""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Gunnison County Coroner - DEM,opportunistic_benefits,not_auditable,1,4558,3240,"""Michael Barnes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale County Assessor - REP,opportunistic_benefits,not_auditable,1,295,198,"""Allison Waddington""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,295,198,"""Joan Roberts""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale County Commissioner District 2 - REP,opportunistic_benefits,not_auditable,1,295,198,"""Kristine M Borchers""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale County Sheriff - REP,opportunistic_benefits,not_auditable,1,295,198,"""Jordan Kaminski""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Hinsdale County Treasurer - REP,opportunistic_benefits,not_auditable,1,295,198,"""Lori Hanko""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano County Assessor - DEM,opportunistic_benefits,not_auditable,1,2315,1263,"""Elisha Meadows""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano County Commissioner - District 3 - REP,opportunistic_benefits,not_auditable,1,2315,1047,"""Karl Sporleder""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano County Sheriff - DEM,opportunistic_benefits,not_auditable,1,2315,1263,"""Bruce Newman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Huerfano County Sheriff - REP,county_wide_contest,risk_limit_achieved,1,2315,1047,"""Jim Chamberlain""",406,0.03000000,43,0,0,0,0,0,0,1.03905000,0,42,42
+Jackson County Assessor - REP,opportunistic_benefits,not_auditable,1,580,545,"""Cheryl Corkle""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jackson County Clerk and Recorder - REP,county_wide_contest,risk_limit_achieved,1,580,545,"""Jo McQueary""",84,0.03000000,52,0,0,0,0,0,0,1.03905000,0,51,51
+Jackson County Commissioner 1 - REP,opportunistic_benefits,ended,1,580,545,"""John Lathrop""",207,0.03000000,0,0,0,0,0,0,0,1.03905000,0,21,21
+Jackson County Coroner - REP,opportunistic_benefits,ended,1,580,545,"""George E. Crocket""",211,0.03000000,0,0,0,0,0,0,0,1.03905000,0,21,21
+Jackson County Sheriff - REP,opportunistic_benefits,ended,1,580,545,"""Andy Collins""",5,0.03000000,0,0,0,0,0,0,0,1.03905000,0,846,846
+Jackson County Surveyor - REP,opportunistic_benefits,not_auditable,1,580,545,"""Randall R. Miller""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jackson County Treasurer - REP,opportunistic_benefits,not_auditable,1,580,545,"""Ekho Wyatt""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Assessor - DEM,county_wide_contest,risk_limit_achieved,1,169345,115095,"""Andy Kerr""",9776,0.03000000,128,0,0,0,0,0,0,1.03905000,0,127,127
+Jefferson County Assessor - REP,opportunistic_benefits,not_auditable,1,169345,53690,"""Vera King""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,169345,115095,"""Nicole Hensel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,169345,53690,"""Paul Poston""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Commissioner - District 3 - DEM,opportunistic_benefits,not_auditable,1,169345,115095,"""Lisa A. Cutter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Commissioner - District 3 - REP,opportunistic_benefits,not_auditable,1,169345,53690,"""Stephanie VandenBerg""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Coroner - DEM,opportunistic_benefits,not_auditable,1,169345,115095,"""Nick Lobello""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Coroner - REP,opportunistic_benefits,not_auditable,1,169345,53690,"""Allison Harmon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Sheriff - DEM,opportunistic_benefits,not_auditable,1,169345,115095,"""Regina ""Reggie"" Marinelli""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Sheriff - REP,opportunistic_benefits,not_auditable,1,169345,53690,"""Weston Imer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Surveyor - REP,opportunistic_benefits,not_auditable,1,169345,53690,"""Robert Hennessy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Treasurer - DEM,opportunistic_benefits,not_auditable,1,169345,115095,"""Eric Proctor""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Jefferson County Treasurer - REP,opportunistic_benefits,not_auditable,1,169345,53690,"""Bob Szulczewski""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Assessor - REP,opportunistic_benefits,not_auditable,1,511,465,"""Marci Miller""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,511,465,"""Adrienne Yates""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,511,465,"""Howard Robertson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Coroner - REP,opportunistic_benefits,not_auditable,1,511,465,"""Jimmy Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kiowa County Sheriff - REP,county_wide_contest,risk_limit_achieved,1,511,465,"""Bryan Williams""",139,0.03000000,28,0,0,0,0,0,0,1.03905000,0,27,27
+Kiowa County Treasurer - REP,opportunistic_benefits,not_auditable,1,511,465,"""Diana Flory""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Assessor - DEM,opportunistic_benefits,not_auditable,1,1867,282,"""Abbey Mullis""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Assessor - REP,opportunistic_benefits,not_auditable,1,1867,1583,"""Alexandra Navarro""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,1867,1583,"""Susan Corliss""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,1867,1583,"""Cory Wall""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Coroner - REP,opportunistic_benefits,not_auditable,1,1867,1583,"""Randy B. Gorton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Sheriff - REP,opportunistic_benefits,not_auditable,1,1867,1583,"""Travis Belden""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Kit Carson County Treasurer - REP,opportunistic_benefits,not_auditable,1,1867,1583,"""Pamela J. Mills""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,1718,1200,"""Andy Higby""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,1718,512,"""Tina Tekansik""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Commissioner District 1 - DEM,opportunistic_benefits,not_auditable,1,1718,1200,"""Nathan A Dye""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Commissioner District 1 - REP,opportunistic_benefits,not_auditable,1,1718,512,"""Matthew Main""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lake County Coroner - DEM,county_wide_contest,risk_limit_achieved,1,1718,1200,"""Jeffery Edmonds""",386,0.03000000,34,0,0,0,0,0,0,1.03905000,0,33,33
+Lake County Sheriff - REP,county_wide_contest,risk_limit_achieved,1,1718,512,"""Heath Speckman""",224,0.03000000,57,0,0,0,0,0,0,1.03905000,0,56,56
+Lake County Treasurer - DEM,opportunistic_benefits,not_auditable,1,1718,1200,"""Padraic D. Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Assessor - DEM,opportunistic_benefits,not_auditable,1,16146,10618,"""Carrie Woodson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Commissioner District 1 - DEM,opportunistic_benefits,not_auditable,1,16146,10618,"""Elizabeth Philbrick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Coroner - DEM,opportunistic_benefits,not_auditable,1,16146,10618,"""Trever Nyx""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Coroner - REP,opportunistic_benefits,not_auditable,1,16146,5497,"""Cathy Lynn Seibel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Sheriff - DEM,opportunistic_benefits,not_auditable,1,16146,10618,"""Sean Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Surveyor - REP,opportunistic_benefits,not_auditable,1,16146,5497,"""Daryl Z Crites""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+La Plata County Treasurer - DEM,opportunistic_benefits,not_auditable,1,16146,10618,"""Miles Walsh""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Assessor - DEM,opportunistic_benefits,not_auditable,1,99236,64649,"""Bob Overbeck""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Assessor - REP,opportunistic_benefits,not_auditable,1,99236,34283,"""Patrick Edwards""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,99236,64649,"""Kenneth Forsythe""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,99236,34283,"""Tina Harris""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Commissioner - District 1 - DEM,opportunistic_benefits,not_auditable,1,99236,64649,"""Shane Atkinson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Commissioner - District 1 - REP,opportunistic_benefits,not_auditable,1,99236,34283,"""Marc Roberson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Coroner - DEM,opportunistic_benefits,not_auditable,1,99236,64649,"""Stephen Hanks""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Sheriff - REP,opportunistic_benefits,not_auditable,1,99236,34283,"""John J. Feyen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Surveyor - REP,opportunistic_benefits,not_auditable,1,99236,34283,"""Tom Donnelly""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Larimer County Treasurer - DEM,opportunistic_benefits,ended,1,99236,64649,"""Joann Ginal""",9500,0.03000000,0,0,0,0,0,0,0,1.03905000,0,77,77
+Larimer County Treasurer - REP,opportunistic_benefits,not_auditable,1,99236,34283,"""Steve Olson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Assessor - REP,opportunistic_benefits,not_auditable,1,4007,1740,"""Jodi M. Amato""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,4007,2255,"""Joseph Mestas""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,4007,1740,"""Karrie L. Apple""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Commissioner District 3 - DEM,opportunistic_benefits,ended,1,4007,2255,"""Jim D Montoya""",7,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4172,4172
+Las Animas County Commissioner District 3 - REP,opportunistic_benefits,not_auditable,1,4007,1740,"""Brad Doherty""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Coroner - DEM,opportunistic_benefits,not_auditable,1,4007,2255,"""Leigh Elliott-Lopez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Coroner - REP,opportunistic_benefits,not_auditable,1,4007,1740,"""Dominic ""Junie"" Verquer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Sheriff - DEM,opportunistic_benefits,not_auditable,1,4007,2255,"""Derek J. Navarette""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Sheriff - REP,opportunistic_benefits,not_auditable,1,4007,1740,"""John Johnson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Treasurer - DEM,opportunistic_benefits,not_auditable,1,4007,2255,"""Sarah A. Martinez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Las Animas County Treasurer - REP,opportunistic_benefits,not_auditable,1,4007,1740,"""Luis A. Lopez II""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Assessor - REP,opportunistic_benefits,not_auditable,1,1317,1089,"""Jeremiah Higgins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,1317,1089,"""Corinne M. Lengel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Commissioner - District 1 - REP,opportunistic_benefits,ended,1,1317,1089,"""Wayne E. Ewing""",406,0.03000000,0,0,0,0,0,0,0,1.03905000,0,24,24
+Lincoln County Coroner - REP,opportunistic_benefits,not_auditable,1,1317,1089,"""Andrew S. Lorensen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Sheriff - REP,opportunistic_benefits,not_auditable,1,1317,1089,"""Michael L. Yowell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Lincoln County Treasurer - REP,opportunistic_benefits,not_auditable,1,1317,1089,"""Ashley D. Erwin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Assessor - REP,opportunistic_benefits,not_auditable,1,4846,3699,"""Peggy Michaels""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,4846,3699,"""Pam Bacon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Commissioner - District 3 - REP,opportunistic_benefits,not_auditable,1,4846,3699,"""Jim Santomaso""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Sheriff - REP,opportunistic_benefits,not_auditable,1,4846,3699,"""Jeremy Leisure""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Logan County Treasurer - REP,opportunistic_benefits,not_auditable,1,4846,3699,"""Patty Bartlett""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Assessor - REP,opportunistic_benefits,not_auditable,1,44177,26983,"""Brent Goff""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Clerk and Recorder - REP,opportunistic_benefits,ended,1,44177,26983,"""Bobbie Gross""",9636,0.03000000,0,0,0,0,0,0,0,1.03905000,0,34,34
+Mesa County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,44177,26983,"""Bobbie Daniel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Coroner - REP,opportunistic_benefits,not_auditable,1,44177,26983,"""Dean Havlik""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Sheriff - REP,opportunistic_benefits,not_auditable,1,44177,26983,"""Ross Young""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Surveyor - REP,opportunistic_benefits,not_auditable,1,44177,26983,"""Jon Kobylarz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Treasurer - DEM,opportunistic_benefits,not_auditable,1,44177,17065,"""Dave Edwards""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mesa County Treasurer - REP,opportunistic_benefits,not_auditable,1,44177,26983,"""Greg Haitz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mineral County Assessor - REP,opportunistic_benefits,not_auditable,1,396,199,"""Hendrik Shullts""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mineral County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,396,199,"""Eryn K Wintz """,0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mineral County Commissioner - District 1 - DEM,opportunistic_benefits,not_auditable,1,396,197,"""R. Scott Lamb""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Mineral County Coroner - DEM,opportunistic_benefits,not_auditable,1,396,197,"""Jimmy K Adelman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Assessor - REP,opportunistic_benefits,not_auditable,1,3039,2524,"""Camie Herod""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,3039,2524,"""Stacy Morgan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Commissioner District 3 - REP,county_wide_contest,risk_limit_achieved,1,3039,2524,"""Steve Maneotis""",310,0.03000000,73,0,0,0,0,0,0,1.03905000,0,72,72
+Moffat County Coroner - REP,opportunistic_benefits,not_auditable,1,3039,2524,"""Jesse Arthurs""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Sheriff - REP,opportunistic_benefits,not_auditable,1,3039,2524,"""Chip Dio McIntyre""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Moffat County Surveyor - REP,opportunistic_benefits,ended,1,3039,2524,"""Michael Fraher""",2034,0.03000000,0,0,0,0,0,0,0,1.03905000,0,11,11
+Moffat County Treasurer - REP,opportunistic_benefits,not_auditable,1,3039,2524,"""Amy Wilson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Clerk and Recorder - REP,opportunistic_benefits,ended,1,7725,4824,"""Jerri Frizzell""",1758,0.03000000,0,0,0,0,0,0,0,1.03905000,0,33,33
+Montezuma County Commissioner District 1 - DEM,opportunistic_benefits,not_auditable,1,7725,2874,"""Rebecca Busic""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Commissioner District 1 - REP,county_wide_contest,risk_limit_achieved,1,7725,4824,"""Rodney Cox""",1222,0.03000000,48,0,0,0,0,0,0,1.03905000,0,47,47
+Montezuma County Coroner - REP,opportunistic_benefits,not_auditable,1,7725,4824,"""George Deavers""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Sheriff - REP,opportunistic_benefits,not_auditable,1,7725,4824,"""Tyson Cox""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montezuma County Treasurer - REP,opportunistic_benefits,not_auditable,1,7725,4824,"""Ellen Black""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Assessor - REP,opportunistic_benefits,not_auditable,1,12318,7830,"""Brad Hughes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,12318,7830,"""Tressa Guynes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,12318,7830,"""Caryn Webb Gibson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Commissioner - District 3 - REP,opportunistic_benefits,not_auditable,1,12318,7830,"""Ed Lafferty""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Coroner - REP,opportunistic_benefits,not_auditable,1,12318,7830,"""Shaye Schottel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Sheriff - REP,opportunistic_benefits,not_auditable,1,12318,7830,"""Gene R. Lillard""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Surveyor - REP,opportunistic_benefits,not_auditable,1,12318,7830,"""James Pierce Jr.""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Montrose County Treasurer - REP,opportunistic_benefits,not_auditable,1,12318,7830,"""Rosemary Murphy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Assessor - REP,opportunistic_benefits,not_auditable,1,5220,3676,"""Tim Amen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,5220,3676,"""Kevin Strauch""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Commissioner District 2 - REP,opportunistic_benefits,not_auditable,1,5220,3676,"""Robert W Pennington""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Coroner - REP,opportunistic_benefits,not_auditable,1,5220,3676,"""Mike Dahl""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Sheriff - REP,opportunistic_benefits,not_auditable,1,5220,3676,"""Dave (David) D. Martin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Morgan County Treasurer - REP,opportunistic_benefits,not_auditable,1,5220,3676,"""Kirstin M Watson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Otero County Assessor (REP),opportunistic_benefits,not_auditable,1,4134,2508,"""Ken R Hood""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Otero County Coroner (REP),opportunistic_benefits,not_auditable,1,4134,2508,"""Robert M Fowler""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Otero County Sheriff (REP),opportunistic_benefits,not_auditable,1,4134,2508,"""Brian Lovato""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Otero County Treasurer (REP),opportunistic_benefits,not_auditable,1,4134,2508,"""Shawna Frankmore""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Ouray County Commissioner - District 2 - DEM,opportunistic_benefits,not_auditable,1,2030,1299,"""Glynn Williams""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Assessor - DEM,opportunistic_benefits,not_auditable,1,5953,2365,"""Natessia Leverington""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Assessor - REP,opportunistic_benefits,ended,1,5953,3569,"""Monica Jones""",678,0.03000000,0,0,0,0,0,0,0,1.03905000,0,64,64
+Park County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,5953,2365,"""Tali Thomason""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,5953,3569,"""Milena ""Mel"" Kassel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Commissioner District 3 - DEM,opportunistic_benefits,not_auditable,1,5953,2365,"""Truman Esmond""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Commissioner District 3 - REP,county_wide_contest,risk_limit_achieved,1,5953,3569,"""Tyrene Cook""",194,0.03000000,225,0,0,0,0,0,0,1.03905000,0,224,224
+Park County Coroner - DEM,opportunistic_benefits,not_auditable,1,5953,2365,"""Rob Shearer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Coroner - REP,opportunistic_benefits,not_auditable,1,5953,3569,"""David E Kintz Jr""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Sheriff - DEM,opportunistic_benefits,not_auditable,1,5953,2365,"""Mark Noel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Sheriff - REP,opportunistic_benefits,ended,1,5953,3569,"""Steve Spodyak""",994,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+Park County Surveyor - REP,opportunistic_benefits,not_auditable,1,5953,3569,"""Jack Kirby""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Treasurer - DEM,opportunistic_benefits,not_auditable,1,5953,2365,"""Jim Stockbridge""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Park County Treasurer - REP,opportunistic_benefits,not_auditable,1,5953,3569,"""Amy Flint""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Phillips County Assessor - REP,opportunistic_benefits,not_auditable,1,1310,1087,"""Douglas D. Kamery""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Phillips County Commissioner - District 1 - REP,opportunistic_benefits,not_auditable,1,1310,1087,"""Terry L. Hofmeister""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Phillips County Sheriff - REP,opportunistic_benefits,ended,1,1310,1087,"""David Romero Jr.""",111,0.03000000,0,0,0,0,0,0,0,1.03905000,0,86,86
+Phillips County Treasurer - REP,opportunistic_benefits,not_auditable,1,1310,1087,"""Steve D. Young""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pitkin County Commissioner - District 1,opportunistic_benefits,ended,1,4951,4951,"""John Doyle""",76,0.03000000,0,0,0,0,0,0,0,1.03905000,0,475,475
+Prowers County Assessor - REP,opportunistic_benefits,not_auditable,1,2298,1703,"""Wylee Wollert""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,2298,1703,"""Jana Coen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,2298,1703,"""Ron Cook""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Coroner - REP,opportunistic_benefits,not_auditable,1,2298,1703,"""Anthony Letteer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Sheriff - REP,opportunistic_benefits,not_auditable,1,2298,1703,"""Samuel C. Zordel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Prowers County Treasurer - REP,opportunistic_benefits,not_auditable,1,2298,1703,"""Abbie Campbell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Assessor - DEM,opportunistic_benefits,not_auditable,1,39028,23431,"""Naseem Zubi""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Assessor - REP,opportunistic_benefits,not_auditable,1,39028,15506,"""Tammi Pando""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,39028,23431,"""Candace Rivera""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,39028,15506,"""Mary Vieth""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Commissioner - District 3 - DEM,opportunistic_benefits,not_auditable,1,39028,23431,"""Angela Giron""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Commissioner - District 3 - REP,opportunistic_benefits,not_auditable,1,39028,15506,"""Zach Swearingen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Coroner - DEM,opportunistic_benefits,not_auditable,1,39028,23431,"""Zolanye McCulley-Bachicha""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Coroner - REP,opportunistic_benefits,not_auditable,1,39028,15506,"""Gregory Grahek""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Sheriff - DEM,opportunistic_benefits,ended,1,39028,23431,"""Allen Medina""",1430,0.03000000,0,0,0,0,0,0,0,1.03905000,0,199,199
+Pueblo County Surveyor - DEM,opportunistic_benefits,not_auditable,1,39028,23431,"""Randy Reeves""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Treasurer - DEM,opportunistic_benefits,not_auditable,1,39028,23431,"""Kim Archuletta""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Pueblo County Treasurer - REP,opportunistic_benefits,not_auditable,1,39028,15506,"""Jonathan Ambler""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regent of the University of Colorado - Congressional District 2 - DEM,opportunistic_benefits,in_progress,1,465584,152015,"""Edie Hooton""",11458,0.03000000,0,0,0,0,0,0,0,1.03905000,0,297,297
+Regent of the University of Colorado - Congressional District 2 - DEM (Routt),county_wide_contest,risk_limit_achieved,1,6297,4640,"""Edie Hooton""",307,0.03000000,151,0,0,0,0,0,0,1.03905000,0,150,150
+Regent of the University of Colorado - Congressional District 2 - REP,opportunistic_benefits,not_auditable,1,471881,43633,"""Marty Neilson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regent of the University of Colorado - Congressional District 6 - DEM,opportunistic_benefits,not_auditable,1,686861,107439,"""Ilana Spiegel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regent of the University of Colorado - Congressional District 6 - REP,opportunistic_benefits,not_auditable,1,686861,48415,"""Veanessa Burbage""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regent of the University of Colorado - Congressional District 7 - DEM,opportunistic_benefits,not_auditable,1,561564,137202,"""Nolbert Chavez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Regent of the University of Colorado - Congressional District 7 - REP,opportunistic_benefits,in_progress,1,552071,70526,"""Paul Mueller""",12516,0.03000000,0,0,0,0,0,0,0,1.03905000,0,322,322
+Regent of the University of Colorado - Congressional District 7 - REP (Chaffee),county_wide_contest,risk_limit_achieved,1,7491,2711,"""Paul Mueller""",669,0.03000000,83,0,0,0,0,0,0,1.03905000,0,82,82
+Regent of the University of Colorado - Congressional District 7 - REP (Custer),county_wide_contest,risk_limit_achieved,1,2002,1331,"""Paul Mueller""",189,0.03000000,79,0,0,0,0,0,0,1.03905000,0,78,78
+Representative to the 120th United States Congress - District 1 - DEM,opportunistic_benefits,in_progress,1,486565,160222,"""Melat Kiros""",21140,0.03000000,0,0,0,0,0,0,0,1.03905000,0,168,168
+Representative to the 120th United States Congress - District 1 - REP,opportunistic_benefits,not_auditable,1,486565,18385,"""Christy Peterson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 120th United States Congress - District 2 - DEM,opportunistic_benefits,not_auditable,1,471881,156655,"""Joe Neguse""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 120th United States Congress - District 2 - REP,opportunistic_benefits,in_progress,1,368817,28487,"""Kelley Anne Dennison""",3032,0.03000000,0,0,0,0,0,0,0,1.03905000,0,887,887
+Representative to the 120th United States Congress - District 2 - REP (Boulder),county_wide_contest,risk_limit_achieved,1,100423,14294,"""Kelley Anne Dennison""",2721,0.03000000,270,0,0,0,0,0,0,1.03905000,0,269,269
+Representative to the 120th United States Congress - District 2 - REP (Clear Creek),county_wide_contest,risk_limit_achieved,1,2641,852,"""Kelley Anne Dennison""",165,0.03000000,118,0,0,0,0,0,0,1.03905000,0,117,117
+Representative to the 120th United States Congress - District 3 - DEM,opportunistic_benefits,in_progress,1,175262,78654,"""Dwayne L. Romero""",6825,0.03000000,0,0,0,0,0,0,0,1.03905000,0,188,188
+Representative to the 120th United States Congress - District 3 - DEM (La Plata),county_wide_contest,risk_limit_achieved,1,16146,10618,"""Dwayne L. Romero""",935,0.03000000,127,0,0,0,0,0,0,1.03905000,0,126,126
+Representative to the 120th United States Congress - District 3 - DEM (Las Animas),county_wide_contest,risk_limit_achieved,1,4007,2255,"""Dwayne L. Romero""",405,0.03000000,74,0,0,0,0,0,0,1.03905000,0,73,73
+Representative to the 120th United States Congress - District 3 - DEM (Otero),county_wide_contest,risk_limit_achieved,1,4134,1621,"""Dwayne L. Romero""",459,0.03000000,67,0,0,0,0,0,0,1.03905000,0,66,66
+Representative to the 120th United States Congress - District 3 - DEM (San Miguel),county_wide_contest,risk_limit_achieved,1,1965,1574,"""Alex Kelloff""",150,0.03000000,97,0,0,0,0,0,0,1.03905000,0,96,96
+Representative to the 120th United States Congress - District 3 - REP,opportunistic_benefits,in_progress,1,168103,87869,"""Jeff Hurd""",27782,0.03000000,0,0,0,0,0,0,0,1.03905000,0,45,45
+Representative to the 120th United States Congress - District 3 - REP (Costilla),county_wide_contest,risk_limit_achieved,1,1416,349,"""Jeff Hurd""",79,0.03000000,132,0,0,0,0,0,0,1.03905000,0,131,131
+Representative to the 120th United States Congress - District 3 - REP (Gunnison),county_wide_contest,risk_limit_achieved,1,4558,1304,"""Jeff Hurd""",361,0.03000000,94,0,0,0,0,0,0,1.03905000,0,93,93
+Representative to the 120th United States Congress - District 3 - REP (Hinsdale),county_wide_contest,risk_limit_achieved,1,295,198,"""Jeff Hurd""",22,0.03000000,99,0,0,0,0,0,0,1.03905000,0,98,98
+Representative to the 120th United States Congress - District 3 - REP (La Plata),county_wide_contest,risk_limit_achieved,1,16146,5497,"""Jeff Hurd""",1739,0.03000000,69,0,0,0,0,0,0,1.03905000,0,68,68
+Representative to the 120th United States Congress - District 3 - REP (Mineral),county_wide_contest,risk_limit_achieved,1,396,199,"""Jeff Hurd""",44,0.03000000,67,0,0,0,0,0,0,1.03905000,0,66,66
+Representative to the 120th United States Congress - District 3 - REP (Ouray),county_wide_contest,risk_limit_achieved,1,2030,724,"""Jeff Hurd""",145,0.03000000,104,0,0,0,0,0,0,1.03905000,0,103,103
+Representative to the 120th United States Congress - District 3 - REP (Pitkin),county_wide_contest,risk_limit_achieved,1,4951,891,"""Jeff Hurd""",354,0.03000000,103,0,0,0,0,0,0,1.03905000,0,102,102
+Representative to the 120th United States Congress - District 3 - REP (Saguache),county_wide_contest,risk_limit_achieved,1,1654,591,"""Jeff Hurd""",151,0.03000000,81,0,0,0,0,0,0,1.03905000,0,80,80
+Representative to the 120th United States Congress - District 3 - REP (San Miguel),county_wide_contest,risk_limit_achieved,1,1965,374,"""Jeff Hurd""",110,0.03000000,132,0,0,0,0,0,0,1.03905000,0,131,131
+Representative to the 120th United States Congress - District 4 - DEM,opportunistic_benefits,in_progress,1,710623,87734,"""Eileen Laubacher""",72234,0.03000000,0,0,0,0,0,0,0,1.03905000,0,72,72
+Representative to the 120th United States Congress - District 4 - REP,opportunistic_benefits,not_auditable,1,710623,112838,"""Lauren Boebert""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 120th United States Congress - District 5 - DEM,opportunistic_benefits,ended,1,165793,77197,"""Jessica Killin""",16647,0.03000000,0,0,0,0,0,0,0,1.03905000,0,73,73
+Representative to the 120th United States Congress - District 5 - REP,opportunistic_benefits,not_auditable,1,165793,85369,"""Jeff Crank""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 120th United States Congress - District 6 - DEM,opportunistic_benefits,not_auditable,1,686861,107439,"""Jason Crow""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 120th United States Congress - District 6 - REP,opportunistic_benefits,not_auditable,1,686861,48415,"""Mel Tewahade""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 120th United States Congress - District 7 - DEM,opportunistic_benefits,not_auditable,1,561564,137202,"""Brittany Pettersen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 120th United States Congress - District 7 - REP,opportunistic_benefits,not_auditable,1,561564,74568,"""Tim Bennett""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Representative to the 120th United States Congress - District 8 - DEM,opportunistic_benefits,in_progress,1,264413,82709,"""Manny Rutinel""",24313,0.03000000,0,0,0,0,0,0,0,1.03905000,0,80,80
+Representative to the 120th United States Congress - District 8 - REP,opportunistic_benefits,not_auditable,1,264413,54480,"""Gabe Evans""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,2310,2153,"""Shawn M Luce""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Commissioner District 1 - REP,county_wide_contest,risk_limit_achieved,1,2310,2153,"""Travis Day""",478,0.03000000,37,0,0,0,0,0,0,1.03905000,0,36,36
+Rio Blanco County Coroner - REP,opportunistic_benefits,not_auditable,1,2310,2153,"""Laura L. Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Sheriff - REP,opportunistic_benefits,ended,1,2310,2153,"""Travis Mobley""",1463,0.03000000,0,0,0,0,0,0,0,1.03905000,0,12,12
+Rio Blanco County Surveyor - REP,opportunistic_benefits,not_auditable,1,2310,2153,"""Jonathan Leif Joy""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Blanco County Treasurer - REP,opportunistic_benefits,not_auditable,1,2310,2153,"""Rebecca Balboa""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Assessor - REP,opportunistic_benefits,not_auditable,1,3140,1907,"""J. J. Mondragon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,3140,1907,"""Cindy Hill""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Commissioner District 2 - REP,county_wide_contest,risk_limit_achieved,1,3140,1907,"""Tyler Ratzlaff""",322,0.03000000,73,0,0,0,0,0,0,1.03905000,0,72,72
+Rio Grande County Coroner - REP,opportunistic_benefits,not_auditable,1,3140,1907,"""Stephen Hunzeker""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Sheriff - DEM,opportunistic_benefits,not_auditable,1,3140,1231,"""Gilbert Eloy Atencio""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Rio Grande County Sheriff - REP,opportunistic_benefits,ended,1,3140,1907,"""Anne M. Robinson""",733,0.03000000,0,0,0,0,0,0,0,1.03905000,0,32,32
+Routt County Commissioner - District 3 - DEM,opportunistic_benefits,not_auditable,1,6297,4640,"""Sonja Macys""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Routt County Sheriff - DEM,opportunistic_benefits,not_auditable,1,6297,4640,"""Doug Scherar""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Assessor - DEM,opportunistic_benefits,not_auditable,1,1654,1058,"""Peter Peterson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,1654,591,"""Trish Gilbert""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Commissioner District 3 - DEM,opportunistic_benefits,ended,1,1654,1058,"""Liza Marron""",464,0.03000000,0,0,0,0,0,0,0,1.03905000,0,26,26
+Saguache County Commissioner District 3 - REP,opportunistic_benefits,not_auditable,1,1654,591,"""Jeff Phillips""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Coroner - REP,opportunistic_benefits,not_auditable,1,1654,591,"""Tania Sanchez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Sheriff - REP,opportunistic_benefits,not_auditable,1,1654,591,"""Dan Warwick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Saguache County Treasurer - REP,opportunistic_benefits,not_auditable,1,1654,591,"""Regina Swartz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,1965,1574,"""Michael Wyszynski""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Commissioner District 2 - DEM,opportunistic_benefits,not_auditable,1,1965,1574,"""Paul Reich""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Coroner - DEM,opportunistic_benefits,not_auditable,1,1965,1574,"""Emil Sante""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Sheriff - DEM,opportunistic_benefits,not_auditable,1,1965,1574,"""Lane Keith Masters""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Surveyor - DEM,opportunistic_benefits,not_auditable,1,1965,1574,"""J. David Foley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+San Miguel County Treasurer - DEM,opportunistic_benefits,not_auditable,1,1965,1574,"""Brandi R. Hatfield""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Secretary of State - DEM,opportunistic_benefits,in_progress,1,1347679,857809,"""Amanda Gonzalez""",228150,0.03000000,0,0,0,0,0,0,0,1.03905000,0,44,44
+Secretary of State - DEM (Chaffee),county_wide_contest,risk_limit_achieved,1,7491,4763,"""Amanda Gonzalez""",1025,0.03000000,55,0,0,0,0,0,0,1.03905000,0,54,54
+Secretary of State - DEM (Clear Creek),county_wide_contest,risk_limit_achieved,1,2641,1781,"""Amanda Gonzalez""",408,0.03000000,49,0,0,0,0,0,0,1.03905000,0,48,48
+Secretary of State - DEM (Delta),county_wide_contest,risk_limit_achieved,1,9806,3347,"""Amanda Gonzalez""",746,0.03000000,97,0,0,0,0,0,0,1.03905000,0,96,96
+Secretary of State - DEM (Fremont),county_wide_contest,risk_limit_achieved,1,13174,4170,"""Amanda Gonzalez""",1114,0.03000000,88,0,0,0,0,0,0,1.03905000,0,87,87
+Secretary of State - DEM (Garfield),county_wide_contest,risk_limit_achieved,1,14398,6794,"""Amanda Gonzalez""",1053,0.03000000,101,0,0,0,0,0,0,1.03905000,0,100,100
+Secretary of State - DEM (Grand),county_wide_contest,risk_limit_achieved,1,4645,2427,"""Amanda Gonzalez""",457,0.03000000,76,0,0,0,0,0,0,1.03905000,0,75,75
+Secretary of State - DEM (Gunnison),county_wide_contest,risk_limit_achieved,1,4558,3247,"""Amanda Gonzalez""",478,0.03000000,71,0,0,0,0,0,0,1.03905000,0,70,70
+Secretary of State - DEM (Montrose),county_wide_contest,risk_limit_achieved,1,12318,4461,"""Amanda Gonzalez""",1025,0.03000000,89,0,0,0,0,0,0,1.03905000,0,88,88
+Secretary of State - DEM (Park),county_wide_contest,risk_limit_achieved,1,5953,2365,"""Amanda Gonzalez""",556,0.03000000,80,0,0,0,0,0,0,1.03905000,0,79,79
+Secretary of State - DEM (Pitkin),county_wide_contest,risk_limit_achieved,1,4951,4011,"""Amanda Gonzalez""",314,0.03000000,116,0,0,0,0,0,0,1.03905000,0,115,115
+Secretary of State - DEM (Saguache),county_wide_contest,risk_limit_achieved,1,1654,1058,"""Amanda Gonzalez""",289,0.03000000,43,0,0,0,0,0,0,1.03905000,0,42,42
+Secretary of State - DEM (Summit),county_wide_contest,risk_limit_achieved,1,6774,5282,"""Amanda Gonzalez""",636,0.03000000,79,0,0,0,0,0,0,1.03905000,0,78,78
+Secretary of State - DEM (Teller),county_wide_contest,risk_limit_achieved,1,8005,2819,"""Amanda Gonzalez""",662,0.03000000,90,0,0,0,0,0,0,1.03905000,0,89,89
+Secretary of State - LBR,opportunistic_benefits,in_progress,1,1444047,3605,"""Alex Astley""",846,0.03000000,0,0,0,0,0,0,0,1.03905000,0,12439,12439
+Secretary of State - REP,opportunistic_benefits,not_auditable,1,1444047,535789,"""James Wiley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Sedgwick County Assessor - REP,opportunistic_benefits,not_auditable,1,801,675,"""Elmer Ruder""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Sedgwick County Commissioner - District 1 - REP,opportunistic_benefits,not_auditable,1,801,675,"""Randy R Renquist""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Sedgwick County Coroner - REP,opportunistic_benefits,not_auditable,1,801,675,"""Tasha L Harris""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Sedgwick County Sheriff - REP,opportunistic_benefits,ended,1,801,675,"""Koby Quayle""",313,0.03000000,0,0,0,0,0,0,0,1.03905000,0,19,19
+Sedgwick County Treasurer - REP,opportunistic_benefits,not_auditable,1,801,675,"""Lori L Ehmke""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Board of Education Member - Congressional District 1 - DEM,opportunistic_benefits,not_auditable,1,486565,160222,"""Lisa Escarcega""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Board of Education Member - Congressional District 1 - REP,opportunistic_benefits,not_auditable,1,486565,18385,"""Frederick Espinoza""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Board of Education Member - Congressional District 3 - DEM,opportunistic_benefits,not_auditable,1,201514,94722,"""Barb Clementi""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Board of Education Member - Congressional District 3 - REP,opportunistic_benefits,not_auditable,1,201514,97996,"""Sherri M Wright""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Board of Education Member - Congressional District 7 - DEM,opportunistic_benefits,not_auditable,1,561564,137202,"""Karla Esser""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Board of Education Member - Congressional District 7 - REP,opportunistic_benefits,in_progress,1,561564,74568,"""Steve Barton""",39414,0.03000000,0,0,0,0,0,0,0,1.03905000,0,104,104
+State Representative - District 10 - DEM,opportunistic_benefits,not_auditable,1,100423,19267,"""Junie Joseph""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 11 - DEM,opportunistic_benefits,not_auditable,1,100423,19379,"""Karen McCormick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 12 - DEM,opportunistic_benefits,not_auditable,1,100423,25818,"""Kyle Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 12 - REP,opportunistic_benefits,not_auditable,1,100423,4040,"""Ryan Rhatigan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 13 - DEM,opportunistic_benefits,in_progress,1,27161,15660,"""Consuelo Redhorse""",171,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1158,1158
+State Representative - District 13 - REP,opportunistic_benefits,not_auditable,1,27161,10769,"""Miguel Martinez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 14 - DEM,opportunistic_benefits,not_auditable,1,165793,12591,"""Sarah Emery""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 14 - REP,opportunistic_benefits,ended,1,165793,15947,"""Ava Flanell""",7006,0.03000000,0,0,0,0,0,0,0,1.03905000,0,173,173
+State Representative - District 15 - DEM,opportunistic_benefits,not_auditable,1,165793,8599,"""Jeff K. Livingston""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 15 - REP,opportunistic_benefits,not_auditable,1,165793,9478,"""Pricella Tiegen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 16 - DEM,opportunistic_benefits,not_auditable,1,165793,11232,"""Steph Vigil""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 16 - REP,opportunistic_benefits,ended,1,165793,8626,"""Jill Haffley""",2296,0.03000000,0,0,0,0,0,0,0,1.03905000,0,527,527
+State Representative - District 17 - DEM,opportunistic_benefits,ended,1,165793,6181,"""Regina English""",1469,0.03000000,0,0,0,0,0,0,0,1.03905000,0,823,823
+State Representative - District 17 - REP,opportunistic_benefits,not_auditable,1,165793,3344,"""Laura Martin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 18 - DEM,opportunistic_benefits,not_auditable,1,173798,13473,"""Amy T Paschal""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 18 - REP,opportunistic_benefits,not_auditable,1,173798,9415,"""Adriana Cuva""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 19 - DEM,opportunistic_benefits,ended,1,100423,7490,"""Jillaire McMillan""",640,0.03000000,0,0,0,0,0,0,0,1.03905000,0,1144,1144
+State Representative - District 19 - DEM (Weld),county_wide_contest,risk_limit_achieved,1,69640,9502,"""Jillaire McMillan""",1661,0.03000000,307,0,0,0,0,0,0,1.03905000,0,306,306
+State Representative - District 19 - REP,opportunistic_benefits,not_auditable,1,170063,9145,"""Dan Woog""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 1 - DEM,opportunistic_benefits,not_auditable,1,347413,13527,"""Javier Mabrey""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 1 - REP,opportunistic_benefits,not_auditable,1,347413,3592,"""Joseph Montoya""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 20 - REP,opportunistic_benefits,not_auditable,1,165793,18820,"""Jarvis Caldwell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 21 - DEM,opportunistic_benefits,not_auditable,1,165793,5422,"""Michelle Tweed""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 21 - REP,opportunistic_benefits,ended,1,165793,5814,"""Brenda Miller""",2687,0.03000000,0,0,0,0,0,0,0,1.03905000,0,450,450
+State Representative - District 22 - DEM,opportunistic_benefits,not_auditable,1,165793,9769,"""Michael Pierson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 22 - REP,opportunistic_benefits,not_auditable,1,165793,11550,"""Ken deGraaf""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 23 - DEM,opportunistic_benefits,not_auditable,1,169345,18661,"""Alexis Hoffkling""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 24 - DEM,opportunistic_benefits,not_auditable,1,264882,18419,"""Lisa Feret""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 24 - REP,opportunistic_benefits,not_auditable,1,264882,8794,"""Kristopher Johnson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 25 - DEM,opportunistic_benefits,not_auditable,1,169345,18310,"""Tammy Story""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 25 - REP,opportunistic_benefits,not_auditable,1,169345,11029,"""Mark Herzfeld""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 26 - DEM,opportunistic_benefits,not_auditable,1,22058,11263,"""Meghan Lukens""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 26 - REP,opportunistic_benefits,not_auditable,1,22058,8741,"""James Kellogg""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 27 - DEM,opportunistic_benefits,not_auditable,1,169345,18330,"""Danielle Varda""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 27 - REP,opportunistic_benefits,not_auditable,1,169345,8309,"""Eric Bodenstab""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 28 - DEM,opportunistic_benefits,not_auditable,1,169345,15436,"""David Rein""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 29 - DEM,opportunistic_benefits,not_auditable,1,264882,17011,"""Lori Goldstein""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 29 - REP,opportunistic_benefits,not_auditable,1,264882,6969,"""Kristine Ireland""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 2 (DEM),opportunistic_benefits,not_auditable,1,178068,26096,"""Scott Baldermann""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 2 (REP),opportunistic_benefits,not_auditable,1,178068,3469,"""Carey Marin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 30 - DEM,opportunistic_benefits,not_auditable,1,169345,15377,"""Rebekah Stewart""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 30 - REP,opportunistic_benefits,not_auditable,1,169345,5217,"""William Tyler Switzer""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 31 - DEM,opportunistic_benefits,ended,1,95537,9367,"""Gabriel Cervantes""",803,0.03000000,0,0,0,0,0,0,0,1.03905000,0,867,867
+State Representative - District 31 - REP,opportunistic_benefits,not_auditable,1,95537,3850,"""Ray Roll""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 32 - DEM,opportunistic_benefits,not_auditable,1,95537,8971,"""Chris VanDijk""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 32 - REP,opportunistic_benefits,ended,1,95537,3874,"""Michelle D. Lee""",1079,0.03000000,0,0,0,0,0,0,0,1.03905000,0,646,646
+State Representative - District 33 - DEM,opportunistic_benefits,in_progress,1,165177,3056,"""Heidi Henkel""",66,0.03000000,0,0,0,0,0,0,0,1.03905000,0,18237,18237
+State Representative - District 33 - DEM (Broomfield),county_wide_contest,risk_limit_achieved,1,22906,16641,"""Kenny Van Nguyen""",1671,0.03000000,101,0,0,0,0,0,0,1.03905000,0,100,100
+State Representative - District 33 - REP,opportunistic_benefits,not_auditable,1,188083,8374,"""Nate Jorgensen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 34 - DEM,opportunistic_benefits,not_auditable,1,95537,12684,"""Jenny Willford""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 34 - REP,opportunistic_benefits,not_auditable,1,95537,6468,"""Craig Sullivan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 35 - DEM,opportunistic_benefits,not_auditable,1,264882,10383,"""Lorena Garcia""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 36 - DEM,opportunistic_benefits,not_auditable,1,234689,9883,"""Michael Carter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 36 - REP,opportunistic_benefits,not_auditable,1,234689,3199,"""Paul E. Nelson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 37 - DEM,opportunistic_benefits,not_auditable,1,139152,15349,"""Chad Clifford""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 37 - REP,opportunistic_benefits,not_auditable,1,139152,7699,"""Jill Thompson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 38 - DEM,opportunistic_benefits,not_auditable,1,308497,17560,"""Gretchen Rydin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 39 (DEM),opportunistic_benefits,not_auditable,1,104759,13883,"""Christian Schilder""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 39 (REP),opportunistic_benefits,not_auditable,1,104759,14794,"""Brandi Bradley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 3 - DEM,opportunistic_benefits,not_auditable,1,317220,14837,"""Gena Ozols""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 3 - REP,opportunistic_benefits,not_auditable,1,317220,4154,"""Rebecca Winegar""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 40 - DEM,opportunistic_benefits,not_auditable,1,139152,12902,"""Naquetta Ricks""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 40 - REP,opportunistic_benefits,not_auditable,1,139152,5299,"""Clinton Porter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 41 - DEM,opportunistic_benefits,ended,1,139152,12868,"""Jamie Jackson""",1070,0.03000000,0,0,0,0,0,0,0,1.03905000,0,948,948
+State Representative - District 42 - DEM,opportunistic_benefits,ended,1,139152,7701,"""Sarah Amelia Woodson""",2403,0.03000000,0,0,0,0,0,0,0,1.03905000,0,422,422
+State Representative - District 43 (DEM),opportunistic_benefits,not_auditable,1,104759,14707,"""Robert ""Bob"" Marshall""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 43 (REP),opportunistic_benefits,not_auditable,1,104759,10795,"""Nate Marsh""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 44 (DEM),opportunistic_benefits,not_auditable,1,104759,10623,"""Richard Bowness""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 44 (REP),opportunistic_benefits,ended,1,104759,11317,"""Anthony Hartsook""",1540,0.03000000,0,0,0,0,0,0,0,1.03905000,0,496,496
+State Representative - District 45 (DEM),opportunistic_benefits,not_auditable,1,104759,11964,"""Michael Clarkson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 45 (REP),opportunistic_benefits,not_auditable,1,104759,14338,"""Max Brooks""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 46 - DEM,opportunistic_benefits,not_auditable,1,39028,13865,"""Tisha Mauro""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 46 - REP,opportunistic_benefits,not_auditable,1,39028,8151,"""Jonathan Post""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 47 - DEM,opportunistic_benefits,not_auditable,1,55490,9184,"""Vic Meyers""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 47 - REP,opportunistic_benefits,not_auditable,1,55490,13061,"""Ty Winter""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 48 - DEM,opportunistic_benefits,not_auditable,1,165177,8248,"""Dez Packard""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 48 - REP,opportunistic_benefits,not_auditable,1,165177,9337,"""Carlos Barron""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 49 - DEM,opportunistic_benefits,not_auditable,1,204188,22815,"""Lesley Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 49 - REP,opportunistic_benefits,not_auditable,1,204188,7779,"""Michael Sheperek""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 4 (DEM),opportunistic_benefits,not_auditable,1,178068,19223,"""Cecelia Espenoza""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 4 (REP),opportunistic_benefits,not_auditable,1,178068,1645,"""Ellwood Ervin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 50 - DEM,opportunistic_benefits,not_auditable,1,69640,5220,"""Tommy Butler""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 50 - REP,opportunistic_benefits,not_auditable,1,69640,3817,"""Ryan Gonzalez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 51 - DEM,opportunistic_benefits,not_auditable,1,99236,14475,"""Jacki Marsh""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 51 - REP,county_wide_contest,risk_limit_achieved,1,99236,11838,"""Amy Parks""",3159,0.03000000,230,0,0,0,0,0,0,1.03905000,0,229,229
+State Representative - District 52 - DEM,opportunistic_benefits,not_auditable,1,99236,18037,"""Yara Zokaie""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 53 - DEM,opportunistic_benefits,not_auditable,1,99236,16270,"""Andy Boesenecker""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 53 - REP,opportunistic_benefits,not_auditable,1,99236,3320,"""Daniel Frick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 54 - DEM,opportunistic_benefits,not_auditable,1,53983,8101,"""Mallory Martin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 54 - REP,opportunistic_benefits,in_progress,1,53983,17718,"""Jason Bias""",538,0.03000000,0,0,0,0,0,0,0,1.03905000,0,732,732
+State Representative - District 55 - DEM,opportunistic_benefits,not_auditable,1,44177,10815,"""Brittni Packard""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 55 - REP,opportunistic_benefits,not_auditable,1,44177,14113,"""Rick Taggart""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 56 - REP,opportunistic_benefits,not_auditable,1,414194,19660,"""Chris Richardson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 57 - DEM,opportunistic_benefits,not_auditable,1,29761,12386,"""Elizabeth Velasco""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 57 - REP,opportunistic_benefits,not_auditable,1,29761,8865,"""Russ Andrews""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 58 - DEM,opportunistic_benefits,not_auditable,1,39390,12893,"""Susannah Smith""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 58 - REP,opportunistic_benefits,not_auditable,1,39390,14271,"""Larry Don Suckla""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 59 - DEM,opportunistic_benefits,not_auditable,1,28508,14756,"""Katie Stewart""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 59 - REP,opportunistic_benefits,not_auditable,1,28508,11394,"""Naomi Riess""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 5 (DEM),county_wide_contest,risk_limit_achieved,1,178068,17225,"""Justine Sandoval""",8371,0.03000000,157,0,0,0,0,0,0,1.03905000,0,156,156
+State Representative - District 5 (REP),opportunistic_benefits,not_auditable,1,178068,1225,"""Johnnie W. Johnson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 60 - DEM,opportunistic_benefits,not_auditable,1,69700,9766,"""Kathryn Kester Green""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 60 - REP,opportunistic_benefits,in_progress,1,69700,18108,"""Matt Alexander""",252,0.03000000,0,0,0,0,0,0,0,1.03905000,0,2016,2016
+State Representative - District 61 - DEM,opportunistic_benefits,not_auditable,1,243911,14155,"""Eliza Hamrick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 61 - REP,opportunistic_benefits,not_auditable,1,243911,8672,"""Scott Shamblin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 62 - DEM,opportunistic_benefits,not_auditable,1,53913,11645,"""Matthew Martinez""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 62 - REP,opportunistic_benefits,in_progress,1,53913,7894,"""Steven Rodriguez""",6124,0.03000000,0,0,0,0,0,0,0,1.03905000,0,65,65
+State Representative - District 63 - REP,opportunistic_benefits,not_auditable,1,86428,16675,"""Dusty Johnson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 64 - DEM,opportunistic_benefits,not_auditable,1,168876,10939,"""Maureen (Mo) Dower""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 64 - REP,opportunistic_benefits,not_auditable,1,168876,12879,"""Scott L. Slaugh""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 65 - REP,opportunistic_benefits,not_auditable,1,168876,13842,"""Lori Garcia Sander""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 6 (DEM),opportunistic_benefits,ended,1,178068,24367,"""Iris Halpern""",2297,0.03000000,0,0,0,0,0,0,0,1.03905000,0,565,565
+State Representative - District 6 (REP),opportunistic_benefits,not_auditable,1,178068,1792,"""Kathleen Angel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 7 (DEM),opportunistic_benefits,not_auditable,1,178068,11563,"""Jennifer Bacon""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 8 (DEM),opportunistic_benefits,not_auditable,1,178068,26168,"""Lindsay Gilchrist""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 8 (REP),opportunistic_benefits,not_auditable,1,178068,1344,"""Carolyn Barnes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Representative - District 9 - DEM,opportunistic_benefits,in_progress,1,317220,18473,"""Monica VanBuskirk""",2902,0.03000000,0,0,0,0,0,0,0,1.03905000,0,797,797
+State Representative - District 9 - REP,opportunistic_benefits,not_auditable,1,317220,3029,"""Tom Cowhick""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 11 - DEM,opportunistic_benefits,not_auditable,1,165793,13085,"""Tony Exum Sr""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 11 - REP,opportunistic_benefits,not_auditable,1,165793,8891,"""Levon Stilson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 15 - DEM,opportunistic_benefits,not_auditable,1,199659,29992,"""Janice Marchman""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 15 - REP,opportunistic_benefits,not_auditable,1,199659,19839,"""Rob Woodward""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 17 - DEM,opportunistic_benefits,not_auditable,1,170063,40059,"""Katie Wallace""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 17 - REP,opportunistic_benefits,not_auditable,1,170063,10642,"""Pat Miller""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 1 - DEM,opportunistic_benefits,not_auditable,1,86428,11614,"""Jamie Jeffery""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 1 - REP,opportunistic_benefits,not_auditable,1,86428,27692,"""Byron Pelton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 20 - DEM,opportunistic_benefits,not_auditable,1,169345,33890,"""Sheila Lieder""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 20 - REP,opportunistic_benefits,not_auditable,1,169345,16992,"""Richard (Rich) Mancuso""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 21 - DEM,opportunistic_benefits,ended,1,139152,416,"""Adrienne Benavidez""",81,0.03000000,0,0,0,0,0,0,0,1.03905000,0,12519,12519
+State Senator - District 21 - DEM (Adams),county_wide_contest,risk_limit_achieved,1,95537,17470,"""Adrienne Benavidez""",4643,0.03000000,151,0,0,0,0,0,0,1.03905000,0,150,150
+State Senator - District 21 - REP,opportunistic_benefits,not_auditable,1,234689,9371,"""Frederick Alfred Jr""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 22 - DEM,opportunistic_benefits,not_auditable,1,169345,31119,"""Monica Irasema Duran""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 22 - REP,opportunistic_benefits,not_auditable,1,169345,9866,"""Steve Harkess""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 24 - DEM,opportunistic_benefits,not_auditable,1,95537,21809,"""Kyle Mullica""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 24 - REP,opportunistic_benefits,not_auditable,1,95537,11330,"""Kevin Allen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 25 - DEM,opportunistic_benefits,not_auditable,1,188083,31401,"""William Lindstedt""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 25 - REP,opportunistic_benefits,not_auditable,1,188083,12419,"""Rich Guggenheim""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 27 - DEM,opportunistic_benefits,not_auditable,1,243911,25425,"""Tom Sullivan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 27 - REP,opportunistic_benefits,in_progress,1,243911,13928,"""Danielle Lammon""",389,0.03000000,0,0,0,0,0,0,0,1.03905000,0,4570,4570
+State Senator - District 29 - DEM,opportunistic_benefits,not_auditable,1,139152,21470,"""Iman M. Jodeh""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 29 - REP,opportunistic_benefits,not_auditable,1,139152,7454,"""Robert McKenna""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 30 (DEM),opportunistic_benefits,not_auditable,1,104759,27357,"""Kevin Leung""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 30 (REP),opportunistic_benefits,not_auditable,1,104759,22102,"""John Carson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 31 (DEM),opportunistic_benefits,not_auditable,1,178068,48003,"""Matt Ball""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 31 (REP),opportunistic_benefits,not_auditable,1,178068,4348,"""Michael F. DiManna""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 32 - DEM,opportunistic_benefits,not_auditable,1,486565,32622,"""Emily Sirota""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 32 - REP,opportunistic_benefits,not_auditable,1,486565,5426,"""Sydnnia Wulff""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 34 (DEM),opportunistic_benefits,ended,1,178068,34401,"""Chela Garcia Irlando""",12261,0.03000000,0,0,0,0,0,0,0,1.03905000,0,106,106
+State Senator - District 34 (REP),opportunistic_benefits,not_auditable,1,178068,2742,"""Jack Daus""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 35 - DEM,opportunistic_benefits,not_auditable,1,195967,14749,"""Duane L Gurule""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 35 - REP,opportunistic_benefits,not_auditable,1,195967,34605,"""Rod Pelton""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 3 - DEM,county_wide_contest,risk_limit_achieved,1,39028,23431,"""Aaron Gutierrez""",2705,0.03000000,107,0,0,0,0,0,0,1.03905000,0,106,106
+State Senator - District 3 - REP,opportunistic_benefits,not_auditable,1,39028,15506,"""Dana Charles""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 4 - DEM,opportunistic_benefits,not_auditable,1,312447,25025,"""Justin Kurth""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 4 - REP,opportunistic_benefits,not_auditable,1,312447,31411,"""Teddy Collins""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 7 - REP,opportunistic_benefits,not_auditable,1,53983,28466,"""Janice Rich""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 8 - DEM,opportunistic_benefits,not_auditable,1,52984,22478,"""Dylan Roberts""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 8 - REP,opportunistic_benefits,not_auditable,1,52984,15778,"""Corey Marshall""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 9 - DEM,opportunistic_benefits,not_auditable,1,165793,21347,"""William Delano Moses III""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Senator - District 9 - REP,opportunistic_benefits,ended,1,165793,29228,"""Terri Carver""",8543,0.03000000,0,0,0,0,0,0,0,1.03905000,0,142,142
+State Treasurer - DEM,opportunistic_benefits,not_auditable,1,1444047,904334,"""Jeff Bridges""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+State Treasurer - REP,opportunistic_benefits,not_auditable,1,1444047,535789,"""Kevin Grantham""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Assessor - DEM,opportunistic_benefits,not_auditable,1,6774,5280,"""Lisa M. Eurich""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Clerk and Recorder - DEM,opportunistic_benefits,not_auditable,1,6774,5280,"""Taryn Power""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Commissioner - District 1 - DEM,opportunistic_benefits,not_auditable,1,6774,5280,"""Eric Mamula""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Commissioner - District 1 - REP,opportunistic_benefits,not_auditable,1,6774,1469,"""Lori Cutunilli""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Coroner - DEM,opportunistic_benefits,not_auditable,1,6774,5280,"""Amber Flenniken""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Sheriff - DEM,opportunistic_benefits,not_auditable,1,6774,5280,"""Jaime FitzSimons""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Summit County Treasurer - DEM,opportunistic_benefits,not_auditable,1,6774,5280,"""Jacqueline Kosel""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Surveyor (REP),opportunistic_benefits,not_auditable,1,4645,2204,"""Warren Ward""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Assessor - REP,opportunistic_benefits,not_auditable,1,8005,5154,"""Kurt Schoenberger""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,8005,5154,"""Stephanie Kees""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Commissioner District 2 - DEM,opportunistic_benefits,not_auditable,1,8005,2819,"""Dennis Luttrell""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Commissioner District 2 - REP,opportunistic_benefits,not_auditable,1,8005,5154,"""Carl E Andersen""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Coroner - REP,opportunistic_benefits,not_auditable,1,8005,5154,"""Stephen Tomsky""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Sheriff - REP,opportunistic_benefits,not_auditable,1,8005,5154,"""Kevin Tedesco""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Teller County Treasurer - REP,opportunistic_benefits,not_auditable,1,8005,5154,"""Krystal Brown""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Town of Telluride Town Council,opportunistic_benefits,ended,2,1965,661,"""Marya Stark"",""Charles Dalton""",24,0.03000000,0,0,0,0,0,0,0,1.03905000,0,597,597
+United States Senator - DEM,state_wide_contest,risk_limit_achieved,1,1444047,904334,"""John Hickenlooper""",50376,0.03000000,210,0,0,0,0,0,0,1.03905000,0,209,209
+United States Senator - REP,opportunistic_benefits,not_auditable,1,1444047,535789,"""Mark Baisley""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Assessor - REP,opportunistic_benefits,not_auditable,1,1762,1584,"""Hali Thompson""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,1762,1584,"""Annie Kuntz""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Commissioner - District 1 - REP,county_wide_contest,risk_limit_achieved,1,1762,1584,"""Richard Alonso Holtorf""",446,0.03000000,30,0,0,0,0,0,0,1.03905000,0,29,29
+Washington County Coroner - REP,opportunistic_benefits,not_auditable,1,1762,1584,"""Dallas Bowin""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Sheriff - REP,opportunistic_benefits,not_auditable,1,1762,1584,"""Robbie Furrow""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Washington County Treasurer - REP,opportunistic_benefits,not_auditable,1,1762,1584,"""Michelle Swan""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Assessor - REP,opportunistic_benefits,not_auditable,1,69640,37560,"""Jason A Marini""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Clerk and Recorder - REP,opportunistic_benefits,not_auditable,1,69640,37560,"""Rudy Santos""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Commissioner - At-Large - REP,opportunistic_benefits,not_auditable,1,69640,37560,"""Steve Reams""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Commissioner - District 2 - REP,opportunistic_benefits,not_auditable,1,69640,13249,"""Scott James""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Weld County Sheriff - REP,opportunistic_benefits,not_auditable,1,69640,37560,"""Matt Turner""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Assessor - REP,opportunistic_benefits,not_auditable,1,2849,2508,"""Kaci Scholes""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Clerk and Recorder - REP,opportunistic_benefits,ended,1,2849,2508,"""Haleigh Studer""",155,0.03000000,0,0,0,0,0,0,0,1.03905000,0,134,134
+Yuma County Commissioner - District 1 - REP,opportunistic_benefits,not_auditable,1,2849,2508,"""Cliff Leonhardt""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Coroner - REP,opportunistic_benefits,not_auditable,1,2849,2508,"""Javan Jones""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0
+Yuma County Sheriff - REP,opportunistic_benefits,ended,1,2849,2508,"""Larry D. Gilliland""",788,0.03000000,0,0,0,0,0,0,0,1.03905000,0,27,27
+Yuma County Treasurer - REP,opportunistic_benefits,not_auditable,1,2849,2508,"""Chrystal Hammond""",0,0.03000000,0,0,0,0,0,0,0,1.03905000,0,0,0

@@ -1,0 +1,134 @@
+discrepancies,disagreements,discrepancies_n,disagreements_n,audited,county_name
+0,0,2,0,640,Adams
+0,0,1,0,51,Alamosa
+0,0,3,0,592,Arapahoe
+0,0,0,0,63,Archuleta
+0,0,1,0,106,Baca
+0,0,0,0,125,Bent
+0,0,0,0,191,Boulder
+0,0,5,0,170,Broomfield
+1,0,1,0,133,Chaffee
+0,0,1,0,38,Cheyenne
+0,0,0,0,60,Clear Creek
+0,0,0,0,39,Conejos
+1,0,3,0,43,Costilla
+0,0,0,0,86,Crowley
+0,0,0,0,27,Custer
+0,0,0,0,114,Delta
+0,0,0,0,115,Denver
+1,0,1,0,39,Dolores
+0,0,4,0,1164,Douglas
+0,0,0,0,53,Eagle
+1,0,1,0,565,El Paso
+0,0,1,0,60,Elbert
+0,0,2,0,166,Fremont
+0,0,0,0,122,Garfield
+0,0,0,0,40,Gilpin
+0,0,0,0,176,Grand
+0,0,0,0,112,Gunnison
+0,0,0,0,36,Hinsdale
+0,0,0,0,67,Huerfano
+0,0,0,0,24,Jackson
+0,0,0,0,89,Jefferson
+0,0,0,0,40,Kiowa
+0,0,0,0,161,Kit Carson
+0,0,0,0,31,La Plata
+0,0,0,0,66,Lake
+0,0,0,0,145,Larimer
+0,0,0,0,56,Las Animas
+0,0,0,0,81,Lincoln
+0,0,0,0,62,Logan
+0,0,1,0,289,Mesa
+0,0,2,0,96,Moffat
+0,0,1,0,63,Montezuma
+0,0,0,0,318,Montrose
+0,0,0,0,75,Morgan
+0,0,0,0,87,Otero
+0,0,0,0,53,Ouray
+0,0,0,0,65,Park
+0,0,0,0,40,Phillips
+0,0,0,0,56,Pitkin
+0,0,1,0,47,Prowers
+0,0,0,0,135,Pueblo
+0,0,0,0,150,Rio Blanco
+0,0,0,0,68,Rio Grande
+0,0,1,0,63,Routt
+0,0,0,0,66,Saguache
+0,0,0,0,86,San Miguel
+0,0,0,0,57,Sedgwick
+0,0,0,0,52,Summit
+0,0,0,0,83,Teller
+0,0,0,0,35,Washington
+0,0,1,0,279,Weld
+0,0,0,0,43,Yuma
+Seed: 08772473296991897540, alpha: 0.030000
+Total Ballot Cards Audited: 8254
+audited	driving_discrepancies	opportunistic_discrepancies	county	contest
+640.0	0.0	2.0	Adams County	City of Thornton Council Member - Ward 3 - Vote For 1
+51.0	0.0	1.0	Alamosa County	City of Alamosa Councilor at Large - Vote For 1
+592.0	0.0	3.0	Arapahoe County	Arapahoe County School District #6 Littleton Public Schools School Director - At Large - Vote For 3
+63.0	0.0	0.0	Archuleta County	Proposition 119 (STATUTORY) - Vote For 1
+106.0	0.0	1.0	Baca County	Proposition 119 (STATUTORY) - Vote For 1
+125.0	0.0	0.0	Bent County	City of Las Animas Ballot Issue 2B - Vote For 1
+191.0	0.0	0.0	Boulder County	Proposition 119 (STATUTORY) - Vote For 1
+170.0	0.0	5.0	Broomfield County	Proposition 119 (STATUTORY) - Vote For 1
+133.0	1.0	1.0	Chaffee County	Proposition 119 (STATUTORY) - Vote For 1
+38.0	0.0	1.0	Cheyenne County	Cheyenne - Proposition 120 (STATUTORY) - Vote For 1
+60.0	0.0	0.0	Clear Creek County	Clear Creek County Ballot Issue 1A - Vote For 1
+39.0	0.0	0.0	Conejos County	Proposition 119 (STATUTORY) - Vote For 1
+43.0	1.0	3.0	Costilla County	Costilla County Ballot Measure 1A - Vote For 1
+86.0	0.0	0.0	Crowley County	Proposition 119 (STATUTORY) - Vote For 1
+27.0	0.0	0.0	Custer County	Proposition 119 (STATUTORY) - Vote For 1
+114.0	0.0	0.0	Delta County	Delta - Director for the Delta County Board of Education - District 5 - Vote For 1
+115.0	0.0	0.0	Denver County	Proposition 119 (STATUTORY) - Vote For 1
+ERROR: risk level (0.506636) is greater than alpha (0.03).  1.225096% margin in Denver County for Proposition 119 (STATUTORY) - Vote For 1
+39.0	1.0	1.0	Dolores County	Proposition 119 (STATUTORY) - Vote For 1
+1164.0	0.0	4.0	Douglas County	Proposition 119 (STATUTORY) - Vote For 1
+53.0	0.0	0.0	Eagle County	Proposition 119 (STATUTORY) - Vote For 1
+565.0	1.0	1.0	El Paso County	Colorado Springs School District 11 Director - 2 Year Term - Vote For 1
+60.0	0.0	1.0	Elbert County	Proposition 119 (STATUTORY) - Vote For 1
+166.0	0.0	2.0	Fremont County	Proposition 119 (STATUTORY) - Vote For 1
+122.0	0.0	0.0	Garfield County	Garfield School No. Re-2 School Board Director E - Vote For 1
+40.0	0.0	0.0	Gilpin County	Proposition 119 (STATUTORY) - Vote For 1
+176.0	0.0	0.0	Grand County	Grand County Ballot Question 1G - Vote For 1
+112.0	0.0	0.0	Gunnison County	Proposition 119 (STATUTORY) - Vote For 1
+36.0	0.0	0.0	Hinsdale County	Hinsdale - Proposition 120 (STATUTORY) - Vote For 1
+67.0	0.0	0.0	Huerfano County	Proposition 119 (STATUTORY) - Vote For 1
+24.0	0.0	0.0	Jackson County	Jackson County Ballot Issue 1A - Vote For 1
+89.0	0.0	0.0	Jefferson County	Director Dist. 2 Jefferson County R-1 School District  - Jefferson - Vote For 1
+40.0	0.0	0.0	Kiowa County	Director District C 4 Year Term - Vote For 1
+161.0	0.0	0.0	Kit Carson County	Stratton R-4 School District Director - Vote For 2
+31.0	0.0	0.0	La Plata County	Durango School District 9-R Director - District C - Vote For 1
+66.0	0.0	0.0	Lake County	Lake County School District R1 Director - Vote For 2
+145.0	0.0	0.0	Larimer County	Proposition 119 (STATUTORY) - Vote For 1
+56.0	0.0	0.0	Las Animas County	Proposition 119 (STATUTORY) - Vote For 1
+81.0	0.0	0.0	Lincoln County	Proposition 119 (STATUTORY) - Vote For 1
+62.0	0.0	0.0	Logan County	Proposition 119 (STATUTORY) - Vote For 1
+289.0	0.0	1.0	Mesa County	Mesa County Valley School District 51 - Director District C - Vote For 1
+96.0	0.0	2.0	Moffat County	Proposition 119 (STATUTORY) - Vote For 1
+63.0	0.0	1.0	Montezuma County	Proposition 119 (STATUTORY) - Vote For 1
+318.0	0.0	0.0	Montrose County	West End School District RE-2 Ballot Issue 4A - Vote For 1
+75.0	0.0	0.0	Morgan County	Proposition 119 (STATUTORY) - Vote For 1
+87.0	0.0	0.0	Otero County	Proposition 119 (STATUTORY) - Vote For 1
+53.0	0.0	0.0	Ouray County	Proposition 119 (STATUTORY) - Vote For 1
+65.0	0.0	0.0	Park County	PARK COUNTY BALLOT ISSUE 1A - Vote For 1
+40.0	0.0	0.0	Phillips County	Proposition 119 (STATUTORY) - Vote For 1
+56.0	0.0	0.0	Pitkin County	Proposition 119 (STATUTORY) - Vote For 1
+47.0	0.0	1.0	Prowers County	Proposition 119 (STATUTORY) - Vote For 1
+135.0	0.0	0.0	Pueblo County	Proposition 119 (STATUTORY) - Vote For 1
+150.0	0.0	0.0	Rio Blanco County	Ballot Issue 4A General Obligation Bonds - Vote For 1
+68.0	0.0	0.0	Rio Grande County	Proposition 119 (STATUTORY) - Vote For 1
+63.0	0.0	1.0	Routt County	Proposition 119 (STATUTORY) - Vote For 1
+66.0	0.0	0.0	Saguache County	Saguache County Marijuana Ballot Issue 1A - Vote For 1
+86.0	0.0	0.0	San Miguel County	Proposition 119 (STATUTORY) - Vote For 1
+57.0	0.0	0.0	Sedgwick County	Proposition 119 (STATUTORY) - Vote For 1
+52.0	0.0	0.0	Summit County	Summit School District Director 4 Year Term - Vote For 3
+83.0	0.0	0.0	Teller County	Proposition 119 (STATUTORY) - Vote For 1
+35.0	0.0	0.0	Washington County	Washington - Proposition 120 (STATUTORY) - Vote For 1
+279.0	0.0	1.0	Weld County	Weld County School District RE-4 Ballot Issue 4A - General Fund Override - Vote For 1
+43.0	0.0	0.0	Yuma County	Proposition 119 (STATUTORY) - Vote For 1
+
+total_audited = 8254, total_driving_discrepancies = 4, total_opportunistic_discrepancies = 33
+N.B.: Currently 'Server sample mismatches' are likely since we're using ballot counts across all contests in a county
+  Instead we should identify the contest_cvr_ids for the contest and the county from rla.contest_selection
+

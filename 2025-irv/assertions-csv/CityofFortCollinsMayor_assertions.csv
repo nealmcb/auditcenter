@@ -1,0 +1,26 @@
+Contest name,City of Fort Collins Mayor
+Candidates,"Tricia Canonico,Adam Eggleston,Emily Francis,Adam Hirschhorn,Shirley Peel,Jeffrey Shumway,Scotty V VanTatenhove"
+Winner,Emily Francis
+Total universe,191186
+Risk limit,0.03000000
+
+Extreme item,Value,Assertion IDs
+Margin,5847,"6"
+Diluted margin,0.03058278,"6"
+Raire difficulty,32.69813579613477,"6"
+Current risk,0.02800000,"6"
+Optimistic samples to audit,239,"6"
+Estimated samples to audit,239,"6"
+
+ID,Type,Winner,Loser,Assumed continuing,Difficulty,Margin,Diluted margin,Risk,Estimated samples to audit,Optimistic samples to audit,Two vote over count,One vote over count,Other discrepancy count,One vote under count,Two vote under count
+1,NEB,Emily Francis,Adam Eggleston,,17.9063,10677,0.0558,0.00100000,131,131,0,0,0,0,0
+2,NEB,Emily Francis,Adam Hirschhorn,,11.9193,16040,0.0839,0E-8,87,87,0,0,0,0,0
+3,NEB,Emily Francis,Shirley Peel,,28.1736,6786,0.0355,0.01600000,206,206,0,0,0,0,0
+4,NEB,Emily Francis,Jeffrey Shumway,,16.0283,11928,0.0624,0.00100000,117,117,0,0,0,0,0
+5,NEB,Emily Francis,Scotty V VanTatenhove,,12.8072,14928,0.0781,0E-8,94,94,0,0,0,0,0
+6,NEN,Emily Francis,Tricia Canonico,"Tricia Canonico,Emily Francis",32.6981,5847,0.0306,0.02800000,239,239,0,0,0,0,0
+
+
+Notes,"Optimistic and Estimated sample sizes will show zero if sample size estimation has not been run. If they still show zero after running sample size estimation, it means the contest is not auditable."
+,"For cross-county non-targeted contests, colorado-rla does not guarantee a uniform sample. In this case, the risk value is not meaningful. Risk values for targeted contests and single-county contests are accurate."
+,"Non-targeted contests may have high apparent risks simply because there were not many samples of that contest---they are not expected to meet the risk limit."

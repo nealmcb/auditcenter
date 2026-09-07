@@ -1,0 +1,125 @@
+county_id,county_name,contest_name,contest_id
+2,Alamosa,President of the United States - DEM,36411
+2,Alamosa,President of the United States - REP,36413
+3,Arapahoe,President of the United States - DEM,380224
+3,Arapahoe,President of the United States - REP,380226
+4,Archuleta,President of the United States - DEM,41067
+4,Archuleta,President of the United States - REP,41069
+5,Baca,President of the United States - DEM,821407
+5,Baca,President of the United States - REP,821409
+6,Bent,President of the United States - DEM,1061539
+6,Bent,President of the United States - REP,1061541
+7,Boulder,President of the United States - DEM,1613700
+7,Boulder,President of the United States - REP,1613702
+8,Chaffee,President of the United States - DEM,363305
+8,Chaffee,President of the United States - REP,363307
+9,Cheyenne,President of the United States - DEM,1469523
+9,Cheyenne,President of the United States - REP,1469525
+10,Clear Creek,President of the United States - DEM,1375404
+10,Clear Creek,President of the United States - REP,1375406
+11,Conejos,President of the United States - DEM,1558003
+11,Conejos,President of the United States - REP,1558005
+12,Costilla,President of the United States - DEM,1480465
+12,Costilla,President of the United States - REP,1480467
+13,Crowley,President of the United States - DEM,1240049
+13,Crowley,President of the United States - REP,1240051
+14,Custer,President of the United States - DEM,1245296
+14,Custer,President of the United States - REP,1245298
+15,Delta,President of the United States - DEM,22999
+15,Delta,President of the United States - REP,23001
+16,Denver,President of the United States - DEM,824394
+16,Denver,President of the United States - REP,824396
+17,Dolores,President of the United States - DEM,331790
+17,Dolores,President of the United States - REP,331792
+18,Douglas,President of the United States - DEM,1072895
+18,Douglas,President of the United States - REP,1072897
+19,Eagle,President of the United States - DEM,579654
+19,Eagle,President of the United States - REP,579656
+20,Elbert,President of the United States - DEM,1195744
+20,Elbert,President of the United States - REP,1195746
+21,El Paso,President of the United States - DEM,90239
+21,El Paso,President of the United States - REP,90241
+22,Fremont,President of the United States - DEM,51139
+22,Fremont,President of the United States - REP,51141
+23,Garfield,President of the United States - DEM,293156
+23,Garfield,President of the United States - REP,293158
+24,Gilpin,President of the United States - DEM,1235021
+24,Gilpin,President of the United States - REP,1235023
+25,Grand,President of the United States - DEM,1212710
+25,Grand,President of the United States - REP,1212712
+26,Gunnison,President of the United States - DEM,325286
+26,Gunnison,President of the United States - REP,325288
+27,Hinsdale,President of the United States - DEM,78555
+27,Hinsdale,President of the United States - REP,78557
+28,Huerfano,President of the United States - DEM,46583
+28,Huerfano,President of the United States - REP,46585
+29,Jackson,President of the United States - DEM,1610830
+29,Jackson,President of the United States - REP,1610832
+30,Jefferson,President of the United States - DEM,600698
+30,Jefferson,President of the United States - REP,600700
+31,Kiowa,President of the United States - DEM,49627
+31,Kiowa,President of the United States - REP,49629
+32,Kit Carson,President of the United States - DEM,566932
+32,Kit Carson,President of the United States - REP,566934
+33,Lake,President of the United States - DEM,290495
+33,Lake,President of the United States - REP,290497
+34,La Plata,President of the United States - DEM,1531056
+34,La Plata,President of the United States - REP,1531058
+35,Larimer,President of the United States - DEM,1249336
+35,Larimer,President of the United States - REP,1249338
+36,Las Animas,President of the United States - DEM,594839
+36,Las Animas,President of the United States - REP,594841
+37,Lincoln,President of the United States - DEM,86344
+37,Lincoln,President of the United States - REP,86346
+38,Logan,President of the United States - DEM,71537
+38,Logan,President of the United States - REP,71539
+39,Mesa,President of the United States - DEM,1482259
+39,Mesa,President of the United States - REP,1482261
+40,Mineral,President of the United States - DEM,35842
+40,Mineral,President of the United States - REP,35844
+41,Moffat,President of the United States - DEM,1241447
+41,Moffat,President of the United States - REP,1241449
+42,Montezuma,President of the United States - DEM,569984
+42,Montezuma,President of the United States - REP,569986
+43,Montrose,President of the United States - DEM,310415
+43,Montrose,President of the United States - REP,310417
+44,Morgan,President of the United States - DEM,372294
+44,Morgan,President of the United States - REP,372296
+45,Otero,President of the United States - DEM,1552281
+45,Otero,President of the United States - REP,1552283
+46,Ouray,President of the United States - DEM,1192802
+46,Ouray,President of the United States - REP,1192804
+47,Park,President of the United States - DEM,79050
+47,Park,President of the United States - REP,79052
+48,Phillips,President of the United States - DEM,1066899
+48,Phillips,President of the United States - REP,1066901
+49,Pitkin,President of the United States - DEM,1218679
+49,Pitkin,President of the United States - REP,1218681
+50,Prowers,President of the United States - DEM,1063320
+50,Prowers,President of the United States - REP,1063322
+51,Pueblo,President of the United States - DEM,1562270
+51,Pueblo,President of the United States - REP,1562272
+52,Rio Blanco,President of the United States - DEM,1237495
+52,Rio Blanco,President of the United States - REP,1237497
+53,Rio Grande,President of the United States - DEM,1069242
+53,Rio Grande,President of the United States - REP,1069244
+54,Routt,President of the United States - DEM,1225248
+54,Routt,President of the United States - REP,1225250
+55,Saguache,President of the United States - DEM,361074
+55,Saguache,President of the United States - REP,361076
+57,San Miguel,President of the United States - DEM,68198
+57,San Miguel,President of the United States - REP,68200
+58,Sedgwick,President of the United States - DEM,34827
+58,Sedgwick,President of the United States - REP,34829
+59,Summit,President of the United States - DEM,1470455
+59,Summit,President of the United States - REP,1470457
+60,Teller,President of the United States - DEM,1460097
+60,Teller,President of the United States - REP,1460099
+61,Washington,President of the United States - DEM,65947
+61,Washington,President of the United States - REP,65949
+62,Weld,President of the United States - DEM,1380173
+62,Weld,President of the United States - REP,1380175
+63,Yuma,President of the United States - DEM,1058170
+63,Yuma,President of the United States - REP,1058172
+64,Broomfield,President of the United States - DEM,333930
+64,Broomfield,President of the United States - REP,333932

@@ -1,0 +1,69 @@
+discrepancies,disagreements,discrepancies_n,disagreements_n,audited,county_name
+0,0,2,0,640,Adams
+0,0,1,0,51,Alamosa
+0,0,3,0,592,Arapahoe
+0,0,0,0,63,Archuleta
+0,0,1,0,106,Baca
+0,0,0,0,125,Bent
+0,0,0,0,191,Boulder
+0,0,5,0,170,Broomfield
+1,0,1,0,133,Chaffee
+0,0,1,0,38,Cheyenne
+0,0,0,0,60,Clear Creek
+0,0,0,0,39,Conejos
+1,0,3,0,43,Costilla
+0,0,0,0,86,Crowley
+0,0,0,0,27,Custer
+0,0,0,0,114,Delta
+0,0,0,0,115,Denver
+1,0,1,0,39,Dolores
+0,0,4,0,1164,Douglas
+0,0,0,0,53,Eagle
+1,0,1,0,565,El Paso
+0,0,1,0,60,Elbert
+0,0,2,0,166,Fremont
+0,0,0,0,122,Garfield
+0,0,0,0,40,Gilpin
+0,0,0,0,176,Grand
+0,0,0,0,112,Gunnison
+0,0,0,0,36,Hinsdale
+0,0,0,0,67,Huerfano
+0,0,0,0,24,Jackson
+0,0,0,0,89,Jefferson
+0,0,0,0,40,Kiowa
+0,0,0,0,161,Kit Carson
+0,0,0,0,31,La Plata
+0,0,0,0,66,Lake
+0,0,0,0,145,Larimer
+0,0,0,0,56,Las Animas
+0,0,0,0,81,Lincoln
+0,0,0,0,62,Logan
+0,0,1,0,289,Mesa
+0,0,2,0,96,Moffat
+0,0,1,0,63,Montezuma
+0,0,0,0,318,Montrose
+0,0,0,0,75,Morgan
+0,0,0,0,87,Otero
+0,0,0,0,53,Ouray
+0,0,0,0,65,Park
+0,0,0,0,40,Phillips
+0,0,0,0,56,Pitkin
+0,0,1,0,47,Prowers
+0,0,0,0,135,Pueblo
+0,0,0,0,150,Rio Blanco
+0,0,0,0,68,Rio Grande
+0,0,1,0,63,Routt
+0,0,0,0,66,Saguache
+0,0,0,0,86,San Miguel
+0,0,0,0,57,Sedgwick
+0,0,0,0,52,Summit
+0,0,0,0,83,Teller
+0,0,0,0,35,Washington
+0,0,1,0,279,Weld
+0,0,0,0,43,Yuma
+Seed: 08772473296991897540, alpha: 0.030000
+Total Ballot Cards Audited: 8285
+audited	driving_discrepancies	opportunistic_discrepancies	county	contest
+640.0	0.0	2.0	Adams County	City of Thornton Council Member - Ward 3 - Vote For 1
+51.0	0.0	1.0	Alamosa County	City of Alamosa Councilor at Large - Vote For 1
+592.0	0.0	3.0	Arapahoe County	Arapahoe County School District #6 Littleton Public Schools School Director - At Large - Vote For 3

@@ -1,0 +1,156 @@
+county_name,contest_name,imprinted_id,ballot_type,choice_per_voting_computer,audit_board_selection,consensus,record_type,audit_board_comment,timestamp,cvr_id
+Arapahoe,President of the United States - DEM,5-232-31,1,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 13:40:53.9,524901
+Arapahoe,President of the United States - DEM,7-20-73,1,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 13:41:52.86,394713
+Arapahoe,President of the United States - DEM,2-94-15,1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:40:37.438,462954
+Arapahoe,President of the United States - DEM,2-276-44,1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:41:05.504,562217
+Arapahoe,President of the United States - DEM,3-56-27,1,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 13:41:28.681,397100
+Arapahoe,President of the United States - DEM,3-139-74,1,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 13:41:55.822,444989
+Arapahoe,President of the United States - DEM,7-224-49,1,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 13:43:02.461,532136
+Arapahoe,President of the United States - DEM,5-224-21,1,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 13:43:46.483,519833
+Arapahoe,President of the United States - DEM,3-339-96,1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:42:50.84,534577
+Arapahoe,President of the United States - DEM,7-166-78,1,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 13:42:38.833,487104
+Arapahoe,President of the United States - DEM,9-186-39,1,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 13:43:56.631,483699
+Arapahoe,President of the United States - DEM,9-167-64,1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:43:27.526,472343
+Arapahoe,President of the United States - DEM,5-312-25,1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:41:27.433,560338
+Arapahoe,President of the United States - REP,3-230-87,2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:42:21.904,477549
+Arapahoe,President of the United States - REP,7-98-62,2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:42:14.145,436987
+Arapahoe,President of the United States - REP,4-240-52,2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:43:22.394,515561
+Boulder,President of the United States - DEM,10-63-127,DS-01D,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-14 11:16:33.78,1696164
+Boulder,President of the United States - DEM,7-52-76,DS-01D,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-14 11:17:01.934,1702474
+Boulder,President of the United States - DEM,1-13-100,DS-01D,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-14 11:15:57.205,1615449
+Boulder,President of the United States - DEM,4-31-94,DS-01D,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-14 11:16:36.055,1652371
+Boulder,President of the United States - DEM,6-1-117,DS-01D,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-14 11:15:17.161,1628718
+Boulder,President of the United States - DEM,10-57-130,DS-01D,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-14 11:17:41.68,1677223
+Boulder,President of the United States - DEM,4-87-21,DS-01D,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-14 11:17:34.18,1738122
+Boulder,President of the United States - DEM,9-54-20,DS-01D,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-14 11:15:48.382,1699358
+Boulder,President of the United States - DEM,3-31-99,DS-01D,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-14 11:17:06.567,1663718
+Broomfield,President of the United States - DEM,2-463-5,2,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 13:09:15.069,345140
+Broomfield,President of the United States - DEM,2-978-9,2,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 13:12:59.906,358300
+Broomfield,President of the United States - DEM,2-284-13,2,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 13:07:12.464,340778
+Broomfield,President of the United States - DEM,2-687-1,2,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:10:54.408,350683
+Chaffee,President of the United States - REP,1-142-34,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 11:20:23.974,370352
+Delta,President of the United States - REP,1-322-29,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 14:10:32.039,30640
+Denver,President of the United States - DEM,9-151-189,1 (1),"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 12:06:06.858,940391
+Denver,President of the United States - DEM,3-210-13,1 (1),"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 12:06:39.069,929349
+Denver,President of the United States - DEM,3-231-24,1 (1),"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 12:06:53.573,941374
+Denver,President of the United States - DEM,9-166-164,1 (1),"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 12:07:40.163,958562
+Denver,President of the United States - DEM,9-156-289,1 (1),"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 12:07:27.391,950827
+Denver,President of the United States - DEM,9-193-1,1 (1),"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 12:08:08.769,985545
+Denver,President of the United States - DEM,6-227-9,1 (1),"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 12:07:54.225,990375
+Denver,President of the United States - DEM,3-50-35,1 (1),"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 12:05:27.625,867707
+Denver,President of the United States - DEM,9-131-73,1 (1),"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 12:05:47.378,922544
+Denver,President of the United States - DEM,9-145-206,1 (1),"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 12:06:22.016,936651
+Denver,President of the United States - DEM,6-300-5,1 (1),"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 12:10:38.288,1056834
+Denver,President of the United States - DEM,9-305-47,1 (1),"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 12:10:07.46,1055071
+Denver,President of the United States - DEM,9-302-122,1 (1),"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 12:08:36.025,1052154
+Denver,President of the United States - DEM,9-231-299,1 (1),"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 12:08:21.809,1012518
+Denver,President of the United States - REP,5-11-84,2 (2),"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 12:04:48.366,832966
+Denver,President of the United States - REP,1-170-72,2 (2),"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 12:07:11.897,946308
+Douglas,President of the United States - DEM,1-PRES-0922-30,01 D,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-14 09:20:49.519,1161077
+Douglas,President of the United States - DEM,1-PRES-0684-95,01 D,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-14 09:26:11.954,1138995
+Douglas,President of the United States - DEM,1-PRES-0096-87,01 D,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-14 09:21:53.372,1082413
+Douglas,President of the United States - DEM,1-PRES-0204-56,01 D,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-14 09:23:53.225,1092973
+Douglas,President of the United States - DEM,1-PRES-0059 -62,01 D,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-14 09:26:48.618,1078690
+Douglas,President of the United States - DEM,1-PRES-1015-32,01 D,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-14 09:23:01.01,1169776
+Douglas,President of the United States - REP,1-PRES-0243-97,01 R,"""Joe Walsh""","""Joe Walsh""",YES,uploaded,"",2020-03-14 09:27:59.605,1096834
+Douglas,President of the United States - REP,1-PRES-0676-93,01 R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-14 09:29:28.031,1138358
+Douglas,President of the United States - REP,1-PRES-1237-34,01 R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-14 09:28:58.341,1188831
+Douglas,President of the United States - REP,1-PRES-0985-53,01 R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-14 09:27:33.572,1166954
+Douglas,President of the United States - REP,1-PRES-1245-18,01 R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-14 09:29:55.678,1189431
+Eagle,President of the United States - DEM,32-415-7,DEM,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 10:39:39.267,591770
+El Paso,President of the United States - DEM,10-408-70,D1,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 13:19:50.877,283992
+El Paso,President of the United States - DEM,10-68-1,D1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:05:37.699,123796
+El Paso,President of the United States - DEM,10-179-40,D1,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 13:08:16.975,171595
+El Paso,President of the United States - DEM,20-50-35,D1,"""Amy Klobuchar""","""Amy Klobuchar""",YES,uploaded,"",2020-03-13 13:10:50.446,116385
+El Paso,President of the United States - DEM,20-293-37,D1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:11:41.665,233116
+El Paso,President of the United States - DEM,50-229-55,D1,"""Michael Bennet""","""Michael Bennet""",YES,uploaded,"",2020-03-13 13:15:57.874,199174
+El Paso,President of the United States - DEM,60-180-33,D1,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 13:18:47.265,254560
+El Paso,President of the United States - DEM,10-162-96,D1,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 13:07:21.837,163330
+El Paso,President of the United States - DEM,10-284-86,D1,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 13:09:54.874,227290
+El Paso,President of the United States - DEM,10-314-4,D1,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 13:10:23.647,240072
+El Paso,President of the United States - DEM,50-244-66,D1,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 13:16:47.214,203641
+El Paso,President of the United States - DEM,60-58-74,D1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:18:19.279,143839
+El Paso,President of the United States - DEM,72-66-53,D1,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 13:19:11.001,277524
+El Paso,President of the United States - DEM,50-351-67,D1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:20:43.952,267404
+El Paso,President of the United States - REP,50-369-4,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:20:58.498,278617
+El Paso,President of the United States - REP,20-198-54,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:11:15.26,181415
+El Paso,President of the United States - REP,20-317-33,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:12:04.839,243260
+El Paso,President of the United States - REP,30-115-86,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:13:24.774,192719
+El Paso,President of the United States - REP,50-92-39,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:14:18.377,134006
+El Paso,President of the United States - REP,50-140-93,R2,"""Bill Weld""","""Bill Weld""",YES,uploaded,"",2020-03-13 13:15:23.883,156319
+El Paso,President of the United States - REP,50-111-39,R2,"""Matthew John Matern""","""Matthew John Matern""",YES,uploaded,"",2020-03-13 13:14:48.474,143295
+El Paso,President of the United States - REP,30-41-4,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:12:24.781,108299
+El Paso,President of the United States - REP,50-296-65,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:17:11.169,218797
+El Paso,President of the United States - REP,10-55-67,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:05:07.689,118939
+El Paso,President of the United States - REP,10-94-86,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:06:57.355,136266
+El Paso,President of the United States - REP,40-207-42,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:13:39.915,200823
+El Paso,President of the United States - REP,10-216-96,R2,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:08:43.021,203747
+Fremont,President of the United States - DEM,1-473-24,DEM,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:02:23.176,62948
+Grand,President of the United States - DEM,102-110-19,DEM,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 12:42:13.705,1218198
+Jefferson,President of the United States - DEM,4-210-127,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 15:50:19.135,704400
+Jefferson,President of the United States - DEM,2-61-40,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 15:58:30.081,813957
+Jefferson,President of the United States - DEM,3-366-134,DEM,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 15:55:27.473,788362
+Jefferson,President of the United States - DEM,3-241-105,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 15:50:35.542,721595
+Jefferson,President of the United States - DEM,7-89-137,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 15:48:59.447,681525
+Jefferson,President of the United States - DEM,7-86-57,DEM,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 15:48:43.566,678730
+Jefferson,President of the United States - DEM,4-63-196,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 15:47:23.075,636812
+Jefferson,President of the United States - DEM,5-11-155,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 15:59:00.942,814629
+Jefferson,President of the United States - DEM,3-394-118,DEM,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 15:57:57.189,809519
+Jefferson,President of the United States - DEM,2-39-75,DEM,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 15:56:38.151,790821
+Jefferson,President of the United States - DEM,3-133-40,DEM,"""Amy Klobuchar""","""Amy Klobuchar""",YES,uploaded,"",2020-03-13 15:48:25.333,667016
+Jefferson,President of the United States - REP,3-35-172,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:46:12.903,617085
+Jefferson,President of the United States - REP,4-44-76,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:46:54.182,625908
+Jefferson,President of the United States - REP,4-65-35,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:47:50.985,638250
+Jefferson,President of the United States - REP,4-66-1,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:48:07.593,639090
+Jefferson,President of the United States - REP,3-167-17,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:49:13.46,685407
+Jefferson,President of the United States - REP,7-128-188,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:52:11.792,725179
+Jefferson,President of the United States - REP,3-359-23,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:55:10.747,784562
+Jefferson,President of the United States - REP,3-197-22,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:50:02.042,701661
+Jefferson,President of the United States - REP,4-285-119,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:52:35.63,742420
+Jefferson,President of the United States - REP,4-391-151,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 15:57:37.578,808453
+La Plata,President of the United States - DEM,1-174-37,1,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 11:44:38.17,1539711
+La Plata,President of the United States - DEM,1-288-46,1,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 11:45:23.738,1545441
+Larimer,President of the United States - DEM,1-97-39,1D,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 16:45:53.945,1313262
+Larimer,President of the United States - DEM,3-145-1,1D,"""Amy Klobuchar""","""Amy Klobuchar""",YES,uploaded,"",2020-03-13 16:04:09.987,1320741
+Larimer,President of the United States - DEM,4-214-34,1D,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 16:14:33.153,1350898
+Larimer,President of the United States - DEM,3-175-54,1D,"""Andrew Yang""","""Andrew Yang""",YES,uploaded,"",2020-03-13 16:00:13.614,1332986
+Larimer,President of the United States - DEM,3-196-76,1D,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 16:02:28.473,1343544
+Larimer,President of the United States - DEM,2-64-38,1D,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 16:11:50.338,1275941
+Larimer,President of the United States - DEM,1-203-77,1D,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 16:16:08.886,1355043
+Larimer,President of the United States - DEM,2-332-8,1D,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 16:24:32.998,1368497
+Larimer,President of the United States - REP,2-12-37,2R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 16:10:01.258,1254648
+Larimer,President of the United States - REP,1-150-38,2R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 16:47:11.143,1331726
+Larimer,President of the United States - REP,2-120-96,2R,"""Bill Weld""","""Bill Weld""",YES,uploaded,"",2020-03-13 16:44:30.906,1290042
+Larimer,President of the United States - REP,3-243-98,2R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 16:20:04.164,1363924
+Larimer,President of the United States - REP,5-65-16,2R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 16:43:27.335,1278153
+Larimer,President of the United States - REP,4-230-8,2R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 16:17:57.568,1359071
+Larimer,President of the United States - REP,1-237-59,2R,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 16:22:49.245,1368346
+Larimer,President of the United States - REP,3-14-96,2R,"""Joe Walsh""","""Joe Walsh""",YES,uploaded,"",2020-03-13 16:06:24.263,1258121
+Las Animas,President of the United States - DEM,103-105-18,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 14:33:26.005,597462
+Logan,President of the United States - REP,1-179-15,2-REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 11:38:32.284,75849
+Mesa,President of the United States - DEM,105-67-3,DEM,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 13:51:50.779,1515375
+Mesa,President of the United States - DEM,103-67-88,DEM,"""Michael R. Bloomberg""","""Michael R. Bloomberg""",YES,uploaded,"",2020-03-13 13:59:12.927,1496034
+Mesa,President of the United States - REP,103-84-40,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:59:56.08,1497434
+Mesa,President of the United States - REP,103-70-97,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:59:31.581,1496196
+Mesa,President of the United States - REP,107-34-44,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:57:01.13,1505996
+Mesa,President of the United States - REP,105-18-5,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:51:22.288,1501566
+Mesa,President of the United States - REP,101-88-62,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:58:51.606,1526156
+Mesa,President of the United States - REP,105-100-85,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 13:56:37.709,1518350
+Montrose,President of the United States - DEM,1-222-16,DEM,"""Amy Klobuchar""","""Amy Klobuchar""",YES,uploaded,"",2020-03-13 13:11:07.924,321477
+Montrose,President of the United States - DEM,1-178-45,DEM,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 13:09:57.067,319304
+Otero,President of the United States - REP,3-67-11,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 11:40:59.117,1557292
+Pueblo,President of the United States - DEM,1-42-18,DEM,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:26:57.157,1564290
+Pueblo,President of the United States - DEM,1-632-43,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 13:28:30.747,1592127
+Pueblo,President of the United States - DEM,1-189-28,DEM,"""Pete Buttigieg""","""Pete Buttigieg""",YES,uploaded,"",2020-03-13 13:27:41.268,1571456
+Pueblo,President of the United States - DEM,1-884-33,DEM,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-13 13:29:08.634,1604219
+Routt,President of the United States - DEM,102-279-17,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-13 13:27:56.796,1231954
+Routt,President of the United States - DEM,102-273-1,DEM,"""Elizabeth Warren""","""Elizabeth Warren""",YES,uploaded,"",2020-03-13 13:27:39.506,1231809
+Saguache,President of the United States - REP,1-42-10,SAGREP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-13 10:55:58.696,362114
+San Miguel,President of the United States - DEM,2-37-20,DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-14 10:10:34.018,69107
+Weld,President of the United States - DEM,3-124-65,DS-01-DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-14 09:23:16.623,1446085
+Weld,President of the United States - DEM,1-138-71,DS-01-DEM,"""Joseph R. Biden""","""Joseph R. Biden""",YES,uploaded,"",2020-03-14 09:22:44.391,1438978
+Weld,President of the United States - DEM,3-151-84,DS-01-DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-14 09:24:08.676,1455954
+Weld,President of the United States - DEM,1-19-82,DS-01-DEM,"""Bernie Sanders""","""Bernie Sanders""",YES,uploaded,"",2020-03-14 09:22:19.541,1391200
+Weld,President of the United States - REP,4-226-61,DS-02-REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-14 09:23:57.745,1451858
+Weld,President of the United States - REP,1-166-6,DS-02-REP,"""Matthew John Matern""","""Matthew John Matern""",YES,uploaded,"",2020-03-14 09:23:28.921,1450603
+Yuma,President of the United States - REP,1/16/2007,REP,"""Donald J. Trump""","""Donald J. Trump""",YES,uploaded,"",2020-03-16 09:07:07.803,1058565
