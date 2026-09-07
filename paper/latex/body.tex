@@ -1,11 +1,4 @@
-<!--
-Draft prose for §1 (Intro). Anonymized, double-blind-ready third-person
-prose. Real citations inserted inline as \cite{} keys -- see REFERENCES.md.
-
-Rough length: ~330 words, targeting the outlined 0.75-page budget.
--->
-
-# 1. Introduction
+\section{Introduction}
 
 Colorado has run a mandatory, statewide risk-limiting audit after every
 election since November 2017 — ten years and fourteen election instances
@@ -25,7 +18,7 @@ software's own date-autodetection misreading a hyphenated identifier as a
 calendar date before the file was published. Second, the resulting
 dataset can be independently trusted: reconstructing the state's own
 pseudo-random ballot selections from public inputs alone reproduces its
-official selection record exactly for 97.9% of checkable targeted
+official selection record exactly for 97.9\% of checkable targeted
 contests, with the small remainder traced almost entirely to specific,
 well-defined gaps in the available source data rather than any flaw
 in the reconstruction.
@@ -33,12 +26,12 @@ in the reconstruction.
 Third, Colorado's audits produce valuable election integrity
 evidence relevant to both the formally targeted contests (which achieve their risk limits),
 and also the other contests which are "opportunistically" audited.
-Every paper ballot[^sheets] in the sample drawn for a targeted contest's audit
+Every paper ballot\footnote{A voter's ballot may consist of more than one sheet of paper; the voting system and the audit both work at the level of an individual sheet, and multi-sheet ballots are interpreted and audited sheet by sheet rather than as one unit. We follow common usage and refer to a ballot-sheet simply as a "ballot" throughout, except where the distinction matters.} in the sample drawn for a targeted contest's audit
 is also interpreted by humans for every other contest present, and compared to
 the corresponding original voting system record.
 Fourth, discrepancies between the human interpretations and the system
 interpretations are rare and mostly due to human error. In the available data,
-we find a discrepancy rate of 0.067% across 965,254 contest-ballot
+we find a discrepancy rate of 0.067\% across 965,254 contest-ballot
 comparisons, roughly two-thirds of which trace to the audit board
 retrieving the wrong physical ballot rather than any disagreement about
 how a given ballot should be read. This reconstruction also surfaces specific gaps in the historical public
@@ -53,20 +46,7 @@ themselves (§4), the verification against an independent ground truth
 (§5), what the audits actually found when examining ballots (§6), and
 directions for future work this reconstruction makes possible (§7).
 
-[^sheets]: A voter's ballot may consist of more than one sheet of paper;
-    the voting system and the audit both work at the level of an
-    individual sheet, and multi-sheet ballots are interpreted and audited
-    sheet by sheet rather than as one unit. We follow common
-    usage and refer to a ballot-sheet simply as a "ballot" throughout,
-    except where the distinction matters.
-<!--
-Draft prose for §2 (Background). Anonymized, double-blind-ready third-person
-prose. Real citations inserted inline as \cite{} keys -- see REFERENCES.md.
-
-Rough length: ~550 words, targeting the outlined 1.25-page budget.
--->
-
-# 2. Background
+\section{Background}
 
 Risk-limiting audits provide statistically grounded, software-independent
 evidence that a reported election outcome matches what the paper ballots
@@ -77,13 +57,13 @@ foundation the whole approach is built on. Colorado piloted the method
 years before adopting it statewide: a 2010 audit in one county is credited
 as the first risk-limiting audit conducted outside California, followed by
 further county-level pilots in 2011 and a 2013 ballot-level comparison
-audit of three contests in one county, funded in part by a $230,000 U.S.
+audit of three contests in one county, funded in part by a \$230,000 U.S.
 Election Assistance Commission grant supporting pilots in five counties
 from 2011 to 2014, and a further round of mock audits in three more
 counties in 2015. Risk-limiting audits have since been endorsed by the
 National Academies of Sciences, Engineering, and Medicine, first in
-*Securing the Vote* (2018) and again in *Moving to Evidence-Based
-Elections* (2023) \cite{nas2018securing, nas2023moving}. Colorado has
+\textit{Securing the Vote} (2018) and again in \textit{Moving to Evidence-Based
+Elections} (2023) \cite{nas2018securing, nas2023moving}. Colorado has
 conducted a mandatory, statewide risk-limiting audit after every general,
 primary, and coordinated election, and before certification, since
 November 2017, required by Colorado Revised Statutes \S 1-7-515
@@ -105,7 +85,7 @@ Kaplan-Markov comparison-audit approach used across many RLA
 implementations in the United States \cite{stark2008conservative,
 lindeman2012gentle} — one of the two main RLA families alongside
 ballot-polling audits such as BRAVO \cite{lindeman2012bravo}, which
-Colorado's implementation has not used since 2019. For each *targeted* contest — one
+Colorado's implementation has not used since 2019. For each \textit{targeted} contest — one
 whose margin the Secretary of State has selected to formally drive that
 audit round's sampling — CORLA hashes the public seed together with an
 incrementing counter using SHA-256, reduces the result modulo the size of
@@ -127,7 +107,7 @@ a ballot is drawn to examine its targeted contest, every other contest that
 ballot also carries gets examined as a byproduct, whether or not that other
 contest was ever independently selected. We call a contest
 audited this way — one that receives examined ballots purely as a side
-effect of some other contest's targeted draw — *opportunistically covered*
+effect of some other contest's targeted draw — \textit{opportunistically covered}
 throughout. The distinction between targeted and opportunistically covered
 contests, and the much smaller set of contests that receive no examined
 ballots under either mechanism, is the central subject of §4.
@@ -137,19 +117,8 @@ every election instance from 2017 through the first half of 2026 — fourteen
 election instances in all, spanning the variety of export formats
 described in §3, and reflecting a point-in-time archive rather than a
 continuous capture of every revision a file underwent (§3.1).
-<!--
-Draft prose for §3 (Data cleaning & normalization). Written already
-anonymized for double-blind review: no author names, no repo URLs, no
-first-person "I/we built" framing tied to a specific person. Most of §3 is
-original empirical work with nothing external to cite -- no \cite{} keys
-were needed here (unlike §2 and §5). Reconfirm that's still true before
-final submission, per the double-blind rule in ../README.md.
 
-Rough length: ~1,750 words, targeting the outlined 3.5-page budget in
-two-column 10pt format. Trim/expand once it's actually laid out.
--->
-
-# 3. Data cleaning and normalization
+\section{Data cleaning and normalization}
 
 Colorado has published machine-readable risk-limiting audit (RLA) data for
 every statewide and coordinated election since 2017 — fourteen election
@@ -165,36 +134,7 @@ Note also that San Juan County hand-counts its ballots, and does not produce
 cast-vote records at all. It has not participated in the CVR-based comparison audit this paper's data
 comes from. San Juan's ballots are excluded from every count in this paper for that reason.
 
-## 3.1 Fourteen elections, three export eras
-[TODO: note that the CORLA software exports files which are then
-manually moved into the auditcenter web site. Automating this procedure
-would help speed the process up and regularize the file naming.]
-
-[TODO: round-by-round reporting is a bigger, separate topic than this
-section currently lets on -- found real prior work, not yet reflected
-here. Checked against the private analysis repo directly, not guessed:
-this is NOT incomplete human export work, it's a confirmed CORLA software
-behavior. `ComparisonAudit.addContestCVRIds()` always *appends*, so
-`contest_cvr_ids` accumulates across rounds rather than resetting --
-every round's export of that field reflects the FINAL accumulated state,
-not that round's own selection. A second, compounding bug: the
-comparison-file SQL joins on `audit_reason` rather than contest identity,
-so any ballot drawn for any same-type targeted contest gets logged
-against every contest on that ballot, not just the one it was drawn for.
-Documented in `SELECTION_FLAWS.md` (a worked example: Pueblo County
-Commissioner - District 2, 2024 general, all three rounds show byte-
-identical files) and `SELECTION_FLAWS_SURVEY.md` (systematic sweep: 22 of
-22 audited rounds, 2019-2025, show at least one of these two symptoms).
-No draft SoS/CDOS feedback document was found under that description --
-searched, doesn't appear to exist yet, or exists somewhere not checked.
-Open decision, not resolved here: does this paper (a) ignore round-level
-granularity entirely and describe only final-round/cumulative state
-throughout (already the closest thing to current practice — see
-`DATA_DICTIONARY.md`'s "always prefer the final/highest-round-number
-version" note), (b) allude to it briefly as a known limitation without
-detail, or (c) treat it as substantive enough for its own subsection --
-each has different implications for §3's "three export eras" framing and
-for §4-6's round-handling assumptions.]
+\subsection{Fourteen elections, three export eras}
 
 The audit software's own export format falls into three structurally
 distinct eras. The earliest, used for the 2017 coordinated election, the
@@ -211,9 +151,9 @@ recording the voting system's own choice for the same ballot, so it
 supports aggregate counts but not a genuine two-sided, ballot-by-ballot
 comparison the way every later year's export does. The great majority of
 the fourteen elections, from 2019 onward, use a "contest CSV" era: a
-per-contest parameter file (`contest.csv` and its several later
+per-contest parameter file (\texttt{contest.csv} and its several later
 renamings), a per-contest, per-jurisdiction mapping file, and a genuine
-two-sided CVR-vs-audit-board comparison file. [TODO shouldn't we just ignore or avoid describing this even this much?] Starting with the 2025 CORLA
+two-sided CVR-vs-audit-board comparison file.  Starting with the 2025 CORLA
 support for auditing Instant-Runoff Voting (IRV) via a different
 statistical framework (RAIRE-style IRV assertions), rather than
 Kaplan-Markov comparison auditing, another minor column-name/order change happened.
@@ -221,21 +161,21 @@ Kaplan-Markov comparison auditing, another minor column-name/order change happen
 Even within the "contest CSV" era, filenames and directory conventions
 vary far more than the underlying column structure does. The per-contest
 parameter file alone appears under a variety of distinct filenames across
-the surveyed elections (`contest.csv`, `ContestList.csv`,
-`ContestsListRound1.csv`), and the comparison file under four
-(`contestComparison.csv`, `contest_comparison.csv`, `contest_detail.csv`,
-`CVRtoAuditBoardInterpretationComparison.csv`) — but most of that churn is
+the surveyed elections (\texttt{contest.csv}, \texttt{ContestList.csv},
+\texttt{ContestsListRound1.csv}), and the comparison file under four
+(\texttt{contestComparison.csv}, \texttt{contest\_comparison.csv}, \texttt{contest\_detail.csv},
+\texttt{CVRtoAuditBoardInterpretationComparison.csv}) — but most of that churn is
 cosmetic: of the seven file types this schema relies on, five keep
 exactly the same columns across every election that has them, despite
 being renamed three to five times apiece. The comparison file itself only
 changes shape twice in ten years, not once per rename: the 2018 general
 election's version lacks a column for the voting system's own choice
 entirely (the two-sided-comparison gap already noted above), and the 2022
-primary is the first to add a trailing `audit_reason` column, which every
+primary is the first to add a trailing \texttt{audit\_reason} column, which every
 comparison file since has carried. Round-numbered directories are named
-`round_1`/`round_2`/`round_3` in earlier years and `round1`/`round2`/`round3`
+\texttt{round\_1}/\texttt{round\_2}/\texttt{round\_3} in earlier years and \texttt{round1}/\texttt{round2}/\texttt{round3}
 (no underscore) in later ones; two elections publish a single, unnumbered
-`finalReports` directory instead.
+\texttt{finalReports} directory instead.
 
 To reconcile this we built an explicit, per-election layout
 table — one small record per election instance naming which filename,
@@ -253,7 +193,7 @@ a concrete case where exactly this pattern combined with a limitation in
 our own download process to leave a manifest mislabeling uncorrected in
 the archive well after it was fixed at the source.
 
-## 3.2 Contest identity: fragmentation and name-variant resolution
+\subsection{Contest identity: fragmentation and name-variant resolution}
 
 A second source of complexity is contest identity itself.
 The only current way to set the sample size in each county via CORLA
@@ -271,12 +211,12 @@ contest's ballot pool in some particular county was too small to support an
 adequate sample there on its own, forcing a county-specific sub-sample.
 This pattern — found in five of the eleven checkable election instances —
 appears under a variety of naming conventions across those five
-(`"<Contest> (<County>)"`, `"<Contest> - <County> County"`, and
-`"<Contest> - <County>"`.
+(\texttt{"<Contest> (<County>)"}, \texttt{"<Contest> - <County> County"}, and
+\texttt{"<Contest> - <County>"}.
 
 The distinction matters beyond bookkeeping. Each county-suffixed fragment
-carries its own `audit_reason` and its own record of whether *that
-fragment's* sub-sample reached its risk limit — and that per-fragment
+carries its own \texttt{audit\_reason} and its own record of whether \textit{that
+fragment's} sub-sample reached its risk limit — and that per-fragment
 status must never be read as if it were the true, whole contest's status.
 An analysis that queries a fragment's own "risk limit achieved" field
 without first resolving it back to its parent contest will systematically
@@ -289,17 +229,17 @@ a separate consolidation pass — run once, at import time, for every
 election — groups fragments back to one true-contest record per real
 contest, and every downstream table reports only on actual contests.
 
-## 3.3 An unintentional, fully recoverable remapping of ballot identifiers
+\subsection{An unintentional, fully recoverable remapping of ballot identifiers}
 
 The most striking single data-cleaning problem solved in this
 reconstruction was an unintentional remapping of ballot identifiers,
 confined to specific export files, that turned out to be entirely
 recoverable once its mechanism was understood. Colorado's ballot-
 identifier convention is a hyphen-separated triple,
-`{tabulator}-{batch}-{position}` (for example, `4-5-69`). In eight of the
+\texttt{{tabulator}-{batch}-{position}} (for example, \texttt{4-5-69}). In eight of the
 fourteen election instances, a substantial minority of these identifiers
-instead appear in the comparison export as `M/D/YYYY`-formatted dates —
-for example, `4/5/1969` in place of `4-5-69`.
+instead appear in the comparison export as \texttt{M/D/YYYY}-formatted dates —
+for example, \texttt{4/5/1969} in place of \texttt{4-5-69}.
 
 The mechanism is demonstrable, not merely plausible. Common spreadsheet
 software's short-date autodetection reads a hyphenated three-number string
@@ -309,14 +249,14 @@ date value, and re-emits it in slash-separated form on save, applying a
 standard two-digit-year century window along the way — an ordinary,
 well-known spreadsheet behavior, not anything particular to elections
 data. One of the earliest-era files in the dataset happens to carry the
-true tabulator, batch, and record numbers in separate columns *alongside*
+true tabulator, batch, and record numbers in separate columns \textit{alongside}
 the remapped identifier in the same row, which makes the mechanism
 directly verifiable rather than inferred: reversing the transformation on
 every affected row in that file reproduces the other three columns'
 values exactly, with zero exceptions across dozens of rows. Because the
 remapping only triggers when both the tabulator and batch numbers happen
 to fall within valid date ranges, its incidence varies sharply by county —
-from under 15% to over 75% of rows in different counties of the same
+from under 15\% to over 75\% of rows in different counties of the same
 election — purely as a function of each county's own tabulator- and
 batch-numbering scheme.
 
@@ -346,7 +286,7 @@ dataset. With it applied, every one of these ballot identifiers is
 recovered exactly, adding a meaningful share of previously-unmatchable
 records back into the usable evidence base described in §5.
 
-## 3.4 Manifest export: mislabeling, gaps, and recovery
+\subsection{Manifest export: mislabeling, gaps, and recovery}
 
 Ballot manifests are deliberately independent of the voting system by
 rule, not merely by incidental county practice: "the county must maintain
@@ -388,9 +328,9 @@ version of the recovery was itself found to be incomplete against
 affected files that had already been recovered from independent web
 archive captures.
 
-## 3.5 Normalized schema for TODO [TODO insert name of resulting database]
+\subsection{Normalized schema for TODO}
 
-The result of resolving §§3.1–3.4 is a TODO [TODO insert name of resulting database], with a single relational schema spanning
+The result of resolving §§3.1–3.4 is a TODO , with a single relational schema spanning
 all fourteen election instances, built around one election dimension that
 every other table references, an explicit true-contest/raw-fragment split
 that enforces the distinction in §3.2 structurally, and per-row provenance
@@ -405,40 +345,24 @@ the risk-bearing tables for the same reason. Nothing in the schema silently
 drops a known gap — every exclusion in this section is recorded explicitly,
 as a property of a specific election instance, rather than left for a
 downstream query to rediscover by absence.
-<!--
-Draft prose for §4 (Coverage findings). Anonymized, double-blind-ready
-third-person prose. Real citations inserted inline as \cite{} keys -- see REFERENCES.md.
 
-Table below is the literal output of ../scripts/coverage_analysis.py,
-re-run 2026-09-03. Regenerate before final submission in case the
-underlying dataset changes.
-
-Deliberately stays at the level of "does CORLA's own export name a
-comparison record for this contest" throughout -- never a risk-value claim.
-See ../README.md's scope boundary and the terminology note in
-../scripts/coverage_analysis.py's docstring (do not call the no-record
-category "zero coverage" or "unaudited").
-
-Rough length: ~1,050 words + table, targeting the outlined 3-page budget.
--->
-
-# 4. Categories of Contests
+\section{Categories of Contests}
 
 Colorado's mandatory RLA program is often described as
 auditing "the election", but it targets only a
 small number of contests by name to achieve the risk limit (§2), and does
 not report any risk levels for the opportunistic contests.
 
-## 4.1 Method
+\subsection{Method}
 
 Every contest in the normalized dataset (§3) was classified, per election,
 into one of three categories, based solely on whether and how it
-appears in CORLA's own examined-ballot comparison export: **directly
-targeted** (the contest itself was named as a formal sampling target),
-**opportunistically named** (the contest was never itself targeted, but at
+appears in CORLA's own examined-ballot comparison export: \textbf{directly
+targeted} (the contest itself was named as a formal sampling target),
+\textbf{opportunistically named} (the contest was never itself targeted, but at
 least one examined ballot's comparison record names it — i.e., some ballot
-drawn for another contest's draw also happened to carry this one), or **no
-comparison record** (the contest's name never appears in any examined-
+drawn for another contest's draw also happened to carry this one), or \textbf{no
+comparison record} (the contest's name never appears in any examined-
 ballot comparison record for that election). Each contest was additionally
 classified by how many counties its own ballot population spans: a single
 county, a proper subset of the state's counties ("partial multi-county"),
@@ -460,43 +384,50 @@ export's IRV-specific risk methodology is out of scope for this paper
 misclassified in Table~\ref{tab:coverage-by-election}, and is named here
 rather than silently left wrong.
 
-## 4.2 Results
+\subsection{Results}
 
-| Election | Total contests | Directly targeted | Opportunistically named | No comparison record | Single-county | Partial multi-county | Statewide |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| 2019 | 576 | 52 | 498 | 26 | 457 | 117 | 2 |
-| 2020 (general) | 652 | 60 | 520 | 72 | 510 | 142 | 0 |
-| 2020 (presidential) | 2 | 2 | 0 | 0 | 0 | 0 | 2 |
-| 2020 (primary) | 372 | 34 | 304 | 34 | 282 | 87 | 3 |
-| 2021 | 666 | 54 | 588 | 24 | 537 | 127 | 2 |
-| 2022 (general) | 961 | 43 | 871 | 47 | 801 | 135 | 25 |
-| 2022 (primary) | 651 | 38 | 604 | 9 | 543 | 96 | 12 |
-| 2023 | 661 | 43 | 542 | 76 | 511 | 148 | 2 |
-| 2024 | 721 | 63 | 597 | 61 | 555 | 142 | 24 |
-| 2025 | 640 | 62 | 541 | 37 | 515 | 124 | 1 |
-| 2026 | 620 | 26 | 580 | 14 | 512 | 97 | 11 |
-| **Total** | **6,522** | **477** | **5,645** | **400** | **5,223** | **1,215** | **84** |
-Table: Contest coverage classification by election, and by county span. \label{tab:coverage-by-election}
+\begin{table*}[t]\centering
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{lrrrrrrr}
+\hline
+\textbf{Election} & \textbf{Total contests} & \textbf{Directly targeted} & \textbf{Opportunistically named} & \textbf{No comparison record} & \textbf{Single-county} & \textbf{Partial multi-county} & \textbf{Statewide} \\
+\hline
+2019 & 576 & 52 & 498 & 26 & 457 & 117 & 2 \\
+2020 (general) & 652 & 60 & 520 & 72 & 510 & 142 & 0 \\
+2020 (presidential) & 2 & 2 & 0 & 0 & 0 & 0 & 2 \\
+2020 (primary) & 372 & 34 & 304 & 34 & 282 & 87 & 3 \\
+2021 & 666 & 54 & 588 & 24 & 537 & 127 & 2 \\
+2022 (general) & 961 & 43 & 871 & 47 & 801 & 135 & 25 \\
+2022 (primary) & 651 & 38 & 604 & 9 & 543 & 96 & 12 \\
+2023 & 661 & 43 & 542 & 76 & 511 & 148 & 2 \\
+2024 & 721 & 63 & 597 & 61 & 555 & 142 & 24 \\
+2025 & 640 & 62 & 541 & 37 & 515 & 124 & 1 \\
+2026 & 620 & 26 & 580 & 14 & 512 & 97 & 11 \\
+\textbf{Total} & \textbf{6,522} & \textbf{477} & \textbf{5,645} & \textbf{400} & \textbf{5,223} & \textbf{1,215} & \textbf{84} \\
+\hline
+\end{tabular}}
+\caption{Contest coverage classification by election, and by county span. \label{tab:coverage-by-election}}
+\end{table*}
 
-Across the full survey (Table~\ref{tab:coverage-by-election}), **6,122 of 6,522 contests (93.9%) have at least one
-examined-ballot comparison record named in CORLA's own export**: 477 (7.3%)
-by direct targeting, and 5,645 (86.6%) purely as a byproduct of some other
-contest's draw. The remaining 400 contests (6.1%) have no name-matched
+Across the full survey (Table~\ref{tab:coverage-by-election}), \textbf{6,122 of 6,522 contests (93.9\%) have at least one
+examined-ballot comparison record named in CORLA's own export}: 477 (7.3\%)
+by direct targeting, and 5,645 (86.6\%) purely as a byproduct of some other
+contest's draw. The remaining 400 contests (6.1\%) have no name-matched
 comparison record in the export for that election. Directly targeted
 contests are consistently a small minority of the total — never more than
-about 10%, and often closer to 4% in the larger general elections, where
+about 10\%, and often closer to 4\% in the larger general elections, where
 the number of small down-ballot contests grows faster than the number of
 contests formally selected to drive sampling.
 
 By county-span, the overwhelming majority of contests — 5,223 of 6,522, or
-80.1% of the classifiable total — are single-county contests, entirely
+80.1\% of the classifiable total — are single-county contests, entirely
 contained within one county's own ballot population. A substantial minority
-(1,215, 18.6%) span a proper subset of the state's counties without being
+(1,215, 18.6\%) span a proper subset of the state's counties without being
 truly statewide; genuinely statewide contests are comparatively rare (84,
-1.3%), appearing only in general elections and the occasional coordinated
+1.3\%), appearing only in general elections and the occasional coordinated
 or primary election with a statewide ballot measure.
 
-## 4.3 What "no comparison record" does and does not mean
+\subsection{What "no comparison record" does and does not mean}
 
 The 400 contests with no name-matched comparison record are not,
 thereby, contests the audit process skipped. A ballot examined for one
@@ -513,23 +444,8 @@ same county. Whether, and how precisely, a meaningful statistical
 conclusion can be drawn for these contests from the sampling activity that
 did occur nearby is a separate methodological question to be addressed in
 ongoing work (§7).
-<!--
-Draft prose for §5 (Dataset integrity verification). Anonymized, double-blind-
-ready third-person prose. Real citations inserted inline as \cite{} keys -- see REFERENCES.md.
 
-Deliberately excludes the separate "does our own recomputed risk value agree
-with CORLA's reported pass/fail status" check (VALIDATION_RESULTS.md §2) --
-that's Kaplan-Markov risk-value methodology territory, out of scope here per
-../README.md's boundary (Caron/Stark co-authored future work). This section
-covers ONLY the selection-reproduction check: did CORLA draw the ballots it
-says it drew. That's a pure ballot-identity comparison, no risk formula
-involved, and it's the check that establishes the dataset itself is
-trustworthy enough to support §4's coverage claims.
-
-Rough length: ~800 words, targeting the outlined 1.5-page budget.
--->
-
-# 5. Dataset integrity verification
+\section{Dataset integrity verification}
 
 The coverage figures in §4 are only as trustworthy as the underlying
 dataset. Before drawing any conclusion from it, the reconstruction was
@@ -537,7 +453,7 @@ checked against an independent, external ground truth: does the state's
 audit software's own published selection record match what an outside
 party, working only from public inputs, can independently recompute?
 
-## 5.1 Method
+\subsection{Method}
 
 For every formally targeted contest — one where the audit software drew a
 sample directly by name, rather than a contest that merely happened to
@@ -550,36 +466,43 @@ with a counter using SHA-256, reduce the result modulo the size of the
 relevant ballot population, and repeat for each successive counter value
 until enough distinct ballots are drawn. Reconstructing this sequence
 independently and comparing the resulting set of ballot identifiers against
-the audit software's **own official record** of which ballots it selected
+the audit software's \textbf{own official record} of which ballots it selected
 — a separate file the software itself publishes, distinct from the seed and
 manifest inputs — is the strongest available check: it tests whether the
-selection *itself* matches, not merely whether every selected ballot later
+selection \textit{itself} matches, not merely whether every selected ballot later
 received a logged comparison record, which is a separate and noisier
 question addressed by the discrepancy-typing check in §5.3.
 
-## 5.2 Results
+\subsection{Results}
 
 Across the eleven election instances where the necessary files exist (the
 earliest three instances predate the file formats this check requires, per
-§3.1), **732 of 748 checkable targeted contests — 97.9% — reproduce the
+§3.1), \textbf{732 of 748 checkable targeted contests — 97.9\% — reproduce the
 audit software's own official selection exactly: zero ballots missing, zero
-extra**, for every contest where the check succeeded. Results by election
+extra}, for every contest where the check succeeded. Results by election
 appear in Table~\ref{tab:selection-reproduction}.
 
-| Election | County-level contests | Statewide contests |
-|---|---:|---:|
-| 2019 | 63/63 | 1/1 |
-| 2020 (general) | 61/63 | 0/0 (blocked) |
-| 2020 (presidential) | 0/0 (blocked) | 0/0 (blocked) |
-| 2020 (primary) | 88/88 | 1/1 |
-| 2021 | 62/64 | 0/0 (blocked) |
-| 2022 (primary) | 78/80 | 2/2 |
-| 2022 (general) | 62/63 | 0/6 (blocked) |
-| 2023 | 62/63 | 1/1 |
-| 2024 | 62/63 | 2/2 |
-| 2025 | 72/73 | 2/2 |
-| 2026 | 112/112 | 1/1 |
-Table: Selection-reproduction results by election. \label{tab:selection-reproduction}
+\begin{table*}[t]\centering
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{lrr}
+\hline
+\textbf{Election} & \textbf{County-level contests} & \textbf{Statewide contests} \\
+\hline
+2019 & 63/63 & 1/1 \\
+2020 (general) & 61/63 & 0/0 (blocked) \\
+2020 (presidential) & 0/0 (blocked) & 0/0 (blocked) \\
+2020 (primary) & 88/88 & 1/1 \\
+2021 & 62/64 & 0/0 (blocked) \\
+2022 (primary) & 78/80 & 2/2 \\
+2022 (general) & 62/63 & 0/6 (blocked) \\
+2023 & 62/63 & 1/1 \\
+2024 & 62/63 & 2/2 \\
+2025 & 72/73 & 2/2 \\
+2026 & 112/112 & 1/1 \\
+\hline
+\end{tabular}}
+\caption{Selection-reproduction results by election. \label{tab:selection-reproduction}}
+\end{table*}
 
 "Blocked" entries are cases where a known, independently-detected manifest
 gap in the underlying source data (the same kind of gap described in §3.4)
@@ -587,7 +510,7 @@ prevents any reproduction attempt from running at all — these are counted
 separately from actual mismatches, and each is a specific, named,
 previously-documented gap, not a silent skip.
 
-## 5.3 What the mismatches turned out to be
+\subsection{What the mismatches turned out to be}
 
 The 16 remaining discrepancies are informative in their own right: this
 verification effort is itself a useful way to find data-quality issues, not
@@ -614,7 +537,7 @@ open items rather than silently omitted.
 
 As a secondary, independent validation channel, a typed-discrepancy check —
 comparing the count of each Kaplan-Markov discrepancy category (two-vote
-and one-vote overstatements and understatements, `o2`/`o1`/`u2`/`u1`;
+and one-vote overstatements and understatements, \texttt{o2}/\texttt{o1}/\texttt{u2}/\texttt{u1};
 §6.2 reports what these mean and finds substantively) independently
 derived from the normalized per-ballot comparison data against the audit
 software's own reported counts for the same categories, contest by
@@ -624,15 +547,22 @@ a check that exercises a different part of the pipeline (per-ballot
 comparison parsing rather than PRNG reconstruction) and corroborates the
 same conclusion from an independent angle.
 
-| Source | o2 | o1 | u1 | u2 | Total |
-|---|---:|---:|---:|---:|---:|
-| CORLA's own reported count | 18 | 8 | 12 | 8 | 46 |
-| Independently derived | 18 | 8 | 12 | 8 | 46 |
-Table: Typed-discrepancy validation across just the 477 formally targeted contests: independently derived counts against CORLA's own reported counts, matching exactly. \label{tab:typed-discrepancy-validation}
+\begin{table*}[t]\centering
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{lrrrrr}
+\hline
+\textbf{Source} & \textbf{o2} & \textbf{o1} & \textbf{u1} & \textbf{u2} & \textbf{Total} \\
+\hline
+CORLA's own reported count & 18 & 8 & 12 & 8 & 46 \\
+Independently derived & 18 & 8 & 12 & 8 & 46 \\
+\hline
+\end{tabular}}
+\caption{Typed-discrepancy validation across just the 477 formally targeted contests: independently derived counts against CORLA's own reported counts, matching exactly. \label{tab:typed-discrepancy-validation}}
+\end{table*}
 
-## 5.4 What this establishes
+\subsection{What this establishes}
 
-A 97.9% exact-match rate against an independently reconstructed ground
+A 97.9\% exact-match rate against an independently reconstructed ground
 truth, with every remaining discrepancy individually named and, in most
 cases, already traced to a specific, understood cause on the source data's
 own side, is the basis for treating the normalized dataset as reliable
@@ -640,42 +570,16 @@ enough to support the structural coverage analysis in §4. It does not, on
 its own, validate any particular risk-value calculation methodology for
 contests that were never directly, formally targeted — that is a separate
 question, addressed in future work (§7).
-<!--
-Draft prose for §6 (Discrepancies) -- NEW section, added 2026-09-04 per
-Neal ("add a section on discrepancies. That's probably most useful data
-here. unfortunately with some gaps so far"). Inserted between Verification
-(§5) and Conclusions (renumbered §6 -> §7). Anonymized, double-blind-ready
-third-person prose.
 
-Sourced entirely from auditcenter_analyze-private's
-DISCREPANCY_TYPE_REASON_REPORT.md, which already does real, honest,
-cross-validated work here -- this section largely condenses it. All
-numbers double-checked against that doc's own tables, using its own
-stated preference for its corrected/reconciled figures (811/814) over the
-older previously-published ones (834) where the two differ, per that
-doc's own "Reconciliation findings" section.
-
-Stays structural/descriptive throughout: what discrepancies were found, at
-what rate, attributed to what cause, by two independent classification
-systems -- never a risk-value or risk-limit-achieved claim. This is
-importantly DIFFERENT from the held-out opportunistic risk-calculation
-methodology (Caron/Stark territory) -- discrepancy counts are direct
-audit-board findings, not a computed risk metric, so this section doesn't
-need to touch that boundary at all. Double-checked this distinction
-explicitly before writing.
-
-Rough length: ~1,450 words, ~2.5-3 pages.
--->
-
-# 6. Discrepancies
+\section{Discrepancies}
 
 A key question for both the public and those designing auditing methods
-is: *how often do discrepancies of various types occur, and why*?
+is: \textit{how often do discrepancies of various types occur, and why}?
 Colorado's data provides new insights for this question, based on
 how often the audit board's physical read of a ballot disagreed with the voting system's own
 interpretation, what kind of disagreement it was, and why they might have occurred.
 
-## 6.1 Method
+\subsection{Method}
 
 CORLA's comparison export records, for every examined ballot-contest pair,
 both the voting system's own recorded choice and the audit board's own
@@ -688,14 +592,14 @@ election).
 After each election, the Department of State also publishes a post-audit discrepancy report,
 after asking the counties to provide ballot images for each ballot that had a reported
 discrepancy.
-That report assigns a *reason category* based on their estimation
+That report assigns a \textit{reason category} based on their estimation
 of the most likely explanation for each discrepancy, for
 example, "Wrong Ballot," "Audit Board Error," or "Ambiguous Voter Intent".
 
 Every genuine discrepancy was classified two ways. First, by
 the Department of State categorization (when we had a copy of it),
-and second, by its Kaplan-Markov *type* — a two-vote or one-vote overstatement or
-understatement (conventionally `o2`/`o1`/`u2`/`u1`) relative to the
+and second, by its Kaplan-Markov \textit{type} — a two-vote or one-vote overstatement or
+understatement (conventionally \texttt{o2}/\texttt{o1}/\texttt{u2}/\texttt{u1}) relative to the
 specific winner/loser pair the audit's risk calculation tracks for that
 contest, or no type at all when the mismatch doesn't touch that tracked
 pair (most commonly because the contest is uncontested, so no loser exists
@@ -709,34 +613,41 @@ ballot contributes one row per contest it carries (§2), so the
 denominator below is substantially larger than the number of physical
 ballots actually pulled.
 
-## 6.2 Overall rate
+\subsection{Overall rate}
 
 Across every election with ballot-level comparison data (2018 general
 plus every "contest CSV"-era election, ten instances in all — §3.1),
-**644 genuine discrepancies were found across 965,254 examined
-contest-ballot comparisons, an overall rate of 0.067%** — broken down by
+\textbf{644 genuine discrepancies were found across 965,254 examined
+contest-ballot comparisons, an overall rate of 0.067\%} — broken down by
 Kaplan-Markov type and by election in Table~\ref{tab:discrepancy-typing-by-election}.
 
-| Election | o2 | o1 | u1 | u2 | Total | Examined | Rate |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| 2018 general | 6 | 3 | 0 | 3 | 12 | 164,796 | 0.0073% |
-| 2020 (primary) | 16 | 4 | 4 | 16 | 40 | 61,546 | 0.0650% |
-| 2020 (general) | 59 | 68 | 71 | 62 | 260 | 234,333 | 0.1110% |
-| 2020 (presidential) | 0 | 0 | 0 | 0 | 0 | 155 | 0.0000% |
-| 2021 | 5 | 11 | 12 | 5 | 33 | 60,597 | 0.0545% |
-| 2022 (primary) | 6 | 8 | 8 | 8 | 30 | 118,827 | 0.0252% |
-| 2023 | 5 | 3 | 9 | 2 | 19 | 35,486 | 0.0535% |
-| 2024 | 47 | 52 | 65 | 61 | 225 | 149,272 | 0.1507% |
-| 2025 | 4 | 6 | 4 | 4 | 18 | 47,706 | 0.0377% |
-| 2026 (primary) | 5 | 0 | 0 | 2 | 7 | 92,536 | 0.0076% |
-| **Overall** | **153** | **155** | **173** | **163** | **644** | **965,254** | **0.0667%** |
-| Overall rate | 0.0159% | 0.0161% | 0.0179% | 0.0169% | — | — | 0.0667% |
-Table: Two- and one-vote overstatement (o2/o1) and one- and two-vote understatement (u1/u2) discrepancy counts and rates by election. 2019 coordinated and 2022 general are excluded here (source data not further categorized -- §6.4); 2017 pilot, 2018 primary, and 2020 presidential's own predecessor formats have no comparison data at all (§3.1). \label{tab:discrepancy-typing-by-election}
+\begin{table*}[t]\centering
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{lrrrrrrr}
+\hline
+\textbf{Election} & \textbf{o2} & \textbf{o1} & \textbf{u1} & \textbf{u2} & \textbf{Total} & \textbf{Examined} & \textbf{Rate} \\
+\hline
+2018 general & 6 & 3 & 0 & 3 & 12 & 164,796 & 0.0073\% \\
+2020 (primary) & 16 & 4 & 4 & 16 & 40 & 61,546 & 0.0650\% \\
+2020 (general) & 59 & 68 & 71 & 62 & 260 & 234,333 & 0.1110\% \\
+2020 (presidential) & 0 & 0 & 0 & 0 & 0 & 155 & 0.0000\% \\
+2021 & 5 & 11 & 12 & 5 & 33 & 60,597 & 0.0545\% \\
+2022 (primary) & 6 & 8 & 8 & 8 & 30 & 118,827 & 0.0252\% \\
+2023 & 5 & 3 & 9 & 2 & 19 & 35,486 & 0.0535\% \\
+2024 & 47 & 52 & 65 & 61 & 225 & 149,272 & 0.1507\% \\
+2025 & 4 & 6 & 4 & 4 & 18 & 47,706 & 0.0377\% \\
+2026 (primary) & 5 & 0 & 0 & 2 & 7 & 92,536 & 0.0076\% \\
+\textbf{Overall} & \textbf{153} & \textbf{155} & \textbf{173} & \textbf{163} & \textbf{644} & \textbf{965,254} & \textbf{0.0667\%} \\
+Overall rate & 0.0159\% & 0.0161\% & 0.0179\% & 0.0169\% & — & — & 0.0667\% \\
+\hline
+\end{tabular}}
+\caption{Two- and one-vote overstatement (o2/o1) and one- and two-vote understatement (u1/u2) discrepancy counts and rates by election. 2019 coordinated and 2022 general are excluded here (source data not further categorized -- §6.4); 2017 pilot, 2018 primary, and 2020 presidential's own predecessor formats have no comparison data at all (§3.1). \label{tab:discrepancy-typing-by-election}}
+\end{table*}
 
 The rate varies
-by roughly a factor of twenty across elections, from a low of 0.0073%
-(2018 general) and 0.0076% (2026 primary) to a high of 0.151% (2024
-general) and 0.111% (2020 general) — the two largest general elections in
+by roughly a factor of twenty across elections, from a low of 0.0073\%
+(2018 general) and 0.0076\% (2026 primary) to a high of 0.151\% (2024
+general) and 0.111\% (2020 general) — the two largest general elections in
 the survey, where both the absolute count and the denominator are largest.
 One instance (2020 presidential, a small two-contest election) shows zero
 discrepancies of any kind out of 155 examined rows. No secular trend
@@ -746,28 +657,28 @@ surrounding them, more consistent with general elections' higher overall
 ballot volume and complexity than with any change in audit-process
 quality over time.
 
-## 6.3 What causes discrepancies
+\subsection{What causes discrepancies}
 
 For the eight elections where the we captured the Department of State's
 discrepancy report (2020 primary through 2026 primary),
 811 discrepancies were attributed to a specific
-process cause. **A single cause dominates: "Wrong Ballot" — the audit
+process cause. \textbf{A single cause dominates: "Wrong Ballot" — the audit
 board physically retrieved a different ballot than the one the system
-selected — accounts for 532 of 811 (65.6%)**, more than three times the
-next-largest category, "Audit Board Error" (171, 21.1%, a case where the
+selected — accounts for 532 of 811 (65.6\%)}, more than three times the
+next-largest category, "Audit Board Error" (171, 21.1\%, a case where the
 correct ballot was retrieved but its interpretation was mis-recorded).
 Every other category is comparatively rare: "Voting System Limitation" (an
-uncorrected undervote the system cannot resolve, 41, 5.1%), "Adjudication
-Error" (a tabulation-judge misjudgment during canvass, 38, 4.7%),
+uncorrected undervote the system cannot resolve, 41, 5.1\%), "Adjudication
+Error" (a tabulation-judge misjudgment during canvass, 38, 4.7\%),
 "Ambiguous Voter Intent" (12, and a further 4 recorded under a near-
-identical, differently-worded category, together 2.0%), and five further
-categories each appearing in only one or two elections, together under 1%
+identical, differently-worded category, together 2.0\%), and five further
+categories each appearing in only one or two elections, together under 1\%
 of the total.
 
 Part of Wrong Ballot's dominance by row count, rather than by underlying
 incident, is a structural artifact of what "examined" means here (§6.1):
 a single misretrieved ballot produces one discrepant comparison row for
-*every* contest that ballot carries, so one wrong-ballot mistake on a
+\textit{every} contest that ballot carries, so one wrong-ballot mistake on a
 long ballot can register as a dozen or more discrepant rows, while a
 single Audit Board Error or Adjudication Error typically misjudges just
 the one contest under review. The reason-category counts above are
@@ -778,14 +689,14 @@ here.
 
 The two classification systems interact informatively. Of 307 two-vote
 discrepancies (the more severe category, a complete swap between a
-winner and loser), Wrong Ballot accounts for 222 (72.3%) and
-Audit Board Error for 83 (27.0%) — together over 99%, essentially the only
+winner and loser), Wrong Ballot accounts for 222 (72.3\%) and
+Audit Board Error for 83 (27.0\%) — together over 99\%, essentially the only
 two causes capable of producing a full name-for-name swap, since both
 mechanisms substitute one specific candidate's choices for another's
 wholesale. One-vote discrepancies (324 total, a lesser swing toward or
 away from "neither") are less lopsided: Wrong Ballot still leads (196,
-60.5%), but Adjudication Error's share jumps to 10.5% (34) from its
-essentially negligible 0.3% share of two-vote cases — consistent with a
+60.5\%), but Adjudication Error's share jumps to 10.5\% (34) from its
+essentially negligible 0.3\% share of two-vote cases — consistent with a
 tabulation judge's misjudgment on a hard-to-read mark typically nudging a
 reading toward or away from no-selection, rather than flipping it to the
 opposing candidate outright. "Voting System Limitation" never produces a
@@ -816,7 +727,7 @@ when the unique "imprinted id" is not physically imprinted on the ballot,
 requires counting thru the batches of ballots by hand, and an error
 compounds, as noted above.
 
-## 6.4 Data-quality gaps in the discrepancy record itself
+\subsection{Data-quality gaps in the discrepancy record itself}
 
 Consistent with our approach elsewhere (§3, §5), we checked the
 discrepancy record itself against an independent source rather than
@@ -830,20 +741,27 @@ to know exactly how far they can be trusted, not a vague disclaimer.
 A from-scratch re-derivation of the same underlying Secretary of State
 reports, performed independently of an earlier published tally of the
 same eight elections, reproduces four of the eight exactly but comes up
-20 rows short across the other four (814 versus 834 total, a 2.4% gap):
+20 rows short across the other four (814 versus 834 total, a 2.4\% gap):
 
-| Election | Independently re-derived | Previously published | Gap |
-|---|---:|---:|---:|
-| 2020 (primary) | 119 | 122 | −3 |
-| 2020 (general) | 276 | 280 | −4 |
-| 2021 | 38 | 44 | −6 |
-| 2022 (primary) | 86 | 93 | −7 |
-| 2023 | 22 | 22 | exact |
-| 2024 | 235 | 235 | exact |
-| 2025 | 22 | 22 | exact |
-| 2026 (primary) | 16 | 16 | exact |
-| **Total** | **814** | **834** | **−20** |
-Table: Reconciliation of the independently re-derived discrepancy-report row counts against an earlier published tally of the same eight elections. \label{tab:reconciliation-gap}
+\begin{table*}[t]\centering
+\resizebox{\ifdim\width>\textwidth\textwidth\else\width\fi}{!}{%
+\begin{tabular}{lrrr}
+\hline
+\textbf{Election} & \textbf{Independently re-derived} & \textbf{Previously published} & \textbf{Gap} \\
+\hline
+2020 (primary) & 119 & 122 & −3 \\
+2020 (general) & 276 & 280 & −4 \\
+2021 & 38 & 44 & −6 \\
+2022 (primary) & 86 & 93 & −7 \\
+2023 & 22 & 22 & exact \\
+2024 & 235 & 235 & exact \\
+2025 & 22 & 22 & exact \\
+2026 (primary) & 16 & 16 & exact \\
+\textbf{Total} & \textbf{814} & \textbf{834} & \textbf{−20} \\
+\hline
+\end{tabular}}
+\caption{Reconciliation of the independently re-derived discrepancy-report row counts against an earlier published tally of the same eight elections. \label{tab:reconciliation-gap}}
+\end{table*}
 
 One genuine parsing bug was found and fixed in the course of this check —
 a case-sensitivity error that had silently dropped 16 rows from the 2020
@@ -871,7 +789,7 @@ same lower figure, reached by a method with no shared code or logic with
 the PDF parser to have propagated a shared bug.
 
 Most strikingly, in three of the four mismatching elections (2020
-primary, 2021, 2022 primary), *every single reason category* is short by
+primary, 2021, 2022 primary), \textit{every single reason category} is short by
 exactly one row relative to the originally published total — not
 concentrated in any particular category, which would be the more typical
 signature of a single missed or double-counted row. 2020 general breaks
@@ -926,26 +844,12 @@ general) has only an aggregate, contest-level discrepancy-type count
 available, with no per-ballot reason-category data of any kind — real
 numbers, but a coarser measurement than every other election in this
 section.
-<!--
-Draft prose for §7 (Preliminary conclusions & future work). Anonymized,
-double-blind-ready third-person prose, real citations added inline (see REFERENCES.md).
 
-Explicitly states the two held-out results as ongoing/future work WITHOUT
-claiming their findings -- see ../README.md's scope boundary. Do not add
-any actual number, formula, or conclusion from either of those threads here;
-if a specific figure from that work seems tempting to cite, stop and check
-with Neal first.
-
-Rough length: ~430 words, targeting the outlined 1-page budget.
--->
-
-# 7. Preliminary conclusions and future work
+\section{Preliminary conclusions and future work}
 
 A normalized, extensively-cleaned dataset spanning ten years of a
 state's production risk-limiting audits facilitates the study
 of several questions that were previously difficult to approach via the public record.
-
-[TODO: discrepancies!]
 
 The next natural goal is calculating risk levels for contests audited opportunistically.
 Early analysis suggests that a significant fraction of all the contests actually met

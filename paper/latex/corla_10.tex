@@ -1,0 +1,45 @@
+% EVT/WOTE submission build. Format spec ("10 point Times Roman on 12
+% point leading, two-column, 6.5in x 9in text block") is copied verbatim
+% from the historical USENIX-affiliated EVT/WOTE '10/'11 CFPs, which
+% pointed submitters at USENIX's own classic usenix.sty. Using that real
+% style file here, not an approximation.
+%
+% Build: `make pdf` from the repo root (see ../Makefile), or manually:
+% python3 md2latex.py ../sections/*.md > body.tex && tectonic corla_10.tex
+\documentclass[letterpaper,twocolumn,10pt]{article}
+\usepackage{usenix}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+
+\begin{document}
+
+\date{}
+\title{\Large \bf Reconstructing, Cleaning, and Measuring the Coverage of a Decade of Colorado's Public Risk-Limiting Audit Data}
+
+% Double-blind: no author block.
+
+\maketitle
+\thispagestyle{empty}
+
+\subsection*{Abstract}
+{\it Placeholder abstract for this page-count mockup -- not yet drafted
+for real submission.} Colorado has run a mandatory, statewide
+risk-limiting audit after every election since 2017. We reconstruct,
+clean, and normalize ten years of the state's public audit exports into a
+single dataset, verify it against an independent ground truth, and report
+the resulting structural coverage and discrepancy findings.
+
+\input{body.tex}
+
+\subsection*{Acknowledgments}
+Data reconstruction, analysis code, and drafting were substantially aided
+by generative AI assistants (Anthropic's Claude and OpenAI's ChatGPT)
+under continuous human direction and review. Source code reproducing the
+normalized dataset and every result in this paper is available,
+anonymized for review, at [ANONYMIZED REPOSITORY URL].
+
+{\footnotesize
+\bibliographystyle{plain}
+\bibliography{references}}
+
+\end{document}
