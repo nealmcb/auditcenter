@@ -377,3 +377,10 @@ REFERENCES.md itself. Per plan: squash this branch's history and scrub
 these specific mentions in one final anonymization pass right before
 depositing/linking this repo for review -- not needed on every
 intermediate commit before then.
+
+## Before final submission/deposit: anonymization pass on this file itself
+
+This TODO file names real third parties (e.g. "John, Edouard", "John
+Caron") in several planning notes above. Fine for an internal working
+file, but scrub before this repo is actually deposited/linked for
+review -- same final pass noted in the repository root's own TODO.md.

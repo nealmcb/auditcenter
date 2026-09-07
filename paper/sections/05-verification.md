@@ -5,7 +5,7 @@ ready third-person prose. Real citations inserted inline as \cite{} keys -- see 
 Deliberately excludes the separate "does our own recomputed risk value agree
 with CORLA's reported pass/fail status" check (VALIDATION_RESULTS.md §2) --
 that's Kaplan-Markov risk-value methodology territory, out of scope here per
-../README.md's boundary (Caron/Stark co-authored future work). This section
+../README.md's boundary (a separate future co-authored piece, per README.md's scope boundary). This section
 covers ONLY the selection-reproduction check: did CORLA draw the ballots it
 says it drew. That's a pure ballot-identity comparison, no risk formula
 involved, and it's the check that establishes the dataset itself is

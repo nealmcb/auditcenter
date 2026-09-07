@@ -17,7 +17,7 @@ Stays structural/descriptive throughout: what discrepancies were found, at
 what rate, attributed to what cause, by two independent classification
 systems -- never a risk-value or risk-limit-achieved claim. This is
 importantly DIFFERENT from the held-out opportunistic risk-calculation
-methodology (Caron/Stark territory) -- discrepancy counts are direct
+methodology (a separate future co-authored piece, per README.md's scope boundary) -- discrepancy counts are direct
 audit-board findings, not a computed risk metric, so this section doesn't
 need to touch that boundary at all. Double-checked this distinction
 explicitly before writing.
