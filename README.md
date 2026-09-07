@@ -38,4 +38,14 @@ found and corrected; if a file changed between scrapes, this mirror may hold onl
 snapshot of it, and that snapshot isn't guaranteed to be the first version, the last
 version, or the corrected one.
 
+This isn't just a sampling-interval limitation — the scraper's own default behavior
+compounds it. By default it leaves a file alone once a local copy already exists,
+rather than re-fetching and diffing it on every run (`-a recheck=1` forces a real
+re-fetch of everything, at the cost of a much slower run). That default made the
+common case fast and matched the tool's historical behavior, but it also means a
+source file that changed at the Secretary of State's end after our first scrape can
+sit unnoticed in this mirror indefinitely, showing its original content long after
+the live version was corrected, unless something specifically prompts a `recheck=1`
+run for that file.
+
 We're working to close that gap.
