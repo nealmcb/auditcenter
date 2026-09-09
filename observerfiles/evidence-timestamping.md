@@ -5,10 +5,10 @@ cryptographic timestamping alike, why audit evidence gets a public,
 independently-verifiable timestamp, how you can check that yourself on Mac,
 Windows, or Linux, and how it's produced in this repo. That evidence starts
 with the ballot manifests in directories like
-[`2026/primary/files/`](2026/primary/files/), and extends to redacted cast
+[`2026/primary/files/`](../2026/primary/files/), and extends to redacted cast
 vote records (CVRs), which are being piloted in select counties for the
 2026 primary.
-See the [README](README.md) for background on the data itself, and
+See the [README](../README.md) for background on the data itself, and
 [The Colorado Risk-Limiting Audit Project (CORLA) and related work](http://bcn.boulder.co.us/~neal/elections/corla/)
 for background on Colorado's RLA process generally.
 
@@ -70,11 +70,11 @@ verification easy for a non-expert.
 We commit the same digest through three independent public systems, so you
 only need to trust *at least one* of them — pick whichever is easiest for
 you. Here's a concrete example: confirming that
-[`observerfiles/Weld_CVR_Export_20260709140755.csv`](2026/primary/observerfiles/Weld_CVR_Export_20260709140755.csv)
+[`observerfiles/Weld_CVR_Export_20260709140755.csv`](../2026/primary/observerfiles/Weld_CVR_Export_20260709140755.csv)
 is the exact file we timestamped, not something swapped in afterward.
 
 **First, find the file's recorded hash.** Every `SHA256SUMS*.txt` file lists
-one line per evidence file. Open [`2026/primary/SHA256SUMS.v4.txt`](2026/primary/SHA256SUMS.v4.txt)
+one line per evidence file. Open [`2026/primary/SHA256SUMS.v4.txt`](../2026/primary/SHA256SUMS.v4.txt)
 (in a text editor, or on GitHub) and find the line for the file you care
 about:
 
@@ -112,8 +112,8 @@ This proves `SHA256SUMS.v4.txt` itself — and therefore every file it lists —
 existed at or before a specific Bitcoin block.
 
 - **No install, any platform**: go to [opentimestamps.org](https://opentimestamps.org/)
-  and drag in both [`SHA256SUMS.v4.txt`](2026/primary/SHA256SUMS.v4.txt) and
-  [`SHA256SUMS.v4.txt.ots`](2026/primary/SHA256SUMS.v4.txt.ots) — it verifies
+  and drag in both [`SHA256SUMS.v4.txt`](../2026/primary/SHA256SUMS.v4.txt) and
+  [`SHA256SUMS.v4.txt.ots`](../2026/primary/SHA256SUMS.v4.txt.ots) — it verifies
   the Bitcoin anchor in your browser.
 - **Or, if you're comfortable with a terminal:** `pip install opentimestamps-client`
   (Python and pip both have native Mac and Windows installers), then:
@@ -213,14 +213,14 @@ the public Rekor entry itself says who signed it.
 ## Worked example: 2026 primary dice roll
 
 For the 2026 primary dice roll, the concrete artifacts are in
-[`2026/primary/`](2026/primary/):
+[`2026/primary/`](../2026/primary/):
 
-- [`files/`](2026/primary/files/) — county manifest CSVs collected from
+- [`files/`](../2026/primary/files/) — county manifest CSVs collected from
   Colorado's Audit Center (San Juan County hand-counts and is excluded from
   the audit entirely)
-- [`observerfiles/`](2026/primary/observerfiles/) — manifests and redacted
+- [`observerfiles/`](../2026/primary/observerfiles/) — manifests and redacted
   CVRs obtained directly from counties, plus
-  [`2026-primary-details.md`](2026/primary/observerfiles/2026-primary-details.md),
+  [`2026-primary-details.md`](../2026/primary/observerfiles/2026-primary-details.md),
   notes on what was found and confirmed for this election
 - `SHA256SUMS*.txt` (+ matching `.ots` / `.cosign-bundle`) — SHA-256 digests
   of the evidence files above, timestamped as described above
@@ -253,11 +253,11 @@ For the 2026 primary seed (established at the July 13 dice roll,
 `49006417086137856424`), the first ballot each of these counties would
 yield:
 
-| County | Total ballots | Pick # | Ballot (tabulator-batch-position) |
-|---|---|---|---|
-| La Plata | 16,146 | 7,210 | `102-62-10` |
-| Morgan | 5,220 | 1,612 | `102-34-27` |
-| Weld | 69,640 | 38,412 | `103-70-1` |
+| County   | Total ballots | Pick #  | Ballot (tabulator-batch-position) |
+|----------|---------------|---------|-----------------------------------|
+| La Plata | 16,146        | 7,210   | `102-62-10`                       |
+| Morgan   | 5,220         | 1,612   | `102-34-27`                       |
+| Weld     | 69,640        | 38,412  | `103-70-1`                        |
 
 "Pick #" is this ballot's position in the county's own manifest sequence —
 not its position in a physical list. The ballot it identifies (e.g.
