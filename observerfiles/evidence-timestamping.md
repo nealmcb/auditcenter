@@ -202,13 +202,19 @@ $ cosign sign-blob --bundle SHA256SUMS.txt.cosign-bundle SHA256SUMS.txt
 
 This returns a Rekor **log index** (a public entry number) within seconds.
 
-*Note on the current prototype:* the signing key used for the 2026 primary
-dice-roll run was a freshly-generated, throwaway keypair, not tied to any
-verified identity — fine for proving "a consistent signer logged this
-entry," but not yet proof of *who*. A better long-term setup is Sigstore's
-"keyless" signing, which binds the signature to a real, OIDC-verified email
-identity (e.g. via a Google/GitHub login) instead of a bare key file, so
-the public Rekor entry itself says who signed it.
+**Who signed.** The 2026 primary's signatures were made with a
+freshly-generated key file, not tied to any verified identity: they show
+that one signer logged each entry, not who. From the 2026 general on,
+signatures are "keyless": Sigstore binds each one to the signer's verified
+login, named in the certificate inside the `.cosign-bundle` file and in the
+public Rekor entry. The 2026 general's are signed by `nealmcb@gmail.com`,
+verified by Google, and are checked with:
+
+```
+$ cosign verify-blob --bundle FILE.cosign-bundle \
+    --certificate-identity nealmcb@gmail.com \
+    --certificate-oidc-issuer https://accounts.google.com FILE
+```
 
 ## Worked example: 2026 primary dice roll
 
@@ -230,7 +236,10 @@ We never overwrite a `SHA256SUMS*.txt` once it's been stamped and pushed —
 each update to the evidence set gets a new version (`SHA256SUMS.txt`,
 `SHA256SUMS.v2.txt`, ...) with its own OTS and Rekor proof, so every
 commitment we ever made stays independently checkable, even after later
-files supersede it.
+files supersede it. From the 2026 general on, each is named for its version
+and the time it was written, in UTC: `SHA256SUMS-v1-20261106T203137Z.txt`.
+The time in the name is the writer's own clock; the proof of time is the
+OpenTimestamps and Rekor entries.
 
 This first pilot run had some last-minute churn — a few counties' manifests
 weren't posted yet at roll time, one publishing bug briefly served the wrong
@@ -284,6 +293,28 @@ Jefferson County, and La Plata and Morgan didn't get a hit at all in that
 initial batch (both are small counties relative to the statewide total, so
 that's expected, not a red flag).
 
+## 2026 general
+
+The 2026 general's evidence is in
+[`2026/general/observerfiles/`](../2026/general/observerfiles/): each
+`SHA256SUMS-v*.txt` file with its `.ots` proof and `.cosign-bundle`
+signature, and copies of the files it lists, at the paths it lists. To
+check them all at once, from that folder:
+
+```
+$ sha256sum --check SHA256SUMS-v1-20261106T203137Z.txt
+$ ots verify SHA256SUMS-v1-20261106T203137Z.txt.ots
+$ cosign verify-blob --bundle SHA256SUMS-v1-20261106T203137Z.txt.cosign-bundle \
+    --certificate-identity nealmcb@gmail.com \
+    --certificate-oidc-issuer https://accounts.google.com SHA256SUMS-v1-20261106T203137Z.txt
+```
+
+The first, `SHA256SUMS-v1-20261106T203137Z.txt`, covers the Audit Center's
+pages as fetched at 20:30 UTC on 6 November 2026, before the counties'
+manifests were posted. Its OpenTimestamps proof is in Bitcoin block 974855.
+(`ots verify` needs a Bitcoin node; without one, drop the SUMS file and its
+`.ots` onto [opentimestamps.org](https://opentimestamps.org/) instead.)
+
 ## Manifest-hash commitments on Twitter/X
 
 Before this repo's three-layer (git + OpenTimestamps + Sigstore) approach
@@ -291,6 +322,13 @@ existed, the practice for several past audits was posting a manifest hash
 publicly on Twitter/X in advance of the seed ceremony — the same
 commitment principle described above, via a weaker (single, centralized)
 channel.
+
+**Broken links in older tweets.** The Secretary of State's site no longer
+serves pages at its address without `www.`: a link to `sos.state.co.us/...`
+now lands on the home page. That breaks the Audit Center links in the 2021,
+2024 and 2025 tweets. The Audit Center is at
+https://www.coloradosos.gov/pubs/elections/auditCenter.html, and each
+tweet's text is mirrored in the `observerfiles/` folder of its election.
 
 - **2026 primary** — [2026-07-13-status-2076696781304574361.txt](../2026/primary/observerfiles/2026-07-13-status-2076696781304574361.txt)
   ([original](https://x.com/nealmcb/status/2076696781304574361)),
