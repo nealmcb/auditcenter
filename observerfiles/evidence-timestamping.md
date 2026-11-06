@@ -5,10 +5,10 @@ cryptographic timestamping alike, why audit evidence gets a public,
 independently-verifiable timestamp, how you can check that yourself on Mac,
 Windows, or Linux, and how it's produced in this repo. That evidence starts
 with the ballot manifests in directories like
-[`2026/primary/files/`](2026/primary/files/), and extends to redacted cast
+[`2026/primary/files/`](../2026/primary/files/), and extends to redacted cast
 vote records (CVRs), which are being piloted in select counties for the
 2026 primary.
-See the [README](README.md) for background on the data itself, and
+See the [README](../README.md) for background on the data itself, and
 [The Colorado Risk-Limiting Audit Project (CORLA) and related work](http://bcn.boulder.co.us/~neal/elections/corla/)
 for background on Colorado's RLA process generally.
 
@@ -70,11 +70,11 @@ verification easy for a non-expert.
 We commit the same digest through three independent public systems, so you
 only need to trust *at least one* of them — pick whichever is easiest for
 you. Here's a concrete example: confirming that
-[`observerfiles/Weld_CVR_Export_20260709140755.csv`](2026/primary/observerfiles/Weld_CVR_Export_20260709140755.csv)
+[`observerfiles/Weld_CVR_Export_20260709140755.csv`](../2026/primary/observerfiles/Weld_CVR_Export_20260709140755.csv)
 is the exact file we timestamped, not something swapped in afterward.
 
 **First, find the file's recorded hash.** Every `SHA256SUMS*.txt` file lists
-one line per evidence file. Open [`2026/primary/SHA256SUMS.v4.txt`](2026/primary/SHA256SUMS.v4.txt)
+one line per evidence file. Open [`2026/primary/observerfiles/SHA256SUMS.v4.txt`](../2026/primary/observerfiles/SHA256SUMS.v4.txt)
 (in a text editor, or on GitHub) and find the line for the file you care
 about:
 
@@ -112,8 +112,8 @@ This proves `SHA256SUMS.v4.txt` itself — and therefore every file it lists —
 existed at or before a specific Bitcoin block.
 
 - **No install, any platform**: go to [opentimestamps.org](https://opentimestamps.org/)
-  and drag in both [`SHA256SUMS.v4.txt`](2026/primary/SHA256SUMS.v4.txt) and
-  [`SHA256SUMS.v4.txt.ots`](2026/primary/SHA256SUMS.v4.txt.ots) — it verifies
+  and drag in both [`SHA256SUMS.v4.txt`](../2026/primary/observerfiles/SHA256SUMS.v4.txt) and
+  [`SHA256SUMS.v4.txt.ots`](../2026/primary/observerfiles/SHA256SUMS.v4.txt.ots) — it verifies
   the Bitcoin anchor in your browser.
 - **Or, if you're comfortable with a terminal:** `pip install opentimestamps-client`
   (Python and pip both have native Mac and Windows installers), then:
@@ -213,17 +213,18 @@ the public Rekor entry itself says who signed it.
 ## Worked example: 2026 primary dice roll
 
 For the 2026 primary dice roll, the concrete artifacts are in
-[`2026/primary/`](2026/primary/):
+[`2026/primary/`](../2026/primary/):
 
-- [`files/`](2026/primary/files/) — county manifest CSVs collected from
+- [`files/`](../2026/primary/files/) — county manifest CSVs collected from
   Colorado's Audit Center (San Juan County hand-counts and is excluded from
   the audit entirely)
-- [`observerfiles/`](2026/primary/observerfiles/) — manifests and redacted
-  CVRs obtained directly from counties, plus
-  [`2026-primary-details.md`](2026/primary/observerfiles/2026-primary-details.md),
-  notes on what was found and confirmed for this election
-- `SHA256SUMS*.txt` (+ matching `.ots` / `.cosign-bundle`) — SHA-256 digests
-  of the evidence files above, timestamped as described above
+- [`observerfiles/`](../2026/primary/observerfiles/) — manifests and redacted
+  CVRs obtained directly from counties;
+  [`2026-primary-details.md`](../2026/primary/observerfiles/2026-primary-details.md),
+  notes on what was found and confirmed for this election; the text of the
+  election's tweet; and the `SHA256SUMS*.txt` files (+ matching `.ots` /
+  `.cosign-bundle`), SHA-256 digests of the evidence files above, timestamped
+  as described above. Their paths are relative to `2026/primary/`.
 
 We never overwrite a `SHA256SUMS*.txt` once it's been stamped and pushed —
 each update to the evidence set gets a new version (`SHA256SUMS.txt`,
@@ -291,40 +292,40 @@ publicly on Twitter/X in advance of the seed ceremony — the same
 commitment principle described above, via a weaker (single, centralized)
 channel.
 
-- **2026 primary** — [tweets/2026-07-13-status-2076696781304574361.txt](tweets/2026-07-13-status-2076696781304574361.txt)
+- **2026 primary** — [2026-07-13-status-2076696781304574361.txt](../2026/primary/observerfiles/2026-07-13-status-2076696781304574361.txt)
   ([original](https://x.com/nealmcb/status/2076696781304574361)),
   Monday, 2026-07-13, 09:54:30 MDT. SHA-256 of `SHA256SUMS.txt`:
   ```
   cba43b7b811d12a16cb9f673f55d68c0cdab800de693b797d4caacd604df5e2e
   ```
-  This checks out: [`SHA256SUMS.txt`](../2026/primary/SHA256SUMS.txt) in
+  This checks out: [`SHA256SUMS.txt`](../2026/primary/observerfiles/SHA256SUMS.txt) in
   this repo hashes to exactly this value, its git commit timestamp is
   09:52:41 MDT (two minutes before the tweet), and its OpenTimestamps
   proof is anchored into two Bitcoin blocks (957876 and 957882, mined at
   10:00:32 and 10:48:10 MDT — see the worked example above).
 
-- **2025 coordinated** — [tweets/2025-11-17-status-1990454123456803020.txt](tweets/2025-11-17-status-1990454123456803020.txt)
+- **2025 coordinated** — [2025-11-17-status-1990454123456803020.txt](../2025/observerfiles/2025-11-17-status-1990454123456803020.txt)
   ([original](https://x.com/nealmcb/status/1990454123456803020)),
   Monday, 2025-11-17, 09:16:58 MST. SHA-256 of `uploadStatus.csv`:
   ```
   c284f31a83d33fe5823629824b7df0f4782e590a72c6a9a8c14bd1d9d8490ca8
   ```
 
-- **2024, primary season** — [tweets/2024-07-08-status-1810343570286719070.txt](tweets/2024-07-08-status-1810343570286719070.txt)
+- **2024, primary season** — [2024-07-08-status-1810343570286719070.txt](../2024/primary/observerfiles/2024-07-08-status-1810343570286719070.txt)
   ([original](https://x.com/nealmcb/status/1810343570286719070)),
   Monday, 2024-07-08, 10:01 MDT. SHA-256 of `uploadStatus.csv`:
   ```
   a816078483c789512688cf2ee8fcb12a9185415d56323c9913122bd895bf9cec
   ```
 
-- **2021 coordinated** — [tweets/2021-11-15-status-1460273652763545603.txt](tweets/2021-11-15-status-1460273652763545603.txt)
+- **2021 coordinated** — [2021-11-15-status-1460273652763545603.txt](../2021/coordinated/observerfiles/2021-11-15-status-1460273652763545603.txt)
   ([original](https://x.com/nealmcb/status/1460273652763545603)),
   Monday, 2021-11-15, 08:49:04 MST. SHA-256 of `sha256sums.txt`:
   ```
   59ad58c2ed8eae0a92479c39cc173db1570000e0fa9f403333a854a3d994b8fe
   ```
 
-- **2018 general** — [tweets/2018-11-16-status-1063473017290919936.txt](tweets/2018-11-16-status-1063473017290919936.txt)
+- **2018 general** — [2018-11-16-status-1063473017290919936.txt](../2018G/observerfiles/2018-11-16-status-1063473017290919936.txt)
   ([original](https://x.com/nealmcb/status/1063473017290919936)),
   Friday, 2018-11-16, 09:45:00 MST. SHA-256 of `manifest_hash.csv`:
   ```
