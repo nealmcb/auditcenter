@@ -1,0 +1,12 @@
+# SHA-256 digests of the observers' evidence for election 2026/general, written by corla-observer.
+# version: 2
+# time: 2026-11-07T00:25:51Z
+# event-log-head: 58 dc7f87f60f326d3fdfed407a8480a8c28638eb9c006ac3f3ce900fa251034e6c
+# software: corla-observer 0.1.0 (33ce47765037)
+# files: 5
+# check: sha256sum --check --ignore-missing SHA256SUMS-v2-20261107T002551Z.txt
+880cc6b89dd8145806332c780f52f4bdd090773e2b2dea9d58420ae8df1b1e0e  auditcenter/2026/general/files/2026GeneralRLAContestList.xlsx
+f9ef5806757c21e2de6c98a8b0154f845f8cdf271f13cfc4399f2646400ef17c  auditcenter/2026/general/riskLimit.html
+5b7af8df1bb4144406d9b35cde81e914ab0641a5dabec1fa49455c1e24cdafc5  auditcenter/faqs.html
+30546dc45bffe97719ae12bc72ed4bb241c88430f05117ccce0eab119b3f2e44  auditcenter/faqsEsp.html
+c396cdae63eebc8ea6590bea708c66ee9ba909f433accd9c57e62059d86df5b8  auditcenter/www.coloradosos.gov/pubs/elections/auditCenter.html
