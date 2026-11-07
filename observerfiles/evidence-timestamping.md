@@ -143,6 +143,16 @@ If any one of these three checks passes, you've independently confirmed the
 evidence wasn't altered after it was timestamped — without needing to trust
 us, GitHub, or any single calendar/log operator.
 
+**Moved or replaced files.** Sometimes a file isn't where a hash list says,
+or its hash doesn't match. That's because, early on, files in this archive
+were moved to another folder, or replaced by a later version, after a hash
+list naming them was made. A hash identifies a file's content, not its
+location. The file is still in this repository, either in another folder of
+the same election or in an earlier commit. To find it, look through the
+election's other folders, or list the file's history with
+`git log --follow -- PATH` and check out the commit that added it; then
+check its hash as above.
+
 ## Why three separate layers
 
 Each layer has a different weak point, so relying on all three together
