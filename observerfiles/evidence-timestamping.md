@@ -314,25 +314,47 @@ that's expected, not a red flag).
 
 ## 2026 general
 
-The 2026 general's evidence is in
+The 2026 general's Audit Center files are where this mirror keeps every
+Audit Center file, at the paths the Audit Center publishes them: the target
+contest list, for example, is
+[`2026/general/files/2026GeneralRLAContestList.xlsx`](../2026/general/files/2026GeneralRLAContestList.xlsx).
+The observers' evidence is in
 [`2026/general/observerfiles/`](../2026/general/observerfiles/): each
-`SHA256SUMS-v*.txt` file with its `.ots` proof and `.cosign-bundle`
-signature, and copies of the files it lists, at the paths it lists. To
-check them all at once, from that folder:
+`SHA256SUMS-v*.txt` file, with its `.ots` proof and `.cosign-bundle`
+signature, and the observers' event log,
+[`events.jsonl`](../2026/general/observerfiles/events.jsonl), whose head at
+the time each SUMS file names in its header. Pages and other files that
+change routinely are mirrored but not listed in the SUMS files.
+
+The first two SUMS files list their files by paths from before the files
+were moved to where the mirror keeps them (see "Moved or replaced files"
+above), so check each file's hash directly. For the target contest list,
+from the `2026/general/` folder:
 
 ```
-$ sha256sum --check SHA256SUMS-v1-20261106T203137Z.txt
-$ ots verify SHA256SUMS-v1-20261106T203137Z.txt.ots
-$ cosign verify-blob --bundle SHA256SUMS-v1-20261106T203137Z.txt.cosign-bundle \
+$ sha256sum files/2026GeneralRLAContestList.xlsx
+880cc6b89dd8145806332c780f52f4bdd090773e2b2dea9d58420ae8df1b1e0e  files/2026GeneralRLAContestList.xlsx
+$ grep 2026GeneralRLAContestList observerfiles/SHA256SUMS-v2-20261107T002551Z.txt
+880cc6b89dd8145806332c780f52f4bdd090773e2b2dea9d58420ae8df1b1e0e  auditcenter/2026/general/files/2026GeneralRLAContestList.xlsx
+$ ots --no-bitcoin verify observerfiles/SHA256SUMS-v2-20261107T002551Z.txt.ots
+$ cosign verify-blob --bundle observerfiles/SHA256SUMS-v2-20261107T002551Z.txt.cosign-bundle \
     --certificate-identity nealmcb@gmail.com \
-    --certificate-oidc-issuer https://accounts.google.com SHA256SUMS-v1-20261106T203137Z.txt
+    --certificate-oidc-issuer https://accounts.google.com observerfiles/SHA256SUMS-v2-20261107T002551Z.txt
 ```
 
-The first, `SHA256SUMS-v1-20261106T203137Z.txt`, covers the Audit Center's
-pages as fetched at 20:30 UTC on 6 November 2026, before the counties'
-manifests were posted. Its OpenTimestamps proof is in Bitcoin block 974855.
-(`ots verify` needs a Bitcoin node; without one, drop the SUMS file and its
-`.ots` onto [opentimestamps.org](https://opentimestamps.org/) instead.)
+The OpenTimestamps proof is in Bitcoin block 974874: the target contest
+list existed, with that content, by that block, mined at 6:30 PM MST on
+6 November 2026. From the next SUMS file on, the paths are relative to the
+`2026/general/` folder, and its header's `check:` line checks every file at
+once from there:
+
+```
+$ sha256sum --check observerfiles/SHA256SUMS-v3-….txt
+```
+
+The event log can be checked with the verifier in
+[EVENT_LOG.md](https://github.com/nealmcb/corla-observer/blob/main/docs/EVENT_LOG.md),
+which needs nothing but Python.
 
 ## Manifest-hash commitments on Twitter/X
 
