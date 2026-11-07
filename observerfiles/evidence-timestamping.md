@@ -144,9 +144,9 @@ evidence wasn't altered after it was timestamped — without needing to trust
 us, GitHub, or any single calendar/log operator.
 
 **Moved or replaced files.** Sometimes a file isn't where a hash list says,
-or its hash doesn't match. That's because, early on, files in this archive
-were moved to another folder, or replaced by a later version, after a hash
-list naming them was made. A hash identifies a file's content, not its
+or its hash doesn't match. That's because occasionally files in this archive
+are moved to another folder, or replaced by a later version, after a hash
+list naming them was made. That can be resolved safely because a hash identifies a file's content, not its
 location. The file is still in this repository, either in another folder of
 the same election or in an earlier commit. To find it, look through the
 election's other folders, or list the file's history with
@@ -155,8 +155,8 @@ check its hash as above.
 
 ## Why three separate layers
 
-Each layer has a different weak point, so relying on all three together
-means an observer isn't stuck trusting any single one:
+Each layer has a distinct advantages, and providing all three together
+means an observer gets the benefits of each:
 
 - **Git commit + public GitHub push**: simple and gives anyone a durable
   public copy, but GitHub could in theory alter timestamps, and a commit
