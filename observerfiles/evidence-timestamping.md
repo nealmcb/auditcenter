@@ -4,9 +4,9 @@ This document explains, for people new to risk-limiting audits (RLAs) and to
 cryptographic timestamping alike, why audit evidence gets a public,
 independently-verifiable timestamp, how you can check that yourself on Mac,
 Windows, or Linux, and how it's produced in this repo. That evidence starts
-with the ballot manifests in directories like
-[`2026/primary/files/`](../2026/primary/files/), and extends to redacted cast
-vote records (CVRs), which are being piloted in select counties for the
+with the ballot manifests and the target contest list in directories like
+[`2026/general/files/`](../2026/general/files/), and extends to redacted cast
+vote records (CVRs) from counties that publish them, first piloted in the
 2026 primary.
 See the [README](../README.md) for background on the data itself, and
 [The Colorado Risk-Limiting Audit Project (CORLA) and related work](http://bcn.boulder.co.us/~neal/elections/corla/)
@@ -16,8 +16,9 @@ for background on Colorado's RLA process generally.
 ["How to verify this yourself, on Mac, Windows, or Linux"](#how-to-verify-this-yourself-on-mac-windows-or-linux)
 below. The background and how-we-built-it details follow after that.
 
-*This explanation and tips on verification are hot-off-the-presses — this
-whole approach is a first shot, and still a bit clunky (three different
+*This explanation and tips on verification are no longer quite
+hot-off-the-presses: the approach was first used for the 2026 primary, and
+is being refined for the 2026 general. It's still a bit clunky (three different
 tools, each with its own website and vocabulary, is a lot to ask of someone
 who just wants to know "is this real?"). We're actively working on simpler,
 easier-to-trust ways to do this. Please send feedback to
@@ -65,13 +66,45 @@ centralized services wrapping a chain underneath, so you're trusting their
 server as much as the chain. None of them make independent, tool-free
 verification easy for a non-expert.
 
+## What we timestamp, and when
+
+In this archive, a file is **timestamped** when its SHA-256 hash is listed
+in a `SHA256SUMS` file that has both an OpenTimestamps proof and a Sigstore
+signature, as described below. A git commit on its own is not a timestamp:
+commits record what changed in this repository, but their dates are set by
+whoever makes them.
+
+The main purpose is to fix the data the audit depends on before the dice
+roll. Each election gets only a few timestamps, at the points that matter
+to the audit:
+
+- **Before the dice roll:** the ballot manifests, the target contest list,
+  the redacted CVRs available by then, and the other files the random
+  selection depends on.
+- **After the first statewide random selection we reproduce:** the Audit
+  Center's upload status and the other files showing that the selection
+  was made from the same manifests as the state's RLA software used.
+- **When the audit closes:** the county audit reports, discrepancy reports
+  and final results.
+
+A `SHA256SUMS` file lists only files that shouldn't change later, so its
+checks should keep working unless there's an unusual change. Web pages are mirrored whenever
+their content changes, but are not listed. Everything else the observers'
+tool recorded is covered by its event log, whose state each `SHA256SUMS`
+file names in its header (see
+["For the technically inclined: the event log"](#for-the-technically-inclined-the-event-log)
+below).
+
 ## How to verify this yourself, on Mac, Windows, or Linux
 
-We commit the same digest through three independent public systems, so you
-only need to trust *at least one* of them — pick whichever is easiest for
-you. Here's a concrete example: confirming that
+Checking takes two steps. First, check that the file's hash matches the
+one recorded in a hash list. Then check when that hash list existed: we
+timestamp each hash list through two independent public systems, so you
+only need *one* of them — pick whichever is easiest for you. Here's a
+concrete example: confirming that Weld County's redacted
+cast-vote record for the 2026 Primary
 [`observerfiles/Weld_CVR_Export_20260709140755.csv`](../2026/primary/observerfiles/Weld_CVR_Export_20260709140755.csv)
-is the exact file we timestamped, not something swapped in afterward.
+is the exact file we timestamped before the dice roll, not something swapped in afterward.
 
 The terminal commands below are run from the
 [`2026/primary/`](../2026/primary/) folder of a copy of this repository.
@@ -148,19 +181,21 @@ at a specific time, independent of Bitcoin or GitHub.
         --bundle observerfiles/SHA256SUMS.v4.txt.cosign-bundle observerfiles/SHA256SUMS.v4.txt
     ```
 
-If any one of these three checks passes, you've independently confirmed the
-evidence wasn't altered after it was timestamped — without needing to trust
-us, GitHub, or any single calendar/log operator.
+If the hash check passes, and either of the two timestamp checks passes,
+you've independently confirmed the evidence wasn't altered after it was
+timestamped — without needing to trust us, GitHub, or any single
+calendar/log operator.
 
 **Moved or replaced files.** Sometimes a file isn't where a hash list says,
 or its hash doesn't match. That's because occasionally files in this archive
 are moved to another folder, or replaced by a later version, after a hash
-list naming them was made. That can be resolved safely because a hash identifies a file's content, not its
-location. The file is still in this repository, either in another folder of
-the same election or in an earlier commit. To find it, look through the
-election's other folders, or list the file's history with
-`git log --follow -- PATH` and check out the commit that added it; then
-check its hash as above.
+list naming them was made. That can be resolved safely because a hash identifies a file's content, not
+its location. The file is still in this repository, either in another
+folder of the same election or as an earlier version. To find it, look
+through the election's other folders, or open the file on GitHub and use
+its "History" button, which lists every earlier version for viewing and
+download. Then check its hash as above. (With a copy of the repository,
+`git log --follow -- PATH` lists the same history.)
 
 ## Why three separate layers
 
@@ -168,18 +203,30 @@ Each layer has distinct advantages, and providing all three together
 means an observer gets the benefits of each:
 
 - **Git commit + public GitHub push**: simple and gives anyone a durable
-  public copy, but GitHub could in theory alter timestamps, and a commit
-  date is self-reported by the client. Weakest layer alone, but the commit
-  hash is a useful stable reference for the other two.
-- **OpenTimestamps**: anchored to the Bitcoin blockchain, so once confirmed
-  it depends on nothing but Bitcoin continuing to exist — about as close to
-  "nobody can quietly go back and change this" as currently practical. The
-  tradeoff is confirmation can take from minutes to an hour or more.
+  public copy, but a commit date is self-reported by whoever makes it, so a
+  commit is not a timestamp on its own.
 - **Sigstore/Rekor**: a public, append-only transparency log (the same idea
   as Google's Certificate Transparency project, generalized via Google's
   Trillian log server) — entries can't be quietly removed or altered without
-  it being detectable. Confirms within seconds, much faster than Bitcoin, but
-  is a newer, less battle-tested system than Bitcoin itself.
+  it being detectable. An entry is made within seconds of signing.
+- **OpenTimestamps**: anchored to the Bitcoin blockchain. The Bitcoin anchor
+  follows quickly, allowing anyone to check the time against a public record
+  that no single organization keeps.
+
+## What each check relies on
+
+Two kinds of trust are involved, and they're worth keeping apart:
+
+- **Websites and services that make checking easy.** opentimestamps.org,
+  search.sigstore.dev and the online hash tools are run by organizations or
+  individuals. If one changes or goes away, the same checks can be made with
+  the command-line tools or another site: the proof files in this archive
+  don't depend on any of them.
+- **The public records that hold the time.** An OpenTimestamps proof is
+  self-contained: checking it needs only Bitcoin's record of past blocks,
+  not the calendar servers that helped make it. A `.cosign-bundle` holds the
+  signed Rekor entry, so it too can be checked from the file alone, with
+  Sigstore's published keys; the public log lets anyone look the entry up.
 
 ## How these proofs are generated
 
@@ -235,7 +282,11 @@ $ cosign verify-blob --bundle FILE.cosign-bundle \
     --certificate-oidc-issuer https://accounts.google.com FILE
 ```
 
-## Worked example: 2026 primary dice roll
+## Random selection example: 2026 primary dice roll
+
+We also want to be able to reproduce the way the random seed
+and published manifest data is used to identify exactly which
+ballots are selected in each county.
 
 For the 2026 primary dice roll, the concrete artifacts are in
 [`2026/primary/`](../2026/primary/):
@@ -263,7 +314,8 @@ OpenTimestamps and Rekor entries.
 This first pilot run had some last-minute churn — a few counties' manifests
 weren't posted yet at roll time, one publishing bug briefly served the wrong
 county's data, and evidence trickled in from observers throughout the
-morning — hence four versions instead of one. `SHA256SUMS.v4.txt` is the
+morning with inconsequential changes in batch numbers,
+hence four versions instead of one. `SHA256SUMS.v4.txt` is the
 cleanest, most complete snapshot from this run; future elections should need
 far fewer versions as the process matures.
 
@@ -323,8 +375,9 @@ The observers' evidence is in
 `SHA256SUMS-v*.txt` file, with its `.ots` proof and `.cosign-bundle`
 signature, and the observers' event log,
 [`events.jsonl`](../2026/general/observerfiles/events.jsonl), whose head at
-the time each SUMS file names in its header. Pages and other files that
-change routinely are mirrored but not listed in the SUMS files.
+the time each SUMS file names in its header. The first two SUMS files also
+list four Audit Center pages; later ones list only files that shouldn't
+change.
 
 The first two SUMS files list their files by paths from before the files
 were moved to where the mirror keeps them (see "Moved or replaced files"
@@ -352,9 +405,38 @@ once from there:
 $ sha256sum --check observerfiles/SHA256SUMS-v3-….txt
 ```
 
-The event log can be checked with the verifier in
-[EVENT_LOG.md](https://github.com/nealmcb/corla-observer/blob/main/docs/EVENT_LOG.md),
-which needs nothing but Python.
+## For the technically inclined: the event log
+
+The observers' tool, [corla-observer](https://github.com/nealmcb/corla-observer),
+records everything it does in an append-only event log,
+[`events.jsonl`](../2026/general/observerfiles/events.jsonl), published
+beside the SUMS files. Each event carries the SHA-256 hash of the one
+before it, so the hash of the latest event, the log's "head", depends on
+every event up to it. Each SUMS file names the head at the time it was
+written, in a header line such as:
+
+```
+# event-log-head: 58 dc7f87f60f326d3fdfed407a8480a8c28638eb9c006ac3f3ce900fa251034e6c
+```
+
+Because the SUMS file is timestamped, so is that head, and with it every
+event up to event 58. Events that record a file carry the file's SHA-256 in
+their `file_sha256` field: each fetch from the Audit Center, for example.
+So a file whose hash appears in an event at or before a timestamped head
+existed, with that content, by the time of that timestamp, even if no SUMS
+file lists it. To check one:
+
+1. Verify the log with the short Python verifier in
+   [EVENT_LOG.md](https://github.com/nealmcb/corla-observer/blob/main/docs/EVENT_LOG.md),
+   which needs nothing but Python.
+2. Confirm that the event with the `seq` named in the SUMS header has the
+   hash named there.
+3. Find the event recording the file, at or before that `seq`, and compare
+   its `file_sha256` with the file's own hash.
+
+This extends the timestamps to everything the tool recorded, without
+listing every file in a SUMS file. What it establishes is when the tool had
+the file, as the log records it.
 
 ## Manifest-hash commitments on Twitter/X
 
@@ -370,6 +452,17 @@ now lands on the home page. That breaks the Audit Center links in the 2021,
 2024 and 2025 tweets. The Audit Center is at
 https://www.coloradosos.gov/pubs/elections/auditCenter.html, and each
 tweet's text is mirrored in the `observerfiles/` folder of its election.
+
+**From the 2026 general on**, the post before the dice roll gives the
+SHA-256 of the election's pre-roll `SHA256SUMS` file, but not the file's
+name, which doesn't fit in a post. To find the file, compute the hash of
+each `SHA256SUMS` file in the election's `observerfiles/` folder and look
+for the one that matches; for the 2026 general, from its `2026/general/`
+folder:
+
+```
+$ sha256sum observerfiles/SHA256SUMS-*.txt
+```
 
 - **2026 primary** — [2026-07-13-status-2076696781304574361.txt](../2026/primary/observerfiles/2026-07-13-status-2076696781304574361.txt)
   ([original](https://x.com/nealmcb/status/2076696781304574361)),
@@ -411,6 +504,12 @@ tweet's text is mirrored in the `observerfiles/` folder of its election.
   c3f23655ae1bcb721255288f8e44d9a3ebdedb885c4bcb4cfc2b8986d1aaf5ee
   ```
 
+These posts committed to manifest data, not to cast vote records. No
+public commitment was made before the dice roll to the cast vote records
+of audits before 2026, so for those audits the manifests can be shown not
+to have been altered afterwards, but the CVRs compared with the hand
+counts generally can't.
+
 ## Further reading / where this could go next
 
 - [IETF SCITT](https://datatracker.ietf.org/wg/scitt/about/) (Supply Chain
@@ -423,22 +522,17 @@ tweet's text is mirrored in the `observerfiles/` folder of its election.
   statements ("this artifact was produced by X, from source Y, at time Z"),
   which maps naturally onto "this evidence set was collected from the
   Secretary of State's site at this time."
-- Moving from a throwaway signing key to Sigstore's keyless/OIDC signing
-  would let the public Rekor entry itself identify who vouched for the
-  evidence set, rather than just an anonymous keypair.
-- **Older manifest hashes, posted on Twitter/X before the seed ceremony, for
-  past audits.** Before this repo's three-layer approach existed, the
-  practice for at least some prior audits was posting a manifest hash
-  publicly on Twitter/X in advance of the random seed being drawn — exactly
-  the same commitment principle as above, just via a weaker channel (see
-  "Older approaches we've used or considered" earlier in this document for
-  why that channel alone isn't relied on going forward). See
-  ["Manifest-hash commitments on Twitter/X"](#manifest-hash-commitments-on-twitterx)
-  above.
-  **A real, honest gap this doesn't close**: no equivalent public
-  pre-commitment exists for *cast vote records* from audits before 2026 —
-  so even with the manifest tweets cataloged, the evidentiary story for
-  older audits stays asymmetric: manifests can be shown not to have been
-  altered after the fact, but the CVRs compared against them for those
-  same older audits generally can't be. Worth stating plainly rather than
-  glossing over.
+- **Other timestamping services under consideration.** We're looking for
+  services that are quicker to confirm and easier for newcomers to check.
+  Services come and go, so each is judged both on its own front end and on
+  the record it relies on:
+  - [Keybase](https://keybase.io/): signed statements tied to a user's
+    public identity; Keybase's own Merkle tree root is anchored to the
+    Stellar blockchain.
+  - The [Internet Archive](https://web.archive.org/)'s Save Page Now: a
+    capture of a public URL, dated by the Archive.
+  - [Software Heritage](https://www.softwareheritage.org/)'s "Save Code
+    Now": an archived copy of this repository, dated by the archive's visit,
+    with a permanent identifier for each file and commit.
+  - [Zenodo](https://zenodo.org/): a citable, dated copy of a release of
+    this repository, with a DOI.
