@@ -73,6 +73,9 @@ you. Here's a concrete example: confirming that
 [`observerfiles/Weld_CVR_Export_20260709140755.csv`](../2026/primary/observerfiles/Weld_CVR_Export_20260709140755.csv)
 is the exact file we timestamped, not something swapped in afterward.
 
+The terminal commands below are run from the
+[`2026/primary/`](../2026/primary/) folder of a copy of this repository.
+
 **First, find the file's recorded hash.** Every `SHA256SUMS*.txt` file lists
 one line per evidence file. Open [`2026/primary/observerfiles/SHA256SUMS.v4.txt`](../2026/primary/observerfiles/SHA256SUMS.v4.txt)
 (in a text editor, or on GitHub) and find the line for the file you care
@@ -118,8 +121,11 @@ existed at or before a specific Bitcoin block.
 - **Or, if you're comfortable with a terminal:** `pip install opentimestamps-client`
   (Python and pip both have native Mac and Windows installers), then:
   ```
-  $ ots verify SHA256SUMS.v4.txt.ots
+  $ ots --no-bitcoin verify observerfiles/SHA256SUMS.v4.txt.ots
   ```
+  This prints the Bitcoin block (957882) and the Merkle root that block must
+  have, to compare with any block explorer. With a Bitcoin node of your own,
+  `ots verify` without `--no-bitcoin` checks the block itself.
 
 ### 3. Check the Sigstore/Rekor transparency-log entry
 
@@ -127,16 +133,19 @@ This proves someone published that same hash to a public, tamper-evident log
 at a specific time, independent of Bitcoin or GitHub.
 
 - **No install, any platform**: go to [search.sigstore.dev](https://search.sigstore.dev/)
-  and paste in the hash from `SHA256SUMS.v4.txt` — it shows you the public
-  log entry directly in your browser.
+  and search for the SHA-256 of `SHA256SUMS.v4.txt` itself (not a line inside
+  it): `9732f2f9130e8849ad919716cafc96d598b389a91ce504b8fb8742177fcc22ce`. It
+  shows you the public log entry directly in your browser.
 - **Or, if you're comfortable with a terminal:**
   - Mac: `brew install cosign`
   - Windows: `choco install cosign`, or download the `.exe` from the
     [cosign releases page](https://github.com/sigstore/cosign/releases)
   - Linux: see your package manager, or the same releases page
-  - Then, on any platform:
+  - Then, on any platform, with the public key the 2026 primary's files were
+    signed with, [`cosign.pub`](../2026/primary/observerfiles/cosign.pub):
     ```
-    $ cosign verify-blob --bundle SHA256SUMS.v4.txt.cosign-bundle SHA256SUMS.v4.txt
+    $ cosign verify-blob --key observerfiles/cosign.pub \
+        --bundle observerfiles/SHA256SUMS.v4.txt.cosign-bundle observerfiles/SHA256SUMS.v4.txt
     ```
 
 If any one of these three checks passes, you've independently confirmed the
@@ -155,7 +164,7 @@ check its hash as above.
 
 ## Why three separate layers
 
-Each layer has a distinct advantages, and providing all three together
+Each layer has distinct advantages, and providing all three together
 means an observer gets the benefits of each:
 
 - **Git commit + public GitHub push**: simple and gives anyone a durable
