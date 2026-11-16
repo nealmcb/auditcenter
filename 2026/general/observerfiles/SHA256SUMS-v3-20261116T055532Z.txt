@@ -1,0 +1,11 @@
+# SHA-256 digests of the observers' evidence for election 2026/general, written by corla-observer.
+# version: 3
+# time: 2026-11-16T05:55:32Z
+# event-log-head: 389 5169bde2c4a0f12ccbfbcb58335bd4c3283a3f3ad9376be4ad69b086840b4beb
+# software: corla-observer 0.1.0 (ad020a27b302)
+# files: 3
+# base: ..
+# check: (from 2026/general/) sha256sum --check observerfiles/SHA256SUMS-v3-20261116T055532Z.txt
+880cc6b89dd8145806332c780f52f4bdd090773e2b2dea9d58420ae8df1b1e0e  files/2026GeneralRLAContestList.xlsx
+f9d58d4f7d51e210bd49498364f3351cb1fb832a600d38cc6baf5890c1678f59  observerfiles/uploads/La_Plata/county_manifest/LaPlata_BallotManifest.csv
+a826a095d538f368c68ae4e98c8d4d979ff3290d218d99f39be744cc6e1e5445  observerfiles/uploads/La_Plata/cvr/Modified_CVR_Export_20261113122247.csv
