@@ -1,0 +1,14 @@
+# Data map overrides for this election's workspace (corla-observer).
+# Edit, then run `corla-observer map apply --workspace DIR --actor coordinator:ID`.
+# `corla-observer map show --for-ai` prints the format.
+format = 1
+
+[[county_alias]]
+value = "Prowes"
+county = "Prowers"
+reason = "ProwersManifest.csv as posted on the Audit Center 2026-11-16 names Prowes in one row (row 5: tabulator 102, batch 4, 25 cards, Box 1) and Prowers in all the others; a misspelling of Prowers."
+
+[[county_alias]]
+value = "Sagauche"
+county = "Saguache"
+reason = "SaguacheManifest.csv as posted on the Audit Center 2026-11-16 names Sagauche in one row (row 73: tabulator 102, batch 72, 25 cards, Box 2) and Saguache in all the others; a misspelling of Saguache."
